@@ -1,0 +1,10 @@
+[Metadata]
+TestType=IdentificationDifficulty
+Organisation=Dragonfly Recording Network
+LastChanged=20210504
+[EndMetadata]
+
+[INI]
+3=Needs a good view to check, but individual damselflies should not be netted or otherwise disturbed as a licence is required to handle this protected species. Can be identified from a good series of photographs.
+[Data]
+NBNSYS0000005603=3
