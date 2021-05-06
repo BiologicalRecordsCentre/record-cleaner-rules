@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Anax imperator
 ErrorMsg=Coordinate is outside known range of Anax imperator
 DataFieldName=Species
 DataRecordId=NBNSYS0000005630
-LastChanged=20120313
+LastChanged=20210505
 [EndMetadata]
 
 [10km_GB]
@@ -901,7 +901,6 @@ SZ68
 SZ69
 SZ89
 SZ99
-T24
 TA02
 TA03
 TA04

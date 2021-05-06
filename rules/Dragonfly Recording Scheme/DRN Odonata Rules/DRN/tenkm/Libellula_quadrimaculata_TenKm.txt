@@ -6,15 +6,13 @@ Description=Check coordinate against known distribution of Libellula quadrimacul
 ErrorMsg=Coordinate is outside known range of Libellula quadrimaculata
 DataFieldName=Species
 DataRecordId=NBNSYS0000005639
-LastChanged=20120313
+LastChanged=20210505
 [EndMetadata]
 
 [10km_GB]
-H42
 HU37
 HU47
 HY20
-M80
 NB33
 NB34
 NB54
@@ -529,7 +527,6 @@ NZ61
 NZ70
 NZ71
 NZ90
-R39
 SC39
 SC49
 SD09

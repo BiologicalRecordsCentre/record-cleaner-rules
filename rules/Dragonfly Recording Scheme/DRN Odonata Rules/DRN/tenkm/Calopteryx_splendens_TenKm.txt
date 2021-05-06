@@ -6,11 +6,10 @@ Description=Check coordinate against known distribution of Calopteryx splendens
 ErrorMsg=Coordinate is outside known range of Calopteryx splendens
 DataFieldName=Species
 DataRecordId=NBNSYS0000005617
-LastChanged=20120313
+LastChanged=20210505
 [EndMetadata]
 
 [10km_GB]
-H42
 NM65
 NT73
 NT80

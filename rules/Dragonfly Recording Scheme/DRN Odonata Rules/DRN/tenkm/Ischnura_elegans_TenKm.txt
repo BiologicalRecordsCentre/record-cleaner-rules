@@ -6,13 +6,10 @@ Description=Check coordinate against known distribution of Ischnura elegans
 ErrorMsg=Coordinate is outside known range of Ischnura elegans
 DataFieldName=Species
 DataRecordId=NHMSYS0000344179
-LastChanged=20120313
+LastChanged=20210505
 [EndMetadata]
 
 [10km_GB]
-F63
-H42
-H44
 HY20
 HY21
 HY22
@@ -29,8 +26,6 @@ HY62
 HY64
 HY74
 HY75
-J16
-L89
 NB02
 NB12
 NB32

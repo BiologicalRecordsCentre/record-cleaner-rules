@@ -6,11 +6,10 @@ Description=Check coordinate against known distribution of Lestes sponsa
 ErrorMsg=Coordinate is outside known range of Lestes sponsa
 DataFieldName=Species
 DataRecordId=NBNSYS0000005613
-LastChanged=20120313
+LastChanged=20210505
 [EndMetadata]
 
 [10km_GB]
-J06
 NB31
 NB33
 NB42

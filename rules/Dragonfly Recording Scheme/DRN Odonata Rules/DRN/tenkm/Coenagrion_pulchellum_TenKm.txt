@@ -6,13 +6,10 @@ Description=Check coordinate against known distribution of Coenagrion pulchellum
 ErrorMsg=Coordinate is outside known range of Coenagrion pulchellum
 DataFieldName=Species
 DataRecordId=NBNSYS0000005605
-LastChanged=20120313
+LastChanged=20210505
 [EndMetadata]
 
 [10km_GB]
-H42
-J06
-M80
 NH80
 NM83
 NM93

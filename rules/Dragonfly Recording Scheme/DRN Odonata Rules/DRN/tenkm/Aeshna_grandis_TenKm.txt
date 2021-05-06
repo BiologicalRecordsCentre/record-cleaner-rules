@@ -6,12 +6,10 @@ Description=Check coordinate against known distribution of Aeshna grandis
 ErrorMsg=Coordinate is outside known range of Aeshna grandis
 DataFieldName=Species
 DataRecordId=NBNSYS0000005625
-LastChanged=20120313
+LastChanged=20210505
 [EndMetadata]
 
 [10km_GB]
-H42
-J16
 NS97
 NU11
 NZ15

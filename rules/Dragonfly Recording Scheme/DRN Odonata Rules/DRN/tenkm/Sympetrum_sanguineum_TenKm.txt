@@ -6,11 +6,10 @@ Description=Check coordinate against known distribution of Sympetrum sanguineum
 ErrorMsg=Coordinate is outside known range of Sympetrum sanguineum
 DataFieldName=Species
 DataRecordId=NBNSYS0000005650
-LastChanged=20120313
+LastChanged=20210505
 [EndMetadata]
 
 [10km_GB]
-J16
 NT86
 NU00
 NU21

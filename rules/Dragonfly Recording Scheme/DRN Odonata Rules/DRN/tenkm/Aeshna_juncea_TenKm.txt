@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Aeshna juncea
 ErrorMsg=Coordinate is outside known range of Aeshna juncea
 DataFieldName=Species
 DataRecordId=NBNSYS0000005624
-LastChanged=20120313
+LastChanged=20210505
 [EndMetadata]
 
 [10km_GB]
@@ -1346,7 +1346,6 @@ TQ17
 TQ18
 TQ25
 TQ68
-V87
 
 [10km_Ireland]
 

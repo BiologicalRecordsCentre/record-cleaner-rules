@@ -6,7 +6,7 @@ Description=Check coordinate against known distribution of Sympetrum danae
 ErrorMsg=Coordinate is outside known range of Sympetrum danae
 DataFieldName=Species
 DataRecordId=NBNSYS0000005651
-LastChanged=20120313
+LastChanged=20210505
 [EndMetadata]
 
 [10km_GB]
@@ -20,7 +20,6 @@ HY32
 HY40
 HY42
 HY50
-J06
 NB03
 NB10
 NB22
