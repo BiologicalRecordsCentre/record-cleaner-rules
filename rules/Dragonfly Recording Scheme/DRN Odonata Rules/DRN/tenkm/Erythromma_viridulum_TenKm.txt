@@ -6,9 +6,10 @@ Description=Check coordinate against known distribution of Erythromma viridulum
 ErrorMsg=Coordinate is outside known range of Erythromma viridulum
 DataFieldName=Species
 DataRecordId=NHMSYS0000344177
-LastChanged=20120313
+LastChanged=20210505
 [EndMetadata]
 
+[10km_GB]
 SE72
 SK47
 SK53
