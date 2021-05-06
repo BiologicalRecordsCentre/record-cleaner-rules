@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Odonata Flight Period
+ShortName=Coenagrion scitulum
+Description=Checks date is within known flight period of Coenagrion scitulum
+ErrorMsg=Date is outside known flight period of Coenagrion scitulum
+Tvk=NBNSYS0000005604
+DataFieldName=
+StartDate=0609
+EndDate=0804
+LastChanged=20120510
+[EndMetadata]
+ 
+         

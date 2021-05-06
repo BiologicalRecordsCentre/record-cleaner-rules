@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Odonata 10KM distribution
+ShortName=Sympetrum pedemontanum 10km
+Description=Check coordinate against known distribution of Sympetrum pedemontanum
+ErrorMsg=Coordinate is outside known range of Sympetrum pedemontanum
+DataFieldName=Species
+DataRecordId=NHMSYS0000344190
+LastChanged=20120313
+[EndMetadata]
+
+[10km_GB]
+
+[10km_Ireland]
+
+[10km_CI]
+
+

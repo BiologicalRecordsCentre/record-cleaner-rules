@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Odonata Flight Period
+ShortName=Lestes sponsa
+Description=Checks date is within known flight period of Lestes sponsa
+ErrorMsg=Date is outside known flight period of Lestes sponsa
+Tvk=NBNSYS0000005613
+DataFieldName=
+StartDate=0616
+EndDate=0908
+LastChanged=20120510
+[EndMetadata]
+ 
+         

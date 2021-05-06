@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Odonata 10KM distribution
+ShortName=Aeshna affinis 10km
+Description=Check coordinate against known distribution of Aeshna affinis
+ErrorMsg=Coordinate is outside known range of Aeshna affinis
+DataFieldName=Species
+DataRecordId=NBNSYS0000005628
+LastChanged=20120313
+[EndMetadata]
+
+[10km_GB]
+SZ29
+SZ49
+TF62
+TG42
+TQ20
+TQ77
+TQ78
+
+[10km_Ireland]
+
+[10km_CI]
+
+

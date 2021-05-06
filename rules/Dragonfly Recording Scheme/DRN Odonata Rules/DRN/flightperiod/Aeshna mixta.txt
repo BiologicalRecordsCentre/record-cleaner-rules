@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Odonata Flight Period
+ShortName=Aeshna mixta
+Description=Checks date is within known flight period of Aeshna mixta
+ErrorMsg=Date is outside known flight period of Aeshna mixta
+Tvk=NBNSYS0000005627
+DataFieldName=
+StartDate=0721
+EndDate=1103
+LastChanged=20120510
+[EndMetadata]
+ 
+         

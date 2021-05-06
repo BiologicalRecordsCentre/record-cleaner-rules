@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Odonata Flight Period
+ShortName=Ischnura pumilio
+Description=Checks date is within known flight period of Ischnura pumilio
+ErrorMsg=Date is outside known flight period of Ischnura pumilio
+Tvk=NBNSYS0000005601
+DataFieldName=
+StartDate=0602
+EndDate=0818
+LastChanged=20120510
+[EndMetadata]
+ 
+         

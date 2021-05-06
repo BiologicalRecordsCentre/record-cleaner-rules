@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Odonata Flight Period
+ShortName=Sympetrum flaveolum
+Description=Checks date is within known flight period of Sympetrum flaveolum
+ErrorMsg=Date is outside known flight period of Sympetrum flaveolum
+Tvk=NBNSYS0000005649
+DataFieldName=
+StartDate=0714
+EndDate=0915
+LastChanged=20120510
+[EndMetadata]
+ 
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Odonata Flight Period
+ShortName=Calopteryx splendens
+Description=Checks date is within known flight period of Calopteryx splendens
+ErrorMsg=Date is outside known flight period of Calopteryx splendens
+Tvk=NBNSYS0000005617
+DataFieldName=
+StartDate=0512
+EndDate=0915
+LastChanged=20120510
+[EndMetadata]
+ 
+         

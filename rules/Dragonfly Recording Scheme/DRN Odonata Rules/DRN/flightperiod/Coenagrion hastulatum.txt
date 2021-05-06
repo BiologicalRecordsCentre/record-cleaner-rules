@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Odonata Flight Period
+ShortName=Coenagrion hastulatum
+Description=Checks date is within known flight period of Coenagrion hastulatum
+ErrorMsg=Date is outside known flight period of Coenagrion hastulatum
+Tvk=NBNSYS0000005607
+DataFieldName=
+StartDate=0526
+EndDate=0818
+LastChanged=20120510
+[EndMetadata]
+ 
+         

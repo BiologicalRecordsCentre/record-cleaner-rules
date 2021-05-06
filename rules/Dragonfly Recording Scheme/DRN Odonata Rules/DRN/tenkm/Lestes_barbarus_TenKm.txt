@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Odonata 10KM distribution
+ShortName=Lestes barbarus 10km
+Description=Check coordinate against known distribution of Lestes barbarus
+ErrorMsg=Coordinate is outside known range of Lestes barbarus
+DataFieldName=Species
+DataRecordId=NBNSYS0000005612
+LastChanged=20120313
+[EndMetadata]
+
+[10km_GB]
+ST66
+TG23
+TG42
+TM33
+TQ77
+TQ87
+TR36
+
+[10km_Ireland]
+
+[10km_CI]
+
+

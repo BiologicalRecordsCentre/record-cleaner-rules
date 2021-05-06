@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Odonata Flight Period
+ShortName=Enallagma cyathigerum
+Description=Checks date is within known flight period of Enallagma cyathigerum
+ErrorMsg=Date is outside known flight period of Enallagma cyathigerum
+Tvk=NBNSYS0000005602
+DataFieldName=
+StartDate=0505
+EndDate=1006
+LastChanged=20120510
+[EndMetadata]
+ 
+         

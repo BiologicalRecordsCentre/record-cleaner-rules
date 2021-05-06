@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Odonata Flight Period
+ShortName=Coenagrion lunulatum
+Description=Checks date is within known flight period of Coenagrion lunulatum
+ErrorMsg=Date is outside known flight period of Coenagrion lunulatum
+Tvk=NBNSYS0000005609
+DataFieldName=
+StartDate=0526
+EndDate=0728
+LastChanged=20120510
+[EndMetadata]
+ 
+         

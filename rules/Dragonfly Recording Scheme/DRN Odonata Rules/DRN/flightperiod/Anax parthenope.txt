@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Odonata Flight Period
+ShortName=Anax parthenope
+Description=Checks date is within known flight period of Anax parthenope
+ErrorMsg=Date is outside known flight period of Anax parthenope
+Tvk=NHMSYS0000344169
+DataFieldName=
+StartDate=0609
+EndDate=0908
+LastChanged=20120510
+[EndMetadata]
+ 
+         

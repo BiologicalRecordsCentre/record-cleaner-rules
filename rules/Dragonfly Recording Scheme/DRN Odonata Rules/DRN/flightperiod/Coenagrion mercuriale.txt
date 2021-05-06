@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Odonata Flight Period
+ShortName=Coenagrion mercuriale
+Description=Checks date is within known flight period of Coenagrion mercuriale
+ErrorMsg=Date is outside known flight period of Coenagrion mercuriale
+Tvk=NBNSYS0000005603
+DataFieldName=
+StartDate=0526
+EndDate=0818
+LastChanged=20120510
+[EndMetadata]
+ 
+         

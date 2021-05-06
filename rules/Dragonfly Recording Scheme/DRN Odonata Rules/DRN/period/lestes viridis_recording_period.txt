@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Odonata Recording Period
+ShortName=Lestes viridis
+Description=Checks date is within known recording period of Lestes viridis
+ErrorMsg=Date is outside known recording period of Lestes viridis
+Tvk=NBNSYS0000005615
+StartDate=20090101
+EndDate=
+LastChanged=20120222
+[EndMetadata]

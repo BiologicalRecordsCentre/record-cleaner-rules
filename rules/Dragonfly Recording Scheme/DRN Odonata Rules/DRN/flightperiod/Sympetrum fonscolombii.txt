@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Odonata Flight Period
+ShortName=Sympetrum fonscolombii
+Description=Checks date is within known flight period of Sympetrum fonscolombii
+ErrorMsg=Date is outside known flight period of Sympetrum fonscolombii
+Tvk=NHMSYS0000344188
+DataFieldName=
+StartDate=0526
+EndDate=0915
+LastChanged=20120510
+[EndMetadata]
+ 
+         

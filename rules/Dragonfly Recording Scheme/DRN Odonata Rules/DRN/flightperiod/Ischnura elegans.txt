@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Odonata Flight Period
+ShortName=Ischnura elegans
+Description=Checks date is within known flight period of Ischnura elegans
+ErrorMsg=Date is outside known flight period of Ischnura elegans
+Tvk=NHMSYS0000344179
+DataFieldName=
+StartDate=0505
+EndDate=0915
+LastChanged=20120510
+[EndMetadata]
+ 
+         

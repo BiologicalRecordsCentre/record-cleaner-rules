@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Odonata Flight Period
+ShortName=Somatochlora arctica
+Description=Checks date is within known flight period of Somatochlora arctica
+ErrorMsg=Date is outside known flight period of Somatochlora arctica
+Tvk=NBNSYS0000005635
+DataFieldName=
+StartDate=0519
+EndDate=0901
+LastChanged=20120510
+[EndMetadata]
+ 
+         

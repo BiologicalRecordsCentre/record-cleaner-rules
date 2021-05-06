@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Odonata 10KM distribution
+ShortName=Sympetrum fonscolombii 10km
+Description=Check coordinate against known distribution of Sympetrum fonscolombii
+ErrorMsg=Coordinate is outside known range of Sympetrum fonscolombii
+DataFieldName=Species
+DataRecordId=NHMSYS0000344188
+LastChanged=20120313
+[EndMetadata]
+
+[10km_GB]
+SD45 
+SM80 
+SO83 
+SO84 
+SO93 
+SP75 
+SR89 
+SR99 
+ST97 
+SU56 
+SW53 
+SW61 
+SW71 
+SW72 
+SX35 
+SX64 
+SX97 
+SY29 
+SY67 
+SZ48 
+TA18 
+TA41 
+TF10 
+TL79 
+TQ91 
+TR01 
+TR02 
+TR23
+
+[10km_Ireland]
+
+[10km_CI]
+
+
+
+
+
+

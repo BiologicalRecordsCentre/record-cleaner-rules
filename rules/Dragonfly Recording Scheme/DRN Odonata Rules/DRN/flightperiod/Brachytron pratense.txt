@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Odonata Flight Period
+ShortName=Brachytron pratense
+Description=Checks date is within known flight period of Brachytron pratense
+ErrorMsg=Date is outside known flight period of Brachytron pratense
+Tvk=NBNSYS0000005622
+DataFieldName=
+StartDate=0428
+EndDate=0721
+LastChanged=20120510
+[EndMetadata]
+ 
+         

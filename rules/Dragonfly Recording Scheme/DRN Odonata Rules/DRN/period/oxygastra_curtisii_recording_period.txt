@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Odonata Recording Period
+ShortName=Oxygastra curtisii
+Description=Checks date is within known recording period of Oxygastra curtisii
+ErrorMsg=Date is outside known recording period of Oxygastra curtisii
+Tvk=NBNSYS0000005604
+StartDate=
+EndDate=19630101
+LastChanged=20120222
+[EndMetadata]

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Odonata Flight Period
+ShortName=Orthetrum coerulescens
+Description=Checks date is within known flight period of Orthetrum coerulescens
+ErrorMsg=Date is outside known flight period of Orthetrum coerulescens
+Tvk=NBNSYS0000005640
+DataFieldName=
+StartDate=0602
+EndDate=0915
+LastChanged=20120510
+[EndMetadata]
+ 
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Odonata Flight Period
+ShortName=Libellula fulva
+Description=Checks date is within known flight period of Libellula fulva
+ErrorMsg=Date is outside known flight period of Libellula fulva
+Tvk=NBNSYS0000005638
+DataFieldName=
+StartDate=0512
+EndDate=0728
+LastChanged=20120510
+[EndMetadata]
+ 
+         

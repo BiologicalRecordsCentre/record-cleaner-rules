@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Odonata Flight Period
+ShortName=Aeshna cyanea
+Description=Checks date is within known flight period of Aeshna cyanea
+ErrorMsg=Date is outside known flight period of Aeshna cyanea
+Tvk=NBNSYS0000005626
+DataFieldName=
+StartDate=0609
+EndDate=1029
+LastChanged=20120510
+[EndMetadata]
+ 
+         

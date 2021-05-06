@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Odonata Flight Period
+ShortName=Sympetrum striolatum
+Description=Checks date is within known flight period of Sympetrum striolatum
+ErrorMsg=Date is outside known flight period of Sympetrum striolatum
+Tvk=NBNSYS0000005645
+DataFieldName=
+StartDate=0602
+EndDate=1027
+LastChanged=20120510
+[EndMetadata]
+ 
+         

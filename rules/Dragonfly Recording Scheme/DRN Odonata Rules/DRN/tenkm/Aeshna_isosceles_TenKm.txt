@@ -1,0 +1,48 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Odonata 10KM distribution
+ShortName=Aeshna isosceles 10km
+Description=Check coordinate against known distribution of Aeshna isosceles
+ErrorMsg=Coordinate is outside known range of Aeshna isosceles
+DataFieldName=Species
+DataRecordId=NBNSYS0000005629
+LastChanged=20120313
+[EndMetadata]
+
+[10km_GB]
+TG03
+TG10
+TG11
+TG13
+TG20
+TG21
+TG22
+TG23
+TG30
+TG31
+TG32
+TG40
+TG41
+TG42
+TG50
+TG51
+TM14
+TM23
+TM34
+TM35
+TM37
+TM38
+TM39
+TM45
+TM46
+TM47
+TM48
+TM49
+TM58
+TM59
+
+[10km_Ireland]
+
+[10km_CI]
+
+

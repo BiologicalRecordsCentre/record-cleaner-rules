@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Odonata Flight Period
+ShortName=Coenagrion puella
+Description=Checks date is within known flight period of Coenagrion puella
+ErrorMsg=Date is outside known flight period of Coenagrion puella
+Tvk=NBNSYS0000005606
+DataFieldName=
+StartDate=0505
+EndDate=0908
+LastChanged=20120510
+[EndMetadata]
+ 
+         

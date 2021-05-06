@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Odonata 10KM distribution
+ShortName=Gomphus flavipes 10km
+Description=Check coordinate against known distribution of Gomphus flavipes
+ErrorMsg=Coordinate is outside known range of Gomphus flavipes
+DataFieldName=Species
+DataRecordId=NBNSYS0000005619
+LastChanged=20120313
+[EndMetadata]
+[10km_GB]
+
+[10km_Ireland]
+
+[10km_CI]
+
+
