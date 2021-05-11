@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Agrotis trux
+Description=Checks date is within known recording period of Agrotis trux
+ErrorMsg=Date is outside known recording period of Agrotis trux
+Tvk=NHMSYS0000516938
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

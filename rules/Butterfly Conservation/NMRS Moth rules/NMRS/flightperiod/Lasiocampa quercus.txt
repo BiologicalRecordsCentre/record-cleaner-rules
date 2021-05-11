@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Lasiocampa quercus
+Description=Checks date is within known flight period of Lasiocampa quercus
+ErrorMsg=Date is outside known flight period of Lasiocampa quercus
+Tvk=NBNSYS0000005707
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

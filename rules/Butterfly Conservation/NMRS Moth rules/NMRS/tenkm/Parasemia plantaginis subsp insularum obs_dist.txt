@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Parasemia plantaginis subsp. insularum 10km
+Description=Check coordinate against known 10km distribution of Parasemia plantaginis subsp. insularum
+ErrorMsg=Coordinate outside known range for Parasemia plantaginis subsp. insularum
+DataFieldName=Species
+DataRecordId=NHMSYS0000503619
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+HY21
+HY32
+HY50
+NJ53
+
+

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Falcaria lacertinaria
+Description=Checks date is within known recording period of Falcaria lacertinaria
+ErrorMsg=Date is outside known recording period of Falcaria lacertinaria
+Tvk=NBNSYS0000005717
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

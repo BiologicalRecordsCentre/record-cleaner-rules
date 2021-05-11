@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Chiasmia clathrata subsp. hugginsi
+Description=Checks date is within known recording period of Chiasmia clathrata subsp. hugginsi
+ErrorMsg=Date is outside known recording period of Chiasmia clathrata subsp. hugginsi
+Tvk=NBNSYS0100002339
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

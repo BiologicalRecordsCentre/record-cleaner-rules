@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Dicycla oo
+Description=Checks date is within known recording period of Dicycla oo
+ErrorMsg=Date is outside known recording period of Dicycla oo
+Tvk=NBNSYS0000006411
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

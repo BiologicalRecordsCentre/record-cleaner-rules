@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Nola aerugula
+Description=Checks date is within known flight period of Nola aerugula
+ErrorMsg=Date is outside known flight period of Nola aerugula
+Tvk=NHMSYS0000503394
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

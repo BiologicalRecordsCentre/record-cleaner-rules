@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Hecatera dysodea
+Description=Checks date is within known flight period of Hecatera dysodea
+ErrorMsg=Date is outside known flight period of Hecatera dysodea
+Tvk=NHMSYS0000502809
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

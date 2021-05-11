@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Autographa bractea
+Description=Checks date is within known flight period of Autographa bractea
+ErrorMsg=Date is outside known flight period of Autographa bractea
+Tvk=NHMSYS0000501430
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

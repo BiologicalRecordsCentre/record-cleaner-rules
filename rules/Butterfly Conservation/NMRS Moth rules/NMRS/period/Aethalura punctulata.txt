@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Aethalura punctulata
+Description=Checks date is within known recording period of Aethalura punctulata
+ErrorMsg=Date is outside known recording period of Aethalura punctulata
+Tvk=NHMSYS0000501004
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

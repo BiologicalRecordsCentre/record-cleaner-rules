@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Catocala fraxini
+Description=Checks date is within known recording period of Catocala fraxini
+ErrorMsg=Date is outside known recording period of Catocala fraxini
+Tvk=NBNSYS0000006556
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

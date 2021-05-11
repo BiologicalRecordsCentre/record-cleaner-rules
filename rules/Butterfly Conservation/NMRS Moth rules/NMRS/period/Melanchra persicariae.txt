@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Melanchra persicariae
+Description=Checks date is within known recording period of Melanchra persicariae
+ErrorMsg=Date is outside known recording period of Melanchra persicariae
+Tvk=NBNSYS0000006246
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

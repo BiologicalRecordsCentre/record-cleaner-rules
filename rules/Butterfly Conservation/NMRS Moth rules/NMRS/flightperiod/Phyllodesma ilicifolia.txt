@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Phyllodesma ilicifolia
+Description=Checks date is within known flight period of Phyllodesma ilicifolia
+ErrorMsg=Date is outside known flight period of Phyllodesma ilicifolia
+Tvk=NBNSYS0000005713
+DataFieldName=
+StartDate=0301
+EndDate=0630
+LastChanged=20110328
+[EndMetadata]
+
+         

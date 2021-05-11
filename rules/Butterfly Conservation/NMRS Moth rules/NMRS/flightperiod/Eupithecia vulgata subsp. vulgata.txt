@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Eupithecia vulgata subsp. vulgata
+Description=Checks date is within known flight period of Eupithecia vulgata subsp. vulgata
+ErrorMsg=Date is outside known flight period of Eupithecia vulgata subsp. vulgata
+Tvk=NBNSYS0000005228
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

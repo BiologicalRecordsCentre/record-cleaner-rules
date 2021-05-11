@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Luperina nickerlii
+Description=Checks date is within known flight period of Luperina nickerlii
+ErrorMsg=Date is outside known flight period of Luperina nickerlii
+Tvk=NHMSYS0000520843
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

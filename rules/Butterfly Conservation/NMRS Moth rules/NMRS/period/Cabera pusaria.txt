@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Cabera pusaria
+Description=Checks date is within known recording period of Cabera pusaria
+ErrorMsg=Date is outside known recording period of Cabera pusaria
+Tvk=NBNSYS0000006047
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

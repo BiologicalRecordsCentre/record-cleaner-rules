@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Meganola strigula
+Description=Checks date is within known recording period of Meganola strigula
+ErrorMsg=Date is outside known recording period of Meganola strigula
+Tvk=NHMSYS0000503183
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

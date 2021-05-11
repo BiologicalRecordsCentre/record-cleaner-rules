@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Dasypolia templi
+Description=Checks date is within known flight period of Dasypolia templi
+ErrorMsg=Date is outside known flight period of Dasypolia templi
+Tvk=NBNSYS0000006322
+DataFieldName=
+StartDate=0801
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

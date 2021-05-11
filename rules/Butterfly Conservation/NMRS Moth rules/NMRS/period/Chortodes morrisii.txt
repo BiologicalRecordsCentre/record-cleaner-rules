@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Chortodes morrisii
+Description=Checks date is within known recording period of Chortodes morrisii
+ErrorMsg=Date is outside known recording period of Chortodes morrisii
+Tvk=NBNSYS0100002389
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

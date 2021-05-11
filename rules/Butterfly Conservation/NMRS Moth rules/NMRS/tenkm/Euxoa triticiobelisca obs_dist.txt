@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Euxoa tritici/obelisca 10km
+Description=Check coordinate against known 10km distribution of Euxoa tritici/obelisca
+ErrorMsg=Coordinate outside known range for Euxoa tritici/obelisca
+DataFieldName=Species
+DataRecordId=NHMSYS0020467649
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SJ37
+SJ64
+SJ75
+SM70
+SY79
+SZ09
+
+

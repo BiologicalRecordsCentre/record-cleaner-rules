@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Macrochilo cribrumalis
+Description=Checks date is within known recording period of Macrochilo cribrumalis
+ErrorMsg=Date is outside known recording period of Macrochilo cribrumalis
+Tvk=NHMSYS0000503145
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

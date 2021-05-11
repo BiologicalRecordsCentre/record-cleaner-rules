@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Hippotion celerio
+Description=Checks date is within known recording period of Hippotion celerio
+ErrorMsg=Date is outside known recording period of Hippotion celerio
+Tvk=NBNSYS0000006079
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

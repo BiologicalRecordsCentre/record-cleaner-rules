@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Epione vespertaria 10km
+Description=Check coordinate against known 10km distribution of Epione vespertaria
+ErrorMsg=Coordinate outside known range for Epione vespertaria
+DataFieldName=Species
+DataRecordId=NBNSYS0100003050
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NH70
+NN79
+NO29
+NZ07
+SE65
+SE66
+SN14
+
+

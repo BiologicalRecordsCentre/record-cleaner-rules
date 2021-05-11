@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Mamestra brassicae
+Description=Checks date is within known recording period of Mamestra brassicae
+ErrorMsg=Date is outside known recording period of Mamestra brassicae
+Tvk=NBNSYS0000006245
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Scotopteryx chenopodiata
+Description=Checks date is within known recording period of Scotopteryx chenopodiata
+ErrorMsg=Date is outside known recording period of Scotopteryx chenopodiata
+Tvk=NBNSYS0000005807
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

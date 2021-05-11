@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Lithosia quadra
+Description=Checks date is within known recording period of Lithosia quadra
+ErrorMsg=Date is outside known recording period of Lithosia quadra
+Tvk=NBNSYS0000006137
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Ptilophora plumigera
+Description=Checks date is within known flight period of Ptilophora plumigera
+ErrorMsg=Date is outside known flight period of Ptilophora plumigera
+Tvk=NHMSYS0000503979
+DataFieldName=
+StartDate=0901
+EndDate=0131
+LastChanged=20110328
+[EndMetadata]
+
+         

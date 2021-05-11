@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Egira conspicillaris
+Description=Checks date is within known recording period of Egira conspicillaris
+ErrorMsg=Date is outside known recording period of Egira conspicillaris
+Tvk=NBNSYS0000006274
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

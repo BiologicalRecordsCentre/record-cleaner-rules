@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Thera britannica
+Description=Checks date is within known recording period of Thera britannica
+ErrorMsg=Date is outside known recording period of Thera britannica
+Tvk=NHMSYS0000504489
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

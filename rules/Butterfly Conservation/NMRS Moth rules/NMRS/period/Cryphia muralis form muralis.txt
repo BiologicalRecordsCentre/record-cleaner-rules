@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Cryphia muralis form muralis
+Description=Checks date is within known recording period of Cryphia muralis form muralis
+ErrorMsg=Date is outside known recording period of Cryphia muralis form muralis
+Tvk=NHMSYS0000840678
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

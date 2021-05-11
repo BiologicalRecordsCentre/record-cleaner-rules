@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Alsophila aescularia
+Description=Checks date is within known flight period of Alsophila aescularia
+ErrorMsg=Date is outside known flight period of Alsophila aescularia
+Tvk=NHMSYS0000501200
+DataFieldName=
+StartDate=0101
+EndDate=0531
+LastChanged=20110328
+[EndMetadata]
+
+         

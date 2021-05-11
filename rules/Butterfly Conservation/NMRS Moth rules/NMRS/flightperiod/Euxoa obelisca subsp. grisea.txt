@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Euxoa obelisca subsp. grisea
+Description=Checks date is within known flight period of Euxoa obelisca subsp. grisea
+ErrorMsg=Date is outside known flight period of Euxoa obelisca subsp. grisea
+Tvk=NBNSYS0000006166
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

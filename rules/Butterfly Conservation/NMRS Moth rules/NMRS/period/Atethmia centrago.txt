@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Atethmia centrago
+Description=Checks date is within known recording period of Atethmia centrago
+ErrorMsg=Date is outside known recording period of Atethmia centrago
+Tvk=NBNSYS0000006364
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

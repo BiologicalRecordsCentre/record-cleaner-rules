@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Scopula imitaria
+Description=Checks date is within known recording period of Scopula imitaria
+ErrorMsg=Date is outside known recording period of Scopula imitaria
+Tvk=NHMSYS0000504127
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

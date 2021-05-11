@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Xanthorhoe montanata
+Description=Checks date is within known recording period of Xanthorhoe montanata
+ErrorMsg=Date is outside known recording period of Xanthorhoe montanata
+Tvk=NHMSYS0000520993
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

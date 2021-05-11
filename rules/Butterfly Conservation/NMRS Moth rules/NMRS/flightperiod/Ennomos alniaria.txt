@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Ennomos alniaria
+Description=Checks date is within known flight period of Ennomos alniaria
+ErrorMsg=Date is outside known flight period of Ennomos alniaria
+Tvk=NBNSYS0000006004
+DataFieldName=
+StartDate=0601
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

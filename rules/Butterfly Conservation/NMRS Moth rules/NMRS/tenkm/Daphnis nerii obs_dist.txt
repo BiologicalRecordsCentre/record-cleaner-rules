@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Daphnis nerii 10km
+Description=Check coordinate against known 10km distribution of Daphnis nerii
+ErrorMsg=Coordinate outside known range for Daphnis nerii
+DataFieldName=Species
+DataRecordId=NBNSYS0000006073
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+HU47
+NR93
+SK38
+SM72
+SO72
+ST67
+SY58
+SZ07
+
+

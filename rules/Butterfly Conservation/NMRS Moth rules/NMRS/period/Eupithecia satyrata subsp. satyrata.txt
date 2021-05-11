@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Eupithecia satyrata subsp. satyrata
+Description=Checks date is within known recording period of Eupithecia satyrata subsp. satyrata
+ErrorMsg=Date is outside known recording period of Eupithecia satyrata subsp. satyrata
+Tvk=NHMSYS0000502619
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

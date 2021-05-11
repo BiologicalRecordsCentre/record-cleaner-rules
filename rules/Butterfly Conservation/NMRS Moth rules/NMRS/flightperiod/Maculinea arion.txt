@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Maculinea arion
+Description=Checks date is within known flight period of Maculinea arion
+ErrorMsg=Date is outside known flight period of Maculinea arion
+Tvk=NHMSYS0020757917
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

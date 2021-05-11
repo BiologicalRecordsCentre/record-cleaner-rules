@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Notodonta ziczac
+Description=Checks date is within known flight period of Notodonta ziczac
+ErrorMsg=Date is outside known flight period of Notodonta ziczac
+Tvk=NHMSYS0000503410
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

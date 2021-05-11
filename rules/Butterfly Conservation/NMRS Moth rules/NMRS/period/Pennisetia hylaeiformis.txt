@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Pennisetia hylaeiformis
+Description=Checks date is within known recording period of Pennisetia hylaeiformis
+ErrorMsg=Date is outside known recording period of Pennisetia hylaeiformis
+Tvk=NHMSYS0020695694
+StartDate=20071001
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

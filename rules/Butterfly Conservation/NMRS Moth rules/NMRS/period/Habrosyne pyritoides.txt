@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Habrosyne pyritoides
+Description=Checks date is within known recording period of Habrosyne pyritoides
+ErrorMsg=Date is outside known recording period of Habrosyne pyritoides
+Tvk=NBNSYS0000005725
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

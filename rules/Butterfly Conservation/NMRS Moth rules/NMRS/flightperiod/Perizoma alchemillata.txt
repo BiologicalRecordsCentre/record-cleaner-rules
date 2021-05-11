@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Perizoma alchemillata
+Description=Checks date is within known flight period of Perizoma alchemillata
+ErrorMsg=Date is outside known flight period of Perizoma alchemillata
+Tvk=NBNSYS0000005883
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

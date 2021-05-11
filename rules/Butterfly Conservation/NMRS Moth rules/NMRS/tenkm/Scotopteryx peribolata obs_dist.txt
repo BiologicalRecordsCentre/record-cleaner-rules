@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Scotopteryx peribolata 10km
+Description=Check coordinate against known 10km distribution of Scotopteryx peribolata
+ErrorMsg=Coordinate outside known range for Scotopteryx peribolata
+DataFieldName=Species
+DataRecordId=NHMSYS0000504136
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SP18
+
+

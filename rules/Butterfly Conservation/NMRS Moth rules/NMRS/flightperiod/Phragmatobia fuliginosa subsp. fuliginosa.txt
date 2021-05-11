@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Phragmatobia fuliginosa subsp. fuliginosa
+Description=Checks date is within known flight period of Phragmatobia fuliginosa subsp. fuliginosa
+ErrorMsg=Date is outside known flight period of Phragmatobia fuliginosa subsp. fuliginosa
+Tvk=NBNSYS0000005266
+DataFieldName=
+StartDate=0301
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

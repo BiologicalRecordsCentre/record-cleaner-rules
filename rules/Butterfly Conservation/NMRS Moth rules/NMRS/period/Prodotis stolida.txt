@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Prodotis stolida
+Description=Checks date is within known recording period of Prodotis stolida
+ErrorMsg=Date is outside known recording period of Prodotis stolida
+Tvk=NBNSYS0100004883
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

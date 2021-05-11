@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Glacies coracina
+Description=Checks date is within known recording period of Glacies coracina
+ErrorMsg=Date is outside known recording period of Glacies coracina
+Tvk=NHMSYS0000502725
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

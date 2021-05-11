@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Electrophaes corylata
+Description=Checks date is within known recording period of Electrophaes corylata
+ErrorMsg=Date is outside known recording period of Electrophaes corylata
+Tvk=NBNSYS0000005853
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

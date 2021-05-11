@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Deltote deceptoria
+Description=Checks date is within known recording period of Deltote deceptoria
+ErrorMsg=Date is outside known recording period of Deltote deceptoria
+Tvk=NBNSYS0000006517
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

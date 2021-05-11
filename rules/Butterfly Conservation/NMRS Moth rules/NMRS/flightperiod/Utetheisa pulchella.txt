@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Utetheisa pulchella
+Description=Checks date is within known flight period of Utetheisa pulchella
+ErrorMsg=Date is outside known flight period of Utetheisa pulchella
+Tvk=NBNSYS0000006140
+DataFieldName=
+StartDate=0201
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

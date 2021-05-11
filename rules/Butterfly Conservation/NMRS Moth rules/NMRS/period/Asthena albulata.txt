@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Asthena albulata
+Description=Checks date is within known recording period of Asthena albulata
+ErrorMsg=Date is outside known recording period of Asthena albulata
+Tvk=NBNSYS0000005966
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

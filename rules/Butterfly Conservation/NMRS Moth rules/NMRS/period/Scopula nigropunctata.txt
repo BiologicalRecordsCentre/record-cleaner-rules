@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Scopula nigropunctata
+Description=Checks date is within known recording period of Scopula nigropunctata
+ErrorMsg=Date is outside known recording period of Scopula nigropunctata
+Tvk=NBNSYS0000005757
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

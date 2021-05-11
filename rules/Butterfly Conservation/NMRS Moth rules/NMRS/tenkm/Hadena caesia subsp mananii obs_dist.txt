@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Hadena caesia subsp. mananii 10km
+Description=Check coordinate against known 10km distribution of Hadena caesia subsp. mananii
+ErrorMsg=Coordinate outside known range for Hadena caesia subsp. mananii
+DataFieldName=Species
+DataRecordId=NBNSYS0000006267
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NG33
+SC16
+SC26
+SC27
+SC37
+SC48
+SO53
+
+

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Eupithecia intricata subsp. arceuthata
+Description=Checks date is within known flight period of Eupithecia intricata subsp. arceuthata
+ErrorMsg=Date is outside known flight period of Eupithecia intricata subsp. arceuthata
+Tvk=NBNSYS0000005913
+DataFieldName=
+StartDate=0401
+EndDate=0731
+LastChanged=20110328
+[EndMetadata]
+
+         

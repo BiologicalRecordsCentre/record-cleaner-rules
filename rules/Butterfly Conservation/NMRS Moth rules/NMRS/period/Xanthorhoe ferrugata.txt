@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Xanthorhoe ferrugata
+Description=Checks date is within known recording period of Xanthorhoe ferrugata
+ErrorMsg=Date is outside known recording period of Xanthorhoe ferrugata
+Tvk=NBNSYS0000005800
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

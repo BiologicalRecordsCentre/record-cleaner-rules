@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Selidosema brunnearia
+Description=Checks date is within known flight period of Selidosema brunnearia
+ErrorMsg=Date is outside known flight period of Selidosema brunnearia
+Tvk=NBNSYS0000006030
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

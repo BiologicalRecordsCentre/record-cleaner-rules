@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Siona lineata
+Description=Checks date is within known recording period of Siona lineata
+ErrorMsg=Date is outside known recording period of Siona lineata
+Tvk=NBNSYS0000006058
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Schrankia costaestrigalis
+Description=Checks date is within known flight period of Schrankia costaestrigalis
+ErrorMsg=Date is outside known flight period of Schrankia costaestrigalis
+Tvk=NBNSYS0000006586
+DataFieldName=
+StartDate=0501
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

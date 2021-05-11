@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Odezia atrata
+Description=Checks date is within known recording period of Odezia atrata
+ErrorMsg=Date is outside known recording period of Odezia atrata
+Tvk=NBNSYS0000005961
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

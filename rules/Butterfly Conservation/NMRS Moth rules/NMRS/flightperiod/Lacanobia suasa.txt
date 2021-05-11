@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Lacanobia suasa
+Description=Checks date is within known flight period of Lacanobia suasa
+ErrorMsg=Date is outside known flight period of Lacanobia suasa
+Tvk=NHMSYS0000502986
+DataFieldName=
+StartDate=0401
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

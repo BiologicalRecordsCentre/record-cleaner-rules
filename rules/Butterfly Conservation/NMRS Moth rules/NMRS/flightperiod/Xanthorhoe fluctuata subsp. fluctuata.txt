@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Xanthorhoe fluctuata subsp. fluctuata
+Description=Checks date is within known flight period of Xanthorhoe fluctuata subsp. fluctuata
+ErrorMsg=Date is outside known flight period of Xanthorhoe fluctuata subsp. fluctuata
+Tvk=MM0001Z100O5P5V1
+DataFieldName=
+StartDate=0301
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

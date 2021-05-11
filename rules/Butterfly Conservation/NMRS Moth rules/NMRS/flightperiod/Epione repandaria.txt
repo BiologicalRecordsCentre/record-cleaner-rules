@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Epione repandaria
+Description=Checks date is within known flight period of Epione repandaria
+ErrorMsg=Date is outside known flight period of Epione repandaria
+Tvk=NBNSYS0000005998
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

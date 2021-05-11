@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Agrotis exclamationis
+Description=Checks date is within known recording period of Agrotis exclamationis
+ErrorMsg=Date is outside known recording period of Agrotis exclamationis
+Tvk=NBNSYS0000006175
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

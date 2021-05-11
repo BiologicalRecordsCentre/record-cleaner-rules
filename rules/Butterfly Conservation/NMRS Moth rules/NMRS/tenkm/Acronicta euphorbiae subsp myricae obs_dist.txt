@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Acronicta euphorbiae subsp. myricae 10km
+Description=Check coordinate against known 10km distribution of Acronicta euphorbiae subsp. myricae
+ErrorMsg=Coordinate outside known range for Acronicta euphorbiae subsp. myricae
+DataFieldName=Species
+DataRecordId=NHMSYS0000500978
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NH80
+NN45
+NN68
+NN79
+NO09
+NO28
+NO38
+NO59
+NO78
+NO88
+
+

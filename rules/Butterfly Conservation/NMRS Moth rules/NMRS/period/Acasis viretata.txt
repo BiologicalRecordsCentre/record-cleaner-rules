@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Acasis viretata
+Description=Checks date is within known recording period of Acasis viretata
+ErrorMsg=Date is outside known recording period of Acasis viretata
+Tvk=NHMSYS0000500908
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

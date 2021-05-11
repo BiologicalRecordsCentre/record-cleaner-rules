@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Pasiphila chloerata
+Description=Checks date is within known flight period of Pasiphila chloerata
+ErrorMsg=Date is outside known flight period of Pasiphila chloerata
+Tvk=NBNSYS0100004488
+DataFieldName=
+StartDate=0401
+EndDate=0731
+LastChanged=20110328
+[EndMetadata]
+
+         

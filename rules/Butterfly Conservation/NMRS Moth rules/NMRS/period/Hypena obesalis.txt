@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Hypena obesalis
+Description=Checks date is within known recording period of Hypena obesalis
+ErrorMsg=Date is outside known recording period of Hypena obesalis
+Tvk=NHMSYS0000502905
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

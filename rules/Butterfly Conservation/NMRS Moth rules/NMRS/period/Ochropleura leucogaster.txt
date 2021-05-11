@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Ochropleura leucogaster
+Description=Checks date is within known recording period of Ochropleura leucogaster
+ErrorMsg=Date is outside known recording period of Ochropleura leucogaster
+Tvk=NBNSYS0000005273
+StartDate=19830101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

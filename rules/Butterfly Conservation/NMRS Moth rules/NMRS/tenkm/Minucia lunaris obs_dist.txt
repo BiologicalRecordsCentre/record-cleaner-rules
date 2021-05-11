@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Minucia lunaris 10km
+Description=Check coordinate against known 10km distribution of Minucia lunaris
+ErrorMsg=Coordinate outside known range for Minucia lunaris
+DataFieldName=Species
+DataRecordId=NHMSYS0000503244
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SZ39
+SZ89
+TQ70
+TR02
+
+

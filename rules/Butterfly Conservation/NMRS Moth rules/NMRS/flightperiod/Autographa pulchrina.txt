@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Autographa pulchrina
+Description=Checks date is within known flight period of Autographa pulchrina
+ErrorMsg=Date is outside known flight period of Autographa pulchrina
+Tvk=NBNSYS0000006547
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

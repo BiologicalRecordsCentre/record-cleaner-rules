@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Diarsia florida
+Description=Checks date is within known flight period of Diarsia florida
+ErrorMsg=Date is outside known flight period of Diarsia florida
+Tvk=NBNSYS0000006215
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

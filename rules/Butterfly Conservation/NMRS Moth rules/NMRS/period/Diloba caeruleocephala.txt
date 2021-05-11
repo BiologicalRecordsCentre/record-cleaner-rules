@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Diloba caeruleocephala
+Description=Checks date is within known recording period of Diloba caeruleocephala
+ErrorMsg=Date is outside known recording period of Diloba caeruleocephala
+Tvk=NBNSYS0000006106
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

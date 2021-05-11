@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Eupithecia venosata subsp. plumbea
+Description=Checks date is within known recording period of Eupithecia venosata subsp. plumbea
+ErrorMsg=Date is outside known recording period of Eupithecia venosata subsp. plumbea
+Tvk=NHMSYS0000502628
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

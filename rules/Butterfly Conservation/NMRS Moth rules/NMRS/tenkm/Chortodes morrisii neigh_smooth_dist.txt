@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Chortodes morrisii 10km
+Description=Check coordinate against known 10km distribution of Chortodes morrisii
+ErrorMsg=Coordinate outside known range for Chortodes morrisii
+DataFieldName=Species
+DataRecordId=NBNSYS0100002389
+LastChanged=20150511
+[EndMetadata]
+
+
+[10km_GB]
+ST10
+ST11
+ST20
+ST21
+ST30
+ST31
+ST40
+ST41
+ST50
+ST51
+SY18
+SY19
+SY28
+SY29
+SY38
+SY39
+SY48
+SY49
+SY58
+SY59
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

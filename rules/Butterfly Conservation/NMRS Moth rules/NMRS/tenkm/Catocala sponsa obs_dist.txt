@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Catocala sponsa 10km
+Description=Check coordinate against known 10km distribution of Catocala sponsa
+ErrorMsg=Coordinate outside known range for Catocala sponsa
+DataFieldName=Species
+DataRecordId=NHMSYS0000501673
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SU20
+SU21
+SU22
+SU29
+SU30
+SU31
+SU34
+SU40
+SU44
+SU51
+SU60
+SU66
+SX97
+SY68
+SZ07
+SZ38
+SZ57
+SZ58
+SZ59
+SZ79
+TM22
+TM46
+TQ06
+TQ70
+TQ83
+TR01
+TR35
+TR36
+
+

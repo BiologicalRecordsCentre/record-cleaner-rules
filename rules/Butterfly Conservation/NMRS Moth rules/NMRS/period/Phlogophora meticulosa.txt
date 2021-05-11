@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Phlogophora meticulosa
+Description=Checks date is within known recording period of Phlogophora meticulosa
+ErrorMsg=Date is outside known recording period of Phlogophora meticulosa
+Tvk=NBNSYS0000006402
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Heliothis nubigera
+Description=Checks date is within known recording period of Heliothis nubigera
+ErrorMsg=Date is outside known recording period of Heliothis nubigera
+Tvk=NHMSYS0000502830
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

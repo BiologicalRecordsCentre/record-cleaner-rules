@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Peribatodes secundaria 10km
+Description=Check coordinate against known 10km distribution of Peribatodes secundaria
+ErrorMsg=Coordinate outside known range for Peribatodes secundaria
+DataFieldName=Species
+DataRecordId=NBNSYS0000006029
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NZ26
+SJ60
+SO48
+ST53
+ST55
+SU60
+SU92
+SU93
+SY98
+TM33
+TQ77
+TQ93
+TR02
+TR34
+
+

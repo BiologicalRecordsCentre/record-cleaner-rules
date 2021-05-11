@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Allophyes oxyacanthae
+Description=Checks date is within known recording period of Allophyes oxyacanthae
+ErrorMsg=Date is outside known recording period of Allophyes oxyacanthae
+Tvk=NBNSYS0000006338
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Colobochyla salicalis
+Description=Checks date is within known recording period of Colobochyla salicalis
+ErrorMsg=Date is outside known recording period of Colobochyla salicalis
+Tvk=NHMSYS0000501956
+StartDate=17000101
+EndDate=19771231
+LastChanged=20110328
+[EndMetadata]
+
+         

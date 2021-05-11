@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Pelosia obtusa 10km
+Description=Check coordinate against known 10km distribution of Pelosia obtusa
+ErrorMsg=Coordinate outside known range for Pelosia obtusa
+DataFieldName=Species
+DataRecordId=NHMSYS0000503663
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SN90
+TG23
+TG31
+TG32
+TG42
+TQ87
+
+

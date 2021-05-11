@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Papilio machaon
+Description=Checks date is within known flight period of Papilio machaon
+ErrorMsg=Date is outside known flight period of Papilio machaon
+Tvk=NBNSYS0000005514
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

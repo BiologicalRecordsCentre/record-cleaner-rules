@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Peribatodes secundaria
+Description=Checks date is within known recording period of Peribatodes secundaria
+ErrorMsg=Date is outside known recording period of Peribatodes secundaria
+Tvk=NBNSYS0000006029
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

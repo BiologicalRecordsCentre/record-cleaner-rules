@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Macaria signaria
+Description=Checks date is within known recording period of Macaria signaria
+ErrorMsg=Date is outside known recording period of Macaria signaria
+Tvk=NBNSYS0100003858
+StartDate=20040101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

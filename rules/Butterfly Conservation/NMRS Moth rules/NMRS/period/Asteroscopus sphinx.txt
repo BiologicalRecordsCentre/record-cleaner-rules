@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Asteroscopus sphinx
+Description=Checks date is within known recording period of Asteroscopus sphinx
+ErrorMsg=Date is outside known recording period of Asteroscopus sphinx
+Tvk=NHMSYS0000501413
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

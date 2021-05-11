@@ -1,0 +1,54 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Polia trimaculosa 10km
+Description=Check coordinate against known 10km distribution of Polia trimaculosa
+ErrorMsg=Coordinate outside known range for Polia trimaculosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000006240
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NH36
+NH39
+NH70
+NH77
+NH80
+NH81
+NH91
+NH92
+NJ01
+NJ02
+NJ03
+NN76
+NN79
+NN96
+NO19
+NO29
+NR89
+NS67
+NS69
+NS89
+NS96
+NT06
+NT26
+SD48
+SD76
+SJ43
+SN55
+ST87
+SU42
+SU72
+SU75
+SU83
+SU86
+SU95
+SU96
+SU98
+TQ42
+TQ82
+TV59
+
+

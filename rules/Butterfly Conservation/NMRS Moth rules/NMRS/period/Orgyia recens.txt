@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Orgyia recens
+Description=Checks date is within known recording period of Orgyia recens
+ErrorMsg=Date is outside known recording period of Orgyia recens
+Tvk=NHMSYS0000503505
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

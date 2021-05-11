@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Zygaena exulans subsp. subochracea
+Description=Checks date is within known flight period of Zygaena exulans subsp. subochracea
+ErrorMsg=Date is outside known flight period of Zygaena exulans subsp. subochracea
+Tvk=NBNSYS0000005667
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

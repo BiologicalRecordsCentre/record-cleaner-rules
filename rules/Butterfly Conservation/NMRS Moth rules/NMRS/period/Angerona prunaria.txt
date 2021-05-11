@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Angerona prunaria
+Description=Checks date is within known recording period of Angerona prunaria
+ErrorMsg=Date is outside known recording period of Angerona prunaria
+Tvk=NBNSYS0000006015
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

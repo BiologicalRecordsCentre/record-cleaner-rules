@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Comibaena bajularia
+Description=Checks date is within known flight period of Comibaena bajularia
+ErrorMsg=Date is outside known flight period of Comibaena bajularia
+Tvk=NHMSYS0000501965
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

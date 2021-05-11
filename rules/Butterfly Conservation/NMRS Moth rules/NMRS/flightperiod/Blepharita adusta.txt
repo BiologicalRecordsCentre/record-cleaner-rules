@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Blepharita adusta
+Description=Checks date is within known flight period of Blepharita adusta
+ErrorMsg=Date is outside known flight period of Blepharita adusta
+Tvk=NBNSYS0000142992
+DataFieldName=
+StartDate=0401
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

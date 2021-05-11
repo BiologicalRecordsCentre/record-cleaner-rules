@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Pasiphila chloerata
+Description=Checks date is within known recording period of Pasiphila chloerata
+ErrorMsg=Date is outside known recording period of Pasiphila chloerata
+Tvk=NBNSYS0100004488
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

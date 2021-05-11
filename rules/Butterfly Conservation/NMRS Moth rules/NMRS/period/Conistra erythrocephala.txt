@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Conistra erythrocephala
+Description=Checks date is within known recording period of Conistra erythrocephala
+ErrorMsg=Date is outside known recording period of Conistra erythrocephala
+Tvk=NHMSYS0000501970
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

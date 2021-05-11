@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Hylaea fasciaria
+Description=Checks date is within known recording period of Hylaea fasciaria
+ErrorMsg=Date is outside known recording period of Hylaea fasciaria
+Tvk=NBNSYS0000006054
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

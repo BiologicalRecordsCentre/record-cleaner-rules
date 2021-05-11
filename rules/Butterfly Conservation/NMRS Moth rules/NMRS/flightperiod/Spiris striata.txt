@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Spiris striata
+Description=Checks date is within known flight period of Spiris striata
+ErrorMsg=Date is outside known flight period of Spiris striata
+Tvk=NBNSYS0000006138
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

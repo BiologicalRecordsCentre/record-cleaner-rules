@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Jordanita globulariae 10km
+Description=Check coordinate against known 10km distribution of Jordanita globulariae
+ErrorMsg=Coordinate outside known range for Jordanita globulariae
+DataFieldName=Species
+DataRecordId=NHMSYS0000502970
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+ST82
+SU04
+SU23
+SU24
+TQ21
+TQ30
+TQ41
+TR24
+
+

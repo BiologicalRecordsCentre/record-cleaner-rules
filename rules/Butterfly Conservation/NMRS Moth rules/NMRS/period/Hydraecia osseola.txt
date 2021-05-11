@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Hydraecia osseola
+Description=Checks date is within known recording period of Hydraecia osseola
+ErrorMsg=Date is outside known recording period of Hydraecia osseola
+Tvk=NHMSYS0000520468
+StartDate=19520101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Epione repandaria
+Description=Checks date is within known recording period of Epione repandaria
+ErrorMsg=Date is outside known recording period of Epione repandaria
+Tvk=NBNSYS0000005998
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

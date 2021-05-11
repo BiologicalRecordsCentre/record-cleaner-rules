@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Mythimna pudorina
+Description=Checks date is within known flight period of Mythimna pudorina
+ErrorMsg=Date is outside known flight period of Mythimna pudorina
+Tvk=NHMSYS0000503315
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Thera cognata
+Description=Checks date is within known recording period of Thera cognata
+ErrorMsg=Date is outside known recording period of Thera cognata
+Tvk=NBNSYS0000005850
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

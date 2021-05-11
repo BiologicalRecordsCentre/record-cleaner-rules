@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Diarsia brunnea
+Description=Checks date is within known flight period of Diarsia brunnea
+ErrorMsg=Date is outside known flight period of Diarsia brunnea
+Tvk=NHMSYS0000502142
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

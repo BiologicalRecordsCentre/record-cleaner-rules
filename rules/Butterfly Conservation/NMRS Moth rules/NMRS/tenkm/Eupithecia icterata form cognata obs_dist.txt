@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Eupithecia icterata form cognata 10km
+Description=Check coordinate against known 10km distribution of Eupithecia icterata form cognata
+ErrorMsg=Coordinate outside known range for Eupithecia icterata form cognata
+DataFieldName=Species
+DataRecordId=NHMSYS0000840674
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NH91
+NO32
+NS57
+NU21
+NX40
+NX95
+SE19
+SE35
+SE37
+SK69
+SS22
+SS42
+SS43
+SS60
+SS62
+ST30
+SU11
+SU41
+SU49
+SX45
+SX46
+SX47
+SX56
+SX66
+SX85
+SX87
+SX88
+SX96
+SX98
+TL44
+TQ91
+
+

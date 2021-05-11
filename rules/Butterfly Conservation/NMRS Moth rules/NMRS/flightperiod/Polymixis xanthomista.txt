@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Polymixis xanthomista
+Description=Checks date is within known flight period of Polymixis xanthomista
+ErrorMsg=Date is outside known flight period of Polymixis xanthomista
+Tvk=NHMSYS0000520008
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

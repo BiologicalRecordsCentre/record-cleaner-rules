@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Herminia tarsicrinalis
+Description=Checks date is within known recording period of Herminia tarsicrinalis
+ErrorMsg=Date is outside known recording period of Herminia tarsicrinalis
+Tvk=NBNSYS0000006595
+StartDate=19650101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

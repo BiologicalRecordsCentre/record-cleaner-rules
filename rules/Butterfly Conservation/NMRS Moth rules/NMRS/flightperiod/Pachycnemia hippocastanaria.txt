@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Pachycnemia hippocastanaria
+Description=Checks date is within known flight period of Pachycnemia hippocastanaria
+ErrorMsg=Date is outside known flight period of Pachycnemia hippocastanaria
+Tvk=NHMSYS0000503538
+DataFieldName=
+StartDate=0301
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Hypenodes humidalis
+Description=Checks date is within known recording period of Hypenodes humidalis
+ErrorMsg=Date is outside known recording period of Hypenodes humidalis
+Tvk=MM0001Z100DMN711
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

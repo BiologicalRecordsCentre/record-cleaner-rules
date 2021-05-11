@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Idaea fuscovenosa
+Description=Checks date is within known recording period of Idaea fuscovenosa
+ErrorMsg=Date is outside known recording period of Idaea fuscovenosa
+Tvk=NBNSYS0000005778
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

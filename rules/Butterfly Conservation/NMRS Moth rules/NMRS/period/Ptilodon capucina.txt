@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Ptilodon capucina
+Description=Checks date is within known recording period of Ptilodon capucina
+ErrorMsg=Date is outside known recording period of Ptilodon capucina
+Tvk=NBNSYS0000006094
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

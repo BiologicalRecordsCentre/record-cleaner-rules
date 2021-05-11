@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Eublemma ostrina
+Description=Checks date is within known flight period of Eublemma ostrina
+ErrorMsg=Date is outside known flight period of Eublemma ostrina
+Tvk=NHMSYS0000502510
+DataFieldName=
+StartDate=0501
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

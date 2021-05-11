@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Odontosia carmelita
+Description=Checks date is within known recording period of Odontosia carmelita
+ErrorMsg=Date is outside known recording period of Odontosia carmelita
+Tvk=NBNSYS0000006096
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

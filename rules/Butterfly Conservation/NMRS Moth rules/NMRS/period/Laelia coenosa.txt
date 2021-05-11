@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Laelia coenosa
+Description=Checks date is within known recording period of Laelia coenosa
+ErrorMsg=Date is outside known recording period of Laelia coenosa
+Tvk=NHMSYS0000502991
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

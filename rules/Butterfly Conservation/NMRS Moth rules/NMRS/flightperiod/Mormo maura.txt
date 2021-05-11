@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Mormo maura
+Description=Checks date is within known flight period of Mormo maura
+ErrorMsg=Date is outside known flight period of Mormo maura
+Tvk=NBNSYS0000006396
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Apamea crenata
+Description=Checks date is within known flight period of Apamea crenata
+ErrorMsg=Date is outside known flight period of Apamea crenata
+Tvk=NBNSYS0000006425
+DataFieldName=
+StartDate=0401
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

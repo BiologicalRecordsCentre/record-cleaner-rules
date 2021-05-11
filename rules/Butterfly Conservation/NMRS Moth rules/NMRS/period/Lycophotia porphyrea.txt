@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Lycophotia porphyrea
+Description=Checks date is within known recording period of Lycophotia porphyrea
+ErrorMsg=Date is outside known recording period of Lycophotia porphyrea
+Tvk=NHMSYS0000503128
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Heliothis maritima subsp. warneckei 10km
+Description=Check coordinate against known 10km distribution of Heliothis maritima subsp. warneckei
+ErrorMsg=Coordinate outside known range for Heliothis maritima subsp. warneckei
+DataFieldName=Species
+DataRecordId=NBNSYS0000005298
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SU11
+SU20
+SU21
+SU30
+SU40
+SU95
+SU96
+
+

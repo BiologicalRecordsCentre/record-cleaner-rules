@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Epirrhoe tristata
+Description=Checks date is within known recording period of Epirrhoe tristata
+ErrorMsg=Date is outside known recording period of Epirrhoe tristata
+Tvk=NBNSYS0000005815
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

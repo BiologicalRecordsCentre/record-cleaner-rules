@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Zygaena viciae subsp. ytenensis
+Description=Checks date is within known flight period of Zygaena viciae subsp. ytenensis
+ErrorMsg=Date is outside known flight period of Zygaena viciae subsp. ytenensis
+Tvk=NBNSYS0000005192
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

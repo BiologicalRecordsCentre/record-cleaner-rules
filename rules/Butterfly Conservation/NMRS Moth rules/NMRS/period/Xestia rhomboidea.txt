@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Xestia rhomboidea
+Description=Checks date is within known recording period of Xestia rhomboidea
+ErrorMsg=Date is outside known recording period of Xestia rhomboidea
+Tvk=NBNSYS0000006222
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

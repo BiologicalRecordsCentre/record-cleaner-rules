@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Prodotis stolida
+Description=Checks date is within known flight period of Prodotis stolida
+ErrorMsg=Date is outside known flight period of Prodotis stolida
+Tvk=NBNSYS0100004883
+DataFieldName=
+StartDate=0401
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

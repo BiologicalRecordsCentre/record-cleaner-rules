@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Scopula floslactata form scotica 10km
+Description=Check coordinate against known 10km distribution of Scopula floslactata form scotica
+ErrorMsg=Coordinate outside known range for Scopula floslactata form scotica
+DataFieldName=Species
+DataRecordId=NHMSYS0000504126
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NG53
+NG73
+NG83
+NH22
+NH31
+NH33
+NH45
+NH80
+NM42
+NM45
+NM63
+NM81
+NM91
+NM93
+NM94
+NN02
+NN03
+NN04
+NN15
+NN19
+NN35
+NR78
+NR89
+
+

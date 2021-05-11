@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Abraxas sylvata
+Description=Checks date is within known recording period of Abraxas sylvata
+ErrorMsg=Date is outside known recording period of Abraxas sylvata
+Tvk=NBNSYS0000005976
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

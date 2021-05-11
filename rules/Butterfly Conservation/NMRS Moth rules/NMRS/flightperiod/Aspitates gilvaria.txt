@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Aspitates gilvaria
+Description=Checks date is within known flight period of Aspitates gilvaria
+ErrorMsg=Date is outside known flight period of Aspitates gilvaria
+Tvk=NHMSYS0000517298
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Deltote uncula
+Description=Checks date is within known flight period of Deltote uncula
+ErrorMsg=Date is outside known flight period of Deltote uncula
+Tvk=NBNSYS0000006518
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

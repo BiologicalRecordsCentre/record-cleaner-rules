@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Eupithecia lariciata
+Description=Checks date is within known flight period of Eupithecia lariciata
+ErrorMsg=Date is outside known flight period of Eupithecia lariciata
+Tvk=NBNSYS0000005944
+DataFieldName=
+StartDate=0401
+EndDate=0731
+LastChanged=20110328
+[EndMetadata]
+
+         

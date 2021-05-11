@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Lycia lapponaria subsp. scotica
+Description=Checks date is within known flight period of Lycia lapponaria subsp. scotica
+ErrorMsg=Date is outside known flight period of Lycia lapponaria subsp. scotica
+Tvk=NBNSYS0000006020
+DataFieldName=
+StartDate=0301
+EndDate=0531
+LastChanged=20110328
+[EndMetadata]
+
+         

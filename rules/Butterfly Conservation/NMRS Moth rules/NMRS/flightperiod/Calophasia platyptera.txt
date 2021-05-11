@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Calophasia platyptera
+Description=Checks date is within known flight period of Calophasia platyptera
+ErrorMsg=Date is outside known flight period of Calophasia platyptera
+Tvk=NBNSYS0000006317
+DataFieldName=
+StartDate=0301
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

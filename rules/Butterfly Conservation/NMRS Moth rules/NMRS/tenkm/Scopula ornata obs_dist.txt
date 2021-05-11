@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Scopula ornata 10km
+Description=Check coordinate against known 10km distribution of Scopula ornata
+ErrorMsg=Coordinate outside known range for Scopula ornata
+DataFieldName=Species
+DataRecordId=NBNSYS0000005760
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SO80
+SO92
+SP02
+ST75
+SU51
+TF71
+TQ04
+TQ05
+TQ14
+TQ15
+TQ35
+TQ46
+TQ56
+TQ66
+TQ76
+TQ77
+TQ86
+TR23
+TR36
+TR37
+
+

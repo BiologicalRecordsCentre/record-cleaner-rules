@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Lycophotia porphyrea
+Description=Checks date is within known flight period of Lycophotia porphyrea
+ErrorMsg=Date is outside known flight period of Lycophotia porphyrea
+Tvk=NHMSYS0000503128
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

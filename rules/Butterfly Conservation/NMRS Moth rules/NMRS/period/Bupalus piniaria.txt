@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Bupalus piniaria
+Description=Checks date is within known recording period of Bupalus piniaria
+ErrorMsg=Date is outside known recording period of Bupalus piniaria
+Tvk=NBNSYS0000006046
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

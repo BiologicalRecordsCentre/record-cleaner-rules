@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Nonagria typhae
+Description=Checks date is within known recording period of Nonagria typhae
+ErrorMsg=Date is outside known recording period of Nonagria typhae
+Tvk=NBNSYS0000006474
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

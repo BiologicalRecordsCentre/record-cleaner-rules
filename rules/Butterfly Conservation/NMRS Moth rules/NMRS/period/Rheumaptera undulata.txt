@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Rheumaptera undulata
+Description=Checks date is within known recording period of Rheumaptera undulata
+ErrorMsg=Date is outside known recording period of Rheumaptera undulata
+Tvk=NBNSYS0000005869
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

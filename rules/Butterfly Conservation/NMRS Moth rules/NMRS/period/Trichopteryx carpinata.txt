@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Trichopteryx carpinata
+Description=Checks date is within known recording period of Trichopteryx carpinata
+ErrorMsg=Date is outside known recording period of Trichopteryx carpinata
+Tvk=NBNSYS0000005972
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

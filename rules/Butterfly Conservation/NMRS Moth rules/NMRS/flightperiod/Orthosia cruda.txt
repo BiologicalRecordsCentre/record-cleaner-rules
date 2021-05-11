@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Orthosia cruda
+Description=Checks date is within known flight period of Orthosia cruda
+ErrorMsg=Date is outside known flight period of Orthosia cruda
+Tvk=NHMSYS0000503515
+DataFieldName=
+StartDate=0201
+EndDate=0531
+LastChanged=20110328
+[EndMetadata]
+
+         

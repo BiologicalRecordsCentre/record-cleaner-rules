@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Semiaspilates ochrearia
+Description=Checks date is within known recording period of Semiaspilates ochrearia
+ErrorMsg=Date is outside known recording period of Semiaspilates ochrearia
+Tvk=NBNSYS0100005486
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

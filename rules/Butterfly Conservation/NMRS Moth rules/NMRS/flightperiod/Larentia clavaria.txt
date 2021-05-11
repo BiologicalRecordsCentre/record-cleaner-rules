@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Larentia clavaria
+Description=Checks date is within known flight period of Larentia clavaria
+ErrorMsg=Date is outside known flight period of Larentia clavaria
+Tvk=NBNSYS0000005825
+DataFieldName=
+StartDate=0801
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

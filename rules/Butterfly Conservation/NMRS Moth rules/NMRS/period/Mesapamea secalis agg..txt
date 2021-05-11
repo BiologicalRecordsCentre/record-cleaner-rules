@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Mesapamea secalis agg.
+Description=Checks date is within known recording period of Mesapamea secalis agg.
+ErrorMsg=Date is outside known recording period of Mesapamea secalis agg.
+Tvk=NBNSYS0000006441
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

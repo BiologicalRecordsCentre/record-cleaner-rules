@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Siona lineata
+Description=Checks date is within known flight period of Siona lineata
+ErrorMsg=Date is outside known flight period of Siona lineata
+Tvk=NBNSYS0000006058
+DataFieldName=
+StartDate=0401
+EndDate=0731
+LastChanged=20110328
+[EndMetadata]
+
+         

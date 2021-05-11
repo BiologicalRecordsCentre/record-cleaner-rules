@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Scotopteryx mucronata subsp. scotica 10km
+Description=Check coordinate against known 10km distribution of Scotopteryx mucronata subsp. scotica
+ErrorMsg=Coordinate outside known range for Scotopteryx mucronata subsp. scotica
+DataFieldName=Species
+DataRecordId=NBNSYS0000005811
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NH80
+NH81
+NH91
+NH92
+NJ01
+NT37
+NX85
+SH80
+SJ01
+
+

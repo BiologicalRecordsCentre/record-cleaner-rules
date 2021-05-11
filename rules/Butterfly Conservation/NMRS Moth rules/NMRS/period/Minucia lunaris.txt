@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Minucia lunaris
+Description=Checks date is within known recording period of Minucia lunaris
+ErrorMsg=Date is outside known recording period of Minucia lunaris
+Tvk=NHMSYS0000503244
+StartDate=17000101
+EndDate=19581231
+LastChanged=20110328
+[EndMetadata]
+
+         

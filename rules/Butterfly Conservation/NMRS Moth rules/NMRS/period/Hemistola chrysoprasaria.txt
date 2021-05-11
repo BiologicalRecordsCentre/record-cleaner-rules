@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Hemistola chrysoprasaria
+Description=Checks date is within known recording period of Hemistola chrysoprasaria
+ErrorMsg=Date is outside known recording period of Hemistola chrysoprasaria
+Tvk=NBNSYS0000005746
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

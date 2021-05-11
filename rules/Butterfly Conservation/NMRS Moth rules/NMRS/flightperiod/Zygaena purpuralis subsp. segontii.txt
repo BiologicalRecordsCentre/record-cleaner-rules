@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Zygaena purpuralis subsp. segontii
+Description=Checks date is within known flight period of Zygaena purpuralis subsp. segontii
+ErrorMsg=Date is outside known flight period of Zygaena purpuralis subsp. segontii
+Tvk=NBNSYS0000005680
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

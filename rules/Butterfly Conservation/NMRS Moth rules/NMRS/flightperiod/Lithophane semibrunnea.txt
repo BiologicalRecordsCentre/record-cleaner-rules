@@ -1,0 +1,15 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Lithophane semibrunnea
+Description=Checks date is within known flight period of Lithophane semibrunnea
+ErrorMsg=Date is outside known flight period of Lithophane semibrunnea
+Tvk=NBNSYS0000006328
+DataFieldName=
+StartDate=0630
+EndDate=0901
+ReverseRule=True
+LastChanged=20120126
+[EndMetadata]
+
+         

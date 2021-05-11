@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Cyclophora puppillaria
+Description=Checks date is within known flight period of Cyclophora puppillaria
+ErrorMsg=Date is outside known flight period of Cyclophora puppillaria
+Tvk=NHMSYS0000502052
+DataFieldName=
+StartDate=0701
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

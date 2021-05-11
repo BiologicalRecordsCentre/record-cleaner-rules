@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Stegania cararia 10km
+Description=Check coordinate against known 10km distribution of Stegania cararia
+ErrorMsg=Coordinate outside known range for Stegania cararia
+DataFieldName=Species
+DataRecordId=NHMSYS0020732454
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+ST41
+SZ69
+
+

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Lithophane ornitopus
+Description=Checks date is within known flight period of Lithophane ornitopus
+ErrorMsg=Date is outside known flight period of Lithophane ornitopus
+Tvk=NHMSYS0000520798
+DataFieldName=
+StartDate=0531
+EndDate=0801
+ReverseRule=True
+LastChanged=20120126
+[EndMetadata]
+
+         

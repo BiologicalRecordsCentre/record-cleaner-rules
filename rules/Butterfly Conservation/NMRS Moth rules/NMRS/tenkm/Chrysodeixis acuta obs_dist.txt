@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Chrysodeixis acuta 10km
+Description=Check coordinate against known 10km distribution of Chrysodeixis acuta
+ErrorMsg=Coordinate outside known range for Chrysodeixis acuta
+DataFieldName=Species
+DataRecordId=NBNSYS0000006534
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SV91
+SY58
+
+

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Agrochola macilenta
+Description=Checks date is within known flight period of Agrochola macilenta
+ErrorMsg=Date is outside known flight period of Agrochola macilenta
+Tvk=NHMSYS0000501174
+DataFieldName=
+StartDate=0801
+EndDate=1231
+LastChanged=20110328
+[EndMetadata]
+
+         

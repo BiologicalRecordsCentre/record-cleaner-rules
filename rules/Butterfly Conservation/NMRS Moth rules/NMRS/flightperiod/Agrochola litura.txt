@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Agrochola litura
+Description=Checks date is within known flight period of Agrochola litura
+ErrorMsg=Date is outside known flight period of Agrochola litura
+Tvk=NBNSYS0000006361
+DataFieldName=
+StartDate=0801
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

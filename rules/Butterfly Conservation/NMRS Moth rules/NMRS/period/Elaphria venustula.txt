@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Elaphria venustula
+Description=Checks date is within known recording period of Elaphria venustula
+ErrorMsg=Date is outside known recording period of Elaphria venustula
+Tvk=NHMSYS0000502337
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

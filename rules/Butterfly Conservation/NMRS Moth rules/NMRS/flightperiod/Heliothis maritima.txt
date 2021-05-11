@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Heliothis maritima
+Description=Checks date is within known flight period of Heliothis maritima
+ErrorMsg=Date is outside known flight period of Heliothis maritima
+Tvk=NBNSYS0000006508
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

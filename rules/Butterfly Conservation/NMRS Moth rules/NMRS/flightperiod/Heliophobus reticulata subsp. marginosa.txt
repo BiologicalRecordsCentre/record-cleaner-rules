@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Heliophobus reticulata subsp. marginosa
+Description=Checks date is within known flight period of Heliophobus reticulata subsp. marginosa
+ErrorMsg=Date is outside known flight period of Heliophobus reticulata subsp. marginosa
+Tvk=NBNSYS0000005278
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

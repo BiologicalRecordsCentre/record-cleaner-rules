@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Stegania cararia
+Description=Checks date is within known recording period of Stegania cararia
+ErrorMsg=Date is outside known recording period of Stegania cararia
+Tvk=NHMSYS0020732454
+StartDate=20090701
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

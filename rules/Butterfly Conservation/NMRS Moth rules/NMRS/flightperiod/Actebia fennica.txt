@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Actebia fennica
+Description=Checks date is within known flight period of Actebia fennica
+ErrorMsg=Date is outside known flight period of Actebia fennica
+Tvk=NBNSYS0000006186
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

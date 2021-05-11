@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Agrotis segetum
+Description=Checks date is within known flight period of Agrotis segetum
+ErrorMsg=Date is outside known flight period of Agrotis segetum
+Tvk=NHMSYS0000501182
+DataFieldName=
+StartDate=0401
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

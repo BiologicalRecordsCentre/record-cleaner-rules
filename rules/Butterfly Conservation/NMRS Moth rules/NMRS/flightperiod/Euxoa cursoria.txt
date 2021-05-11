@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Euxoa cursoria
+Description=Checks date is within known flight period of Euxoa cursoria
+ErrorMsg=Date is outside known flight period of Euxoa cursoria
+Tvk=NBNSYS0000006169
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

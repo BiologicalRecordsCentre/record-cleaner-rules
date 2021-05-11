@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Anarta myrtilli
+Description=Checks date is within known recording period of Anarta myrtilli
+ErrorMsg=Date is outside known recording period of Anarta myrtilli
+Tvk=NBNSYS0000006233
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

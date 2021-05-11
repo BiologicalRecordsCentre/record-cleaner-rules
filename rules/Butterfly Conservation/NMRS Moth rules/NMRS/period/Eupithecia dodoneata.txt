@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Eupithecia dodoneata
+Description=Checks date is within known recording period of Eupithecia dodoneata
+ErrorMsg=Date is outside known recording period of Eupithecia dodoneata
+Tvk=NHMSYS0000502596
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

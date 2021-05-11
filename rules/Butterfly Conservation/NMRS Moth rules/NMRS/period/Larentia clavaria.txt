@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Larentia clavaria
+Description=Checks date is within known recording period of Larentia clavaria
+ErrorMsg=Date is outside known recording period of Larentia clavaria
+Tvk=NBNSYS0000005825
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

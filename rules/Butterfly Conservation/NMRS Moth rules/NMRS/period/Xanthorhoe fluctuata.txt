@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Xanthorhoe fluctuata
+Description=Checks date is within known recording period of Xanthorhoe fluctuata
+ErrorMsg=Date is outside known recording period of Xanthorhoe fluctuata
+Tvk=NBNSYS0000005803
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

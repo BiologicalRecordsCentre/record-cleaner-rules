@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Lycia zonaria subsp. atlantica
+Description=Checks date is within known recording period of Lycia zonaria subsp. atlantica
+ErrorMsg=Date is outside known recording period of Lycia zonaria subsp. atlantica
+Tvk=NBNSYS0000005239
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Hydraecia petasitis
+Description=Checks date is within known flight period of Hydraecia petasitis
+ErrorMsg=Date is outside known flight period of Hydraecia petasitis
+Tvk=NBNSYS0000006467
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Pardasena virgulana 10km
+Description=Check coordinate against known 10km distribution of Pardasena virgulana
+ErrorMsg=Coordinate outside known range for Pardasena virgulana
+DataFieldName=Species
+DataRecordId=NHMSYS0000503628
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+TQ82
+TQ92
+
+

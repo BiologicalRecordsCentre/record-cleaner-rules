@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Idaea ochrata
+Description=Checks date is within known recording period of Idaea ochrata
+ErrorMsg=Date is outside known recording period of Idaea ochrata
+Tvk=NHMSYS0000520553
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

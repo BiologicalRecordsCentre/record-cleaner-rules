@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Spilosoma urticae
+Description=Checks date is within known flight period of Spilosoma urticae
+ErrorMsg=Date is outside known flight period of Spilosoma urticae
+Tvk=NBNSYS0000006148
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

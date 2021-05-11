@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Oligia versicolor
+Description=Checks date is within known flight period of Oligia versicolor
+ErrorMsg=Date is outside known flight period of Oligia versicolor
+Tvk=NBNSYS0000006436
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

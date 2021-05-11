@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Actinotia hyperici
+Description=Checks date is within known flight period of Actinotia hyperici
+ErrorMsg=Date is outside known flight period of Actinotia hyperici
+Tvk=NHMSYS0000500986
+DataFieldName=
+StartDate=0301
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

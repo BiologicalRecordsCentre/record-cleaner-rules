@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Rhyacia simulans
+Description=Checks date is within known recording period of Rhyacia simulans
+ErrorMsg=Date is outside known recording period of Rhyacia simulans
+Tvk=NBNSYS0000006191
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

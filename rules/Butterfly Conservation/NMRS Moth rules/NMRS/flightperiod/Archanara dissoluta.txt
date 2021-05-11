@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Archanara dissoluta
+Description=Checks date is within known flight period of Archanara dissoluta
+ErrorMsg=Date is outside known flight period of Archanara dissoluta
+Tvk=NBNSYS0000006476
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

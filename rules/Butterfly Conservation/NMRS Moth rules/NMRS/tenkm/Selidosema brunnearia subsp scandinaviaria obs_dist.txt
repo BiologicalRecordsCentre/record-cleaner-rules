@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Selidosema brunnearia subsp. scandinaviaria 10km
+Description=Check coordinate against known 10km distribution of Selidosema brunnearia subsp. scandinaviaria
+ErrorMsg=Coordinate outside known range for Selidosema brunnearia subsp. scandinaviaria
+DataFieldName=Species
+DataRecordId=NHMSYS0000504188
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NX13
+SD38
+SU96
+
+

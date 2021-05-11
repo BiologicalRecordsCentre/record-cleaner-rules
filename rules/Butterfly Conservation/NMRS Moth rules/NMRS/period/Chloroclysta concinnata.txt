@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Chloroclysta concinnata
+Description=Checks date is within known recording period of Chloroclysta concinnata
+ErrorMsg=Date is outside known recording period of Chloroclysta concinnata
+Tvk=NBNSYS0000005843
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Hydrelia flammeolaria
+Description=Checks date is within known recording period of Hydrelia flammeolaria
+ErrorMsg=Date is outside known recording period of Hydrelia flammeolaria
+Tvk=NBNSYS0000005967
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

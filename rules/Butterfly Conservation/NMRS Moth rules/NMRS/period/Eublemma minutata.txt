@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Eublemma minutata
+Description=Checks date is within known recording period of Eublemma minutata
+ErrorMsg=Date is outside known recording period of Eublemma minutata
+Tvk=NBNSYS0000006515
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

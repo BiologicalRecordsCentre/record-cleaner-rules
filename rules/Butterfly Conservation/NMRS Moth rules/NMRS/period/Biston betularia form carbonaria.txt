@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Biston betularia form carbonaria
+Description=Checks date is within known recording period of Biston betularia form carbonaria
+ErrorMsg=Date is outside known recording period of Biston betularia form carbonaria
+Tvk=NBNSYS0100002007
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

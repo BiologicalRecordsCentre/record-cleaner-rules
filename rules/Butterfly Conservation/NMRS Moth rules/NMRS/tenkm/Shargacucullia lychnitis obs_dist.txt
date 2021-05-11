@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Shargacucullia lychnitis 10km
+Description=Check coordinate against known 10km distribution of Shargacucullia lychnitis
+ErrorMsg=Coordinate outside known range for Shargacucullia lychnitis
+DataFieldName=Species
+DataRecordId=NBNSYS0100005504
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SP70
+SP80
+SP90
+SU23
+SU32
+SU33
+SU34
+SU41
+SU42
+SU43
+SU44
+SU45
+SU50
+SU52
+SU53
+SU54
+SU57
+SU59
+SU61
+SU62
+SU63
+SU64
+SU65
+SU70
+SU71
+SU72
+SU73
+SU74
+SU78
+SU79
+SU80
+SU81
+SU83
+SU88
+SU89
+SU90
+SU97
+SU98
+SU99
+TL31
+
+

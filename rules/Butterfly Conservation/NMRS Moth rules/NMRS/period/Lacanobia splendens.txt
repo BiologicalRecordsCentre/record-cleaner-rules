@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Lacanobia splendens
+Description=Checks date is within known recording period of Lacanobia splendens
+ErrorMsg=Date is outside known recording period of Lacanobia splendens
+Tvk=NHMSYS0001703672
+StartDate=20030614
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

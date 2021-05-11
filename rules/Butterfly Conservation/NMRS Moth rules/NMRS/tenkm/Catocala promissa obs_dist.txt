@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Catocala promissa 10km
+Description=Check coordinate against known 10km distribution of Catocala promissa
+ErrorMsg=Coordinate outside known range for Catocala promissa
+DataFieldName=Species
+DataRecordId=NHMSYS0000501672
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SU01
+SU10
+SU11
+SU20
+SU21
+SU22
+SU30
+SU31
+SU32
+SU33
+SU40
+SU42
+SU44
+SZ29
+SZ39
+TQ00
+
+

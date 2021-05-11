@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Hepialus fusconebulosa form gallicus
+Description=Checks date is within known recording period of Hepialus fusconebulosa form gallicus
+ErrorMsg=Date is outside known recording period of Hepialus fusconebulosa form gallicus
+Tvk=MM0001Z1OSO5W1Z3
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

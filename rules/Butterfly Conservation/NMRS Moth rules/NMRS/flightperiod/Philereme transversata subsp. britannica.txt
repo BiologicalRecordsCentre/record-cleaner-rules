@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Philereme transversata subsp. britannica
+Description=Checks date is within known flight period of Philereme transversata subsp. britannica
+ErrorMsg=Date is outside known flight period of Philereme transversata subsp. britannica
+Tvk=NHMSYS0000503721
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

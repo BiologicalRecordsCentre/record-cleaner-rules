@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Oria musculosa
+Description=Checks date is within known recording period of Oria musculosa
+ErrorMsg=Date is outside known recording period of Oria musculosa
+Tvk=NHMSYS0000503507
+StartDate=17000101
+EndDate=20011231
+LastChanged=20110328
+[EndMetadata]
+
+         

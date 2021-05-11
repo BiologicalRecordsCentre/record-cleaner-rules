@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Hippotion celerio 10km
+Description=Check coordinate against known 10km distribution of Hippotion celerio
+ErrorMsg=Coordinate outside known range for Hippotion celerio
+DataFieldName=Species
+DataRecordId=NBNSYS0000006079
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NR85
+NZ37
+SD26
+SD38
+SE37
+SE99
+SH53
+SP54
+ST13
+ST42
+ST47
+ST84
+SU11
+SU89
+SW72
+SX25
+SX98
+SY39
+SY66
+SY88
+SZ07
+SZ09
+SZ89
+TA41
+TF11
+TM46
+TQ33
+TR01
+
+

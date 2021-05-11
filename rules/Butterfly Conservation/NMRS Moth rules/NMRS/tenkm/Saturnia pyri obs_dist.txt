@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Saturnia pyri 10km
+Description=Check coordinate against known 10km distribution of Saturnia pyri
+ErrorMsg=Coordinate outside known range for Saturnia pyri
+DataFieldName=Species
+DataRecordId=NHMSYS0000504081
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SU50
+TL04
+
+

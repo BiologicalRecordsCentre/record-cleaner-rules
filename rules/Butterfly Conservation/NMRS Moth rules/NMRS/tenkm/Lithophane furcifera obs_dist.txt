@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Lithophane furcifera 10km
+Description=Check coordinate against known 10km distribution of Lithophane furcifera
+ErrorMsg=Coordinate outside known range for Lithophane furcifera
+DataFieldName=Species
+DataRecordId=NBNSYS0000006331
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NZ37
+
+

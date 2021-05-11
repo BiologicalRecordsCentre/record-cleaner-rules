@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Alcis repandata subsp. sodorensium 10km
+Description=Check coordinate against known 10km distribution of Alcis repandata subsp. sodorensium
+ErrorMsg=Coordinate outside known range for Alcis repandata subsp. sodorensium
+DataFieldName=Species
+DataRecordId=NBNSYS0000005246
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NO19
+ST14
+SU11
+SZ89
+TQ49
+
+

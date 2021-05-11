@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Plusia festucae
+Description=Checks date is within known recording period of Plusia festucae
+ErrorMsg=Date is outside known recording period of Plusia festucae
+Tvk=NBNSYS0000006544
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Hadena albimacula
+Description=Checks date is within known recording period of Hadena albimacula
+ErrorMsg=Date is outside known recording period of Hadena albimacula
+Tvk=NBNSYS0000006265
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

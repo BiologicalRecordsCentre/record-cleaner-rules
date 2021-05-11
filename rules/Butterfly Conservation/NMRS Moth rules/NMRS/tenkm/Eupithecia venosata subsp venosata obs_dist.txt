@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Eupithecia venosata subsp. venosata 10km
+Description=Check coordinate against known 10km distribution of Eupithecia venosata subsp. venosata
+ErrorMsg=Coordinate outside known range for Eupithecia venosata subsp. venosata
+DataFieldName=Species
+DataRecordId=NBNSYS0000005223
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NT43
+NX13
+NX98
+SK61
+SK64
+SK90
+SK91
+SS43
+SS64
+ST47
+ST58
+ST65
+ST66
+SU48
+SU94
+SW33
+SX73
+SX76
+SX83
+SX96
+SX97
+SX99
+SY08
+TF01
+TQ06
+TQ09
+TQ15
+TQ25
+TQ26
+TQ36
+TQ66
+TQ95
+TR02
+TR05
+TR23
+
+

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Diarsia dahlii
+Description=Checks date is within known recording period of Diarsia dahlii
+ErrorMsg=Date is outside known recording period of Diarsia dahlii
+Tvk=NHMSYS0000502143
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

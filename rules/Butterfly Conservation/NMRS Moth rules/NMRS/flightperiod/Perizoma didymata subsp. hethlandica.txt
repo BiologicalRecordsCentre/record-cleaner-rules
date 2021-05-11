@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Perizoma didymata subsp. hethlandica
+Description=Checks date is within known flight period of Perizoma didymata subsp. hethlandica
+ErrorMsg=Date is outside known flight period of Perizoma didymata subsp. hethlandica
+Tvk=NBNSYS0000005217
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

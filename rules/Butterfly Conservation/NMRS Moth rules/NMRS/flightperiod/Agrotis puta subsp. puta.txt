@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Agrotis puta subsp. puta
+Description=Checks date is within known flight period of Agrotis puta subsp. puta
+ErrorMsg=Date is outside known flight period of Agrotis puta subsp. puta
+Tvk=NHMSYS0000501180
+DataFieldName=
+StartDate=0301
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

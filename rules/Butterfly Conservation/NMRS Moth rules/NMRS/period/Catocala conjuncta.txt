@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Catocala conjuncta
+Description=Checks date is within known recording period of Catocala conjuncta
+ErrorMsg=Date is outside known recording period of Catocala conjuncta
+Tvk=NHMSYS0001703667
+StartDate=20040914
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

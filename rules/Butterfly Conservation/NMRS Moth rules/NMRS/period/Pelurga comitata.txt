@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Pelurga comitata
+Description=Checks date is within known recording period of Pelurga comitata
+ErrorMsg=Date is outside known recording period of Pelurga comitata
+Tvk=NBNSYS0000005829
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

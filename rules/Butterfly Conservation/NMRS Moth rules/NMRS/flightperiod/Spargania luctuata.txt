@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Spargania luctuata
+Description=Checks date is within known flight period of Spargania luctuata
+ErrorMsg=Date is outside known flight period of Spargania luctuata
+Tvk=NHMSYS0000504268
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

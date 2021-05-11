@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Panemeria tenebrata
+Description=Checks date is within known recording period of Panemeria tenebrata
+ErrorMsg=Date is outside known recording period of Panemeria tenebrata
+Tvk=NBNSYS0000006503
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

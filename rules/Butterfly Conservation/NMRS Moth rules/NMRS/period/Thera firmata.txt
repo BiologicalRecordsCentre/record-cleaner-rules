@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Thera firmata
+Description=Checks date is within known recording period of Thera firmata
+ErrorMsg=Date is outside known recording period of Thera firmata
+Tvk=NHMSYS0000504490
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

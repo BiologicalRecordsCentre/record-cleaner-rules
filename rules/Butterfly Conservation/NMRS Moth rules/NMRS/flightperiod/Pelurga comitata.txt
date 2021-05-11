@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Pelurga comitata
+Description=Checks date is within known flight period of Pelurga comitata
+ErrorMsg=Date is outside known flight period of Pelurga comitata
+Tvk=NBNSYS0000005829
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

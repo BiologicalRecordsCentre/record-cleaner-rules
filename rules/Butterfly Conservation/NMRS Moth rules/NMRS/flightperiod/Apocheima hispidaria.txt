@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Apocheima hispidaria
+Description=Checks date is within known flight period of Apocheima hispidaria
+ErrorMsg=Date is outside known flight period of Apocheima hispidaria
+Tvk=NHMSYS0000501137
+DataFieldName=
+StartDate=0101
+EndDate=0430
+LastChanged=20110328
+[EndMetadata]
+
+         

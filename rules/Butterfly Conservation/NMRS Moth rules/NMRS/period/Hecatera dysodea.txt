@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Hecatera dysodea
+Description=Checks date is within known recording period of Hecatera dysodea
+ErrorMsg=Date is outside known recording period of Hecatera dysodea
+Tvk=NHMSYS0000502809
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

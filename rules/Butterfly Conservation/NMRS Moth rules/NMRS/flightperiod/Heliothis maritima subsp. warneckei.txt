@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Heliothis maritima subsp. warneckei
+Description=Checks date is within known flight period of Heliothis maritima subsp. warneckei
+ErrorMsg=Date is outside known flight period of Heliothis maritima subsp. warneckei
+Tvk=NBNSYS0000005298
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

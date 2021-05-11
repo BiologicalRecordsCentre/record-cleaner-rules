@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Eupithecia nanata
+Description=Checks date is within known recording period of Eupithecia nanata
+ErrorMsg=Date is outside known recording period of Eupithecia nanata
+Tvk=NHMSYS0000502611
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

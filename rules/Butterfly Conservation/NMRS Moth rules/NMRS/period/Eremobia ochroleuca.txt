@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Eremobia ochroleuca
+Description=Checks date is within known recording period of Eremobia ochroleuca
+ErrorMsg=Date is outside known recording period of Eremobia ochroleuca
+Tvk=NHMSYS0000502479
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

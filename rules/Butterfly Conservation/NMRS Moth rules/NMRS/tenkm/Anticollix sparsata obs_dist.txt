@@ -1,0 +1,49 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Anticollix sparsata 10km
+Description=Check coordinate against known 10km distribution of Anticollix sparsata
+ErrorMsg=Coordinate outside known range for Anticollix sparsata
+DataFieldName=Species
+DataRecordId=NBNSYS0000005951
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SE54
+SE71
+SE74
+SS69
+SS79
+ST00
+ST66
+SU00
+SU10
+SU30
+SU32
+SU33
+SU42
+SU43
+SU75
+SU85
+SU91
+SZ19
+SZ38
+SZ39
+TF02
+TF70
+TG30
+TG31
+TG32
+TL07
+TL28
+TL57
+TL78
+TM08
+TM49
+TQ33
+TQ61
+TQ71
+
+

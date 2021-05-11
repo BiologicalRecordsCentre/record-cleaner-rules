@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Laspeyria flexula
+Description=Checks date is within known recording period of Laspeyria flexula
+ErrorMsg=Date is outside known recording period of Laspeyria flexula
+Tvk=NHMSYS0000503023
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

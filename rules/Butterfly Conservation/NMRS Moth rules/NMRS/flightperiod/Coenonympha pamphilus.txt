@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Coenonympha pamphilus
+Description=Checks date is within known flight period of Coenonympha pamphilus
+ErrorMsg=Date is outside known flight period of Coenonympha pamphilus
+Tvk=NHMSYS0000519083
+DataFieldName=
+StartDate=0401
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

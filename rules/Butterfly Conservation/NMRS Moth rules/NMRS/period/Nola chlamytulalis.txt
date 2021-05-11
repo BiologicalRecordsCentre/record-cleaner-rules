@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Nola chlamytulalis
+Description=Checks date is within known recording period of Nola chlamytulalis
+ErrorMsg=Date is outside known recording period of Nola chlamytulalis
+Tvk=NBNSYS0000005269
+StartDate=20040605
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

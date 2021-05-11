@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Operophtera fagata
+Description=Checks date is within known recording period of Operophtera fagata
+ErrorMsg=Date is outside known recording period of Operophtera fagata
+Tvk=NBNSYS0000005880
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Aporophyla australis subsp. pascuea
+Description=Checks date is within known flight period of Aporophyla australis subsp. pascuea
+ErrorMsg=Date is outside known flight period of Aporophyla australis subsp. pascuea
+Tvk=NBNSYS0000006323
+DataFieldName=
+StartDate=0801
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

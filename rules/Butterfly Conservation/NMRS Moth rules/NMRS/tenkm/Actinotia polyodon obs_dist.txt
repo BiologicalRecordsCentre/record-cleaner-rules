@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Actinotia polyodon 10km
+Description=Check coordinate against known 10km distribution of Actinotia polyodon
+ErrorMsg=Coordinate outside known range for Actinotia polyodon
+DataFieldName=Species
+DataRecordId=NBNSYS0000006183
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+TA41
+TM23
+TM46
+TR02
+
+

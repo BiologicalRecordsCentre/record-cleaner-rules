@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Eupithecia exiguata subsp. muricolor
+Description=Checks date is within known recording period of Eupithecia exiguata subsp. muricolor
+ErrorMsg=Date is outside known recording period of Eupithecia exiguata subsp. muricolor
+Tvk=NBNSYS0000005221
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Lithophane furcifera
+Description=Checks date is within known flight period of Lithophane furcifera
+ErrorMsg=Date is outside known flight period of Lithophane furcifera
+Tvk=NBNSYS0000006331
+DataFieldName=
+StartDate=0630
+EndDate=0801
+ReverseRule=True
+LastChanged=20120126
+[EndMetadata]
+
+         

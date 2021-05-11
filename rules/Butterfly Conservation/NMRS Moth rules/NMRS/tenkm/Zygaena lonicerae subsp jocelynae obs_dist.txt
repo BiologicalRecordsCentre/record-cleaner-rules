@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Zygaena lonicerae subsp. jocelynae 10km
+Description=Check coordinate against known 10km distribution of Zygaena lonicerae subsp. jocelynae
+ErrorMsg=Coordinate outside known range for Zygaena lonicerae subsp. jocelynae
+DataFieldName=Species
+DataRecordId=NBNSYS0000005678
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NG33
+
+

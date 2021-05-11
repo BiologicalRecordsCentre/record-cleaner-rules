@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Callopistria juventina 10km
+Description=Check coordinate against known 10km distribution of Callopistria juventina
+ErrorMsg=Coordinate outside known range for Callopistria juventina
+DataFieldName=Species
+DataRecordId=NBNSYS0000006404
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SY89
+SZ89
+
+

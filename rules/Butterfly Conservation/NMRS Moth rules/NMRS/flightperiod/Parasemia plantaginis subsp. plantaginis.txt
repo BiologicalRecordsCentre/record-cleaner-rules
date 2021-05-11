@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Parasemia plantaginis subsp. plantaginis
+Description=Checks date is within known flight period of Parasemia plantaginis subsp. plantaginis
+ErrorMsg=Date is outside known flight period of Parasemia plantaginis subsp. plantaginis
+Tvk=NBNSYS0000005263
+DataFieldName=
+StartDate=0401
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

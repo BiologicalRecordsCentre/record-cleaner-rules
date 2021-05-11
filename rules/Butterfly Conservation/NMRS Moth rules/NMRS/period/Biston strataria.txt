@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Biston strataria
+Description=Checks date is within known recording period of Biston strataria
+ErrorMsg=Date is outside known recording period of Biston strataria
+Tvk=NBNSYS0000006021
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

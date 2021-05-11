@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Gortyna borelii subsp. lunata
+Description=Checks date is within known flight period of Gortyna borelii subsp. lunata
+ErrorMsg=Date is outside known flight period of Gortyna borelii subsp. lunata
+Tvk=NBNSYS0000006470
+DataFieldName=
+StartDate=0801
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

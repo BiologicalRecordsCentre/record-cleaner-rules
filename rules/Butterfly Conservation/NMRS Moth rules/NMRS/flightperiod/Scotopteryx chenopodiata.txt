@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Scotopteryx chenopodiata
+Description=Checks date is within known flight period of Scotopteryx chenopodiata
+ErrorMsg=Date is outside known flight period of Scotopteryx chenopodiata
+Tvk=NBNSYS0000005807
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

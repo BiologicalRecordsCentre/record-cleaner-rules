@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Hepialus humuli subsp. humuli
+Description=Checks date is within known recording period of Hepialus humuli subsp. humuli
+ErrorMsg=Date is outside known recording period of Hepialus humuli subsp. humuli
+Tvk=NBNSYS0000005654
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

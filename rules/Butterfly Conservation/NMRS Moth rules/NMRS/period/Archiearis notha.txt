@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Archiearis notha
+Description=Checks date is within known recording period of Archiearis notha
+ErrorMsg=Date is outside known recording period of Archiearis notha
+Tvk=NHMSYS0000501171
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

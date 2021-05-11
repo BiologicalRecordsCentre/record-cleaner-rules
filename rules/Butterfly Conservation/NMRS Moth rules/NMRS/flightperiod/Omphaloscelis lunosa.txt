@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Omphaloscelis lunosa
+Description=Checks date is within known flight period of Omphaloscelis lunosa
+ErrorMsg=Date is outside known flight period of Omphaloscelis lunosa
+Tvk=NBNSYS0000006365
+DataFieldName=
+StartDate=0701
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Eupithecia trisignaria
+Description=Checks date is within known flight period of Eupithecia trisignaria
+ErrorMsg=Date is outside known flight period of Eupithecia trisignaria
+Tvk=NHMSYS0000502623
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

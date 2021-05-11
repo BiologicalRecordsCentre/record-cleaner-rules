@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Clostera curtula
+Description=Checks date is within known flight period of Clostera curtula
+ErrorMsg=Date is outside known flight period of Clostera curtula
+Tvk=NBNSYS0000006105
+DataFieldName=
+StartDate=0301
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

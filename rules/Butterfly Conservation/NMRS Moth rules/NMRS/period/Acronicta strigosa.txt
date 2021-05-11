@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Acronicta strigosa
+Description=Checks date is within known recording period of Acronicta strigosa
+ErrorMsg=Date is outside known recording period of Acronicta strigosa
+Tvk=NHMSYS0000500981
+StartDate=17000101
+EndDate=19331231
+LastChanged=20110328
+[EndMetadata]
+
+         

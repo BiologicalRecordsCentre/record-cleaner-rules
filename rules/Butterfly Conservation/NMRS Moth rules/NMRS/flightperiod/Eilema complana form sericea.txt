@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Eilema complana form sericea
+Description=Checks date is within known flight period of Eilema complana form sericea
+ErrorMsg=Date is outside known flight period of Eilema complana form sericea
+Tvk=NHMSYS0000502289
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

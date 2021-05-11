@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Lomographa bimaculata
+Description=Checks date is within known recording period of Lomographa bimaculata
+ErrorMsg=Date is outside known recording period of Lomographa bimaculata
+Tvk=NBNSYS0000006049
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

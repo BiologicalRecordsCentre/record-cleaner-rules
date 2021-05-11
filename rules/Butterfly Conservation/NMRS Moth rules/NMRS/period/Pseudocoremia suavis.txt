@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Pseudocoremia suavis
+Description=Checks date is within known recording period of Pseudocoremia suavis
+ErrorMsg=Date is outside known recording period of Pseudocoremia suavis
+Tvk=NHMSYS0020531231
+StartDate=20070415
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

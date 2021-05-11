@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Euphyia biangulata
+Description=Checks date is within known flight period of Euphyia biangulata
+ErrorMsg=Date is outside known flight period of Euphyia biangulata
+Tvk=NBNSYS0000005873
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

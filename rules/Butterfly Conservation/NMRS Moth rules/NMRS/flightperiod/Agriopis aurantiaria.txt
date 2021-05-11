@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Agriopis aurantiaria
+Description=Checks date is within known flight period of Agriopis aurantiaria
+ErrorMsg=Date is outside known flight period of Agriopis aurantiaria
+Tvk=NHMSYS0000501078
+DataFieldName=
+StartDate=0901
+EndDate=1231
+LastChanged=20110328
+[EndMetadata]
+
+         

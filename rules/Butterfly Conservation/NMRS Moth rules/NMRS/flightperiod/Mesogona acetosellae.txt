@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Mesogona acetosellae
+Description=Checks date is within known flight period of Mesogona acetosellae
+ErrorMsg=Date is outside known flight period of Mesogona acetosellae
+Tvk=NHMSYS0000503205
+DataFieldName=
+StartDate=0701
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

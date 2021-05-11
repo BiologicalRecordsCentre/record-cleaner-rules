@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Polyploca ridens
+Description=Checks date is within known flight period of Polyploca ridens
+ErrorMsg=Date is outside known flight period of Polyploca ridens
+Tvk=NBNSYS0000005733
+DataFieldName=
+StartDate=0301
+EndDate=0630
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Operophtera brumata
+Description=Checks date is within known flight period of Operophtera brumata
+ErrorMsg=Date is outside known flight period of Operophtera brumata
+Tvk=NBNSYS0000005879
+DataFieldName=
+StartDate=0228
+EndDate=0901
+ReverseRule=True
+LastChanged=20120126
+[EndMetadata]
+
+         

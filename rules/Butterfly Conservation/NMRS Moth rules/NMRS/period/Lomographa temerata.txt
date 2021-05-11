@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Lomographa temerata
+Description=Checks date is within known recording period of Lomographa temerata
+ErrorMsg=Date is outside known recording period of Lomographa temerata
+Tvk=NHMSYS0000503094
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

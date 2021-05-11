@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Apamea sublustris
+Description=Checks date is within known recording period of Apamea sublustris
+ErrorMsg=Date is outside known recording period of Apamea sublustris
+Tvk=NBNSYS0000006419
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

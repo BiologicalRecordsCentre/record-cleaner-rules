@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Idaea sylvestraria
+Description=Checks date is within known recording period of Idaea sylvestraria
+ErrorMsg=Date is outside known recording period of Idaea sylvestraria
+Tvk=NHMSYS0000502934
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

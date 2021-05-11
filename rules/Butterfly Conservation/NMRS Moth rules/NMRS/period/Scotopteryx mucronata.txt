@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Scotopteryx mucronata
+Description=Checks date is within known recording period of Scotopteryx mucronata
+ErrorMsg=Date is outside known recording period of Scotopteryx mucronata
+Tvk=NBNSYS0000005809
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

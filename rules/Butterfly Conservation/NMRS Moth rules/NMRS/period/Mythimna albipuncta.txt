@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Mythimna albipuncta
+Description=Checks date is within known recording period of Mythimna albipuncta
+ErrorMsg=Date is outside known recording period of Mythimna albipuncta
+Tvk=NHMSYS0000503309
+StartDate=19850101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

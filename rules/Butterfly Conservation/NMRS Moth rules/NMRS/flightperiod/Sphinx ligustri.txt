@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Sphinx ligustri
+Description=Checks date is within known flight period of Sphinx ligustri
+ErrorMsg=Date is outside known flight period of Sphinx ligustri
+Tvk=NBNSYS0000006065
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

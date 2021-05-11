@@ -1,0 +1,48 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Eugnorisma glareosa form edda 10km
+Description=Check coordinate against known 10km distribution of Eugnorisma glareosa form edda
+ErrorMsg=Coordinate outside known range for Eugnorisma glareosa form edda
+DataFieldName=Species
+DataRecordId=NHMSYS0000502567
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+HP60
+HP61
+HU38
+HU43
+HZ27
+NF74
+NH80
+NO69
+NR78
+NS84
+NS86
+NS97
+NT04
+NT06
+NY30
+NY44
+NZ61
+SD59
+SE12
+SE15
+SE22
+SE24
+SE43
+SM83
+SN13
+SN14
+SS84
+ST14
+SU10
+TL25
+TL31
+TL66
+TL81
+
+

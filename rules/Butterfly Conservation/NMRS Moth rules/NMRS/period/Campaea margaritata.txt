@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Campaea margaritata
+Description=Checks date is within known recording period of Campaea margaritata
+ErrorMsg=Date is outside known recording period of Campaea margaritata
+Tvk=NBNSYS0000006053
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

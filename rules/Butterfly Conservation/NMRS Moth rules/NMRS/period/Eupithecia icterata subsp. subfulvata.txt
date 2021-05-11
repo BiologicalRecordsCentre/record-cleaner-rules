@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Eupithecia icterata subsp. subfulvata
+Description=Checks date is within known recording period of Eupithecia icterata subsp. subfulvata
+ErrorMsg=Date is outside known recording period of Eupithecia icterata subsp. subfulvata
+Tvk=NBNSYS0000005230
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

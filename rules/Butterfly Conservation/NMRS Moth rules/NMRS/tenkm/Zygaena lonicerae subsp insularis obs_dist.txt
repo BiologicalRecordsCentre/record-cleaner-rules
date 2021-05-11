@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Zygaena lonicerae subsp. insularis 10km
+Description=Check coordinate against known 10km distribution of Zygaena lonicerae subsp. insularis
+ErrorMsg=Coordinate outside known range for Zygaena lonicerae subsp. insularis
+DataFieldName=Species
+DataRecordId=NBNSYS0000005195
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NS96
+NT07
+NT47
+NT48
+NT77
+NZ72
+SK55
+SK68
+
+

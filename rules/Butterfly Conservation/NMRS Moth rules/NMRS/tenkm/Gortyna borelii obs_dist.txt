@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Gortyna borelii 10km
+Description=Check coordinate against known 10km distribution of Gortyna borelii
+ErrorMsg=Coordinate outside known range for Gortyna borelii
+DataFieldName=Species
+DataRecordId=NHMSYS0000520248
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+TM11
+TM12
+TM21
+TM22
+TM23
+TR26
+
+

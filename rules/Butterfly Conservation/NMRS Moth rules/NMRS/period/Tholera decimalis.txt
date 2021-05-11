@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Tholera decimalis
+Description=Checks date is within known recording period of Tholera decimalis
+ErrorMsg=Date is outside known recording period of Tholera decimalis
+Tvk=NBNSYS0000006271
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

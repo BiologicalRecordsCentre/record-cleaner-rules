@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Emmelia trabealis
+Description=Checks date is within known recording period of Emmelia trabealis
+ErrorMsg=Date is outside known recording period of Emmelia trabealis
+Tvk=NBNSYS0000006520
+StartDate=17000101
+EndDate=19601231
+LastChanged=20110328
+[EndMetadata]
+
+         

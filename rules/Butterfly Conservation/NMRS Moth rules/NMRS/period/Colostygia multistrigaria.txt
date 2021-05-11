@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Colostygia multistrigaria
+Description=Checks date is within known recording period of Colostygia multistrigaria
+ErrorMsg=Date is outside known recording period of Colostygia multistrigaria
+Tvk=NBNSYS0000005855
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

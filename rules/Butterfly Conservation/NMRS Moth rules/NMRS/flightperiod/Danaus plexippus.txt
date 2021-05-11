@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Danaus plexippus
+Description=Checks date is within known flight period of Danaus plexippus
+ErrorMsg=Date is outside known flight period of Danaus plexippus
+Tvk=NHMSYS0000502090
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

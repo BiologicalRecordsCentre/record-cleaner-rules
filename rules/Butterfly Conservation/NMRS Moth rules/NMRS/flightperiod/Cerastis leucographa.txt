@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Cerastis leucographa
+Description=Checks date is within known flight period of Cerastis leucographa
+ErrorMsg=Date is outside known flight period of Cerastis leucographa
+Tvk=NHMSYS0000501719
+DataFieldName=
+StartDate=0201
+EndDate=0531
+LastChanged=20110328
+[EndMetadata]
+
+         

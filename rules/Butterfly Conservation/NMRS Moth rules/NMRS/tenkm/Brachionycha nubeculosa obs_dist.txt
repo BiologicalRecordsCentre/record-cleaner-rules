@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Brachionycha nubeculosa 10km
+Description=Check coordinate against known 10km distribution of Brachionycha nubeculosa
+ErrorMsg=Coordinate outside known range for Brachionycha nubeculosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000006321
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NH21
+NH22
+NH31
+NH33
+NH43
+NH44
+NH45
+NH53
+NH54
+NH70
+NH80
+NH81
+NH82
+NH91
+NH92
+NH94
+NJ01
+NJ02
+NN55
+NN65
+NN79
+NO08
+NO09
+NO18
+NO19
+
+

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Triphosa dubitata
+Description=Checks date is within known recording period of Triphosa dubitata
+ErrorMsg=Date is outside known recording period of Triphosa dubitata
+Tvk=NBNSYS0000005870
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

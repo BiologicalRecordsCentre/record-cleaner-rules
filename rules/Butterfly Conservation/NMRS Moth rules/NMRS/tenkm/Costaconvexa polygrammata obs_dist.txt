@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Costaconvexa polygrammata 10km
+Description=Check coordinate against known 10km distribution of Costaconvexa polygrammata
+ErrorMsg=Coordinate outside known range for Costaconvexa polygrammata
+DataFieldName=Species
+DataRecordId=NBNSYS0000005819
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NZ36
+ST51
+SU51
+SX65
+SX97
+SY09
+SY39
+SY49
+SY58
+SY66
+SY68
+SY79
+SZ07
+SZ39
+TA32
+TA41
+TF38
+TF74
+TG14
+TL16
+TM23
+TM33
+TM46
+TM58
+
+

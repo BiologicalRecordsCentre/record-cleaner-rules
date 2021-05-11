@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Costaconvexa polygrammata
+Description=Checks date is within known recording period of Costaconvexa polygrammata
+ErrorMsg=Date is outside known recording period of Costaconvexa polygrammata
+Tvk=NBNSYS0000005819
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

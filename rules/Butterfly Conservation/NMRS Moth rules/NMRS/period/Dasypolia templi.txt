@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Dasypolia templi
+Description=Checks date is within known recording period of Dasypolia templi
+ErrorMsg=Date is outside known recording period of Dasypolia templi
+Tvk=NBNSYS0000006322
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

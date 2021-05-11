@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Archanara algae 10km
+Description=Check coordinate against known 10km distribution of Archanara algae
+ErrorMsg=Coordinate outside known range for Archanara algae
+DataFieldName=Species
+DataRecordId=NBNSYS0000006479
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NS84
+SK97
+ST00
+SZ39
+TF94
+TG01
+TG12
+TG20
+TG30
+TG32
+TG41
+TG42
+TL07
+TL28
+TL86
+TL99
+TM57
+TQ12
+TQ13
+TQ34
+TR35
+
+

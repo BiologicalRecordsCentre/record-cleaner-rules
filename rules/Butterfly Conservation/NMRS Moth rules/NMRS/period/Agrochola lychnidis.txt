@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Agrochola lychnidis
+Description=Checks date is within known recording period of Agrochola lychnidis
+ErrorMsg=Date is outside known recording period of Agrochola lychnidis
+Tvk=NHMSYS0000501173
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

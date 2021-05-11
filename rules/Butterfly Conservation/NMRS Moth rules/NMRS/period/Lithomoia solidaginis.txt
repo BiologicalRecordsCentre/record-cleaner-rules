@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Lithomoia solidaginis
+Description=Checks date is within known recording period of Lithomoia solidaginis
+ErrorMsg=Date is outside known recording period of Lithomoia solidaginis
+Tvk=NHMSYS0000503074
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

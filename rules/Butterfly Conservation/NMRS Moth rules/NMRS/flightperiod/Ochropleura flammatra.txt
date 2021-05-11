@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Ochropleura flammatra
+Description=Checks date is within known flight period of Ochropleura flammatra
+ErrorMsg=Date is outside known flight period of Ochropleura flammatra
+Tvk=NHMSYS0000503437
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

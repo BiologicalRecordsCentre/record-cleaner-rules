@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Mesogona acetosellae
+Description=Checks date is within known recording period of Mesogona acetosellae
+ErrorMsg=Date is outside known recording period of Mesogona acetosellae
+Tvk=NHMSYS0000503205
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

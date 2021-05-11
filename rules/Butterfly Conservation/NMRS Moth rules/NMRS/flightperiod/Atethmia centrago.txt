@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Atethmia centrago
+Description=Checks date is within known flight period of Atethmia centrago
+ErrorMsg=Date is outside known flight period of Atethmia centrago
+Tvk=NBNSYS0000006364
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

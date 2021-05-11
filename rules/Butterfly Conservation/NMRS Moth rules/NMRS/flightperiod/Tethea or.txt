@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Tethea or
+Description=Checks date is within known flight period of Tethea or
+ErrorMsg=Date is outside known flight period of Tethea or
+Tvk=NHMSYS0000521108
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

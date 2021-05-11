@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Crocallis dardoinaria
+Description=Checks date is within known recording period of Crocallis dardoinaria
+ErrorMsg=Date is outside known recording period of Crocallis dardoinaria
+Tvk=NHMSYS0020531189
+StartDate=20060923
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

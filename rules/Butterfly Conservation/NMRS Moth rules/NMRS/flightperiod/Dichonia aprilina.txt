@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Dichonia aprilina
+Description=Checks date is within known flight period of Dichonia aprilina
+ErrorMsg=Date is outside known flight period of Dichonia aprilina
+Tvk=NBNSYS0000006340
+DataFieldName=
+StartDate=0801
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

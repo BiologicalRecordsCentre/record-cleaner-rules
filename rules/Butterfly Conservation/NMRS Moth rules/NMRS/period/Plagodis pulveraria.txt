@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Plagodis pulveraria
+Description=Checks date is within known recording period of Plagodis pulveraria
+ErrorMsg=Date is outside known recording period of Plagodis pulveraria
+Tvk=NBNSYS0000005994
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

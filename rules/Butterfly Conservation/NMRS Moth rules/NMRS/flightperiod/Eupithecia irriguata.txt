@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Eupithecia irriguata
+Description=Checks date is within known flight period of Eupithecia irriguata
+ErrorMsg=Date is outside known flight period of Eupithecia irriguata
+Tvk=NHMSYS0000502608
+DataFieldName=
+StartDate=0301
+EndDate=0630
+LastChanged=20110328
+[EndMetadata]
+
+         

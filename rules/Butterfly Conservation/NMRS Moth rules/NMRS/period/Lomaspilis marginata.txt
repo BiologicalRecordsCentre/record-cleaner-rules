@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Lomaspilis marginata
+Description=Checks date is within known recording period of Lomaspilis marginata
+ErrorMsg=Date is outside known recording period of Lomaspilis marginata
+Tvk=NBNSYS0000005978
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

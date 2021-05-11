@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Idaea ochrata 10km
+Description=Check coordinate against known 10km distribution of Idaea ochrata
+ErrorMsg=Coordinate outside known range for Idaea ochrata
+DataFieldName=Species
+DataRecordId=NHMSYS0000520553
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+ST40
+SV91
+SY66
+SZ79
+SZ89
+TG50
+TM33
+TM44
+TR26
+TR34
+TR35
+TR36
+TR37
+
+

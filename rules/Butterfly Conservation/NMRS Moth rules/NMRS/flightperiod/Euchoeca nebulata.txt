@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Euchoeca nebulata
+Description=Checks date is within known flight period of Euchoeca nebulata
+ErrorMsg=Date is outside known flight period of Euchoeca nebulata
+Tvk=NBNSYS0000005965
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

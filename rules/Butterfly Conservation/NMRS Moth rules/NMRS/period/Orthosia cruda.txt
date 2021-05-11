@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Orthosia cruda
+Description=Checks date is within known recording period of Orthosia cruda
+ErrorMsg=Date is outside known recording period of Orthosia cruda
+Tvk=NHMSYS0000503515
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

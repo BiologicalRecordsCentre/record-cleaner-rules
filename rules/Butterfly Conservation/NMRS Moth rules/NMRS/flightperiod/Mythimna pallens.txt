@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Mythimna pallens
+Description=Checks date is within known flight period of Mythimna pallens
+ErrorMsg=Date is outside known flight period of Mythimna pallens
+Tvk=NBNSYS0000006292
+DataFieldName=
+StartDate=0501
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

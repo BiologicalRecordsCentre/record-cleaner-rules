@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Lithophane lamda
+Description=Checks date is within known flight period of Lithophane lamda
+ErrorMsg=Date is outside known flight period of Lithophane lamda
+Tvk=NBNSYS0000006332
+DataFieldName=
+StartDate=0801
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Axylia putris
+Description=Checks date is within known recording period of Axylia putris
+ErrorMsg=Date is outside known recording period of Axylia putris
+Tvk=NBNSYS0000006184
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

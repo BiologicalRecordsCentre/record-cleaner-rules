@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Chortodes brevilinea
+Description=Checks date is within known recording period of Chortodes brevilinea
+ErrorMsg=Date is outside known recording period of Chortodes brevilinea
+Tvk=NBNSYS0100002385
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

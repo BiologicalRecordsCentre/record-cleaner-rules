@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Gortyna flavago
+Description=Checks date is within known flight period of Gortyna flavago
+ErrorMsg=Date is outside known flight period of Gortyna flavago
+Tvk=NHMSYS0000502755
+DataFieldName=
+StartDate=0701
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

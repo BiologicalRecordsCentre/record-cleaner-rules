@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Acontia lucida 10km
+Description=Check coordinate against known 10km distribution of Acontia lucida
+ErrorMsg=Coordinate outside known range for Acontia lucida
+DataFieldName=Species
+DataRecordId=NBNSYS0000006521
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SU65
+SU80
+SV91
+SY58
+SY66
+SZ57
+TL01
+TM47
+TR01
+TR02
+TR25
+
+

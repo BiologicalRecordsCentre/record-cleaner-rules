@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Zygaena viciae subsp. argyllensis
+Description=Checks date is within known recording period of Zygaena viciae subsp. argyllensis
+ErrorMsg=Date is outside known recording period of Zygaena viciae subsp. argyllensis
+Tvk=NBNSYS0000005191
+StartDate=19630101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

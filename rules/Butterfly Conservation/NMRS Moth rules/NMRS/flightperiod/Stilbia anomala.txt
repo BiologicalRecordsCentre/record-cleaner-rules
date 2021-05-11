@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Stilbia anomala
+Description=Checks date is within known flight period of Stilbia anomala
+ErrorMsg=Date is outside known flight period of Stilbia anomala
+Tvk=NBNSYS0000006500
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

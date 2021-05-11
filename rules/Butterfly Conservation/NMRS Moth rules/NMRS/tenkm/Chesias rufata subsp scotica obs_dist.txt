@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Chesias rufata subsp. scotica 10km
+Description=Check coordinate against known 10km distribution of Chesias rufata subsp. scotica
+ErrorMsg=Coordinate outside known range for Chesias rufata subsp. scotica
+DataFieldName=Species
+DataRecordId=NHMSYS0000501741
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NH91
+NH92
+NH95
+NH96
+NJ03
+NJ06
+NO69
+
+

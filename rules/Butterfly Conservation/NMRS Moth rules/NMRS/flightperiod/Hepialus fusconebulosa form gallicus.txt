@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Hepialus fusconebulosa form gallicus
+Description=Checks date is within known flight period of Hepialus fusconebulosa form gallicus
+ErrorMsg=Date is outside known flight period of Hepialus fusconebulosa form gallicus
+Tvk=MM0001Z1OSO5W1Z3
+DataFieldName=
+StartDate=0401
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

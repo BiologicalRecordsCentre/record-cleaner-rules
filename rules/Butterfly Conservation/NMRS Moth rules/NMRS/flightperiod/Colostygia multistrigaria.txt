@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Colostygia multistrigaria
+Description=Checks date is within known flight period of Colostygia multistrigaria
+ErrorMsg=Date is outside known flight period of Colostygia multistrigaria
+Tvk=NBNSYS0000005855
+DataFieldName=
+StartDate=0201
+EndDate=0531
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Scotopteryx bipunctaria
+Description=Checks date is within known recording period of Scotopteryx bipunctaria
+ErrorMsg=Date is outside known recording period of Scotopteryx bipunctaria
+Tvk=NHMSYS0000521353
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Eugnorisma glareosa form edda
+Description=Checks date is within known flight period of Eugnorisma glareosa form edda
+ErrorMsg=Date is outside known flight period of Eugnorisma glareosa form edda
+Tvk=NHMSYS0000502567
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

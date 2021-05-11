@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Eilema lurideola
+Description=Checks date is within known recording period of Eilema lurideola
+ErrorMsg=Date is outside known recording period of Eilema lurideola
+Tvk=NBNSYS0000006136
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

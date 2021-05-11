@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Hypena rostralis
+Description=Checks date is within known flight period of Hypena rostralis
+ErrorMsg=Date is outside known flight period of Hypena rostralis
+Tvk=NBNSYS0000006584
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20120126
+[EndMetadata]
+
+         

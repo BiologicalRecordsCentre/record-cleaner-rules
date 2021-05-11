@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Cyclophora puppillaria
+Description=Checks date is within known recording period of Cyclophora puppillaria
+ErrorMsg=Date is outside known recording period of Cyclophora puppillaria
+Tvk=NHMSYS0000502052
+StartDate=20040101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

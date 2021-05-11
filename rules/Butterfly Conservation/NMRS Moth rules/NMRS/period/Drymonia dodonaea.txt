@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Drymonia dodonaea
+Description=Checks date is within known recording period of Drymonia dodonaea
+ErrorMsg=Date is outside known recording period of Drymonia dodonaea
+Tvk=NHMSYS0000502224
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

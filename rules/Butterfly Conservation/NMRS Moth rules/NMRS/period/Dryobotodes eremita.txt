@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Dryobotodes eremita
+Description=Checks date is within known recording period of Dryobotodes eremita
+ErrorMsg=Date is outside known recording period of Dryobotodes eremita
+Tvk=NBNSYS0000006341
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

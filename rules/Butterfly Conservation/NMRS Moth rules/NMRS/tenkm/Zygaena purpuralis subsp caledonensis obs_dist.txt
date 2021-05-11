@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Zygaena purpuralis subsp. caledonensis 10km
+Description=Check coordinate against known 10km distribution of Zygaena purpuralis subsp. caledonensis
+ErrorMsg=Coordinate outside known range for Zygaena purpuralis subsp. caledonensis
+DataFieldName=Species
+DataRecordId=NBNSYS0000005681
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NG33
+NM33
+NM34
+NM35
+NM41
+NM42
+NM43
+NM44
+NM45
+NM52
+NM82
+NM92
+NM93
+
+

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Ematurga atomaria form minuta
+Description=Checks date is within known recording period of Ematurga atomaria form minuta
+ErrorMsg=Date is outside known recording period of Ematurga atomaria form minuta
+Tvk=NBNSYS0100002960
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Utetheisa pulchella 10km
+Description=Check coordinate against known 10km distribution of Utetheisa pulchella
+ErrorMsg=Coordinate outside known range for Utetheisa pulchella
+DataFieldName=Species
+DataRecordId=NBNSYS0000006140
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SJ64
+SM70
+SO95
+SS20
+SS48
+ST22
+SU50
+SU51
+SV80
+SV91
+SW32
+SW33
+SW42
+SW52
+SW61
+SW62
+SW71
+SW72
+SX05
+SX46
+SX56
+SX86
+SY08
+SY49
+SY58
+SY66
+SY67
+SZ38
+SZ57
+SZ79
+TQ01
+TQ10
+TR01
+TR23
+TV59
+
+

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Eucarta virgo
+Description=Checks date is within known recording period of Eucarta virgo
+ErrorMsg=Date is outside known recording period of Eucarta virgo
+Tvk=NHMSYS0020758196
+StartDate=20060629
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

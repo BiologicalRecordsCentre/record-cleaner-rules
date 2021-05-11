@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Amphipyra berbera
+Description=Checks date is within known recording period of Amphipyra berbera
+ErrorMsg=Date is outside known recording period of Amphipyra berbera
+Tvk=NHMSYS0000517008
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

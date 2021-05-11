@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Diarsia dahlii
+Description=Checks date is within known flight period of Diarsia dahlii
+ErrorMsg=Date is outside known flight period of Diarsia dahlii
+Tvk=NHMSYS0000502143
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

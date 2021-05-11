@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Xanthorhoe decoloraria subsp. hethlandica
+Description=Checks date is within known recording period of Xanthorhoe decoloraria subsp. hethlandica
+ErrorMsg=Date is outside known recording period of Xanthorhoe decoloraria subsp. hethlandica
+Tvk=NHMSYS0000504657
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

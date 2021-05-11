@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Meganola strigula
+Description=Checks date is within known flight period of Meganola strigula
+ErrorMsg=Date is outside known flight period of Meganola strigula
+Tvk=NHMSYS0000503183
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

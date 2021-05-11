@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Epione vespertaria
+Description=Checks date is within known flight period of Epione vespertaria
+ErrorMsg=Date is outside known flight period of Epione vespertaria
+Tvk=NBNSYS0100003050
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

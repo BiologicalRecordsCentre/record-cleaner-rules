@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Hadena bicruris
+Description=Checks date is within known recording period of Hadena bicruris
+ErrorMsg=Date is outside known recording period of Hadena bicruris
+Tvk=NBNSYS0000006266
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

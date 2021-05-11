@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Ipimorpha retusa
+Description=Checks date is within known flight period of Ipimorpha retusa
+ErrorMsg=Date is outside known flight period of Ipimorpha retusa
+Tvk=NHMSYS0000502954
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

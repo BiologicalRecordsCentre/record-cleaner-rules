@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Epirrhoe alternata subsp. obscurata 10km
+Description=Check coordinate against known 10km distribution of Epirrhoe alternata subsp. obscurata
+ErrorMsg=Coordinate outside known range for Epirrhoe alternata subsp. obscurata
+DataFieldName=Species
+DataRecordId=NBNSYS0000005204
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NF60
+NF71
+NF72
+NF73
+NF74
+NH21
+NL94
+NO69
+NS84
+SE23
+SE35
+SK37
+ST14
+ST22
+ST75
+SU10
+SU65
+SU76
+SY08
+SZ39
+SZ89
+TF36
+TL41
+TQ49
+TQ70
+TQ81
+TQ91
+
+

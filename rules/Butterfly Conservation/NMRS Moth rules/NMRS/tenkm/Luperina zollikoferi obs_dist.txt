@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Luperina zollikoferi 10km
+Description=Check coordinate against known 10km distribution of Luperina zollikoferi
+ErrorMsg=Coordinate outside known range for Luperina zollikoferi
+DataFieldName=Species
+DataRecordId=NBNSYS0000006461
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+ST41
+
+

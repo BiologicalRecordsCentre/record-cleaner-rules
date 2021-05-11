@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Catocala elocata
+Description=Checks date is within known recording period of Catocala elocata
+ErrorMsg=Date is outside known recording period of Catocala elocata
+Tvk=NBNSYS0000005301
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

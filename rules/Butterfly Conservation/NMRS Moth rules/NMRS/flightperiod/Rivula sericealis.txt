@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Rivula sericealis
+Description=Checks date is within known flight period of Rivula sericealis
+ErrorMsg=Date is outside known flight period of Rivula sericealis
+Tvk=NBNSYS0000006578
+DataFieldName=
+StartDate=0501
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

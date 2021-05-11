@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Mesoligia furuncula
+Description=Checks date is within known recording period of Mesoligia furuncula
+ErrorMsg=Date is outside known recording period of Mesoligia furuncula
+Tvk=NHMSYS0000503208
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Hadena compta
+Description=Checks date is within known flight period of Hadena compta
+ErrorMsg=Date is outside known flight period of Hadena compta
+Tvk=NHMSYS0000502792
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

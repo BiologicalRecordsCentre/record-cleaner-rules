@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Jordanita globulariae
+Description=Checks date is within known recording period of Jordanita globulariae
+ErrorMsg=Date is outside known recording period of Jordanita globulariae
+Tvk=NHMSYS0000502970
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

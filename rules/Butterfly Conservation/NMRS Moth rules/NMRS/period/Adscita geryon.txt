@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Adscita geryon
+Description=Checks date is within known recording period of Adscita geryon
+ErrorMsg=Date is outside known recording period of Adscita geryon
+Tvk=NHMSYS0000501001
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

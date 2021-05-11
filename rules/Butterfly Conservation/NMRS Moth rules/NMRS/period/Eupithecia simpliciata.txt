@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Eupithecia simpliciata
+Description=Checks date is within known recording period of Eupithecia simpliciata
+ErrorMsg=Date is outside known recording period of Eupithecia simpliciata
+Tvk=NBNSYS0000005930
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

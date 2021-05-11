@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Thaumetopoea processionea
+Description=Checks date is within known recording period of Thaumetopoea processionea
+ErrorMsg=Date is outside known recording period of Thaumetopoea processionea
+Tvk=NBNSYS0000006108
+StartDate=20060101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

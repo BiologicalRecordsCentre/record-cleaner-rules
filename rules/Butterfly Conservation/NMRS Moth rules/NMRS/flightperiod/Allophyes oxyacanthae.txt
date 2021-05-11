@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Allophyes oxyacanthae
+Description=Checks date is within known flight period of Allophyes oxyacanthae
+ErrorMsg=Date is outside known flight period of Allophyes oxyacanthae
+Tvk=NBNSYS0000006338
+DataFieldName=
+StartDate=0801
+EndDate=1231
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Everes argiades
+Description=Checks date is within known flight period of Everes argiades
+ErrorMsg=Date is outside known flight period of Everes argiades
+Tvk=NHMSYS0020755517
+DataFieldName=
+StartDate=0701
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

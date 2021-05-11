@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Caradrina morpheus
+Description=Checks date is within known flight period of Caradrina morpheus
+ErrorMsg=Date is outside known flight period of Caradrina morpheus
+Tvk=NBNSYS0000006492
+DataFieldName=
+StartDate=0501
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

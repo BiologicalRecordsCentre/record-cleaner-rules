@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Euplexia lucipara
+Description=Checks date is within known flight period of Euplexia lucipara
+ErrorMsg=Date is outside known flight period of Euplexia lucipara
+Tvk=NBNSYS0000006401
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

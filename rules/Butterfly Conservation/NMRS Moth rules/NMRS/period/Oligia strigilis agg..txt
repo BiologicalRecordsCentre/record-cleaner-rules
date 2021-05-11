@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Oligia strigilis agg.
+Description=Checks date is within known recording period of Oligia strigilis agg.
+ErrorMsg=Date is outside known recording period of Oligia strigilis agg.
+Tvk=NHMSYS0001703675
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Daphnis nerii
+Description=Checks date is within known flight period of Daphnis nerii
+ErrorMsg=Date is outside known flight period of Daphnis nerii
+Tvk=NBNSYS0000006073
+DataFieldName=
+StartDate=0701
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

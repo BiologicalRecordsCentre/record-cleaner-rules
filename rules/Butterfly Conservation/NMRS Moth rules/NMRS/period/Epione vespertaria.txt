@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Epione vespertaria
+Description=Checks date is within known recording period of Epione vespertaria
+ErrorMsg=Date is outside known recording period of Epione vespertaria
+Tvk=NBNSYS0100003050
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

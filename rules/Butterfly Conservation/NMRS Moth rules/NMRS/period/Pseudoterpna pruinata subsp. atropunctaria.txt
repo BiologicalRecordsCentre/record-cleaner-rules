@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Pseudoterpna pruinata subsp. atropunctaria
+Description=Checks date is within known recording period of Pseudoterpna pruinata subsp. atropunctaria
+ErrorMsg=Date is outside known recording period of Pseudoterpna pruinata subsp. atropunctaria
+Tvk=NBNSYS0000005738
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

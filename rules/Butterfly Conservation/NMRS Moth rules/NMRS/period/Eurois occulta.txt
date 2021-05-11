@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Eurois occulta
+Description=Checks date is within known recording period of Eurois occulta
+ErrorMsg=Date is outside known recording period of Eurois occulta
+Tvk=NBNSYS0000006228
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

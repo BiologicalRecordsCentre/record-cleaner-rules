@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Nola cucullatella
+Description=Checks date is within known flight period of Nola cucullatella
+ErrorMsg=Date is outside known flight period of Nola cucullatella
+Tvk=NBNSYS0000006163
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

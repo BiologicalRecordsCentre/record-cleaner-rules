@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Agrochola haematidea
+Description=Checks date is within known flight period of Agrochola haematidea
+ErrorMsg=Date is outside known flight period of Agrochola haematidea
+Tvk=NHMSYS0000501172
+DataFieldName=
+StartDate=0901
+EndDate=1231
+LastChanged=20110328
+[EndMetadata]
+
+         

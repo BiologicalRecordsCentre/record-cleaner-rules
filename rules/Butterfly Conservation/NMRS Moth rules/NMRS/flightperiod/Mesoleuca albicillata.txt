@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Mesoleuca albicillata
+Description=Checks date is within known flight period of Mesoleuca albicillata
+ErrorMsg=Date is outside known flight period of Mesoleuca albicillata
+Tvk=NBNSYS0000005828
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

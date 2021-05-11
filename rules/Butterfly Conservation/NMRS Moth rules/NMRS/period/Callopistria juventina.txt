@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Callopistria juventina
+Description=Checks date is within known recording period of Callopistria juventina
+ErrorMsg=Date is outside known recording period of Callopistria juventina
+Tvk=NBNSYS0000006404
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

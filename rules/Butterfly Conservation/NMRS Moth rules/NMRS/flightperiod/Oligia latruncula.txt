@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Oligia latruncula
+Description=Checks date is within known flight period of Oligia latruncula
+ErrorMsg=Date is outside known flight period of Oligia latruncula
+Tvk=NHMSYS0000503481
+DataFieldName=
+StartDate=0401
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

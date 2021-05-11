@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Synanthedon myopaeformis
+Description=Checks date is within known recording period of Synanthedon myopaeformis
+ErrorMsg=Date is outside known recording period of Synanthedon myopaeformis
+Tvk=NBNSYS0000005694
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

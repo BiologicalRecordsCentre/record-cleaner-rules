@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Apamea ophiogramma
+Description=Checks date is within known recording period of Apamea ophiogramma
+ErrorMsg=Date is outside known recording period of Apamea ophiogramma
+Tvk=NBNSYS0000006434
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

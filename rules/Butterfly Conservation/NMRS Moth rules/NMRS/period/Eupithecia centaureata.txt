@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Eupithecia centaureata
+Description=Checks date is within known recording period of Eupithecia centaureata
+ErrorMsg=Date is outside known recording period of Eupithecia centaureata
+Tvk=NHMSYS0000502592
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Agrotis trux subsp. lunigera
+Description=Checks date is within known flight period of Agrotis trux subsp. lunigera
+ErrorMsg=Date is outside known flight period of Agrotis trux subsp. lunigera
+Tvk=NHMSYS0000501184
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Xestia xanthographa
+Description=Checks date is within known flight period of Xestia xanthographa
+ErrorMsg=Date is outside known flight period of Xestia xanthographa
+Tvk=NHMSYS0000504671
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

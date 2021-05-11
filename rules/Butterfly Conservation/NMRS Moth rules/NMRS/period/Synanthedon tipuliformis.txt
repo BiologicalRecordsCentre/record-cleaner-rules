@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Synanthedon tipuliformis
+Description=Checks date is within known recording period of Synanthedon tipuliformis
+ErrorMsg=Date is outside known recording period of Synanthedon tipuliformis
+Tvk=NBNSYS0000005688
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

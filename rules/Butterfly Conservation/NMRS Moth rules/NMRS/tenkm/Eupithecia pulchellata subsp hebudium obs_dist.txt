@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Eupithecia pulchellata subsp. hebudium 10km
+Description=Check coordinate against known 10km distribution of Eupithecia pulchellata subsp. hebudium
+ErrorMsg=Coordinate outside known range for Eupithecia pulchellata subsp. hebudium
+DataFieldName=Species
+DataRecordId=NBNSYS0000005219
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NG14
+NG53
+NM34
+NM73
+NM83
+NM94
+NS57
+NT43
+SE18
+SH70
+SH80
+SH92
+SJ01
+SJ02
+SJ16
+SJ20
+TM22
+
+

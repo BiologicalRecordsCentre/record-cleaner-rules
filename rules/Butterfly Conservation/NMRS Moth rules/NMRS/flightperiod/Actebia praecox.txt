@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Actebia praecox
+Description=Checks date is within known flight period of Actebia praecox
+ErrorMsg=Date is outside known flight period of Actebia praecox
+Tvk=NBNSYS0000006185
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

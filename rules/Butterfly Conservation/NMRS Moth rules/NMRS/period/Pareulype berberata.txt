@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Pareulype berberata
+Description=Checks date is within known recording period of Pareulype berberata
+ErrorMsg=Date is outside known recording period of Pareulype berberata
+Tvk=NHMSYS0000503633
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Perizoma flavofasciata
+Description=Checks date is within known recording period of Perizoma flavofasciata
+ErrorMsg=Date is outside known recording period of Perizoma flavofasciata
+Tvk=NBNSYS0000005890
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

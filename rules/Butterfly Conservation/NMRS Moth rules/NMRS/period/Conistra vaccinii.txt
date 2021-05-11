@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Conistra vaccinii
+Description=Checks date is within known recording period of Conistra vaccinii
+ErrorMsg=Date is outside known recording period of Conistra vaccinii
+Tvk=NHMSYS0000501972
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

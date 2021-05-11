@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Protolampra sobrina 10km
+Description=Check coordinate against known 10km distribution of Protolampra sobrina
+ErrorMsg=Coordinate outside known range for Protolampra sobrina
+DataFieldName=Species
+DataRecordId=NHMSYS0000503924
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NH11
+NH22
+NH50
+NH70
+NH71
+NH80
+NH81
+NH82
+NH90
+NH91
+NH92
+NJ01
+NJ02
+NJ21
+NJ40
+NJ50
+NN58
+NN59
+NN63
+NN69
+NN79
+NN89
+NN96
+NO04
+NO06
+NO08
+NO09
+NO19
+NO24
+NO29
+NO38
+NO39
+NO59
+NO69
+SS49
+
+

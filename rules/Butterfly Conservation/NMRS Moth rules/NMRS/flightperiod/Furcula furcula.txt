@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Furcula furcula
+Description=Checks date is within known flight period of Furcula furcula
+ErrorMsg=Date is outside known flight period of Furcula furcula
+Tvk=NBNSYS0000006083
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Luperina testacea
+Description=Checks date is within known recording period of Luperina testacea
+ErrorMsg=Date is outside known recording period of Luperina testacea
+Tvk=NHMSYS0000503111
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

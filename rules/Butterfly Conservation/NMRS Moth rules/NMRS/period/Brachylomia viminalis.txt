@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Brachylomia viminalis
+Description=Checks date is within known recording period of Brachylomia viminalis
+ErrorMsg=Date is outside known recording period of Brachylomia viminalis
+Tvk=NBNSYS0000006318
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

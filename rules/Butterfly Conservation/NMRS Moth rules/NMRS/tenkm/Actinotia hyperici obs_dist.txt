@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Actinotia hyperici 10km
+Description=Check coordinate against known 10km distribution of Actinotia hyperici
+ErrorMsg=Coordinate outside known range for Actinotia hyperici
+DataFieldName=Species
+DataRecordId=NHMSYS0000500986
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+TM23
+TQ18
+TR23
+TV59
+
+

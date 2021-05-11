@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Papestra biren
+Description=Checks date is within known recording period of Papestra biren
+ErrorMsg=Date is outside known recording period of Papestra biren
+Tvk=NBNSYS0000006253
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

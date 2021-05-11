@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Colobochyla salicalis
+Description=Checks date is within known flight period of Colobochyla salicalis
+ErrorMsg=Date is outside known flight period of Colobochyla salicalis
+Tvk=NHMSYS0000501956
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

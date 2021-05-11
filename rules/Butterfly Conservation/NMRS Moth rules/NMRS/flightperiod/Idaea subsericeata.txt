@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Idaea subsericeata
+Description=Checks date is within known flight period of Idaea subsericeata
+ErrorMsg=Date is outside known flight period of Idaea subsericeata
+Tvk=NBNSYS0000005782
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

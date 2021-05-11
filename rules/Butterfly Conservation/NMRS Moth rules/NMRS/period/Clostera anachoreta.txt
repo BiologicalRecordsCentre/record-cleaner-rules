@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Clostera anachoreta
+Description=Checks date is within known recording period of Clostera anachoreta
+ErrorMsg=Date is outside known recording period of Clostera anachoreta
+Tvk=NHMSYS0000501320
+StartDate=19790101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Euxoa tritici
+Description=Checks date is within known flight period of Euxoa tritici
+ErrorMsg=Date is outside known flight period of Euxoa tritici
+Tvk=NBNSYS0000006167
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

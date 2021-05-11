@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Hadena luteago subsp. barrettii
+Description=Checks date is within known flight period of Hadena luteago subsp. barrettii
+ErrorMsg=Date is outside known flight period of Hadena luteago subsp. barrettii
+Tvk=NBNSYS0000006262
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

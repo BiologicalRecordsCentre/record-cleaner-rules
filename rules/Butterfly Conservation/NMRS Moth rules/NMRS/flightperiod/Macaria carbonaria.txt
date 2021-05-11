@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Macaria carbonaria
+Description=Checks date is within known flight period of Macaria carbonaria
+ErrorMsg=Date is outside known flight period of Macaria carbonaria
+Tvk=NBNSYS0100003855
+DataFieldName=
+StartDate=0301
+EndDate=0731
+LastChanged=20110328
+[EndMetadata]
+
+         

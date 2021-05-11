@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Cucullia gnaphalii
+Description=Checks date is within known recording period of Cucullia gnaphalii
+ErrorMsg=Date is outside known recording period of Cucullia gnaphalii
+Tvk=NHMSYS0000519263
+StartDate=17000101
+EndDate=19791231
+LastChanged=20110328
+[EndMetadata]
+
+         

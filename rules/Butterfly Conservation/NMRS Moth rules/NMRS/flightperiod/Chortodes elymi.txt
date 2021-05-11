@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Chortodes elymi
+Description=Checks date is within known flight period of Chortodes elymi
+ErrorMsg=Date is outside known flight period of Chortodes elymi
+Tvk=NBNSYS0100002386
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

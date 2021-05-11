@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Trichopteryx polycommata
+Description=Checks date is within known flight period of Trichopteryx polycommata
+ErrorMsg=Date is outside known flight period of Trichopteryx polycommata
+Tvk=NHMSYS0000504582
+DataFieldName=
+StartDate=0201
+EndDate=0531
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Plagodis dolabraria
+Description=Checks date is within known recording period of Plagodis dolabraria
+ErrorMsg=Date is outside known recording period of Plagodis dolabraria
+Tvk=NBNSYS0000005995
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

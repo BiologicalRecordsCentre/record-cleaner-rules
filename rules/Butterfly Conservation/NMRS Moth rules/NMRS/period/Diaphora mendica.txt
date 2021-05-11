@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Diaphora mendica
+Description=Checks date is within known recording period of Diaphora mendica
+ErrorMsg=Date is outside known recording period of Diaphora mendica
+Tvk=NBNSYS0000006149
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

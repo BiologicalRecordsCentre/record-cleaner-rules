@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Moma alpium 10km
+Description=Check coordinate against known 10km distribution of Moma alpium
+ErrorMsg=Coordinate outside known range for Moma alpium
+DataFieldName=Species
+DataRecordId=NBNSYS0000006372
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SS41
+SS42
+SS51
+SS61
+SU00
+SU01
+SU10
+SU11
+SU20
+SU21
+SU22
+SU30
+SU31
+SU32
+SU51
+SU61
+SU90
+SX25
+SY68
+SZ19
+SZ29
+SZ39
+TQ00
+TQ71
+TQ82
+TQ83
+TQ92
+TQ93
+TQ94
+TR03
+TR15
+
+

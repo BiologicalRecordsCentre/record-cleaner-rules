@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Perizoma minorata 10km
+Description=Check coordinate against known 10km distribution of Perizoma minorata
+ErrorMsg=Coordinate outside known range for Perizoma minorata
+DataFieldName=Species
+DataRecordId=NHMSYS0000522447
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+ND27
+NH26
+NH37
+NH70
+NH77
+NH90
+NJ21
+NJ42
+NN49
+NN63
+NN64
+NO19
+SD96
+SM72
+SS49
+
+

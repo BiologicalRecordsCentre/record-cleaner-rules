@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Brachionycha nubeculosa
+Description=Checks date is within known recording period of Brachionycha nubeculosa
+ErrorMsg=Date is outside known recording period of Brachionycha nubeculosa
+Tvk=NBNSYS0000006321
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

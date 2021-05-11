@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Tathorhynchus exsiccata
+Description=Checks date is within known recording period of Tathorhynchus exsiccata
+ErrorMsg=Date is outside known recording period of Tathorhynchus exsiccata
+Tvk=NBNSYS0000006391
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

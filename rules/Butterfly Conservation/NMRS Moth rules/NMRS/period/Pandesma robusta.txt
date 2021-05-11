@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Pandesma robusta
+Description=Checks date is within known recording period of Pandesma robusta
+ErrorMsg=Date is outside known recording period of Pandesma robusta
+Tvk=NHMSYS0020531225
+StartDate=20060126
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Alcis repandata form muraria 10km
+Description=Check coordinate against known 10km distribution of Alcis repandata form muraria
+ErrorMsg=Coordinate outside known range for Alcis repandata form muraria
+DataFieldName=Species
+DataRecordId=NHMSYS0000840676
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NH06
+NH90
+NH92
+NJ01
+NJ05
+NN50
+NO19
+NS43
+NS44
+NS56
+NZ61
+SE14
+SM80
+TA15
+TQ21
+TQ71
+
+

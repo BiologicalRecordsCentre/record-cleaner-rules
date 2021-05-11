@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Parastichtis suspecta
+Description=Checks date is within known recording period of Parastichtis suspecta
+ErrorMsg=Date is outside known recording period of Parastichtis suspecta
+Tvk=NHMSYS0000503621
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

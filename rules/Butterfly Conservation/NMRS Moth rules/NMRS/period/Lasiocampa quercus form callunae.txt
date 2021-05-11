@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Lasiocampa quercus form callunae
+Description=Checks date is within known recording period of Lasiocampa quercus form callunae
+ErrorMsg=Date is outside known recording period of Lasiocampa quercus form callunae
+Tvk=NHMSYS0000840695
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

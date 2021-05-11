@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Epirrhoe galiata
+Description=Checks date is within known flight period of Epirrhoe galiata
+ErrorMsg=Date is outside known flight period of Epirrhoe galiata
+Tvk=NHMSYS0000502465
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Eupithecia valerianata
+Description=Checks date is within known flight period of Eupithecia valerianata
+ErrorMsg=Date is outside known flight period of Eupithecia valerianata
+Tvk=NHMSYS0000502624
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

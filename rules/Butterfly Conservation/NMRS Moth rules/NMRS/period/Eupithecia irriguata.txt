@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Eupithecia irriguata
+Description=Checks date is within known recording period of Eupithecia irriguata
+ErrorMsg=Date is outside known recording period of Eupithecia irriguata
+Tvk=NHMSYS0000502608
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

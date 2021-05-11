@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Lycia zonaria subsp. atlantica
+Description=Checks date is within known flight period of Lycia zonaria subsp. atlantica
+ErrorMsg=Date is outside known flight period of Lycia zonaria subsp. atlantica
+Tvk=NBNSYS0000005239
+DataFieldName=
+StartDate=0201
+EndDate=0531
+LastChanged=20110328
+[EndMetadata]
+
+         

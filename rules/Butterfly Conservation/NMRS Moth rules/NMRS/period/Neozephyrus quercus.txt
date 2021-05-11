@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Neozephyrus quercus
+Description=Checks date is within known recording period of Neozephyrus quercus
+ErrorMsg=Date is outside known recording period of Neozephyrus quercus
+Tvk=NBNSYS0100004226
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

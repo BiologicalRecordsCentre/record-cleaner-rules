@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Lithophane consocia
+Description=Checks date is within known recording period of Lithophane consocia
+ErrorMsg=Date is outside known recording period of Lithophane consocia
+Tvk=NHMSYS0001703673
+StartDate=20010920
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

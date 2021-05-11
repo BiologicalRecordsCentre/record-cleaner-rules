@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Agrotis vestigialis
+Description=Checks date is within known recording period of Agrotis vestigialis
+ErrorMsg=Date is outside known recording period of Agrotis vestigialis
+Tvk=NBNSYS0000006171
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Phigalia pilosaria
+Description=Checks date is within known flight period of Phigalia pilosaria
+ErrorMsg=Date is outside known flight period of Phigalia pilosaria
+Tvk=NHMSYS0000503715
+DataFieldName=
+StartDate=0430
+EndDate=1201
+ReverseRule=True
+LastChanged=20120126
+[EndMetadata]
+
+         

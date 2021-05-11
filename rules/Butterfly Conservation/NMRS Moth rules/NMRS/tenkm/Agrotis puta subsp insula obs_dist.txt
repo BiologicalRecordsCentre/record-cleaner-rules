@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Agrotis puta subsp. insula 10km
+Description=Check coordinate against known 10km distribution of Agrotis puta subsp. insula
+ErrorMsg=Coordinate outside known range for Agrotis puta subsp. insula
+DataFieldName=Species
+DataRecordId=NBNSYS0000005270
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SE13
+SO34
+SO87
+SO98
+ST03
+ST04
+SU11
+SU31
+SU40
+SU41
+SU42
+SW33
+SW53
+SW83
+SX05
+SX56
+SZ38
+SZ58
+SZ89
+TA03
+TA04
+TA14
+TF36
+TL35
+TL70
+TL80
+TM22
+TQ32
+TQ81
+TQ91
+
+

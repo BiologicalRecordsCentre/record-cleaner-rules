@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Nola chlamytulalis 10km
+Description=Check coordinate against known 10km distribution of Nola chlamytulalis
+ErrorMsg=Coordinate outside known range for Nola chlamytulalis
+DataFieldName=Species
+DataRecordId=NBNSYS0000005269
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SY58
+
+

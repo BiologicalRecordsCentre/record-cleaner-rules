@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Noctua janthe
+Description=Checks date is within known recording period of Noctua janthe
+ErrorMsg=Date is outside known recording period of Noctua janthe
+Tvk=NHMSYS0000503389
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

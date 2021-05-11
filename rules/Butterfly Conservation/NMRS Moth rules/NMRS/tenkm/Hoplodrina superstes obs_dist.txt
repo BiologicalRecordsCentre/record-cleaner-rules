@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Hoplodrina superstes 10km
+Description=Check coordinate against known 10km distribution of Hoplodrina superstes
+ErrorMsg=Coordinate outside known range for Hoplodrina superstes
+DataFieldName=Species
+DataRecordId=NBNSYS0000006488
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SC48
+SO42
+SY98
+TL70
+TR25
+
+

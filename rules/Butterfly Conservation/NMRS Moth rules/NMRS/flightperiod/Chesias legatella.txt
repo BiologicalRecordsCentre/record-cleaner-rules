@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Chesias legatella
+Description=Checks date is within known flight period of Chesias legatella
+ErrorMsg=Date is outside known flight period of Chesias legatella
+Tvk=NHMSYS0000501740
+DataFieldName=
+StartDate=0801
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

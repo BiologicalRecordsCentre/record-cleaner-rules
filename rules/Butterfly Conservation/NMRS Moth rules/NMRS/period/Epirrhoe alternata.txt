@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Epirrhoe alternata
+Description=Checks date is within known recording period of Epirrhoe alternata
+ErrorMsg=Date is outside known recording period of Epirrhoe alternata
+Tvk=NHMSYS0000519763
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

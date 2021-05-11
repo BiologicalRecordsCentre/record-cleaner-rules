@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Orthosia opima
+Description=Checks date is within known flight period of Orthosia opima
+ErrorMsg=Date is outside known flight period of Orthosia opima
+Tvk=NHMSYS0000503519
+DataFieldName=
+StartDate=0301
+EndDate=0630
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Epirrita dilutata agg.
+Description=Checks date is within known recording period of Epirrita dilutata agg.
+ErrorMsg=Date is outside known recording period of Epirrita dilutata agg.
+Tvk=NHMSYS0001703669
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

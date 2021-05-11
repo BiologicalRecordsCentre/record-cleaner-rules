@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Eupithecia sinuosaria 10km
+Description=Check coordinate against known 10km distribution of Eupithecia sinuosaria
+ErrorMsg=Coordinate outside known range for Eupithecia sinuosaria
+DataFieldName=Species
+DataRecordId=NBNSYS0000005231
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+TR36
+
+

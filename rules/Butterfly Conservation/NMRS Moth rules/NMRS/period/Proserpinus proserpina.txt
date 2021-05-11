@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Proserpinus proserpina
+Description=Checks date is within known recording period of Proserpinus proserpina
+ErrorMsg=Date is outside known recording period of Proserpinus proserpina
+Tvk=NBNSYS0000005256
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

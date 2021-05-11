@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Hemaris fuciformis
+Description=Checks date is within known recording period of Hemaris fuciformis
+ErrorMsg=Date is outside known recording period of Hemaris fuciformis
+Tvk=NBNSYS0000006071
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

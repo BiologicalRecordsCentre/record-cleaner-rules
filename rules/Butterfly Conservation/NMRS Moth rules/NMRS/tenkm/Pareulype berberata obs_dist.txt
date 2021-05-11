@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Pareulype berberata 10km
+Description=Check coordinate against known 10km distribution of Pareulype berberata
+ErrorMsg=Coordinate outside known range for Pareulype berberata
+DataFieldName=Species
+DataRecordId=NHMSYS0000503633
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+ST80
+ST85
+ST87
+ST88
+ST89
+ST95
+ST97
+ST99
+TF00
+TL78
+TR02
+
+

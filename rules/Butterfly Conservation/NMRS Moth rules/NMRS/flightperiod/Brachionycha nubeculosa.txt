@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Brachionycha nubeculosa
+Description=Checks date is within known flight period of Brachionycha nubeculosa
+ErrorMsg=Date is outside known flight period of Brachionycha nubeculosa
+Tvk=NBNSYS0000006321
+DataFieldName=
+StartDate=0201
+EndDate=0531
+LastChanged=20110328
+[EndMetadata]
+
+         

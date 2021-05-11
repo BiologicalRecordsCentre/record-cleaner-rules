@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Amphipoea lucens
+Description=Checks date is within known recording period of Amphipoea lucens
+ErrorMsg=Date is outside known recording period of Amphipoea lucens
+Tvk=NBNSYS0000006462
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

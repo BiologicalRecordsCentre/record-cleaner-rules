@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Ochropacha duplaris
+Description=Checks date is within known flight period of Ochropacha duplaris
+ErrorMsg=Date is outside known flight period of Ochropacha duplaris
+Tvk=NBNSYS0000005730
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

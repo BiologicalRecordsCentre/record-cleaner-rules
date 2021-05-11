@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Biston strataria
+Description=Checks date is within known flight period of Biston strataria
+ErrorMsg=Date is outside known flight period of Biston strataria
+Tvk=NBNSYS0000006021
+DataFieldName=
+StartDate=0101
+EndDate=0531
+LastChanged=20110328
+[EndMetadata]
+
+         

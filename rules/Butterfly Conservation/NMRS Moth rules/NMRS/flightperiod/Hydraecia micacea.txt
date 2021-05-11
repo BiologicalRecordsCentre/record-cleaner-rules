@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Hydraecia micacea
+Description=Checks date is within known flight period of Hydraecia micacea
+ErrorMsg=Date is outside known flight period of Hydraecia micacea
+Tvk=NBNSYS0000006466
+DataFieldName=
+StartDate=0701
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Noctua comes
+Description=Checks date is within known recording period of Noctua comes
+ErrorMsg=Date is outside known recording period of Noctua comes
+Tvk=NHMSYS0000503386
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

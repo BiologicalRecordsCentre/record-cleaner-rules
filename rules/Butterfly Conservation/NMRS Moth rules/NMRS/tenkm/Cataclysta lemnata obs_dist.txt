@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Cataclysta lemnata 10km
+Description=Check coordinate against known 10km distribution of Cataclysta lemnata
+ErrorMsg=Coordinate outside known range for Cataclysta lemnata
+DataFieldName=Species
+DataRecordId=NHMSYS0000501663
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SH47
+SJ00
+SS51
+
+

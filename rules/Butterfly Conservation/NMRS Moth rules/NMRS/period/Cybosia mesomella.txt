@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Cybosia mesomella
+Description=Checks date is within known recording period of Cybosia mesomella
+ErrorMsg=Date is outside known recording period of Cybosia mesomella
+Tvk=NBNSYS0000006126
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

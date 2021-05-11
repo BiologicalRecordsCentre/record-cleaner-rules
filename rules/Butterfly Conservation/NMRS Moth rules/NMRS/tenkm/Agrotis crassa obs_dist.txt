@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Agrotis crassa 10km
+Description=Check coordinate against known 10km distribution of Agrotis crassa
+ErrorMsg=Coordinate outside known range for Agrotis crassa
+DataFieldName=Species
+DataRecordId=NHMSYS0000501178
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+ST61
+SX96
+SY39
+SY58
+SY66
+SY67
+SZ07
+SZ57
+SZ79
+TQ25
+TR01
+
+

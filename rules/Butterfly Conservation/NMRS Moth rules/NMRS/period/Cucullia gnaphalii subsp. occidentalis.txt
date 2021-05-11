@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Cucullia gnaphalii subsp. occidentalis
+Description=Checks date is within known recording period of Cucullia gnaphalii subsp. occidentalis
+ErrorMsg=Date is outside known recording period of Cucullia gnaphalii subsp. occidentalis
+Tvk=NHMSYS0000502040
+StartDate=17000101
+EndDate=19791231
+LastChanged=20110328
+[EndMetadata]
+
+         

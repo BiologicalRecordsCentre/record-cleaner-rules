@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Oligia latruncula
+Description=Checks date is within known recording period of Oligia latruncula
+ErrorMsg=Date is outside known recording period of Oligia latruncula
+Tvk=NHMSYS0000503481
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

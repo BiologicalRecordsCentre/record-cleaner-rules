@@ -1,0 +1,15 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Conistra ligula
+Description=Checks date is within known flight period of Conistra ligula
+ErrorMsg=Date is outside known flight period of Conistra ligula
+Tvk=NBNSYS0000006354
+DataFieldName=
+StartDate=0331
+EndDate=0901
+ReverseRule=True
+LastChanged=20110328
+[EndMetadata]
+
+         

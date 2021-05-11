@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Entephria caesiata
+Description=Checks date is within known recording period of Entephria caesiata
+ErrorMsg=Date is outside known recording period of Entephria caesiata
+Tvk=NHMSYS0000502383
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

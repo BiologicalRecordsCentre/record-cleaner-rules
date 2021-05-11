@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Lasiocampa quercus form callunae
+Description=Checks date is within known flight period of Lasiocampa quercus form callunae
+ErrorMsg=Date is outside known flight period of Lasiocampa quercus form callunae
+Tvk=NHMSYS0000840695
+DataFieldName=
+StartDate=0401
+EndDate=0731
+LastChanged=20110328
+[EndMetadata]
+
+         

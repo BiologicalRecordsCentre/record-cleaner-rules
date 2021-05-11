@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Deilephila porcellus
+Description=Checks date is within known recording period of Deilephila porcellus
+ErrorMsg=Date is outside known recording period of Deilephila porcellus
+Tvk=NBNSYS0000006078
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

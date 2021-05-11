@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Zygaena loti 10km
+Description=Check coordinate against known 10km distribution of Zygaena loti
+ErrorMsg=Coordinate outside known range for Zygaena loti
+DataFieldName=Species
+DataRecordId=NHMSYS0000520668
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NM33
+NM34
+NM35
+NM42
+NM43
+NM44
+NM45
+
+

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Cerapteryx graminis
+Description=Checks date is within known flight period of Cerapteryx graminis
+ErrorMsg=Date is outside known flight period of Cerapteryx graminis
+Tvk=NBNSYS0000006269
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

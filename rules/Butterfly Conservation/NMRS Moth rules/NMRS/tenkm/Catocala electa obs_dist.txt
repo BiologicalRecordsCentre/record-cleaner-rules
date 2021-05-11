@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Catocala electa 10km
+Description=Check coordinate against known 10km distribution of Catocala electa
+ErrorMsg=Coordinate outside known range for Catocala electa
+DataFieldName=Species
+DataRecordId=NBNSYS0000006558
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SY58
+SY88
+SZ38
+TR01
+
+

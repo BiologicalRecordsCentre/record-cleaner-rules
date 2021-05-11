@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Thysanoplusia orichalcea 10km
+Description=Check coordinate against known 10km distribution of Thysanoplusia orichalcea
+ErrorMsg=Coordinate outside known range for Thysanoplusia orichalcea
+DataFieldName=Species
+DataRecordId=MM0001Z100B1FMS1
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SU10
+SU42
+SV80
+SV91
+SW32
+SW72
+SW93
+SY66
+SY67
+SY88
+SZ38
+TL12
+TL23
+
+

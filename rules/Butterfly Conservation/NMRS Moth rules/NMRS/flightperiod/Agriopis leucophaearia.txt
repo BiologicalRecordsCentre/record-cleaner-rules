@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Agriopis leucophaearia
+Description=Checks date is within known flight period of Agriopis leucophaearia
+ErrorMsg=Date is outside known flight period of Agriopis leucophaearia
+Tvk=NHMSYS0000501079
+DataFieldName=
+StartDate=0101
+EndDate=0430
+LastChanged=20110328
+[EndMetadata]
+
+         

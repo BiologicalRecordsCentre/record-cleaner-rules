@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Ctenoplusia limbirena
+Description=Checks date is within known flight period of Ctenoplusia limbirena
+ErrorMsg=Date is outside known flight period of Ctenoplusia limbirena
+Tvk=NHMSYS0000502035
+DataFieldName=
+StartDate=0501
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

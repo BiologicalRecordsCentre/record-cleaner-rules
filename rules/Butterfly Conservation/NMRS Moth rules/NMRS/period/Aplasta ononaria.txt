@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Aplasta ononaria
+Description=Checks date is within known recording period of Aplasta ononaria
+ErrorMsg=Date is outside known recording period of Aplasta ononaria
+Tvk=NBNSYS0000005737
+StartDate=19370101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

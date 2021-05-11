@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Lymantria dispar
+Description=Checks date is within known recording period of Lymantria dispar
+ErrorMsg=Date is outside known recording period of Lymantria dispar
+Tvk=NBNSYS0000006120
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

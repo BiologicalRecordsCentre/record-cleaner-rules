@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Chloroclystis v-ata
+Description=Checks date is within known recording period of Chloroclystis v-ata
+ErrorMsg=Date is outside known recording period of Chloroclystis v-ata
+Tvk=NBNSYS0000005946
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

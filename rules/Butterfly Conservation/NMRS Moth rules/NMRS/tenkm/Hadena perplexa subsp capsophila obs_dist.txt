@@ -1,0 +1,44 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Hadena perplexa subsp. capsophila 10km
+Description=Check coordinate against known 10km distribution of Hadena perplexa subsp. capsophila
+ErrorMsg=Coordinate outside known range for Hadena perplexa subsp. capsophila
+DataFieldName=Species
+DataRecordId=NBNSYS0000006260
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NX30
+NX40
+SC16
+SC26
+SC27
+SC28
+SC37
+SC39
+SC48
+SD26
+SD45
+SD47
+SM70
+SM72
+SM73
+SM80
+SM81
+SM83
+SM90
+SN00
+SN03
+SN14
+SS58
+ST06
+ST26
+SW53
+SW62
+SW71
+SX25
+
+

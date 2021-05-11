@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Eupithecia pusillata
+Description=Checks date is within known flight period of Eupithecia pusillata
+ErrorMsg=Date is outside known flight period of Eupithecia pusillata
+Tvk=NHMSYS0000520048
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Chlorissa viridata 10km
+Description=Check coordinate against known 10km distribution of Chlorissa viridata
+ErrorMsg=Coordinate outside known range for Chlorissa viridata
+DataFieldName=Species
+DataRecordId=NBNSYS0000005743
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SJ60
+ST01
+ST02
+ST03
+ST14
+ST90
+SU00
+SU03
+SU10
+SU11
+SU20
+SU30
+SU40
+SU41
+SU50
+SU60
+SU96
+SW61
+SW62
+SW71
+SW72
+SX87
+SY08
+SY09
+SY66
+SY78
+SY79
+SY88
+SY89
+SY98
+SY99
+SZ08
+SZ09
+SZ19
+SZ39
+TL30
+TL71
+TR15
+
+

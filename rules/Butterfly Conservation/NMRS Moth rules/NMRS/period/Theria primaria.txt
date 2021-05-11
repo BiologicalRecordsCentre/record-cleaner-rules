@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Theria primaria
+Description=Checks date is within known recording period of Theria primaria
+ErrorMsg=Date is outside known recording period of Theria primaria
+Tvk=NBNSYS0000006052
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

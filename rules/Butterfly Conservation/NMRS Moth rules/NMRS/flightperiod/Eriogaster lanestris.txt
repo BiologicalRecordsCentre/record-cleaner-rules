@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Eriogaster lanestris
+Description=Checks date is within known flight period of Eriogaster lanestris
+ErrorMsg=Date is outside known flight period of Eriogaster lanestris
+Tvk=NBNSYS0000005702
+DataFieldName=
+StartDate=0101
+EndDate=0430
+LastChanged=20110328
+[EndMetadata]
+
+         

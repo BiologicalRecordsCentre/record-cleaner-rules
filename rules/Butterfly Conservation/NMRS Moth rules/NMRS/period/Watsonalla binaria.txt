@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Watsonalla binaria
+Description=Checks date is within known recording period of Watsonalla binaria
+ErrorMsg=Date is outside known recording period of Watsonalla binaria
+Tvk=NBNSYS0100005987
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

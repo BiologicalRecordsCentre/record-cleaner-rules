@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Archanara neurica
+Description=Checks date is within known recording period of Archanara neurica
+ErrorMsg=Date is outside known recording period of Archanara neurica
+Tvk=NHMSYS0000501168
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

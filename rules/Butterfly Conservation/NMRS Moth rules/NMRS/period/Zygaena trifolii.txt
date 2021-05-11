@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Zygaena trifolii
+Description=Checks date is within known recording period of Zygaena trifolii
+ErrorMsg=Date is outside known recording period of Zygaena trifolii
+Tvk=NBNSYS0000005673
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

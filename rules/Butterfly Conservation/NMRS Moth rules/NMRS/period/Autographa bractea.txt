@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Autographa bractea
+Description=Checks date is within known recording period of Autographa bractea
+ErrorMsg=Date is outside known recording period of Autographa bractea
+Tvk=NHMSYS0000501430
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

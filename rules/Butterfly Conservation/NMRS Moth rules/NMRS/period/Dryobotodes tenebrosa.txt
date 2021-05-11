@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Dryobotodes tenebrosa
+Description=Checks date is within known recording period of Dryobotodes tenebrosa
+ErrorMsg=Date is outside known recording period of Dryobotodes tenebrosa
+Tvk=NHMSYS0020503121
+StartDate=20081012
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

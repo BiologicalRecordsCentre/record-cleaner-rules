@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Pterostoma palpina
+Description=Checks date is within known recording period of Pterostoma palpina
+ErrorMsg=Date is outside known recording period of Pterostoma palpina
+Tvk=NBNSYS0000006097
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

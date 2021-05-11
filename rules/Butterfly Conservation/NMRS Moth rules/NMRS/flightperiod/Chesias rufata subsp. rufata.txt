@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Chesias rufata subsp. rufata
+Description=Checks date is within known flight period of Chesias rufata subsp. rufata
+ErrorMsg=Date is outside known flight period of Chesias rufata subsp. rufata
+Tvk=NBNSYS0000005955
+DataFieldName=
+StartDate=0301
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

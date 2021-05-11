@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Acronicta menyanthidis subsp. scotica 10km
+Description=Check coordinate against known 10km distribution of Acronicta menyanthidis subsp. scotica
+ErrorMsg=Coordinate outside known range for Acronicta menyanthidis subsp. scotica
+DataFieldName=Species
+DataRecordId=NHMSYS0000500980
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NH80
+NH91
+NH92
+NM94
+NN02
+NN04
+NN25
+NN33
+NN45
+NN76
+
+

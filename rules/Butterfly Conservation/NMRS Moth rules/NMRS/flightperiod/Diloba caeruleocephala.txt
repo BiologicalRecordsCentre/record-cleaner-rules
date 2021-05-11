@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Diloba caeruleocephala
+Description=Checks date is within known flight period of Diloba caeruleocephala
+ErrorMsg=Date is outside known flight period of Diloba caeruleocephala
+Tvk=NBNSYS0000006106
+DataFieldName=
+StartDate=0901
+EndDate=1231
+LastChanged=20110328
+[EndMetadata]
+
+         

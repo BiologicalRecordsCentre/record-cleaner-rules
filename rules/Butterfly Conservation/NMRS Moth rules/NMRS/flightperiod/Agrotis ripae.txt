@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Agrotis ripae
+Description=Checks date is within known flight period of Agrotis ripae
+ErrorMsg=Date is outside known flight period of Agrotis ripae
+Tvk=NHMSYS0000501181
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

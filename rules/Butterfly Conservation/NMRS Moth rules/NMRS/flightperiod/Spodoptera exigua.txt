@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Spodoptera exigua
+Description=Checks date is within known flight period of Spodoptera exigua
+ErrorMsg=Date is outside known flight period of Spodoptera exigua
+Tvk=NHMSYS0000504283
+DataFieldName=
+StartDate=0601
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

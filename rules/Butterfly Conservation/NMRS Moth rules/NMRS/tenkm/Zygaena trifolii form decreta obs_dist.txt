@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Zygaena trifolii form decreta 10km
+Description=Check coordinate against known 10km distribution of Zygaena trifolii form decreta
+ErrorMsg=Coordinate outside known range for Zygaena trifolii form decreta
+DataFieldName=Species
+DataRecordId=NHMSYS0000840693
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SH33
+SH44
+SH75
+SH80
+SH91
+SJ34
+SN30
+SN31
+SN40
+SN51
+SN79
+SS22
+SS30
+SS40
+SS41
+SS50
+SS62
+SS64
+SS82
+ST01
+SW62
+SW75
+SX06
+SX35
+SX66
+SX67
+SX68
+SX69
+SX78
+SX86
+SX87
+SX88
+SX97
+SY18
+SY39
+SZ19
+SZ58
+TQ21
+
+

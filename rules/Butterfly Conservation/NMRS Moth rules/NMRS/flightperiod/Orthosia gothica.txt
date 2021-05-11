@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Orthosia gothica
+Description=Checks date is within known flight period of Orthosia gothica
+ErrorMsg=Date is outside known flight period of Orthosia gothica
+Tvk=NBNSYS0000006283
+DataFieldName=
+StartDate=0101
+EndDate=0531
+LastChanged=20110328
+[EndMetadata]
+
+         

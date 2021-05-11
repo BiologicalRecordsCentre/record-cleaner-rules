@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Polymixis lichenea subsp. lichenea
+Description=Checks date is within known flight period of Polymixis lichenea subsp. lichenea
+ErrorMsg=Date is outside known flight period of Polymixis lichenea subsp. lichenea
+Tvk=NHMSYS0000503897
+DataFieldName=
+StartDate=0701
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

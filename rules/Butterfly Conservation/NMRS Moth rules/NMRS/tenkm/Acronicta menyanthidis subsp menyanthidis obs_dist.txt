@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Acronicta menyanthidis subsp. menyanthidis 10km
+Description=Check coordinate against known 10km distribution of Acronicta menyanthidis subsp. menyanthidis
+ErrorMsg=Coordinate outside known range for Acronicta menyanthidis subsp. menyanthidis
+DataFieldName=Species
+DataRecordId=NBNSYS0000005285
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NM73
+NN63
+NR25
+NX17
+NX38
+NX44
+NX66
+NX68
+NX85
+NX98
+NX99
+SD38
+SE65
+SE66
+SJ43
+SJ53
+SN79
+
+

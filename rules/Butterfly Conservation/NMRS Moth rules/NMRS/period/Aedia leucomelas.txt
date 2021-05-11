@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Aedia leucomelas
+Description=Checks date is within known recording period of Aedia leucomelas
+ErrorMsg=Date is outside known recording period of Aedia leucomelas
+Tvk=NHMSYS0020531219
+StartDate=20061109
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

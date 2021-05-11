@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Chrysodeixis acuta
+Description=Checks date is within known recording period of Chrysodeixis acuta
+ErrorMsg=Date is outside known recording period of Chrysodeixis acuta
+Tvk=NBNSYS0000006534
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

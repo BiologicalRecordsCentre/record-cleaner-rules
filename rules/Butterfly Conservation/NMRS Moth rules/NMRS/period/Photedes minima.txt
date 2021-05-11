@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Photedes minima
+Description=Checks date is within known recording period of Photedes minima
+ErrorMsg=Date is outside known recording period of Photedes minima
+Tvk=NBNSYS0000006445
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

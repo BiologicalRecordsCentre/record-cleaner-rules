@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Drepana curvatula 10km
+Description=Check coordinate against known 10km distribution of Drepana curvatula
+ErrorMsg=Coordinate outside known range for Drepana curvatula
+DataFieldName=Species
+DataRecordId=NBNSYS0000005721
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NR39
+SW72
+SY39
+SZ38
+TL72
+TM22
+TM33
+TQ31
+TQ32
+TQ81
+TR01
+TR02
+TR13
+TR36
+TR37
+
+

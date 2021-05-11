@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Luperina testacea
+Description=Checks date is within known flight period of Luperina testacea
+ErrorMsg=Date is outside known flight period of Luperina testacea
+Tvk=NHMSYS0000503111
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

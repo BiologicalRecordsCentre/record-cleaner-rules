@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Eupithecia millefoliata
+Description=Checks date is within known flight period of Eupithecia millefoliata
+ErrorMsg=Date is outside known flight period of Eupithecia millefoliata
+Tvk=NHMSYS0000502610
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Hepialus fusconebulosa
+Description=Checks date is within known recording period of Hepialus fusconebulosa
+ErrorMsg=Date is outside known recording period of Hepialus fusconebulosa
+Tvk=NHMSYS0020705510
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

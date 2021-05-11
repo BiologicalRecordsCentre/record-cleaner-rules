@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Rheumaptera cervinalis
+Description=Checks date is within known flight period of Rheumaptera cervinalis
+ErrorMsg=Date is outside known flight period of Rheumaptera cervinalis
+Tvk=NBNSYS0000005868
+DataFieldName=
+StartDate=0301
+EndDate=0731
+LastChanged=20110328
+[EndMetadata]
+
+         

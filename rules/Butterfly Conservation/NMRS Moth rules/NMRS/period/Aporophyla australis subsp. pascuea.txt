@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Aporophyla australis subsp. pascuea
+Description=Checks date is within known recording period of Aporophyla australis subsp. pascuea
+ErrorMsg=Date is outside known recording period of Aporophyla australis subsp. pascuea
+Tvk=NBNSYS0000006323
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

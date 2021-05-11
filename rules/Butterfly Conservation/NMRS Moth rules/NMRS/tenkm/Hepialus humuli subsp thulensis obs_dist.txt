@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Hepialus humuli subsp. thulensis 10km
+Description=Check coordinate against known 10km distribution of Hepialus humuli subsp. thulensis
+ErrorMsg=Coordinate outside known range for Hepialus humuli subsp. thulensis
+DataFieldName=Species
+DataRecordId=NBNSYS0000005655
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+HU27
+HU37
+NS84
+NS86
+NS96
+NS97
+NT06
+NT07
+NT17
+NT26
+NT46
+NT48
+SD67
+SK45
+SK53
+SK55
+SK63
+SK66
+SK75
+SK77
+SK86
+SO98
+ST36
+ST53
+SX25
+SX35
+TA14
+TA15
+
+

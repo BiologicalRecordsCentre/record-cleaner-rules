@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Synansphecia muscaeformis
+Description=Checks date is within known recording period of Synansphecia muscaeformis
+ErrorMsg=Date is outside known recording period of Synansphecia muscaeformis
+Tvk=NBNSYS0100005658
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

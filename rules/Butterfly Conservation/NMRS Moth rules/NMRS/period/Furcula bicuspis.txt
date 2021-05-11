@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Furcula bicuspis
+Description=Checks date is within known recording period of Furcula bicuspis
+ErrorMsg=Date is outside known recording period of Furcula bicuspis
+Tvk=NBNSYS0000006082
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

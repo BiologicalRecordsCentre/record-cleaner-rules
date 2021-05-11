@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Enargia paleacea
+Description=Checks date is within known flight period of Enargia paleacea
+ErrorMsg=Date is outside known flight period of Enargia paleacea
+Tvk=NBNSYS0000006409
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

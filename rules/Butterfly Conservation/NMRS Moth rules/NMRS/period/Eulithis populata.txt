@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Eulithis populata
+Description=Checks date is within known recording period of Eulithis populata
+ErrorMsg=Date is outside known recording period of Eulithis populata
+Tvk=NBNSYS0000005836
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

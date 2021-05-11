@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Euphyia unangulata
+Description=Checks date is within known recording period of Euphyia unangulata
+ErrorMsg=Date is outside known recording period of Euphyia unangulata
+Tvk=NBNSYS0000005874
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

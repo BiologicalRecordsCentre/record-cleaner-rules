@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Protolampra sobrina
+Description=Checks date is within known flight period of Protolampra sobrina
+ErrorMsg=Date is outside known flight period of Protolampra sobrina
+Tvk=NHMSYS0000503924
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

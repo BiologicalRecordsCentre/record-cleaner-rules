@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Eupithecia phoeniceata
+Description=Checks date is within known recording period of Eupithecia phoeniceata
+ErrorMsg=Date is outside known recording period of Eupithecia phoeniceata
+Tvk=NBNSYS0000005943
+StartDate=19590101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

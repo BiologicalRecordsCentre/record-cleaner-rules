@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Zanclognatha zelleralis
+Description=Checks date is within known flight period of Zanclognatha zelleralis
+ErrorMsg=Date is outside known flight period of Zanclognatha zelleralis
+Tvk=NBNSYS0100006033
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Amphipyra tragopoginis
+Description=Checks date is within known recording period of Amphipyra tragopoginis
+ErrorMsg=Date is outside known recording period of Amphipyra tragopoginis
+Tvk=NBNSYS0000006395
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

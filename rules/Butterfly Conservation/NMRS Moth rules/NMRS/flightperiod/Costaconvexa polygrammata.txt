@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Costaconvexa polygrammata
+Description=Checks date is within known flight period of Costaconvexa polygrammata
+ErrorMsg=Date is outside known flight period of Costaconvexa polygrammata
+Tvk=NBNSYS0000005819
+DataFieldName=
+StartDate=0201
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

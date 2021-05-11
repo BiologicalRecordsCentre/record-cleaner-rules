@@ -1,0 +1,15 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Lithophane consocia
+Description=Checks date is within known flight period of Lithophane consocia
+ErrorMsg=Date is outside known flight period of Lithophane consocia
+Tvk=NHMSYS0001703673
+DataFieldName=
+StartDate=0630
+EndDate=0801
+ReverseRule=True
+LastChanged=20120126
+[EndMetadata]
+
+         

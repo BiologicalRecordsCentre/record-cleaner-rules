@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Phragmatobia fuliginosa
+Description=Checks date is within known recording period of Phragmatobia fuliginosa
+ErrorMsg=Date is outside known recording period of Phragmatobia fuliginosa
+Tvk=NBNSYS0000006150
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

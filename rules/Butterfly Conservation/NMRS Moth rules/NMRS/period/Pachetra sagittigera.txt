@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Pachetra sagittigera
+Description=Checks date is within known recording period of Pachetra sagittigera
+ErrorMsg=Date is outside known recording period of Pachetra sagittigera
+Tvk=NHMSYS0000522187
+StartDate=17000101
+EndDate=19631231
+LastChanged=20110328
+[EndMetadata]
+
+         

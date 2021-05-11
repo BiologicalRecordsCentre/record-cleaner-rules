@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Nycteola asiatica
+Description=Checks date is within known recording period of Nycteola asiatica
+ErrorMsg=Date is outside known recording period of Nycteola asiatica
+Tvk=NHMSYS0001703674
+StartDate=19930920
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

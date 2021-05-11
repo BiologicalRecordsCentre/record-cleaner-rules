@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Ptilophora plumigera
+Description=Checks date is within known recording period of Ptilophora plumigera
+ErrorMsg=Date is outside known recording period of Ptilophora plumigera
+Tvk=NHMSYS0000503979
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

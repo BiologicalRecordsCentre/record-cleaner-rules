@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Deilephila porcellus
+Description=Checks date is within known flight period of Deilephila porcellus
+ErrorMsg=Date is outside known flight period of Deilephila porcellus
+Tvk=NBNSYS0000006078
+DataFieldName=
+StartDate=0401
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

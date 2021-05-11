@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Plusia putnami
+Description=Checks date is within known recording period of Plusia putnami
+ErrorMsg=Date is outside known recording period of Plusia putnami
+Tvk=NHMSYS0000522622
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

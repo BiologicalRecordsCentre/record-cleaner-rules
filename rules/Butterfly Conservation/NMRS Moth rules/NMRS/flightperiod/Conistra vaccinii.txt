@@ -1,0 +1,15 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Conistra vaccinii
+Description=Checks date is within known flight period of Conistra vaccinii
+ErrorMsg=Date is outside known flight period of Conistra vaccinii
+Tvk=NHMSYS0000501972
+DataFieldName=
+StartDate=0630
+EndDate=0801
+ReverseRule=True
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Gonepteryx rhamni
+Description=Checks date is within known flight period of Gonepteryx rhamni
+ErrorMsg=Date is outside known flight period of Gonepteryx rhamni
+Tvk=NHMSYS0000516380
+DataFieldName=
+StartDate=0101
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

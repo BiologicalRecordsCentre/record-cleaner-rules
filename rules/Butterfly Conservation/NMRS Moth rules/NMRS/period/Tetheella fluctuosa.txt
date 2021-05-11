@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Tetheella fluctuosa
+Description=Checks date is within known recording period of Tetheella fluctuosa
+ErrorMsg=Date is outside known recording period of Tetheella fluctuosa
+Tvk=NHMSYS0000504479
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

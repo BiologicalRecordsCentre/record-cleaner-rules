@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Inachis io
+Description=Checks date is within known recording period of Inachis io
+ErrorMsg=Date is outside known recording period of Inachis io
+Tvk=NHMSYS0000502940
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

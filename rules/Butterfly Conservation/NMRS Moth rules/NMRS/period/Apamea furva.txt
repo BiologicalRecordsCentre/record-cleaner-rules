@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Apamea furva
+Description=Checks date is within known recording period of Apamea furva
+ErrorMsg=Date is outside known recording period of Apamea furva
+Tvk=NHMSYS0000501109
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

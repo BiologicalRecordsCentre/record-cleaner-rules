@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Thysanoplusia orichalcea
+Description=Checks date is within known recording period of Thysanoplusia orichalcea
+ErrorMsg=Date is outside known recording period of Thysanoplusia orichalcea
+Tvk=MM0001Z100B1FMS1
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Dicycla oo
+Description=Checks date is within known flight period of Dicycla oo
+ErrorMsg=Date is outside known flight period of Dicycla oo
+Tvk=NBNSYS0000006411
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

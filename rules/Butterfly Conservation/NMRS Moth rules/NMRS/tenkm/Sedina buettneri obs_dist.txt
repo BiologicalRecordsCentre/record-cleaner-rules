@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Sedina buettneri 10km
+Description=Check coordinate against known 10km distribution of Sedina buettneri
+ErrorMsg=Coordinate outside known range for Sedina buettneri
+DataFieldName=Species
+DataRecordId=NBNSYS0000006481
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+ST40
+SY59
+SY68
+SY78
+SY79
+SY88
+SY89
+SY99
+SZ38
+TM36
+TM46
+TM47
+
+

@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Catocala nymphagoga 10km
+Description=Check coordinate against known 10km distribution of Catocala nymphagoga
+ErrorMsg=Coordinate outside known range for Catocala nymphagoga
+DataFieldName=Species
+DataRecordId=NBNSYS0000005302
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SX97
+TQ26
+
+

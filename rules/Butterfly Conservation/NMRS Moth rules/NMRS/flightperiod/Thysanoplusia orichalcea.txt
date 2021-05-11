@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Thysanoplusia orichalcea
+Description=Checks date is within known flight period of Thysanoplusia orichalcea
+ErrorMsg=Date is outside known flight period of Thysanoplusia orichalcea
+Tvk=MM0001Z100B1FMS1
+DataFieldName=
+StartDate=0501
+EndDate=1231
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Lygephila craccae
+Description=Checks date is within known recording period of Lygephila craccae
+ErrorMsg=Date is outside known recording period of Lygephila craccae
+Tvk=NHMSYS0000503131
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

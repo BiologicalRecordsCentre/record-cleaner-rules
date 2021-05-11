@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Callopistria latreillei
+Description=Checks date is within known recording period of Callopistria latreillei
+ErrorMsg=Date is outside known recording period of Callopistria latreillei
+Tvk=NBNSYS0000006405
+StartDate=20061027
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

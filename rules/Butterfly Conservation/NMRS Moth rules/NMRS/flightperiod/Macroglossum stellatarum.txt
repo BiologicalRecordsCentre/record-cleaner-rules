@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Macroglossum stellatarum
+Description=Checks date is within known flight period of Macroglossum stellatarum
+ErrorMsg=Date is outside known flight period of Macroglossum stellatarum
+Tvk=NBNSYS0000006072
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20110328
+[EndMetadata]
+
+         

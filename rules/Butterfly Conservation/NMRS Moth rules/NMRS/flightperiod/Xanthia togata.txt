@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Xanthia togata
+Description=Checks date is within known flight period of Xanthia togata
+ErrorMsg=Date is outside known flight period of Xanthia togata
+Tvk=NBNSYS0000006368
+DataFieldName=
+StartDate=0801
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

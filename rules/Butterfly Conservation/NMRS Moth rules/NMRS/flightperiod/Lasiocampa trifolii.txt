@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Lasiocampa trifolii
+Description=Checks date is within known flight period of Lasiocampa trifolii
+ErrorMsg=Date is outside known flight period of Lasiocampa trifolii
+Tvk=NHMSYS0000503016
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

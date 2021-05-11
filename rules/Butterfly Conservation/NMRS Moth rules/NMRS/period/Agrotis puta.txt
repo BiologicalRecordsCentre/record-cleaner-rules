@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Agrotis puta
+Description=Checks date is within known recording period of Agrotis puta
+ErrorMsg=Date is outside known recording period of Agrotis puta
+Tvk=NBNSYS0000006178
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

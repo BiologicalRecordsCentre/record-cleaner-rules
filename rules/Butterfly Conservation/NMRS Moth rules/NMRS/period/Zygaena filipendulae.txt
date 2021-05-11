@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Zygaena filipendulae
+Description=Checks date is within known recording period of Zygaena filipendulae
+ErrorMsg=Date is outside known recording period of Zygaena filipendulae
+Tvk=NBNSYS0000005670
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

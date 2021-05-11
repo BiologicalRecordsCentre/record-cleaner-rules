@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Arctia villica subsp. britannica
+Description=Checks date is within known recording period of Arctia villica subsp. britannica
+ErrorMsg=Date is outside known recording period of Arctia villica subsp. britannica
+Tvk=NHMSYS0000501292
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

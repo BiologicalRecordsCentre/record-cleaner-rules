@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Xanthia citrago
+Description=Checks date is within known recording period of Xanthia citrago
+ErrorMsg=Date is outside known recording period of Xanthia citrago
+Tvk=NBNSYS0000006366
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

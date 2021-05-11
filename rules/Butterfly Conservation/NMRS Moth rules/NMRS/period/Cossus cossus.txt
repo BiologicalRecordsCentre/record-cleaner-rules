@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Cossus cossus
+Description=Checks date is within known recording period of Cossus cossus
+ErrorMsg=Date is outside known recording period of Cossus cossus
+Tvk=NBNSYS0000005662
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

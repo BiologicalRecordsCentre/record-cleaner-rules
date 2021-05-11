@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Eupithecia massiliata 10km
+Description=Check coordinate against known 10km distribution of Eupithecia massiliata
+ErrorMsg=Coordinate outside known range for Eupithecia massiliata
+DataFieldName=Species
+DataRecordId=NHMSYS0001703671
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+TQ49
+
+

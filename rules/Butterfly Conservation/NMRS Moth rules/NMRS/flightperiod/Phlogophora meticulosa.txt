@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Phlogophora meticulosa
+Description=Checks date is within known flight period of Phlogophora meticulosa
+ErrorMsg=Date is outside known flight period of Phlogophora meticulosa
+Tvk=NBNSYS0000006402
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20120126
+[EndMetadata]
+
+         

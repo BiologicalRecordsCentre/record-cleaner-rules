@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Entephria flavicinctata
+Description=Checks date is within known flight period of Entephria flavicinctata
+ErrorMsg=Date is outside known flight period of Entephria flavicinctata
+Tvk=NHMSYS0000519698
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

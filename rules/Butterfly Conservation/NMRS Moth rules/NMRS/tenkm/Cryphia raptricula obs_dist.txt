@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Cryphia raptricula 10km
+Description=Check coordinate against known 10km distribution of Cryphia raptricula
+ErrorMsg=Coordinate outside known range for Cryphia raptricula
+DataFieldName=Species
+DataRecordId=NHMSYS0000502030
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SO81
+TL70
+TM23
+TR01
+TR02
+TR36
+
+

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Gortyna borelii subsp. lunata
+Description=Checks date is within known recording period of Gortyna borelii subsp. lunata
+ErrorMsg=Date is outside known recording period of Gortyna borelii subsp. lunata
+Tvk=NBNSYS0000006470
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

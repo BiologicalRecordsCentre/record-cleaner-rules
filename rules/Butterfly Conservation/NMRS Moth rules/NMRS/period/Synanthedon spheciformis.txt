@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Synanthedon spheciformis
+Description=Checks date is within known recording period of Synanthedon spheciformis
+ErrorMsg=Date is outside known recording period of Synanthedon spheciformis
+Tvk=NHMSYS0000504421
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

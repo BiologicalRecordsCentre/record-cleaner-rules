@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Chortodes pygmina
+Description=Checks date is within known flight period of Chortodes pygmina
+ErrorMsg=Date is outside known flight period of Chortodes pygmina
+Tvk=NBNSYS0100002391
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

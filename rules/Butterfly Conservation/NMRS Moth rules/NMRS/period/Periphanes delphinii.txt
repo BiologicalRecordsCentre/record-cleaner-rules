@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Periphanes delphinii
+Description=Checks date is within known recording period of Periphanes delphinii
+ErrorMsg=Date is outside known recording period of Periphanes delphinii
+Tvk=NBNSYS0000006504
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

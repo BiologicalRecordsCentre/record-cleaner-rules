@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Ctenoplusia accentifera
+Description=Checks date is within known recording period of Ctenoplusia accentifera
+ErrorMsg=Date is outside known recording period of Ctenoplusia accentifera
+Tvk=NBNSYS0000006536
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

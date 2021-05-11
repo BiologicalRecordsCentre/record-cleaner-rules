@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Diarsia mendica subsp. mendica
+Description=Checks date is within known recording period of Diarsia mendica subsp. mendica
+ErrorMsg=Date is outside known recording period of Diarsia mendica subsp. mendica
+Tvk=NBNSYS0000006209
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

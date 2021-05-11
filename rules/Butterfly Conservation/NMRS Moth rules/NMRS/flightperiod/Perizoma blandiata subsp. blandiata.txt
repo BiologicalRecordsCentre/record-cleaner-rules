@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Perizoma blandiata subsp. blandiata
+Description=Checks date is within known flight period of Perizoma blandiata subsp. blandiata
+ErrorMsg=Date is outside known flight period of Perizoma blandiata subsp. blandiata
+Tvk=NHMSYS0000503694
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

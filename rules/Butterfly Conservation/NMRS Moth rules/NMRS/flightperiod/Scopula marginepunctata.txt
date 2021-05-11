@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Scopula marginepunctata
+Description=Checks date is within known flight period of Scopula marginepunctata
+ErrorMsg=Date is outside known flight period of Scopula marginepunctata
+Tvk=NBNSYS0000005762
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

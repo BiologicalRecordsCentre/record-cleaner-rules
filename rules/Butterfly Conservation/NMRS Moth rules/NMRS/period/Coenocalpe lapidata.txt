@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Coenocalpe lapidata
+Description=Checks date is within known recording period of Coenocalpe lapidata
+ErrorMsg=Date is outside known recording period of Coenocalpe lapidata
+Tvk=NHMSYS0000501802
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

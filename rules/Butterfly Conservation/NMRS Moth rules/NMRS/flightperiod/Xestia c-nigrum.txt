@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Xestia c-nigrum
+Description=Checks date is within known flight period of Xestia c-nigrum
+ErrorMsg=Date is outside known flight period of Xestia c-nigrum
+Tvk=NBNSYS0000006217
+DataFieldName=
+StartDate=0401
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

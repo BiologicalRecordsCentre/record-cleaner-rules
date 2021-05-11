@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Nycteola asiatica 10km
+Description=Check coordinate against known 10km distribution of Nycteola asiatica
+ErrorMsg=Coordinate outside known range for Nycteola asiatica
+DataFieldName=Species
+DataRecordId=NHMSYS0001703674
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SY67
+TA41
+TM23
+
+

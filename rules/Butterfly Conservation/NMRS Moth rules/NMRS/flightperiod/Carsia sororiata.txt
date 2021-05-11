@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Carsia sororiata
+Description=Checks date is within known flight period of Carsia sororiata
+ErrorMsg=Date is outside known flight period of Carsia sororiata
+Tvk=NHMSYS0000517633
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

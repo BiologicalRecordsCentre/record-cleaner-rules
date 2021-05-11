@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Triphosa dubitata
+Description=Checks date is within known flight period of Triphosa dubitata
+ErrorMsg=Date is outside known flight period of Triphosa dubitata
+Tvk=NBNSYS0000005870
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20120126
+[EndMetadata]
+
+         

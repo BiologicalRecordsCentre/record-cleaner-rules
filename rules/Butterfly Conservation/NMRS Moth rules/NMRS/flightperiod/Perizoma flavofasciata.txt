@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Perizoma flavofasciata
+Description=Checks date is within known flight period of Perizoma flavofasciata
+ErrorMsg=Date is outside known flight period of Perizoma flavofasciata
+Tvk=NBNSYS0000005890
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

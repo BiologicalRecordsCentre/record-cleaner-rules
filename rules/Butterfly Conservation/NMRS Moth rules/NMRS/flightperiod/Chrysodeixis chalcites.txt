@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Chrysodeixis chalcites
+Description=Checks date is within known flight period of Chrysodeixis chalcites
+ErrorMsg=Date is outside known flight period of Chrysodeixis chalcites
+Tvk=NBNSYS0000006533
+DataFieldName=
+StartDate=0601
+EndDate=1231
+LastChanged=20110328
+[EndMetadata]
+
+         

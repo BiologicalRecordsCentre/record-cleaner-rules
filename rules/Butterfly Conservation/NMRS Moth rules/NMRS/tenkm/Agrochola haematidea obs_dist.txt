@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Agrochola haematidea 10km
+Description=Check coordinate against known 10km distribution of Agrochola haematidea
+ErrorMsg=Coordinate outside known range for Agrochola haematidea
+DataFieldName=Species
+DataRecordId=NHMSYS0000501172
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+ST82
+SU00
+SU01
+SU10
+SU11
+SU20
+SU21
+SU30
+SU31
+SU82
+SU83
+SU91
+SY79
+SY89
+SY98
+SZ09
+SZ19
+SZ29
+
+

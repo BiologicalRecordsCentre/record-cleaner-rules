@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Lasiocampa trifolii form flava 10km
+Description=Check coordinate against known 10km distribution of Lasiocampa trifolii form flava
+ErrorMsg=Coordinate outside known range for Lasiocampa trifolii form flava
+DataFieldName=Species
+DataRecordId=NHMSYS0000503017
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SS49
+TQ81
+TQ91
+TR01
+TR02
+TR03
+
+

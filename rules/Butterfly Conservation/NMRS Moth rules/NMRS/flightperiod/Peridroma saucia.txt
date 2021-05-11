@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Peridroma saucia
+Description=Checks date is within known flight period of Peridroma saucia
+ErrorMsg=Date is outside known flight period of Peridroma saucia
+Tvk=NHMSYS0000503684
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20110328
+[EndMetadata]
+
+         

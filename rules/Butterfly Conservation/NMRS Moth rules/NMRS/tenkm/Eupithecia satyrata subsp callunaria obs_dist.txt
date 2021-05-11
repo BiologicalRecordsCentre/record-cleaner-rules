@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Eupithecia satyrata subsp. callunaria 10km
+Description=Check coordinate against known 10km distribution of Eupithecia satyrata subsp. callunaria
+ErrorMsg=Coordinate outside known range for Eupithecia satyrata subsp. callunaria
+DataFieldName=Species
+DataRecordId=NHMSYS0000502617
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NG44
+NH59
+NH80
+NH81
+NH91
+NH92
+NJ42
+NJ90
+NK02
+NM73
+NN65
+NN67
+NN69
+NN79
+NO19
+NO29
+NT16
+NT33
+NT42
+NT43
+NY99
+NZ09
+SH48
+SH80
+
+

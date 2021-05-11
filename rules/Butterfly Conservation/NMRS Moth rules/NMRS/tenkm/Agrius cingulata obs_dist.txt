@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Agrius cingulata 10km
+Description=Check coordinate against known 10km distribution of Agrius cingulata
+ErrorMsg=Coordinate outside known range for Agrius cingulata
+DataFieldName=Species
+DataRecordId=NBNSYS0000005251
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+ST58
+TQ28
+
+

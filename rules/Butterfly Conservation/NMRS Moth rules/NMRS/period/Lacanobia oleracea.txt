@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Lacanobia oleracea
+Description=Checks date is within known recording period of Lacanobia oleracea
+ErrorMsg=Date is outside known recording period of Lacanobia oleracea
+Tvk=NBNSYS0000006251
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

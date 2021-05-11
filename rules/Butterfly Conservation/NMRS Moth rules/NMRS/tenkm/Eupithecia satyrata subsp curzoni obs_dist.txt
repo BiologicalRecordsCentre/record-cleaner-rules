@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Eupithecia satyrata subsp. curzoni 10km
+Description=Check coordinate against known 10km distribution of Eupithecia satyrata subsp. curzoni
+ErrorMsg=Coordinate outside known range for Eupithecia satyrata subsp. curzoni
+DataFieldName=Species
+DataRecordId=NHMSYS0000502618
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+HU35
+
+

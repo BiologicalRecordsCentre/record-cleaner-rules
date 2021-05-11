@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Aphantopus hyperantus
+Description=Checks date is within known recording period of Aphantopus hyperantus
+ErrorMsg=Date is outside known recording period of Aphantopus hyperantus
+Tvk=NHMSYS0000501120
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

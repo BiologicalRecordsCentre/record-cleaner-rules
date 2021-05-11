@@ -1,0 +1,15 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Conistra rubiginea
+Description=Checks date is within known flight period of Conistra rubiginea
+ErrorMsg=Date is outside known flight period of Conistra rubiginea
+Tvk=NHMSYS0000501971
+DataFieldName=
+StartDate=0531
+EndDate=0901
+ReverseRule=True
+LastChanged=20120126
+[EndMetadata]
+
+         

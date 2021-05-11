@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Eilema griseola ab. stramineola
+Description=Checks date is within known recording period of Eilema griseola ab. stramineola
+ErrorMsg=Date is outside known recording period of Eilema griseola ab. stramineola
+Tvk=NHMSYS0020001613
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

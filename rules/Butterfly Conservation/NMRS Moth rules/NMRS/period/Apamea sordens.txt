@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Apamea sordens
+Description=Checks date is within known recording period of Apamea sordens
+ErrorMsg=Date is outside known recording period of Apamea sordens
+Tvk=NBNSYS0000027060
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

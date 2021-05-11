@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Photedes captiuncula subsp. expolita
+Description=Checks date is within known flight period of Photedes captiuncula subsp. expolita
+ErrorMsg=Date is outside known flight period of Photedes captiuncula subsp. expolita
+Tvk=NBNSYS0000005322
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

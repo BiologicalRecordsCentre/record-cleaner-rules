@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Selenia dentaria
+Description=Checks date is within known flight period of Selenia dentaria
+ErrorMsg=Date is outside known flight period of Selenia dentaria
+Tvk=NBNSYS0000006008
+DataFieldName=
+StartDate=0301
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

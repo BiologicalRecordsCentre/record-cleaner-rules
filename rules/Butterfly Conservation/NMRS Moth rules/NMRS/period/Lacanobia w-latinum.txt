@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Lacanobia w-latinum
+Description=Checks date is within known recording period of Lacanobia w-latinum
+ErrorMsg=Date is outside known recording period of Lacanobia w-latinum
+Tvk=NBNSYS0000006248
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

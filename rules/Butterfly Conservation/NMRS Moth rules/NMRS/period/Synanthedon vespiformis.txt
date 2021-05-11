@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Synanthedon vespiformis
+Description=Checks date is within known recording period of Synanthedon vespiformis
+ErrorMsg=Date is outside known recording period of Synanthedon vespiformis
+Tvk=NBNSYS0000005689
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

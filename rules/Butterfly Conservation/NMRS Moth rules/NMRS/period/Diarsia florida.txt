@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Diarsia florida
+Description=Checks date is within known recording period of Diarsia florida
+ErrorMsg=Date is outside known recording period of Diarsia florida
+Tvk=NBNSYS0000006215
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

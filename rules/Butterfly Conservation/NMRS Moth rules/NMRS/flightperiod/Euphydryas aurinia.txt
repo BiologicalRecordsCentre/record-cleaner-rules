@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Euphydryas aurinia
+Description=Checks date is within known flight period of Euphydryas aurinia
+ErrorMsg=Date is outside known flight period of Euphydryas aurinia
+Tvk=NHMSYS0000516340
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

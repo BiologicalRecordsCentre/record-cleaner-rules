@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Dryobota labecula
+Description=Checks date is within known recording period of Dryobota labecula
+ErrorMsg=Date is outside known recording period of Dryobota labecula
+Tvk=MM0001Z1Q00021ZZ
+StartDate=19990101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

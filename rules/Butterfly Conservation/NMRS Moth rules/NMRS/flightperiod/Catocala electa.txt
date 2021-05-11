@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Catocala electa
+Description=Checks date is within known flight period of Catocala electa
+ErrorMsg=Date is outside known flight period of Catocala electa
+Tvk=NBNSYS0000006558
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

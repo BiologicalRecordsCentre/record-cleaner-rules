@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Arctornis l-nigrum 10km
+Description=Check coordinate against known 10km distribution of Arctornis l-nigrum
+ErrorMsg=Coordinate outside known range for Arctornis l-nigrum
+DataFieldName=Species
+DataRecordId=NHMSYS0000501296
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+TQ54
+
+

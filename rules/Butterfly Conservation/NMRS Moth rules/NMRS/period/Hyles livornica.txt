@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Hyles livornica
+Description=Checks date is within known recording period of Hyles livornica
+ErrorMsg=Date is outside known recording period of Hyles livornica
+Tvk=NBNSYS0100003566
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

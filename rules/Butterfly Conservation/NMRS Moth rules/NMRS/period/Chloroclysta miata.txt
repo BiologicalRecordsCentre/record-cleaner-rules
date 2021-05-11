@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Chloroclysta miata
+Description=Checks date is within known recording period of Chloroclysta miata
+ErrorMsg=Date is outside known recording period of Chloroclysta miata
+Tvk=NBNSYS0000005841
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

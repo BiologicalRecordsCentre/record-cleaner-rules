@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Zygaena purpuralis 10km
+Description=Check coordinate against known 10km distribution of Zygaena purpuralis
+ErrorMsg=Coordinate outside known range for Zygaena purpuralis
+DataFieldName=Species
+DataRecordId=NHMSYS0000520673
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NG33
+NM33
+NM34
+NM35
+NM37
+NM39
+NM42
+NM43
+NM44
+NM45
+NM46
+NM48
+NM49
+NM52
+NM82
+NM92
+NM93
+NR60
+NR70
+
+

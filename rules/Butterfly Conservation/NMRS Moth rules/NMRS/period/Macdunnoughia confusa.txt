@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Macdunnoughia confusa
+Description=Checks date is within known recording period of Macdunnoughia confusa
+ErrorMsg=Date is outside known recording period of Macdunnoughia confusa
+Tvk=NBNSYS0000006541
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

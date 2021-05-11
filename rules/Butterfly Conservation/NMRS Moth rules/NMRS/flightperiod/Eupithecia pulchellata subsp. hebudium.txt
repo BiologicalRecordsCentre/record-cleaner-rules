@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Eupithecia pulchellata subsp. hebudium
+Description=Checks date is within known flight period of Eupithecia pulchellata subsp. hebudium
+ErrorMsg=Date is outside known flight period of Eupithecia pulchellata subsp. hebudium
+Tvk=NBNSYS0000005219
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

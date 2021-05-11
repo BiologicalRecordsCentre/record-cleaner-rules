@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Gnophos obfuscatus
+Description=Checks date is within known recording period of Gnophos obfuscatus
+ErrorMsg=Date is outside known recording period of Gnophos obfuscatus
+Tvk=NHMSYS0000502744
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

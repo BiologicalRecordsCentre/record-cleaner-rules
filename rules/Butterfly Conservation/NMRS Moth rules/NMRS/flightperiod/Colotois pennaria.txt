@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Colotois pennaria
+Description=Checks date is within known flight period of Colotois pennaria
+ErrorMsg=Date is outside known flight period of Colotois pennaria
+Tvk=NHMSYS0000501963
+DataFieldName=
+StartDate=0801
+EndDate=1231
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Euplexia lucipara
+Description=Checks date is within known recording period of Euplexia lucipara
+ErrorMsg=Date is outside known recording period of Euplexia lucipara
+Tvk=NBNSYS0000006401
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Eupithecia vulgata subsp. scotica
+Description=Checks date is within known recording period of Eupithecia vulgata subsp. scotica
+ErrorMsg=Date is outside known recording period of Eupithecia vulgata subsp. scotica
+Tvk=NBNSYS0000005227
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

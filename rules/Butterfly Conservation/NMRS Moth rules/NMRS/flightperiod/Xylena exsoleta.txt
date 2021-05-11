@@ -1,0 +1,15 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Xylena exsoleta
+Description=Checks date is within known flight period of Xylena exsoleta
+ErrorMsg=Date is outside known flight period of Xylena exsoleta
+Tvk=NBNSYS0000006335
+DataFieldName=
+StartDate=0430
+EndDate=0801
+ReverseRule=True
+LastChanged=20120126
+[EndMetadata]
+
+         

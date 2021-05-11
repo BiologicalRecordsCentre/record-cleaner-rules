@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Pechipogo strigilata 10km
+Description=Check coordinate against known 10km distribution of Pechipogo strigilata
+ErrorMsg=Coordinate outside known range for Pechipogo strigilata
+DataFieldName=Species
+DataRecordId=NHMSYS0000503655
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NO32
+SE35
+SJ22
+SJ41
+SJ61
+SJ82
+SJ94
+SO38
+SO60
+SO61
+SO77
+SP61
+SS74
+ST24
+ST36
+ST51
+ST73
+SU11
+SU32
+SU33
+SU34
+SU44
+SU53
+SU66
+SU93
+TL13
+TL67
+TQ03
+TQ10
+TQ16
+TQ41
+TQ56
+TQ66
+TQ93
+TR16
+
+

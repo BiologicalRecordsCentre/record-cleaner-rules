@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Ctenoplusia limbirena
+Description=Checks date is within known recording period of Ctenoplusia limbirena
+ErrorMsg=Date is outside known recording period of Ctenoplusia limbirena
+Tvk=NHMSYS0000502035
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

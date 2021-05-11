@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Epirrita autumnata
+Description=Checks date is within known flight period of Epirrita autumnata
+ErrorMsg=Date is outside known flight period of Epirrita autumnata
+Tvk=NBNSYS0000005877
+DataFieldName=
+StartDate=0801
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

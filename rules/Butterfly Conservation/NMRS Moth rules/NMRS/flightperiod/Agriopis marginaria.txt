@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Agriopis marginaria
+Description=Checks date is within known flight period of Agriopis marginaria
+ErrorMsg=Date is outside known flight period of Agriopis marginaria
+Tvk=NBNSYS0000006025
+DataFieldName=
+StartDate=0101
+EndDate=0531
+LastChanged=20110328
+[EndMetadata]
+
+         

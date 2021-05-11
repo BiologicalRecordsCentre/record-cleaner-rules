@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Acronicta auricoma
+Description=Checks date is within known recording period of Acronicta auricoma
+ErrorMsg=Date is outside known recording period of Acronicta auricoma
+Tvk=NHMSYS0000500975
+StartDate=17000101
+EndDate=19121231
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Thera juniperata
+Description=Checks date is within known flight period of Thera juniperata
+ErrorMsg=Date is outside known flight period of Thera juniperata
+Tvk=NBNSYS0000005851
+DataFieldName=
+StartDate=0901
+EndDate=1231
+LastChanged=20110328
+[EndMetadata]
+
+         

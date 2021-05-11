@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Coenonympha tullia
+Description=Checks date is within known flight period of Coenonympha tullia
+ErrorMsg=Date is outside known flight period of Coenonympha tullia
+Tvk=NHMSYS0000519078
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

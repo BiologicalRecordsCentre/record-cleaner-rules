@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Standfussiana lucernea
+Description=Checks date is within known flight period of Standfussiana lucernea
+ErrorMsg=Date is outside known flight period of Standfussiana lucernea
+Tvk=NBNSYS0000006190
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

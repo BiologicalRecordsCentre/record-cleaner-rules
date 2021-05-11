@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Eublemma minutata 10km
+Description=Check coordinate against known 10km distribution of Eublemma minutata
+ErrorMsg=Coordinate outside known range for Eublemma minutata
+DataFieldName=Species
+DataRecordId=NBNSYS0000006515
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NH77
+
+

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Rhodometra sacraria
+Description=Checks date is within known flight period of Rhodometra sacraria
+ErrorMsg=Date is outside known flight period of Rhodometra sacraria
+Tvk=NBNSYS0000005789
+DataFieldName=
+StartDate=0301
+EndDate=1231
+LastChanged=20110328
+[EndMetadata]
+
+         

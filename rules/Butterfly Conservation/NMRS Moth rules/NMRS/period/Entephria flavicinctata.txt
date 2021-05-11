@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Entephria flavicinctata
+Description=Checks date is within known recording period of Entephria flavicinctata
+ErrorMsg=Date is outside known recording period of Entephria flavicinctata
+Tvk=NHMSYS0000519698
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

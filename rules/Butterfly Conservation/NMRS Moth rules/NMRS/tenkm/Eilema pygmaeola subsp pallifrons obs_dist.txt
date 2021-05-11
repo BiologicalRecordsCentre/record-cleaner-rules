@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Eilema pygmaeola subsp. pallifrons 10km
+Description=Check coordinate against known 10km distribution of Eilema pygmaeola subsp. pallifrons
+ErrorMsg=Coordinate outside known range for Eilema pygmaeola subsp. pallifrons
+DataFieldName=Species
+DataRecordId=NBNSYS0000005260
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+TQ81
+TR01
+
+

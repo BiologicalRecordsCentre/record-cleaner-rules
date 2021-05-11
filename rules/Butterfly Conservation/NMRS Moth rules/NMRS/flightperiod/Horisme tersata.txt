@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Horisme tersata
+Description=Checks date is within known flight period of Horisme tersata
+ErrorMsg=Date is outside known flight period of Horisme tersata
+Tvk=NHMSYS0000502881
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

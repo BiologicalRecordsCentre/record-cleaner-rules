@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Hyles euphorbiae 10km
+Description=Check coordinate against known 10km distribution of Hyles euphorbiae
+ErrorMsg=Coordinate outside known range for Hyles euphorbiae
+DataFieldName=Species
+DataRecordId=NBNSYS0000006074
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+TF63
+TM23
+TM36
+TQ20
+TQ72
+TR01
+TR12
+TR16
+TR34
+TR36
+TR37
+
+

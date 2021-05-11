@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Lygephila craccae 10km
+Description=Check coordinate against known 10km distribution of Lygephila craccae
+ErrorMsg=Coordinate outside known range for Lygephila craccae
+DataFieldName=Species
+DataRecordId=NHMSYS0000503131
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SS11
+SS21
+SS22
+SS32
+SS44
+SS94
+SV91
+SX19
+
+

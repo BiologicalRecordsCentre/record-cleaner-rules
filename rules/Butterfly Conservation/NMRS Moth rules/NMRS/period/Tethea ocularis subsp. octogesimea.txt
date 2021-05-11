@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Tethea ocularis subsp. octogesimea
+Description=Checks date is within known recording period of Tethea ocularis subsp. octogesimea
+ErrorMsg=Date is outside known recording period of Tethea ocularis subsp. octogesimea
+Tvk=NHMSYS0000504475
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

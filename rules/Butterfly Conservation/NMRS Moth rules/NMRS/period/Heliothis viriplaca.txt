@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Heliothis viriplaca
+Description=Checks date is within known recording period of Heliothis viriplaca
+ErrorMsg=Date is outside known recording period of Heliothis viriplaca
+Tvk=NBNSYS0000006507
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

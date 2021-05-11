@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Archanara neurica
+Description=Checks date is within known flight period of Archanara neurica
+ErrorMsg=Date is outside known flight period of Archanara neurica
+Tvk=NHMSYS0000501168
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

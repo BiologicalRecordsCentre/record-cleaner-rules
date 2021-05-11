@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Atolmis rubricollis
+Description=Checks date is within known flight period of Atolmis rubricollis
+ErrorMsg=Date is outside known flight period of Atolmis rubricollis
+Tvk=NBNSYS0000006125
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

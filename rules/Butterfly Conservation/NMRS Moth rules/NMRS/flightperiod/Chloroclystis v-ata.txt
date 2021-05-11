@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Chloroclystis v-ata
+Description=Checks date is within known flight period of Chloroclystis v-ata
+ErrorMsg=Date is outside known flight period of Chloroclystis v-ata
+Tvk=NBNSYS0000005946
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

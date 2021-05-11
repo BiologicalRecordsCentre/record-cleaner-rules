@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Eupithecia distinctaria subsp. constrictata 10km
+Description=Check coordinate against known 10km distribution of Eupithecia distinctaria subsp. constrictata
+ErrorMsg=Coordinate outside known range for Eupithecia distinctaria subsp. constrictata
+DataFieldName=Species
+DataRecordId=NHMSYS0000502594
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NH80
+NM84
+NN15
+SH52
+SH53
+SK15
+SU23
+
+

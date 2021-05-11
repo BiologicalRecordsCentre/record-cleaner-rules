@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Perizoma didymata subsp. hethlandica 10km
+Description=Check coordinate against known 10km distribution of Perizoma didymata subsp. hethlandica
+ErrorMsg=Coordinate outside known range for Perizoma didymata subsp. hethlandica
+DataFieldName=Species
+DataRecordId=NBNSYS0000005217
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+HU43
+ND48
+NS84
+NT54
+SK15
+TA41
+
+

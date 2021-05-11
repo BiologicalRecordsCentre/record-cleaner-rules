@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Heliophobus reticulata
+Description=Checks date is within known recording period of Heliophobus reticulata
+ErrorMsg=Date is outside known recording period of Heliophobus reticulata
+Tvk=NBNSYS0000006244
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

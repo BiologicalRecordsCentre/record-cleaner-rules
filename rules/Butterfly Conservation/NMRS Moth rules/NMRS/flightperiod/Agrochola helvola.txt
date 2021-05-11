@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Agrochola helvola
+Description=Checks date is within known flight period of Agrochola helvola
+ErrorMsg=Date is outside known flight period of Agrochola helvola
+Tvk=NBNSYS0000006360
+DataFieldName=
+StartDate=0801
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

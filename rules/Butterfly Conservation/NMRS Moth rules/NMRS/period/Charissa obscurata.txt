@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Charissa obscurata
+Description=Checks date is within known recording period of Charissa obscurata
+ErrorMsg=Date is outside known recording period of Charissa obscurata
+Tvk=NHMSYS0000501732
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

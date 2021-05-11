@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Heliophobus reticulata subsp. hibernica
+Description=Checks date is within known recording period of Heliophobus reticulata subsp. hibernica
+ErrorMsg=Date is outside known recording period of Heliophobus reticulata subsp. hibernica
+Tvk=NBNSYS0000005277
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

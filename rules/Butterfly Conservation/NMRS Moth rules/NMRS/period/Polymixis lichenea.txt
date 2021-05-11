@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Polymixis lichenea
+Description=Checks date is within known recording period of Polymixis lichenea
+ErrorMsg=Date is outside known recording period of Polymixis lichenea
+Tvk=NHMSYS0000520013
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

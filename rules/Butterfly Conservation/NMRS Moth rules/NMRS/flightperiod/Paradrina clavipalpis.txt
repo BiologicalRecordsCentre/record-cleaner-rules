@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Paradrina clavipalpis
+Description=Checks date is within known flight period of Paradrina clavipalpis
+ErrorMsg=Date is outside known flight period of Paradrina clavipalpis
+Tvk=NBNSYS0100004438
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20110328
+[EndMetadata]
+
+         

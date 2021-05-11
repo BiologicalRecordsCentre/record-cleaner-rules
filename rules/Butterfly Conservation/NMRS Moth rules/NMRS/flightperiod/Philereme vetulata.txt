@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Philereme vetulata
+Description=Checks date is within known flight period of Philereme vetulata
+ErrorMsg=Date is outside known flight period of Philereme vetulata
+Tvk=NHMSYS0000503723
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

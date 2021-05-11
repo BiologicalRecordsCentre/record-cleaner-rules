@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Xanthorhoe spadicearia
+Description=Checks date is within known flight period of Xanthorhoe spadicearia
+ErrorMsg=Date is outside known flight period of Xanthorhoe spadicearia
+Tvk=NHMSYS0000504663
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

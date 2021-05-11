@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Entephria flavicinctata subsp. ruficinctata 10km
+Description=Check coordinate against known 10km distribution of Entephria flavicinctata subsp. ruficinctata
+ErrorMsg=Coordinate outside known range for Entephria flavicinctata subsp. ruficinctata
+DataFieldName=Species
+DataRecordId=NHMSYS0000502385
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NN63
+NN76
+
+

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Hepialus humuli subsp. thulensis
+Description=Checks date is within known flight period of Hepialus humuli subsp. thulensis
+ErrorMsg=Date is outside known flight period of Hepialus humuli subsp. thulensis
+Tvk=NBNSYS0000005655
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

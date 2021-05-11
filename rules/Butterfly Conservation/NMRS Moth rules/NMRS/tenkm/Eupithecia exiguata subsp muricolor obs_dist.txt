@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Eupithecia exiguata subsp. muricolor 10km
+Description=Check coordinate against known 10km distribution of Eupithecia exiguata subsp. muricolor
+ErrorMsg=Coordinate outside known range for Eupithecia exiguata subsp. muricolor
+DataFieldName=Species
+DataRecordId=NBNSYS0000005221
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NH59
+NO69
+SU11
+TQ29
+TQ49
+
+

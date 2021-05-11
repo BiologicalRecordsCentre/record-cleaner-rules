@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Eupsilia transversa
+Description=Checks date is within known recording period of Eupsilia transversa
+ErrorMsg=Date is outside known recording period of Eupsilia transversa
+Tvk=NBNSYS0000006351
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

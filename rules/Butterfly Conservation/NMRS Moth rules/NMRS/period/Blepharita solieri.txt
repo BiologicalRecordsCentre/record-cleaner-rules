@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Blepharita solieri
+Description=Checks date is within known recording period of Blepharita solieri
+ErrorMsg=Date is outside known recording period of Blepharita solieri
+Tvk=NBNSYS0100002016
+StartDate=19760829
+EndDate=19760829
+LastChanged=20110328
+[EndMetadata]
+
+         

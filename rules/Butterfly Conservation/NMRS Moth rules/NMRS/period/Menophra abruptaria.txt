@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Menophra abruptaria
+Description=Checks date is within known recording period of Menophra abruptaria
+ErrorMsg=Date is outside known recording period of Menophra abruptaria
+Tvk=NBNSYS0000006027
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

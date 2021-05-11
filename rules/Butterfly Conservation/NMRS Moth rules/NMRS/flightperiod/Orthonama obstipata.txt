@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Orthonama obstipata
+Description=Checks date is within known flight period of Orthonama obstipata
+ErrorMsg=Date is outside known flight period of Orthonama obstipata
+Tvk=NBNSYS0000005793
+DataFieldName=
+StartDate=0301
+EndDate=1231
+LastChanged=20110328
+[EndMetadata]
+
+         

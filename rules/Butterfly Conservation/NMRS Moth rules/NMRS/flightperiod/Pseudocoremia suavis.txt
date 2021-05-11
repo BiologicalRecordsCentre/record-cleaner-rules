@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Pseudocoremia suavis
+Description=Checks date is within known flight period of Pseudocoremia suavis
+ErrorMsg=Date is outside known flight period of Pseudocoremia suavis
+Tvk=NHMSYS0020531231
+DataFieldName=
+StartDate=0301
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

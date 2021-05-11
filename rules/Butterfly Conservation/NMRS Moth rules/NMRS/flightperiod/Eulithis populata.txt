@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Eulithis populata
+Description=Checks date is within known flight period of Eulithis populata
+ErrorMsg=Date is outside known flight period of Eulithis populata
+Tvk=NBNSYS0000005836
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Acronicta euphorbiae
+Description=Checks date is within known flight period of Acronicta euphorbiae
+ErrorMsg=Date is outside known flight period of Acronicta euphorbiae
+Tvk=NHMSYS0000516839
+DataFieldName=
+StartDate=0301
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

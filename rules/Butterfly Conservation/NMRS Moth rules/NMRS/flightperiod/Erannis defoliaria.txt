@@ -1,0 +1,15 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Erannis defoliaria
+Description=Checks date is within known flight period of Erannis defoliaria
+ErrorMsg=Date is outside known flight period of Erannis defoliaria
+Tvk=NBNSYS0000006026
+DataFieldName=
+StartDate=0131
+EndDate=0801
+ReverseRule=True
+LastChanged=20120126
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Anarta cordigera
+Description=Checks date is within known flight period of Anarta cordigera
+ErrorMsg=Date is outside known flight period of Anarta cordigera
+Tvk=NBNSYS0000006234
+DataFieldName=
+StartDate=0401
+EndDate=0731
+LastChanged=20110328
+[EndMetadata]
+
+         

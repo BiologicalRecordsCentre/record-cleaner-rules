@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Scotopteryx peribolata
+Description=Checks date is within known flight period of Scotopteryx peribolata
+ErrorMsg=Date is outside known flight period of Scotopteryx peribolata
+Tvk=NHMSYS0000504136
+DataFieldName=
+StartDate=0701
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

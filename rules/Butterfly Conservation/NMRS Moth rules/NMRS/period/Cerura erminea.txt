@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Cerura erminea
+Description=Checks date is within known recording period of Cerura erminea
+ErrorMsg=Date is outside known recording period of Cerura erminea
+Tvk=NHMSYS0020500506
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Pachetra sagittigera
+Description=Checks date is within known flight period of Pachetra sagittigera
+ErrorMsg=Date is outside known flight period of Pachetra sagittigera
+Tvk=NHMSYS0000522187
+DataFieldName=
+StartDate=0401
+EndDate=0731
+LastChanged=20110328
+[EndMetadata]
+
+         

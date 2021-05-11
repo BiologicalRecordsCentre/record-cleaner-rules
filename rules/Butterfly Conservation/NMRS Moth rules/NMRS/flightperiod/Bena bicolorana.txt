@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Bena bicolorana
+Description=Checks date is within known flight period of Bena bicolorana
+ErrorMsg=Date is outside known flight period of Bena bicolorana
+Tvk=NHMSYS0000501469
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

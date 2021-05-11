@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Anticlea derivata
+Description=Checks date is within known recording period of Anticlea derivata
+ErrorMsg=Date is outside known recording period of Anticlea derivata
+Tvk=NHMSYS0000501264
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

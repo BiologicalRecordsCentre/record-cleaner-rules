@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Scopula limboundata
+Description=Checks date is within known recording period of Scopula limboundata
+ErrorMsg=Date is outside known recording period of Scopula limboundata
+Tvk=NBNSYS0000005768
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

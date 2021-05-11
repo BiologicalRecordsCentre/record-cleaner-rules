@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Philereme transversata subsp. britannica
+Description=Checks date is within known recording period of Philereme transversata subsp. britannica
+ErrorMsg=Date is outside known recording period of Philereme transversata subsp. britannica
+Tvk=NHMSYS0000503721
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Zanclognatha zelleralis
+Description=Checks date is within known recording period of Zanclognatha zelleralis
+ErrorMsg=Date is outside known recording period of Zanclognatha zelleralis
+Tvk=NBNSYS0100006033
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

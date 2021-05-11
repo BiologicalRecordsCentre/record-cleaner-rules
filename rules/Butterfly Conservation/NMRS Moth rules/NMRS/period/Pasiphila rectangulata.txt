@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Pasiphila rectangulata
+Description=Checks date is within known recording period of Pasiphila rectangulata
+ErrorMsg=Date is outside known recording period of Pasiphila rectangulata
+Tvk=NBNSYS0100004490
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

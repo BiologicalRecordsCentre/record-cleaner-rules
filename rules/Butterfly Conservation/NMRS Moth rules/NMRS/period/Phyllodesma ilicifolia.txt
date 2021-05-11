@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Phyllodesma ilicifolia
+Description=Checks date is within known recording period of Phyllodesma ilicifolia
+ErrorMsg=Date is outside known recording period of Phyllodesma ilicifolia
+Tvk=NBNSYS0000005713
+StartDate=17000101
+EndDate=19650515
+LastChanged=20110328
+[EndMetadata]
+
+         

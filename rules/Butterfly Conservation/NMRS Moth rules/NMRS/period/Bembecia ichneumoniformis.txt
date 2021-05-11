@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Bembecia ichneumoniformis
+Description=Checks date is within known recording period of Bembecia ichneumoniformis
+ErrorMsg=Date is outside known recording period of Bembecia ichneumoniformis
+Tvk=NHMSYS0000501466
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

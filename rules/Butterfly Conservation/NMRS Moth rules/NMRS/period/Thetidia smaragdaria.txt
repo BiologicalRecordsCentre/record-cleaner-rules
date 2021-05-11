@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Thetidia smaragdaria
+Description=Checks date is within known recording period of Thetidia smaragdaria
+ErrorMsg=Date is outside known recording period of Thetidia smaragdaria
+Tvk=NHMSYS0000517123
+StartDate=17000101
+EndDate=19911231
+LastChanged=20110328
+[EndMetadata]
+
+         

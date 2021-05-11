@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Amphipoea fucosa subsp. paludis
+Description=Checks date is within known recording period of Amphipoea fucosa subsp. paludis
+ErrorMsg=Date is outside known recording period of Amphipoea fucosa subsp. paludis
+Tvk=NBNSYS0000006463
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

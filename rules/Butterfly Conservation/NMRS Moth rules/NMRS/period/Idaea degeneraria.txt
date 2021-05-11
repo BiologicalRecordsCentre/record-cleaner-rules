@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Idaea degeneraria
+Description=Checks date is within known recording period of Idaea degeneraria
+ErrorMsg=Date is outside known recording period of Idaea degeneraria
+Tvk=NHMSYS0000502930
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Acronicta psi
+Description=Checks date is within known flight period of Acronicta psi
+ErrorMsg=Date is outside known flight period of Acronicta psi
+Tvk=NBNSYS0000006379
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

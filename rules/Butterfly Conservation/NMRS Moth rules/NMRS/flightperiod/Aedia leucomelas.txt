@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Aedia leucomelas
+Description=Checks date is within known flight period of Aedia leucomelas
+ErrorMsg=Date is outside known flight period of Aedia leucomelas
+Tvk=NHMSYS0020531219
+DataFieldName=
+StartDate=0401
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

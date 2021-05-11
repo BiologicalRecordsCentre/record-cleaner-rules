@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Xestia alpicola subsp. alpina
+Description=Checks date is within known recording period of Xestia alpicola subsp. alpina
+ErrorMsg=Date is outside known recording period of Xestia alpicola subsp. alpina
+Tvk=NBNSYS0000006216
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Aplasta ononaria 10km
+Description=Check coordinate against known 10km distribution of Aplasta ononaria
+ErrorMsg=Coordinate outside known range for Aplasta ononaria
+DataFieldName=Species
+DataRecordId=NBNSYS0000005737
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+ST00
+SZ57
+TL72
+TL91
+TM11
+TM23
+TM33
+TM44
+TQ13
+TQ67
+TQ76
+TQ78
+TQ87
+TR01
+TR02
+TR23
+TR26
+TR35
+TR36
+TR37
+
+

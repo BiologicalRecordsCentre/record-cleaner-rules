@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Perizoma albulata subsp. albulata
+Description=Checks date is within known recording period of Perizoma albulata subsp. albulata
+ErrorMsg=Date is outside known recording period of Perizoma albulata subsp. albulata
+Tvk=NHMSYS0000503693
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

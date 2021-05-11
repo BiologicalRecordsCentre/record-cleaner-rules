@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Dypterygia scabriuscula
+Description=Checks date is within known flight period of Dypterygia scabriuscula
+ErrorMsg=Date is outside known flight period of Dypterygia scabriuscula
+Tvk=NBNSYS0000006397
+DataFieldName=
+StartDate=0501
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

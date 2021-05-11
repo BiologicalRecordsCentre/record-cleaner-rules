@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Zygaena trifolii form palustrella 10km
+Description=Check coordinate against known 10km distribution of Zygaena trifolii form palustrella
+ErrorMsg=Coordinate outside known range for Zygaena trifolii form palustrella
+DataFieldName=Species
+DataRecordId=NHMSYS0000840694
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SO92
+SU01
+SU02
+SU23
+SU28
+SU33
+SU35
+SU38
+SU71
+SZ38
+SZ48
+TQ14
+TQ15
+
+

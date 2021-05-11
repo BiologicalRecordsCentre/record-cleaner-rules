@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Photedes captiuncula
+Description=Checks date is within known recording period of Photedes captiuncula
+ErrorMsg=Date is outside known recording period of Photedes captiuncula
+Tvk=NBNSYS0000006444
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

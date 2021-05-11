@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Alcis repandata
+Description=Checks date is within known recording period of Alcis repandata
+ErrorMsg=Date is outside known recording period of Alcis repandata
+Tvk=NBNSYS0000006033
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

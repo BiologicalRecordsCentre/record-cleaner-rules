@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Hyphoraia testudinaria
+Description=Checks date is within known flight period of Hyphoraia testudinaria
+ErrorMsg=Date is outside known flight period of Hyphoraia testudinaria
+Tvk=NHMSYS0020531195
+DataFieldName=
+StartDate=0401
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

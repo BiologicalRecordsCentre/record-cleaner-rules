@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Trigonophora flammea
+Description=Checks date is within known recording period of Trigonophora flammea
+ErrorMsg=Date is outside known recording period of Trigonophora flammea
+Tvk=NBNSYS0000006344
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

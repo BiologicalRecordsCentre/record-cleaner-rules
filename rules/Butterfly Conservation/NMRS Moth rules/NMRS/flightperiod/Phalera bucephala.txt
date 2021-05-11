@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Phalera bucephala
+Description=Checks date is within known flight period of Phalera bucephala
+ErrorMsg=Date is outside known flight period of Phalera bucephala
+Tvk=NBNSYS0000006080
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

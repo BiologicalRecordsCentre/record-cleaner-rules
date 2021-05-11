@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Diacrisia sannio
+Description=Checks date is within known flight period of Diacrisia sannio
+ErrorMsg=Date is outside known flight period of Diacrisia sannio
+Tvk=NBNSYS0000006145
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

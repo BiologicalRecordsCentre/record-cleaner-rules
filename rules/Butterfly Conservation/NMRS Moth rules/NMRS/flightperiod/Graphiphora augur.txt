@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Graphiphora augur
+Description=Checks date is within known flight period of Graphiphora augur
+ErrorMsg=Date is outside known flight period of Graphiphora augur
+Tvk=NBNSYS0000006200
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

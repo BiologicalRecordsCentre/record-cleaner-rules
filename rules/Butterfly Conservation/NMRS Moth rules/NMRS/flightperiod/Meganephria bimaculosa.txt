@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Meganephria bimaculosa
+Description=Checks date is within known flight period of Meganephria bimaculosa
+ErrorMsg=Date is outside known flight period of Meganephria bimaculosa
+Tvk=MM0001Z100H6VVQ1
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

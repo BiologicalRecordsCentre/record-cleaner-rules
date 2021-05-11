@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Hypena proboscidalis
+Description=Checks date is within known flight period of Hypena proboscidalis
+ErrorMsg=Date is outside known flight period of Hypena proboscidalis
+Tvk=NBNSYS0000006581
+DataFieldName=
+StartDate=0501
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

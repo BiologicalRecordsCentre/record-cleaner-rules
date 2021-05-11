@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Camptogramma bilineata subsp. isolata
+Description=Checks date is within known recording period of Camptogramma bilineata subsp. isolata
+ErrorMsg=Date is outside known recording period of Camptogramma bilineata subsp. isolata
+Tvk=NHMSYS0000501626
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

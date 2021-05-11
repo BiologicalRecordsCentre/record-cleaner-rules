@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Cidaria fulvata
+Description=Checks date is within known flight period of Cidaria fulvata
+ErrorMsg=Date is outside known flight period of Cidaria fulvata
+Tvk=NBNSYS0000005845
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

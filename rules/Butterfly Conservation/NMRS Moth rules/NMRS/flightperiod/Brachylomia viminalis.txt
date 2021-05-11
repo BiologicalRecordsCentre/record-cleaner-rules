@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Brachylomia viminalis
+Description=Checks date is within known flight period of Brachylomia viminalis
+ErrorMsg=Date is outside known flight period of Brachylomia viminalis
+Tvk=NBNSYS0000006318
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

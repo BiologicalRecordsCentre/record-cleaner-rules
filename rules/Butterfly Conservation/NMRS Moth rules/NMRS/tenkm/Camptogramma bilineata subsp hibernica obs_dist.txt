@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Camptogramma bilineata subsp. hibernica 10km
+Description=Check coordinate against known 10km distribution of Camptogramma bilineata subsp. hibernica
+ErrorMsg=Coordinate outside known range for Camptogramma bilineata subsp. hibernica
+DataFieldName=Species
+DataRecordId=NHMSYS0000501625
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+NF85
+NY31
+SU80
+SZ89
+TQ91
+
+

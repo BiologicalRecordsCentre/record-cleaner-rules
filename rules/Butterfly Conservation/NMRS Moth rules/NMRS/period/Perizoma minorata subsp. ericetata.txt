@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Perizoma minorata subsp. ericetata
+Description=Checks date is within known recording period of Perizoma minorata subsp. ericetata
+ErrorMsg=Date is outside known recording period of Perizoma minorata subsp. ericetata
+Tvk=NBNSYS0000005885
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

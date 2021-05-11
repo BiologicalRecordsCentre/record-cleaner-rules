@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Idaea trigeminata
+Description=Checks date is within known recording period of Idaea trigeminata
+ErrorMsg=Date is outside known recording period of Idaea trigeminata
+Tvk=NBNSYS0000005784
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

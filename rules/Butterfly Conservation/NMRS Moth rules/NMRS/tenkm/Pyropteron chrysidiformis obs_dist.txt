@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Pyropteron chrysidiformis 10km
+Description=Check coordinate against known 10km distribution of Pyropteron chrysidiformis
+ErrorMsg=Coordinate outside known range for Pyropteron chrysidiformis
+DataFieldName=Species
+DataRecordId=NHMSYS0000504018
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+TR23
+TR24
+
+

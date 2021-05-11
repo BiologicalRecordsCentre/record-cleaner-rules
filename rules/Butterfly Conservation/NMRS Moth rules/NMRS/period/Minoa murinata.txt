@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Minoa murinata
+Description=Checks date is within known recording period of Minoa murinata
+ErrorMsg=Date is outside known recording period of Minoa murinata
+Tvk=NBNSYS0000005969
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

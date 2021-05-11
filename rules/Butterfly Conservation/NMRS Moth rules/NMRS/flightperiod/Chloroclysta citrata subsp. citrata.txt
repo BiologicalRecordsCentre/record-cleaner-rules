@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Chloroclysta citrata subsp. citrata
+Description=Checks date is within known flight period of Chloroclysta citrata subsp. citrata
+ErrorMsg=Date is outside known flight period of Chloroclysta citrata subsp. citrata
+Tvk=NBNSYS0000005314
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

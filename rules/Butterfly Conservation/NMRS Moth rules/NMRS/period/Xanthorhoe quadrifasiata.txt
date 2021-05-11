@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Xanthorhoe quadrifasiata
+Description=Checks date is within known recording period of Xanthorhoe quadrifasiata
+ErrorMsg=Date is outside known recording period of Xanthorhoe quadrifasiata
+Tvk=MM0001Z100BZSUG1
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

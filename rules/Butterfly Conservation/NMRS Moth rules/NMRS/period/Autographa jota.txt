@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Autographa jota
+Description=Checks date is within known recording period of Autographa jota
+ErrorMsg=Date is outside known recording period of Autographa jota
+Tvk=NBNSYS0000006548
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

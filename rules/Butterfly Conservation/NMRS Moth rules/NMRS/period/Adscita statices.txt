@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Adscita statices
+Description=Checks date is within known recording period of Adscita statices
+ErrorMsg=Date is outside known recording period of Adscita statices
+Tvk=NBNSYS0000005663
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Eulithis pyraliata
+Description=Checks date is within known recording period of Eulithis pyraliata
+ErrorMsg=Date is outside known recording period of Eulithis pyraliata
+Tvk=NHMSYS0000502582
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Coenocalpe lapidata
+Description=Checks date is within known flight period of Coenocalpe lapidata
+ErrorMsg=Date is outside known flight period of Coenocalpe lapidata
+Tvk=NHMSYS0000501802
+DataFieldName=
+StartDate=0801
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

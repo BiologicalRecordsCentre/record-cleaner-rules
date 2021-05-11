@@ -1,0 +1,15 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Agrius convolvuli
+Description=Checks date is within known flight period of Agrius convolvuli
+ErrorMsg=Date is outside known flight period of Agrius convolvuli
+Tvk=NBNSYS0000006063
+DataFieldName=
+StartDate=0131
+EndDate=0501
+ReverseRule=True
+LastChanged=20120126
+[EndMetadata]
+
+         

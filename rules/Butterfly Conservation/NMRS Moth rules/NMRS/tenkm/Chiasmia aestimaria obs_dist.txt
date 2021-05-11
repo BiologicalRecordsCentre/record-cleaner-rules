@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Chiasmia aestimaria 10km
+Description=Check coordinate against known 10km distribution of Chiasmia aestimaria
+ErrorMsg=Coordinate outside known range for Chiasmia aestimaria
+DataFieldName=Species
+DataRecordId=NHMSYS0001703668
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SY66
+SZ58
+TQ70
+TR02
+TR35
+
+

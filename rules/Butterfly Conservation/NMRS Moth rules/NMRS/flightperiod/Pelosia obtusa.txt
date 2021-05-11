@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Pelosia obtusa
+Description=Checks date is within known flight period of Pelosia obtusa
+ErrorMsg=Date is outside known flight period of Pelosia obtusa
+Tvk=NHMSYS0000503663
+DataFieldName=
+StartDate=0601
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

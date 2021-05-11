@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Perizoma minorata subsp. ericetata
+Description=Checks date is within known flight period of Perizoma minorata subsp. ericetata
+ErrorMsg=Date is outside known flight period of Perizoma minorata subsp. ericetata
+Tvk=NBNSYS0000005885
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

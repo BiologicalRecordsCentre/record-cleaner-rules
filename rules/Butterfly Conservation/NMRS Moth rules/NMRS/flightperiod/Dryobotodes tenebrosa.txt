@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Dryobotodes tenebrosa
+Description=Checks date is within known flight period of Dryobotodes tenebrosa
+ErrorMsg=Date is outside known flight period of Dryobotodes tenebrosa
+Tvk=NHMSYS0020503121
+DataFieldName=
+StartDate=0901
+EndDate=0131
+LastChanged=20110328
+[EndMetadata]
+
+         

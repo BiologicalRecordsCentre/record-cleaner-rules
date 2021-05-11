@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Pyropteron chrysidiformis
+Description=Checks date is within known flight period of Pyropteron chrysidiformis
+ErrorMsg=Date is outside known flight period of Pyropteron chrysidiformis
+Tvk=NHMSYS0000504018
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Eublemma ostrina
+Description=Checks date is within known recording period of Eublemma ostrina
+ErrorMsg=Date is outside known recording period of Eublemma ostrina
+Tvk=NHMSYS0000502510
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

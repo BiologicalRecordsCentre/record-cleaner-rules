@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Rusina ferruginea
+Description=Checks date is within known recording period of Rusina ferruginea
+ErrorMsg=Date is outside known recording period of Rusina ferruginea
+Tvk=NBNSYS0000006398
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

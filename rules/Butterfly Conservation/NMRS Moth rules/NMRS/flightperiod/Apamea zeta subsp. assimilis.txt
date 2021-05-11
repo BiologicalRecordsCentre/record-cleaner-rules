@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Apamea zeta subsp. assimilis
+Description=Checks date is within known flight period of Apamea zeta subsp. assimilis
+ErrorMsg=Date is outside known flight period of Apamea zeta subsp. assimilis
+Tvk=NBNSYS0000006423
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

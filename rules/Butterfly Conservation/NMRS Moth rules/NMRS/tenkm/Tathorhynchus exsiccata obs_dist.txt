@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Tathorhynchus exsiccata 10km
+Description=Check coordinate against known 10km distribution of Tathorhynchus exsiccata
+ErrorMsg=Coordinate outside known range for Tathorhynchus exsiccata
+DataFieldName=Species
+DataRecordId=NBNSYS0000006391
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SW72
+SY58
+SY66
+SY79
+
+

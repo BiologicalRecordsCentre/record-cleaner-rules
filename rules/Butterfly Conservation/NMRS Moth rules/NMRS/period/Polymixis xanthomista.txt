@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Polymixis xanthomista
+Description=Checks date is within known recording period of Polymixis xanthomista
+ErrorMsg=Date is outside known recording period of Polymixis xanthomista
+Tvk=NHMSYS0000520008
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

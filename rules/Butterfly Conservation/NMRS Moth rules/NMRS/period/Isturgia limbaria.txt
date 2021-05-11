@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Isturgia limbaria
+Description=Checks date is within known recording period of Isturgia limbaria
+ErrorMsg=Date is outside known recording period of Isturgia limbaria
+Tvk=NBNSYS0000005990
+StartDate=17000101
+EndDate=19141231
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Cleora cinctaria subsp. bowesi
+Description=Checks date is within known recording period of Cleora cinctaria subsp. bowesi
+ErrorMsg=Date is outside known recording period of Cleora cinctaria subsp. bowesi
+Tvk=NBNSYS0000005244
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

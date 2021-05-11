@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Cyclophora ruficiliaria
+Description=Checks date is within known recording period of Cyclophora ruficiliaria
+ErrorMsg=Date is outside known recording period of Cyclophora ruficiliaria
+Tvk=NHMSYS0020758190
+StartDate=20030719
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

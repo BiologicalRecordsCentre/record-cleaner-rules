@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Hyles gallii
+Description=Checks date is within known recording period of Hyles gallii
+ErrorMsg=Date is outside known recording period of Hyles gallii
+Tvk=MM0001Z10063HLV1
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

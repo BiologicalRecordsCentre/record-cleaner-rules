@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Mythimna vitellina
+Description=Checks date is within known recording period of Mythimna vitellina
+ErrorMsg=Date is outside known recording period of Mythimna vitellina
+Tvk=NHMSYS0000503317
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

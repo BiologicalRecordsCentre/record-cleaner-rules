@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Sabra harpagula
+Description=Checks date is within known flight period of Sabra harpagula
+ErrorMsg=Date is outside known flight period of Sabra harpagula
+Tvk=NBNSYS0000005722
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

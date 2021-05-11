@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Euxoa obelisca
+Description=Checks date is within known recording period of Euxoa obelisca
+ErrorMsg=Date is outside known recording period of Euxoa obelisca
+Tvk=NHMSYS0000520123
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

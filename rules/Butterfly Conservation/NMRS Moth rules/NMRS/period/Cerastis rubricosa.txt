@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Cerastis rubricosa
+Description=Checks date is within known recording period of Cerastis rubricosa
+ErrorMsg=Date is outside known recording period of Cerastis rubricosa
+Tvk=NHMSYS0000501720
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Eupithecia vulgata subsp. clarensis
+Description=Checks date is within known recording period of Eupithecia vulgata subsp. clarensis
+ErrorMsg=Date is outside known recording period of Eupithecia vulgata subsp. clarensis
+Tvk=NBNSYS0000005226
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

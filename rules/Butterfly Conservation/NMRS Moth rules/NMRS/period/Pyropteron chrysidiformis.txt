@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Pyropteron chrysidiformis
+Description=Checks date is within known recording period of Pyropteron chrysidiformis
+ErrorMsg=Date is outside known recording period of Pyropteron chrysidiformis
+Tvk=NHMSYS0000504018
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Bena bicolorana
+Description=Checks date is within known recording period of Bena bicolorana
+ErrorMsg=Date is outside known recording period of Bena bicolorana
+Tvk=NHMSYS0000501469
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

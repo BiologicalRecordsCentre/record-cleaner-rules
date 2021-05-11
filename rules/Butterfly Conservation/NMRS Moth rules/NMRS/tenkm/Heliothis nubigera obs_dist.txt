@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Heliothis nubigera 10km
+Description=Check coordinate against known 10km distribution of Heliothis nubigera
+ErrorMsg=Coordinate outside known range for Heliothis nubigera
+DataFieldName=Species
+DataRecordId=NHMSYS0000502830
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SC48
+SP25
+SS87
+ST41
+SU29
+SU42
+SU50
+SU60
+SV91
+SW72
+SY58
+SZ07
+SZ38
+TL80
+TL90
+TQ14
+TR01
+TR02
+TR13
+TR37
+
+

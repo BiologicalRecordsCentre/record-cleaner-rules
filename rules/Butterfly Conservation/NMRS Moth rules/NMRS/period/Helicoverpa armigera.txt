@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Helicoverpa armigera
+Description=Checks date is within known recording period of Helicoverpa armigera
+ErrorMsg=Date is outside known recording period of Helicoverpa armigera
+Tvk=NHMSYS0000502821
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

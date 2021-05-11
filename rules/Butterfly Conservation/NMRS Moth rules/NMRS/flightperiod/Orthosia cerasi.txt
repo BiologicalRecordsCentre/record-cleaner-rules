@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Orthosia cerasi
+Description=Checks date is within known flight period of Orthosia cerasi
+ErrorMsg=Date is outside known flight period of Orthosia cerasi
+Tvk=NBNSYS0000006280
+DataFieldName=
+StartDate=0201
+EndDate=0531
+LastChanged=20110328
+[EndMetadata]
+
+         

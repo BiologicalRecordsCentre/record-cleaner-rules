@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Eublemma ostrina 10km
+Description=Check coordinate against known 10km distribution of Eublemma ostrina
+ErrorMsg=Coordinate outside known range for Eublemma ostrina
+DataFieldName=Species
+DataRecordId=NHMSYS0000502510
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SP18
+ST70
+SU29
+SV91
+SW32
+SW42
+SW71
+SW72
+SX46
+SX54
+SY09
+SY66
+SY67
+SY68
+SY77
+SY79
+SY88
+SZ07
+SZ57
+SZ89
+TR01
+TR03
+TR23
+
+

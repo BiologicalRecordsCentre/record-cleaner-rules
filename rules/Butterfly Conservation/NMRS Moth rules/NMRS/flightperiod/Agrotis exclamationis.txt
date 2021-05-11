@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Agrotis exclamationis
+Description=Checks date is within known flight period of Agrotis exclamationis
+ErrorMsg=Date is outside known flight period of Agrotis exclamationis
+Tvk=NBNSYS0000006175
+DataFieldName=
+StartDate=0401
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

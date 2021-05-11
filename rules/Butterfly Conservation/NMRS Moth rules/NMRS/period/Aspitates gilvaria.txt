@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Aspitates gilvaria
+Description=Checks date is within known recording period of Aspitates gilvaria
+ErrorMsg=Date is outside known recording period of Aspitates gilvaria
+Tvk=NHMSYS0000517298
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

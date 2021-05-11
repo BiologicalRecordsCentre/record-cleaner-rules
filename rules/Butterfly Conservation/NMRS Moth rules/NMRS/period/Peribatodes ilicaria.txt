@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Peribatodes ilicaria
+Description=Checks date is within known recording period of Peribatodes ilicaria
+ErrorMsg=Date is outside known recording period of Peribatodes ilicaria
+Tvk=NBNSYS0100004533
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

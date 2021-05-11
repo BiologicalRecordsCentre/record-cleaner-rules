@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Alcis repandata subsp. sodorensium
+Description=Checks date is within known recording period of Alcis repandata subsp. sodorensium
+ErrorMsg=Date is outside known recording period of Alcis repandata subsp. sodorensium
+Tvk=NBNSYS0000005246
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

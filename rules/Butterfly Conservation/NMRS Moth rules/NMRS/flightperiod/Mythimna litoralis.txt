@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Mythimna litoralis
+Description=Checks date is within known flight period of Mythimna litoralis
+ErrorMsg=Date is outside known flight period of Mythimna litoralis
+Tvk=NBNSYS0000006294
+DataFieldName=
+StartDate=0501
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

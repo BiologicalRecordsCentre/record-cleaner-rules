@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Catarhoe cuculata
+Description=Checks date is within known flight period of Catarhoe cuculata
+ErrorMsg=Date is outside known flight period of Catarhoe cuculata
+Tvk=NBNSYS0000005814
+DataFieldName=
+StartDate=0501
+EndDate=0831
+LastChanged=20110328
+[EndMetadata]
+
+         

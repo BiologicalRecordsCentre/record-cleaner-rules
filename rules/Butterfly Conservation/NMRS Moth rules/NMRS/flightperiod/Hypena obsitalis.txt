@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Hypena obsitalis
+Description=Checks date is within known flight period of Hypena obsitalis
+ErrorMsg=Date is outside known flight period of Hypena obsitalis
+Tvk=NHMSYS0000502906
+DataFieldName=
+StartDate=0101
+EndDate=1231
+LastChanged=20120126
+[EndMetadata]
+
+         

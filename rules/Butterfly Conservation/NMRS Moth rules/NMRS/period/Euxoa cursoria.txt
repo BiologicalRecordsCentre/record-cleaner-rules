@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Euxoa cursoria
+Description=Checks date is within known recording period of Euxoa cursoria
+ErrorMsg=Date is outside known recording period of Euxoa cursoria
+Tvk=NBNSYS0000006169
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Selidosema brunnearia subsp. scandinaviaria
+Description=Checks date is within known recording period of Selidosema brunnearia subsp. scandinaviaria
+ErrorMsg=Date is outside known recording period of Selidosema brunnearia subsp. scandinaviaria
+Tvk=NHMSYS0000504188
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Aporophyla australis
+Description=Checks date is within known flight period of Aporophyla australis
+ErrorMsg=Date is outside known flight period of Aporophyla australis
+Tvk=NHMSYS0000517198
+DataFieldName=
+StartDate=0801
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

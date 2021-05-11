@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Polymixis xanthomista 10km
+Description=Check coordinate against known 10km distribution of Polymixis xanthomista
+ErrorMsg=Coordinate outside known range for Polymixis xanthomista
+DataFieldName=Species
+DataRecordId=NHMSYS0000520008
+LastChanged=20150427
+[EndMetadata]
+
+
+[10km_GB]
+SC48
+SM70
+SM72
+SM80
+SM82
+SM84
+SN03
+SN14
+SN58
+SS20
+SS21
+SS84
+SV91
+SW32
+SW33
+SW42
+SW61
+SW62
+SW71
+SW72
+SW75
+SW82
+SW93
+SW94
+SX03
+SX04
+SX08
+SX15
+SX19
+SX35
+SX44
+
+

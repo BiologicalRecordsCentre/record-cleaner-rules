@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Oria musculosa
+Description=Checks date is within known flight period of Oria musculosa
+ErrorMsg=Date is outside known flight period of Oria musculosa
+Tvk=NHMSYS0000503507
+DataFieldName=
+StartDate=0601
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

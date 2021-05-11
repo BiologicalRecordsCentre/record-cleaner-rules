@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Euthrix potatoria
+Description=Checks date is within known recording period of Euthrix potatoria
+ErrorMsg=Date is outside known recording period of Euthrix potatoria
+Tvk=NBNSYS0000005712
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

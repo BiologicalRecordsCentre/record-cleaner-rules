@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Selenia tetralunaria
+Description=Checks date is within known recording period of Selenia tetralunaria
+ErrorMsg=Date is outside known recording period of Selenia tetralunaria
+Tvk=NBNSYS0000006010
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

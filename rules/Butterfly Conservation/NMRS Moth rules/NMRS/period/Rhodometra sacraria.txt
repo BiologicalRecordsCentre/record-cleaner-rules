@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Rhodometra sacraria
+Description=Checks date is within known recording period of Rhodometra sacraria
+ErrorMsg=Date is outside known recording period of Rhodometra sacraria
+Tvk=NBNSYS0000005789
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

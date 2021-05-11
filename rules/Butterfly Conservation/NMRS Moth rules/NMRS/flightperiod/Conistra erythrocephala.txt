@@ -1,0 +1,15 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Conistra erythrocephala
+Description=Checks date is within known flight period of Conistra erythrocephala
+ErrorMsg=Date is outside known flight period of Conistra erythrocephala
+Tvk=NHMSYS0000501970
+DataFieldName=
+StartDate=0531
+EndDate=0801
+ReverseRule=True
+LastChanged=20120126
+[EndMetadata]
+
+         

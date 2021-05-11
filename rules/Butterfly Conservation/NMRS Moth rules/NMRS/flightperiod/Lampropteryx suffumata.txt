@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Lampropteryx suffumata
+Description=Checks date is within known flight period of Lampropteryx suffumata
+ErrorMsg=Date is outside known flight period of Lampropteryx suffumata
+Tvk=NHMSYS0000503005
+DataFieldName=
+StartDate=0301
+EndDate=0630
+LastChanged=20110328
+[EndMetadata]
+
+         

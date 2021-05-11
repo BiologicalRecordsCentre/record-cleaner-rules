@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Idaea aversata
+Description=Checks date is within known recording period of Idaea aversata
+ErrorMsg=Date is outside known recording period of Idaea aversata
+Tvk=NBNSYS0000005786
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

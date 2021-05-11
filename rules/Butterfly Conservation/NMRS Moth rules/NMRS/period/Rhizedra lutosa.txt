@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Rhizedra lutosa
+Description=Checks date is within known recording period of Rhizedra lutosa
+ErrorMsg=Date is outside known recording period of Rhizedra lutosa
+Tvk=NHMSYS0000504048
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

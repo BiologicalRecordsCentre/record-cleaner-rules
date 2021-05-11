@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Lithosia quadra
+Description=Checks date is within known flight period of Lithosia quadra
+ErrorMsg=Date is outside known flight period of Lithosia quadra
+Tvk=NBNSYS0000006137
+DataFieldName=
+StartDate=0601
+EndDate=1031
+LastChanged=20110328
+[EndMetadata]
+
+         

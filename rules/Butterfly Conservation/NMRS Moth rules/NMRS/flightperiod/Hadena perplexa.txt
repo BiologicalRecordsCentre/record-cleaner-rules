@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Hadena perplexa
+Description=Checks date is within known flight period of Hadena perplexa
+ErrorMsg=Date is outside known flight period of Hadena perplexa
+Tvk=NHMSYS0000520328
+DataFieldName=
+StartDate=0401
+EndDate=0930
+LastChanged=20110328
+[EndMetadata]
+
+         

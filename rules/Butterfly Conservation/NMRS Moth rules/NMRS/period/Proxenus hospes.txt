@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Proxenus hospes
+Description=Checks date is within known recording period of Proxenus hospes
+ErrorMsg=Date is outside known recording period of Proxenus hospes
+Tvk=NBNSYS0100004892
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

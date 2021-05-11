@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Lobophora halterata
+Description=Checks date is within known recording period of Lobophora halterata
+ErrorMsg=Date is outside known recording period of Lobophora halterata
+Tvk=NBNSYS0000005970
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

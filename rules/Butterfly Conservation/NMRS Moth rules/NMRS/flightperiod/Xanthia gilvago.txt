@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Xanthia gilvago
+Description=Checks date is within known flight period of Xanthia gilvago
+ErrorMsg=Date is outside known flight period of Xanthia gilvago
+Tvk=NHMSYS0000504653
+DataFieldName=
+StartDate=0701
+EndDate=1130
+LastChanged=20110328
+[EndMetadata]
+
+         

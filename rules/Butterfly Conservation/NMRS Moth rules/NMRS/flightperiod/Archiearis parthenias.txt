@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Archiearis parthenias
+Description=Checks date is within known flight period of Archiearis parthenias
+ErrorMsg=Date is outside known flight period of Archiearis parthenias
+Tvk=NBNSYS0000005734
+DataFieldName=
+StartDate=0201
+EndDate=0531
+LastChanged=20110328
+[EndMetadata]
+
+         
