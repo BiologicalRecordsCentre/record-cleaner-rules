@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Jodia croceago 10km
+Description=Check coordinate against known 10km distribution of Jodia croceago
+ErrorMsg=Coordinate outside known range for Jodia croceago
+DataFieldName=Species
+DataRecordId=NHMSYS0021144722
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+TQ42
+TQ43
+TQ44
+TQ52
+TQ53
+TQ54
+TQ62
+TQ63
+TQ64
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

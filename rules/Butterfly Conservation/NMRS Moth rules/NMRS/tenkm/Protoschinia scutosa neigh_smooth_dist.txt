@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Protoschinia scutosa 10km
+Description=Check coordinate against known 10km distribution of Protoschinia scutosa
+ErrorMsg=Coordinate outside known range for Protoschinia scutosa
+DataFieldName=Species
+DataRecordId=NHMSYS0021144534
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+SO75
+SO76
+SO77
+SO85
+SO86
+SO87
+SO95
+SO96
+SO97
+TM06
+TM07
+TM08
+TM16
+TM17
+TM18
+TM26
+TM27
+TM28
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

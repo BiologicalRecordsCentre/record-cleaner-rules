@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Earias vittella 10km
+Description=Check coordinate against known 10km distribution of Earias vittella
+ErrorMsg=Coordinate outside known range for Earias vittella
+DataFieldName=Species
+DataRecordId=NBNSYS0000005299
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+SK40
+SK50
+SK60
+SP27
+SP28
+SP29
+SP37
+SP38
+SP39
+SP47
+SP48
+SP49
+SP58
+SP59
+SP68
+SP69
+SY97
+SY98
+SZ07
+SZ08
+TQ07
+TQ08
+TQ09
+TQ17
+TQ18
+TQ19
+TQ27
+TQ28
+TQ29
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

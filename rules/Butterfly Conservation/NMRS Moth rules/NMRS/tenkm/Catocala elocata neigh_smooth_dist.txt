@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Catocala elocata 10km
+Description=Check coordinate against known 10km distribution of Catocala elocata
+ErrorMsg=Coordinate outside known range for Catocala elocata
+DataFieldName=Species
+DataRecordId=NHMSYS0021144448
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+TR13
+TR14
+TR15
+TR23
+TR24
+TR25
+TR33
+TR34
+TR35
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

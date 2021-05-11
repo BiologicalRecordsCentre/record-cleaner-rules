@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Gluphisia crenata 10km
+Description=Check coordinate against known 10km distribution of Gluphisia crenata
+ErrorMsg=Coordinate outside known range for Gluphisia crenata
+DataFieldName=Species
+DataRecordId=NBNSYS0000006102
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+TQ91
+TQ92
+TQ93
+TR01
+TR02
+TR03
+TR04
+TR12
+TR13
+TR14
+TR23
+TR24
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

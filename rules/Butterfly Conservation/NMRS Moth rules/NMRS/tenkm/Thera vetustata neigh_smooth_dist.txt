@@ -1,0 +1,51 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Thera vetustata 10km
+Description=Check coordinate against known 10km distribution of Thera vetustata
+ErrorMsg=Coordinate outside known range for Thera vetustata
+DataFieldName=Species
+DataRecordId=NHMSYS0021143974
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+ST30
+ST40
+ST50
+SU90
+SU91
+SY38
+SY39
+SY48
+SY49
+SY58
+SY59
+SY67
+SY68
+SY69
+SY77
+SY78
+SY79
+SZ99
+TQ00
+TQ01
+TQ10
+TQ11
+TR25
+TR26
+TR27
+TR35
+TR36
+TR37
+TR46
+TR47
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

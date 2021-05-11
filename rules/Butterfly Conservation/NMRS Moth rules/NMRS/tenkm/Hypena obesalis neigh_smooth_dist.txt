@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Hypena obesalis 10km
+Description=Check coordinate against known 10km distribution of Hypena obesalis
+ErrorMsg=Coordinate outside known range for Hypena obesalis
+DataFieldName=Species
+DataRecordId=NHMSYS0021144366
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+NZ26
+NZ27
+NZ28
+NZ36
+NZ37
+NZ38
+NZ46
+ST54
+ST55
+ST56
+ST64
+ST65
+ST66
+ST74
+ST75
+ST76
+TM36
+TM37
+TM38
+TM46
+TM47
+TM48
+TM57
+TM58
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

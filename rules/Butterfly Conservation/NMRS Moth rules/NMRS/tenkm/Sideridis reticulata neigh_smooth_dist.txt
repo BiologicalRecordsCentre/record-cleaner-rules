@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Sideridis reticulata 10km
+Description=Check coordinate against known 10km distribution of Sideridis reticulata
+ErrorMsg=Coordinate outside known range for Sideridis reticulata
+DataFieldName=Species
+DataRecordId=NHMSYS0021167201
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+SY48
+SY49
+SY58
+SY59
+SY67
+SY68
+SY69
+TG21
+TG22
+TG23
+TG31
+TG32
+TG33
+TG41
+TG42
+TM12
+TM13
+TM14
+TM22
+TM23
+TM24
+TM33
+TM34
+TQ56
+TQ57
+TQ58
+TQ66
+TQ67
+TQ68
+TQ76
+TQ77
+TQ78
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Scotopteryx 10km
+Description=Check coordinate against known 10km distribution of Scotopteryx
+ErrorMsg=Coordinate outside known range for Scotopteryx
+DataFieldName=Species
+DataRecordId=NBNSYS0000137655
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+ST60
+ST61
+ST62
+ST70
+ST71
+ST72
+ST80
+ST81
+ST82
+ST90
+ST91
+SY79
+SY89
+SY99
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

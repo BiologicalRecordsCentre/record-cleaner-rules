@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Spaelotis ravida 10km
+Description=Check coordinate against known 10km distribution of Spaelotis ravida
+ErrorMsg=Coordinate outside known range for Spaelotis ravida
+DataFieldName=Species
+DataRecordId=NHMSYS0021144929
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+TM06
+TM07
+TM08
+TM16
+TM17
+TM18
+TM26
+TM27
+TM28
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

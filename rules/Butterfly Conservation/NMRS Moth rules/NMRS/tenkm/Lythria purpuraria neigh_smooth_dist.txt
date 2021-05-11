@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Lythria purpuraria 10km
+Description=Check coordinate against known 10km distribution of Lythria purpuraria
+ErrorMsg=Coordinate outside known range for Lythria purpuraria
+DataFieldName=Species
+DataRecordId=NBNSYS0000005790
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+ST41
+ST42
+ST43
+ST51
+ST52
+ST53
+ST61
+ST62
+ST63
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

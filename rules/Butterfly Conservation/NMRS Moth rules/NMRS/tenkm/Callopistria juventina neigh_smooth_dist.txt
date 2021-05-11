@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Callopistria juventina 10km
+Description=Check coordinate against known 10km distribution of Callopistria juventina
+ErrorMsg=Coordinate outside known range for Callopistria juventina
+DataFieldName=Species
+DataRecordId=NBNSYS0000006404
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+ST70
+ST80
+ST90
+SU60
+SU70
+SU80
+SU90
+SY58
+SY66
+SY67
+SY68
+SY77
+SY78
+SY79
+SY88
+SY89
+SY98
+SY99
+SZ68
+SZ69
+SZ79
+SZ89
+SZ99
+TQ91
+TQ92
+TQ93
+TQ94
+TR01
+TR02
+TR03
+TR04
+TR12
+TR13
+TR14
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+
