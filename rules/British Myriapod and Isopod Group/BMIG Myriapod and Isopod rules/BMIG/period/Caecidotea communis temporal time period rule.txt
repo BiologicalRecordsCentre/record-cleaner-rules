@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Caecidotea communis temporal check
+Description=Check date of record against known temporal limit of Caecidotea communis
+Tvk=NHMSYS0020302559
+ErrorMsg=Date outside known temporal limit for Caecidotea communis
+StartDate=19620101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Archiboreoiulus pallidus temporal check
+Description=Check date of record against known temporal limit of Archiboreoiulus pallidus
+Tvk=NBNSYS0000011376
+ErrorMsg=Date outside known temporal limit for Archiboreoiulus pallidus
+StartDate=19200101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

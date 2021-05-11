@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Geophilus proximus 10km
+Description=Check coordinate against known 10km distribution of Geophilus proximus
+ErrorMsg=Coordinate outside know range for Geophilus proximus
+DataFieldName=Species
+DataRecordId=NBNSYS0000011414
+LastChanged=20130430
+[EndMetadata]
+
+
+[10km_GB]
+HP61
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Choneiulus palmatus temporal check
+Description=Check date of record against known temporal limit of Choneiulus palmatus
+Tvk=NHMSYS0000356233
+ErrorMsg=Date outside known temporal limit for Choneiulus palmatus
+StartDate=19120101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

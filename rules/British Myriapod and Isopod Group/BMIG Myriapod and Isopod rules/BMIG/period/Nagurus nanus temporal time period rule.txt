@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Nagurus nanus temporal check
+Description=Check date of record against known temporal limit of Nagurus nanus
+Tvk=NHMSYS0020302567
+ErrorMsg=Date outside known temporal limit for Nagurus nanus
+StartDate=19110101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

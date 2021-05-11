@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Poratia digitata 10km
+Description=Check coordinate against known 10km distribution of Poratia digitata
+ErrorMsg=Coordinate outside know range for Poratia digitata
+DataFieldName=Species
+DataRecordId=NHMSYS0020108484
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+SK50
+TQ17
+
+

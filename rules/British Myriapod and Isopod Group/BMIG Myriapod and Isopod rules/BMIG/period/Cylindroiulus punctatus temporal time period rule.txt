@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Cylindroiulus punctatus temporal check
+Description=Check date of record against known temporal limit of Cylindroiulus punctatus
+Tvk=NBNSYS0000011392
+ErrorMsg=Date outside known temporal limit for Cylindroiulus punctatus
+StartDate=18150101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Lithobius (Lithobius) lucifugus temporal check
+Description=Check date of record against known temporal limit of Lithobius (Lithobius) lucifugus
+Tvk=NHMSYS0020500670
+ErrorMsg=Date outside known temporal limit for Lithobius (Lithobius) lucifugus
+StartDate=19860520
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Geoglomeris subterranea temporal check
+Description=Check date of record against known temporal limit of Geoglomeris subterranea
+Tvk=NHMSYS0000356252
+ErrorMsg=Date outside known temporal limit for Geoglomeris subterranea
+StartDate=19570101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

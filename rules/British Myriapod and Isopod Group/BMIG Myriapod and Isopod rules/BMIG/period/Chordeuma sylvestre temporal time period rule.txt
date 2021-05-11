@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Chordeuma sylvestre temporal check
+Description=Check date of record against known temporal limit of Chordeuma sylvestre
+Tvk=NHMSYS0000356235
+ErrorMsg=Date outside known temporal limit for Chordeuma sylvestre
+StartDate=19720101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

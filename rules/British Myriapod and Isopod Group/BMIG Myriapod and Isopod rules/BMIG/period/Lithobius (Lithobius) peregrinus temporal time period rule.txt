@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Lithobius (Lithobius) peregrinus temporal check
+Description=Check date of record against known temporal limit of Lithobius (Lithobius) peregrinus
+Tvk=NHMSYS0020500674
+ErrorMsg=Date outside known temporal limit for Lithobius (Lithobius) peregrinus
+StartDate=19860101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

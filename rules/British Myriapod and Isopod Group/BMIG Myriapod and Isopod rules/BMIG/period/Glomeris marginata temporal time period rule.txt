@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Glomeris marginata temporal check
+Description=Check date of record against known temporal limit of Glomeris marginata
+Tvk=NBNSYS0000011348
+ErrorMsg=Date outside known temporal limit for Glomeris marginata
+StartDate=18140101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

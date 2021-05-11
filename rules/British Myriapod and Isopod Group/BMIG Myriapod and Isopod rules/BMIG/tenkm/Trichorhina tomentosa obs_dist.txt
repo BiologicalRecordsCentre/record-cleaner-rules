@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Trichorhina tomentosa 10km
+Description=Check coordinate against known 10km distribution of Trichorhina tomentosa
+ErrorMsg=Coordinate outside know range for Trichorhina tomentosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000008566
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+NS56
+NS66
+SP50
+SX05
+
+

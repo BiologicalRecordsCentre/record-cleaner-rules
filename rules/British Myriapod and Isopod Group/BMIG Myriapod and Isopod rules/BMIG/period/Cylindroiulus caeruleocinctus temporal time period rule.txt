@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Cylindroiulus caeruleocinctus temporal check
+Description=Check date of record against known temporal limit of Cylindroiulus caeruleocinctus
+Tvk=NBNSYS0000033245
+ErrorMsg=Date outside known temporal limit for Cylindroiulus caeruleocinctus
+StartDate=18991231
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Nopoiulus kochii 10km
+Description=Check coordinate against known 10km distribution of Nopoiulus kochii
+ErrorMsg=Coordinate outside know range for Nopoiulus kochii
+DataFieldName=Species
+DataRecordId=NBNSYS0000011379
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+NO40
+NT27
+NT83
+NY45
+SJ89
+SN40
+SN50
+SP20
+SP40
+SP41
+SP50
+SS59
+SU67
+TF72
+TM23
+TM59
+
+

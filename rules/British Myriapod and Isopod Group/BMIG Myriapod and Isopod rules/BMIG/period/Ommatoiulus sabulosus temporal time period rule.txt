@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Ommatoiulus sabulosus temporal check
+Description=Check date of record against known temporal limit of Ommatoiulus sabulosus
+Tvk=NBNSYS0000011385
+ErrorMsg=Date outside known temporal limit for Ommatoiulus sabulosus
+StartDate=18140101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

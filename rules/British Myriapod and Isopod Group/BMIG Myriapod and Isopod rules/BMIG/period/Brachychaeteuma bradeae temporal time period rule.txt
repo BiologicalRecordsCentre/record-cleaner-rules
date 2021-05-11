@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Brachychaeteuma bradeae temporal check
+Description=Check date of record against known temporal limit of Brachychaeteuma bradeae
+Tvk=NBNSYS0000011358
+ErrorMsg=Date outside known temporal limit for Brachychaeteuma bradeae
+StartDate=19170101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

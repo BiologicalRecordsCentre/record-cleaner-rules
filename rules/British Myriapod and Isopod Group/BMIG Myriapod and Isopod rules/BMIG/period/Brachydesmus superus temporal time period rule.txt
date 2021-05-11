@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Brachydesmus superus temporal check
+Description=Check date of record against known temporal limit of Brachydesmus superus
+Tvk=NBNSYS0000011372
+ErrorMsg=Date outside known temporal limit for Brachydesmus superus
+StartDate=19010101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

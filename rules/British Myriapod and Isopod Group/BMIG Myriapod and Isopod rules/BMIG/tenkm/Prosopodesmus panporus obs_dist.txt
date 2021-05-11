@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Prosopodesmus panporus 10km
+Description=Check coordinate against known 10km distribution of Prosopodesmus panporus
+ErrorMsg=Coordinate outside know range for Prosopodesmus panporus
+DataFieldName=Species
+DataRecordId=NBNSYS0000011366
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+TQ17
+
+

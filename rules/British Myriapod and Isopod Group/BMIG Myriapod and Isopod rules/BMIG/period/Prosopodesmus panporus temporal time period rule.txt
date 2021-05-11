@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Prosopodesmus panporus temporal check
+Description=Check date of record against known temporal limit of Prosopodesmus panporus
+Tvk=NBNSYS0000011366
+ErrorMsg=Date outside known temporal limit for Prosopodesmus panporus
+StartDate=19750301
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

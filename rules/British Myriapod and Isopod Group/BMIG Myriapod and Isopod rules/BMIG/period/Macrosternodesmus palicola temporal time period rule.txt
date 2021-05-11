@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Macrosternodesmus palicola temporal check
+Description=Check date of record against known temporal limit of Macrosternodesmus palicola
+Tvk=NBNSYS0000011364
+ErrorMsg=Date outside known temporal limit for Macrosternodesmus palicola
+StartDate=19120101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+
