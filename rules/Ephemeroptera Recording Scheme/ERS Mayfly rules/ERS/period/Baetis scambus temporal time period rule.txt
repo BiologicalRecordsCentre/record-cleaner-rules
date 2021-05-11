@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Baetis scambus temporal check
+Description=Check date of record against known temporal limit of Baetis scambus
+Tvk=NBNSYS0000010870
+ErrorMsg=Date outside known temporal limit for Baetis scambus
+StartDate=18700101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

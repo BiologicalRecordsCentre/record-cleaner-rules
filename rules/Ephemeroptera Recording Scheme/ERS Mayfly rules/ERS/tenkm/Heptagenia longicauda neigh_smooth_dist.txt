@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Heptagenia longicauda 10km
+Description=Check coordinate against known 10km distribution of Heptagenia longicauda
+ErrorMsg=Coordinate outside know range for Heptagenia longicauda
+DataFieldName=Species
+DataRecordId=NHMSYS0000066972
+LastChanged=20130426
+[EndMetadata]
+
+
+[10km_GB]
+NY56
+NY57
+NY58
+NY66
+NY67
+NY68
+NY76
+NY77
+NY78
+
+

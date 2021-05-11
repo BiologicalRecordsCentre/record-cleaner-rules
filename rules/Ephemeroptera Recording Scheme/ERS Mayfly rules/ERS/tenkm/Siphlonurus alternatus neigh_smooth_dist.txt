@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Siphlonurus alternatus 10km
+Description=Check coordinate against known 10km distribution of Siphlonurus alternatus
+ErrorMsg=Coordinate outside know range for Siphlonurus alternatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000010860
+LastChanged=20130426
+[EndMetadata]
+
+
+[10km_GB]
+NT60
+NT61
+NT70
+NT71
+NT80
+NT81
+NX26
+NX27
+NX28
+NX36
+NX37
+NX38
+NX46
+NX47
+NX48
+NY69
+NY79
+NY89
+
+

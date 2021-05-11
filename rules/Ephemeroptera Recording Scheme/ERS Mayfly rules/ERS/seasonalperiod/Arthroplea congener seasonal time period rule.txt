@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Arthroplea congener seasonal check
+Description=Check date of record against known seasonal limit of Arthroplea congener
+Tvk=NBNSYS0000010877
+ErrorMsg=Date outside known seasonal limit for Arthroplea congener
+StartDate=0501
+EndDate=0630
+LastChanged=20130528
+[EndMetadata]
+

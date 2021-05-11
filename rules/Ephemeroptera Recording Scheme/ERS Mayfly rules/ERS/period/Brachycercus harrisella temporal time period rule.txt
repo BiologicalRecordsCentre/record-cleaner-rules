@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Brachycercus harrisella temporal check
+Description=Check date of record against known temporal limit of Brachycercus harrisella
+Tvk=NBNSYS0000010900
+ErrorMsg=Date outside known temporal limit for Brachycercus harrisella
+StartDate=18340101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

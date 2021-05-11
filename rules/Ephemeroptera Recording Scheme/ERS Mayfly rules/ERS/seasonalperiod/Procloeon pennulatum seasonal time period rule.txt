@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Procloeon pennulatum seasonal check
+Description=Check date of record against known seasonal limit of Procloeon pennulatum
+Tvk=NHMSYS0000066965
+ErrorMsg=Date outside known seasonal limit for Procloeon pennulatum
+StartDate=0501
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

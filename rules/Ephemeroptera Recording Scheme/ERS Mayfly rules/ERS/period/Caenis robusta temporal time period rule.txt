@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Caenis robusta temporal check
+Description=Check date of record against known temporal limit of Caenis robusta
+Tvk=NBNSYS0000010905
+ErrorMsg=Date outside known temporal limit for Caenis robusta
+StartDate=19510101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

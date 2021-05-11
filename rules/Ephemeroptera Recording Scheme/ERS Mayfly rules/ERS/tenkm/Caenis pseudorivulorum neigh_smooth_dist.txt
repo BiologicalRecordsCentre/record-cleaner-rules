@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Caenis pseudorivulorum 10km
+Description=Check coordinate against known 10km distribution of Caenis pseudorivulorum
+ErrorMsg=Coordinate outside know range for Caenis pseudorivulorum
+DataFieldName=Species
+DataRecordId=NHMSYS0000066968
+LastChanged=20130426
+[EndMetadata]
+
+
+[10km_GB]
+NT82
+NT83
+NT84
+NT91
+NT92
+NT93
+NT94
+NU01
+NU02
+NU03
+NU04
+NU11
+NU12
+NU13
+
+
