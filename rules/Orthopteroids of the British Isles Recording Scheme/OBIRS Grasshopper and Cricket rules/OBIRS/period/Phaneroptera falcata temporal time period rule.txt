@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Phaneroptera falcata temporal check
+Description=Check date of record against known temporal limit of Phaneroptera falcata
+Tvk=NHMSYS0019998481
+ErrorMsg=Date outside known temporal limit for Phaneroptera falcata
+StartDate=20070101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

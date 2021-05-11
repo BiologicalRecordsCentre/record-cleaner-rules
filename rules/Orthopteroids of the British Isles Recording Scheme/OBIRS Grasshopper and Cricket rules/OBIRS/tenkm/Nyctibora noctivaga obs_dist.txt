@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Nyctibora noctivaga 10km
+Description=Check coordinate against known 10km distribution of Nyctibora noctivaga
+ErrorMsg=Coordinate outside know range for Nyctibora noctivaga
+DataFieldName=Species
+DataRecordId=NHMSYS0020978488
+LastChanged=20130430
+[EndMetadata]
+
+
+[10km_GB]
+ST17
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Acheta domesticus temporal check
+Description=Check date of record against known temporal limit of Acheta domesticus
+Tvk=NBNSYS0000006827
+ErrorMsg=Date outside known temporal limit for Acheta domesticus
+StartDate=18000101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

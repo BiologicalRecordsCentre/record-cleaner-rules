@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Nyctibora noctivaga temporal check
+Description=Check date of record against known temporal limit of Nyctibora noctivaga
+Tvk=NHMSYS0020978488
+ErrorMsg=Date outside known temporal limit for Nyctibora noctivaga
+StartDate=19280101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

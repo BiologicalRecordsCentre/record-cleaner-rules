@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Cosmoderus maculatus temporal check
+Description=Check date of record against known temporal limit of Cosmoderus maculatus
+Tvk=NHMSYS0020978404
+ErrorMsg=Date outside known temporal limit for Cosmoderus maculatus
+StartDate=19410101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

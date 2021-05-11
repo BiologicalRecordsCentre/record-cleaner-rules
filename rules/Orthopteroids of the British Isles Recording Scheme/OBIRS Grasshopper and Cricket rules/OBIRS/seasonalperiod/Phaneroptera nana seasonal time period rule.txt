@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Phaneroptera nana seasonal check
+Description=Check date of record against known seasonal limit of Phaneroptera nana
+Tvk=NHMSYS0020978368
+ErrorMsg=Date outside known seasonal limit for Phaneroptera nana
+StartDate=0701
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

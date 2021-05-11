@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Bacillus rossius 10km
+Description=Check coordinate against known 10km distribution of Bacillus rossius
+ErrorMsg=Coordinate outside know range for Bacillus rossius
+DataFieldName=Species
+DataRecordId=NHMSYS0001387264
+LastChanged=20130430
+[EndMetadata]
+
+
+[10km_GB]
+SV81
+SW83
+TQ08
+
+

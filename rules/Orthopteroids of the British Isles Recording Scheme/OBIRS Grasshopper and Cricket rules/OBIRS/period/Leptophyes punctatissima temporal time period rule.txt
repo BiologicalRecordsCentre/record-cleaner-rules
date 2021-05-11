@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Leptophyes punctatissima temporal check
+Description=Check date of record against known temporal limit of Leptophyes punctatissima
+Tvk=NBNSYS0000006825
+ErrorMsg=Date outside known temporal limit for Leptophyes punctatissima
+StartDate=18000101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

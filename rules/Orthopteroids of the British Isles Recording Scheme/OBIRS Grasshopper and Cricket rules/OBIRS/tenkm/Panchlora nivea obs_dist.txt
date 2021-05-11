@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Panchlora nivea 10km
+Description=Check coordinate against known 10km distribution of Panchlora nivea
+ErrorMsg=Coordinate outside know range for Panchlora nivea
+DataFieldName=Species
+DataRecordId=NBNSYS0100004408
+LastChanged=20130430
+[EndMetadata]
+
+
+[10km_GB]
+SJ79
+SS99
+ST17
+SW83
+TL10
+
+

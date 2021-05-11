@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Ectobius pallidus temporal check
+Description=Check date of record against known temporal limit of Ectobius pallidus
+Tvk=NHMSYS0001387300
+ErrorMsg=Date outside known temporal limit for Ectobius pallidus
+StartDate=18000101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

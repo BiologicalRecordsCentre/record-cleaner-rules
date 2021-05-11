@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Tachycines asynamorus 10km
+Description=Check coordinate against known 10km distribution of Tachycines asynamorus
+ErrorMsg=Coordinate outside know range for Tachycines asynamorus
+DataFieldName=Species
+DataRecordId=NHMSYS0001387466
+LastChanged=20130430
+[EndMetadata]
+
+
+[10km_GB]
+SD34
+SE23
+SJ48
+SJ78
+SK38
+SK47
+SK53
+SK57
+SS84
+ST17
+TL66
+TQ17
+TQ27
+TQ28
+TQ80
+TQ81
+TR15
+
+

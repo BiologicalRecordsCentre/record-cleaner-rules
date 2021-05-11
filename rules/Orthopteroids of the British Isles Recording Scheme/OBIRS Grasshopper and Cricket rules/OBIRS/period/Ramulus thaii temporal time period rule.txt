@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Ramulus thaii temporal check
+Description=Check date of record against known temporal limit of Ramulus thaii
+Tvk=NHMSYS0020978506
+ErrorMsg=Date outside known temporal limit for Ramulus thaii
+StartDate=20010101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

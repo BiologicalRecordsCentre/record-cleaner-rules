@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Myrmeleotettix maculatus seasonal check
+Description=Check date of record against known seasonal limit of Myrmeleotettix maculatus
+Tvk=NBNSYS0000006839
+ErrorMsg=Date outside known seasonal limit for Myrmeleotettix maculatus
+StartDate=0401
+EndDate=1130
+LastChanged=20130528
+[EndMetadata]
+

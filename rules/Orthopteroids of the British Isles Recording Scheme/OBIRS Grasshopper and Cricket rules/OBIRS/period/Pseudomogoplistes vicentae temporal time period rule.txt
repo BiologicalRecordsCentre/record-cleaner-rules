@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Pseudomogoplistes vicentae temporal check
+Description=Check date of record against known temporal limit of Pseudomogoplistes vicentae
+Tvk=NHMSYS0020973988
+ErrorMsg=Date outside known temporal limit for Pseudomogoplistes vicentae
+StartDate=19400101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

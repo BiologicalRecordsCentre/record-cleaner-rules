@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Acanthoxyla prasina subsp. geisovii temporal check
+Description=Check date of record against known temporal limit of Acanthoxyla prasina subsp. geisovii
+Tvk=NHMSYS0001387233
+ErrorMsg=Date outside known temporal limit for Acanthoxyla prasina subsp. geisovii
+StartDate=19030101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

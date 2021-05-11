@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Hiereoblatta cassidea 10km
+Description=Check coordinate against known 10km distribution of Hiereoblatta cassidea
+ErrorMsg=Coordinate outside know range for Hiereoblatta cassidea
+DataFieldName=Species
+DataRecordId=NHMSYS0020978470
+LastChanged=20130430
+[EndMetadata]
+
+
+[10km_GB]
+ST17
+
+

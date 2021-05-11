@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Conocephalus fuscus temporal check
+Description=Check date of record against known temporal limit of Conocephalus fuscus
+Tvk=NHMSYS0020752279
+ErrorMsg=Date outside known temporal limit for Conocephalus fuscus
+StartDate=18000101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+
