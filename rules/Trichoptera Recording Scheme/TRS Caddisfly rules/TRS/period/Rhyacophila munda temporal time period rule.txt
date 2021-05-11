@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Rhyacophila munda temporal check
+Description=Check date of record against known temporal limit of Rhyacophila munda
+Tvk=NBNSYS0000008340
+ErrorMsg=Date outside known temporal limit for Rhyacophila munda
+StartDate=18450101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

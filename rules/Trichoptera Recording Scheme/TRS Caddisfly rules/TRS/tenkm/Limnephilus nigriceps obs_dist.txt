@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Limnephilus nigriceps 10km
+Description=Check coordinate against known 10km distribution of Limnephilus nigriceps
+ErrorMsg=Coordinate outside know range for Limnephilus nigriceps
+DataFieldName=Species
+DataRecordId=NBNSYS0000008486
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NH31
+NN36
+NN55
+NN65
+NN96
+NS88
+NS98
+NT52
+NY43
+SD59
+SE64
+SJ43
+SJ54
+SJ56
+SJ57
+SK48
+SK96
+
+

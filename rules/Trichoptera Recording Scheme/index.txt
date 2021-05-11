@@ -1,0 +1,2 @@
+http://data.nbn.org.uk/recordcleaner/rules/TRS/TRS_IDifficulty.zip#Caddisfly Adult ID Difficulty#07/08/2013
+http://data.nbn.org.uk/recordcleaner/rules/TRS/TRS Caddisfly rules.zip#Caddisfly range, recording and seasonal periods, and additional rules#07/08/2013

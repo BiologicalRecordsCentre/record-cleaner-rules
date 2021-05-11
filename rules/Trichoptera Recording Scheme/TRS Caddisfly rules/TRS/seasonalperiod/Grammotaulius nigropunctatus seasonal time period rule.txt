@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Grammotaulius nigropunctatus seasonal check
+Description=Check date of record against known seasonal limit of Grammotaulius nigropunctatus
+Tvk=NBNSYS0000008464
+ErrorMsg=Date outside known seasonal limit for Grammotaulius nigropunctatus
+StartDate=0201
+EndDate=1130
+LastChanged=20130528
+[EndMetadata]
+

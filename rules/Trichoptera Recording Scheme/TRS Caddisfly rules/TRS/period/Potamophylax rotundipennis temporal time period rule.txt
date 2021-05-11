@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Potamophylax rotundipennis temporal check
+Description=Check date of record against known temporal limit of Potamophylax rotundipennis
+Tvk=NBNSYS0000008458
+ErrorMsg=Date outside known temporal limit for Potamophylax rotundipennis
+StartDate=18650101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

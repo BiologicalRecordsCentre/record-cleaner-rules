@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Goera pilosa temporal check
+Description=Check date of record against known temporal limit of Goera pilosa
+Tvk=NHMSYS0020704791
+ErrorMsg=Date outside known temporal limit for Goera pilosa
+StartDate=18360101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

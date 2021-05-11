@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Limnephilus coenosus temporal check
+Description=Check date of record against known temporal limit of Limnephilus coenosus
+Tvk=NBNSYS0000008472
+ErrorMsg=Date outside known temporal limit for Limnephilus coenosus
+StartDate=18370101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

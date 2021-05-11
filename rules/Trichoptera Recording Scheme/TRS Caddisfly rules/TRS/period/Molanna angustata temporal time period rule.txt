@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Molanna angustata temporal check
+Description=Check date of record against known temporal limit of Molanna angustata
+Tvk=NBNSYS0000008509
+ErrorMsg=Date outside known temporal limit for Molanna angustata
+StartDate=18190101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

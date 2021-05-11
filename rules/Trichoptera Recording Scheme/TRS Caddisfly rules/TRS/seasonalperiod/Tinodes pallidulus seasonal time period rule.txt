@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Tinodes pallidulus seasonal check
+Description=Check date of record against known seasonal limit of Tinodes pallidulus
+Tvk=NBNSYS0000008393
+ErrorMsg=Date outside known seasonal limit for Tinodes pallidulus
+StartDate=0701
+EndDate=0731
+LastChanged=20130528
+[EndMetadata]
+

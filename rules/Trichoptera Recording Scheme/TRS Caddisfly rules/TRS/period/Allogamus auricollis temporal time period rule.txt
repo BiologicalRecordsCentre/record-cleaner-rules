@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Allogamus auricollis temporal check
+Description=Check date of record against known temporal limit of Allogamus auricollis
+Tvk=NBNSYS0000008444
+ErrorMsg=Date outside known temporal limit for Allogamus auricollis
+StartDate=18670101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

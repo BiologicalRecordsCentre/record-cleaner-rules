@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Wormaldia occipitalis seasonal check
+Description=Check date of record against known seasonal limit of Wormaldia occipitalis
+Tvk=NBNSYS0000008382
+ErrorMsg=Date outside known seasonal limit for Wormaldia occipitalis
+StartDate=0101
+EndDate=1130
+LastChanged=20130528
+[EndMetadata]
+

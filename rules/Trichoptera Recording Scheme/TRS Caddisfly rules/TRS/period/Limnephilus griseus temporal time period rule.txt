@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Limnephilus griseus temporal check
+Description=Check date of record against known temporal limit of Limnephilus griseus
+Tvk=NBNSYS0000008479
+ErrorMsg=Date outside known temporal limit for Limnephilus griseus
+StartDate=18270101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Metalype fragilis temporal check
+Description=Check date of record against known temporal limit of Metalype fragilis
+Tvk=NBNSYS0000008387
+ErrorMsg=Date outside known temporal limit for Metalype fragilis
+StartDate=18680101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

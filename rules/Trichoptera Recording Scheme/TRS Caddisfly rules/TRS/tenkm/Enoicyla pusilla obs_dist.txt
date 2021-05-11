@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Enoicyla pusilla 10km
+Description=Check coordinate against known 10km distribution of Enoicyla pusilla
+ErrorMsg=Coordinate outside know range for Enoicyla pusilla
+DataFieldName=Species
+DataRecordId=NBNSYS0000008445
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+SO65
+SO66
+SO67
+SO74
+SO75
+SO76
+SO77
+SO78
+SO79
+SO85
+SO86
+SO87
+SO88
+SO97
+SO98
+SP37
+SP80
+
+

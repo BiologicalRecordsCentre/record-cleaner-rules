@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Drusus annulatus seasonal check
+Description=Check date of record against known seasonal limit of Drusus annulatus
+Tvk=NBNSYS0000008442
+ErrorMsg=Date outside known seasonal limit for Drusus annulatus
+StartDate=0301
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

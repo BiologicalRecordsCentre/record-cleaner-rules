@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Athripsodes aterrimus temporal check
+Description=Check date of record against known temporal limit of Athripsodes aterrimus
+Tvk=NBNSYS0000008512
+ErrorMsg=Date outside known temporal limit for Athripsodes aterrimus
+StartDate=18360101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

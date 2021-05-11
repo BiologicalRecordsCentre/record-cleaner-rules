@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Ceraclea fulva temporal check
+Description=Check date of record against known temporal limit of Ceraclea fulva
+Tvk=NBNSYS0000008519
+ErrorMsg=Date outside known temporal limit for Ceraclea fulva
+StartDate=18610101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

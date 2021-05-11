@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Holocentropus stagnalis temporal check
+Description=Check date of record against known temporal limit of Holocentropus stagnalis
+Tvk=NBNSYS0000008404
+ErrorMsg=Date outside known temporal limit for Holocentropus stagnalis
+StartDate=18700101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

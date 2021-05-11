@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Setodes argentipunctellus seasonal check
+Description=Check date of record against known seasonal limit of Setodes argentipunctellus
+Tvk=NBNSYS0000008540
+ErrorMsg=Date outside known seasonal limit for Setodes argentipunctellus
+StartDate=0701
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

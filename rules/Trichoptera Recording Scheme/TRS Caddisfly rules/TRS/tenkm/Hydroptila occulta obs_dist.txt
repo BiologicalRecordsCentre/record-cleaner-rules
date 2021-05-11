@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Hydroptila occulta 10km
+Description=Check coordinate against known 10km distribution of Hydroptila occulta
+ErrorMsg=Coordinate outside know range for Hydroptila occulta
+DataFieldName=Species
+DataRecordId=NBNSYS0000008357
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NN72
+NY62
+SE20
+SH57
+SK17
+SK27
+SK51
+SP68
+TL89
+
+

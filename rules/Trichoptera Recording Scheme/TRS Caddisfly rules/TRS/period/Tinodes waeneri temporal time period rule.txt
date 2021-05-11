@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Tinodes waeneri temporal check
+Description=Check date of record against known temporal limit of Tinodes waeneri
+Tvk=NBNSYS0000008396
+ErrorMsg=Date outside known temporal limit for Tinodes waeneri
+StartDate=18360101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

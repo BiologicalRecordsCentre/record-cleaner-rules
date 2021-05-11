@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Hydroptila tigurina 10km
+Description=Check coordinate against known 10km distribution of Hydroptila tigurina
+ErrorMsg=Coordinate outside know range for Hydroptila tigurina
+DataFieldName=Species
+DataRecordId=NBNSYS0000008362
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NC12
+
+

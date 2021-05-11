@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Limnephilus subcentralis 10km
+Description=Check coordinate against known 10km distribution of Limnephilus subcentralis
+ErrorMsg=Coordinate outside know range for Limnephilus subcentralis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008492
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NH55
+NH81
+NJ01
+NJ40
+NN51
+NN65
+
+

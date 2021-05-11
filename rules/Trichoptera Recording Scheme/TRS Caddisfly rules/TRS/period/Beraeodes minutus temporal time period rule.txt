@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Beraeodes minutus temporal check
+Description=Check date of record against known temporal limit of Beraeodes minutus
+Tvk=NBNSYS0000008503
+ErrorMsg=Date outside known temporal limit for Beraeodes minutus
+StartDate=18650101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

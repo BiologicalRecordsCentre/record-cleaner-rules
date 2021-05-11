@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Melampophylax mucoreus temporal check
+Description=Check date of record against known temporal limit of Melampophylax mucoreus
+Tvk=NBNSYS0000008449
+ErrorMsg=Date outside known temporal limit for Melampophylax mucoreus
+StartDate=18650101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Adicella filicornis seasonal check
+Description=Check date of record against known seasonal limit of Adicella filicornis
+Tvk=NBNSYS0000008528
+ErrorMsg=Date outside known seasonal limit for Adicella filicornis
+StartDate=0601
+EndDate=0731
+LastChanged=20130528
+[EndMetadata]
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Wormaldia occipitalis temporal check
+Description=Check date of record against known temporal limit of Wormaldia occipitalis
+Tvk=NBNSYS0000008382
+ErrorMsg=Date outside known temporal limit for Wormaldia occipitalis
+StartDate=18250101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

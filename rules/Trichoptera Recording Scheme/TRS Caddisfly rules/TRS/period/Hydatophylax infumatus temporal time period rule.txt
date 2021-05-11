@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Hydatophylax infumatus temporal check
+Description=Check date of record against known temporal limit of Hydatophylax infumatus
+Tvk=NBNSYS0000008448
+ErrorMsg=Date outside known temporal limit for Hydatophylax infumatus
+StartDate=18650101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

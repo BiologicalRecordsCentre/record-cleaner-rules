@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Halesus digitatus seasonal check
+Description=Check date of record against known seasonal limit of Halesus digitatus
+Tvk=NBNSYS0000008446
+ErrorMsg=Date outside known seasonal limit for Halesus digitatus
+StartDate=0601
+EndDate=1130
+LastChanged=20130528
+[EndMetadata]
+

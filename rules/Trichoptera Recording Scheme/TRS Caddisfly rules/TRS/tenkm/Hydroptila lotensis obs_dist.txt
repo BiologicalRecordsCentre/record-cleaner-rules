@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Hydroptila lotensis 10km
+Description=Check coordinate against known 10km distribution of Hydroptila lotensis
+ErrorMsg=Coordinate outside know range for Hydroptila lotensis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008355
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+SJ41
+SO43
+SO53
+SO54
+
+

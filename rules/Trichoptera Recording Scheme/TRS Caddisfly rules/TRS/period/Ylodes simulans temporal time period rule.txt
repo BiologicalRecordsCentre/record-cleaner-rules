@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Ylodes simulans temporal check
+Description=Check date of record against known temporal limit of Ylodes simulans
+Tvk=NBNSYS0000008534
+ErrorMsg=Date outside known temporal limit for Ylodes simulans
+StartDate=19060101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

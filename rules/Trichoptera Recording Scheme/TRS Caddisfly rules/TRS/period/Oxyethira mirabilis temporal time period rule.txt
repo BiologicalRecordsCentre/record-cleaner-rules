@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Oxyethira mirabilis temporal check
+Description=Check date of record against known temporal limit of Oxyethira mirabilis
+Tvk=NBNSYS0000008370
+ErrorMsg=Date outside known temporal limit for Oxyethira mirabilis
+StartDate=19030101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

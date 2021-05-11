@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Plectrocnemia brevis temporal check
+Description=Check date of record against known temporal limit of Plectrocnemia brevis
+Tvk=NBNSYS0000008406
+ErrorMsg=Date outside known temporal limit for Plectrocnemia brevis
+StartDate=18980101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

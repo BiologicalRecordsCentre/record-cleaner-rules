@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Sericostoma personatum seasonal check
+Description=Check date of record against known seasonal limit of Sericostoma personatum
+Tvk=NBNSYS0000008506
+ErrorMsg=Date outside known seasonal limit for Sericostoma personatum
+StartDate=0401
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Anabolia nervosa temporal check
+Description=Check date of record against known temporal limit of Anabolia nervosa
+Tvk=NBNSYS0000008462
+ErrorMsg=Date outside known temporal limit for Anabolia nervosa
+StartDate=18320101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

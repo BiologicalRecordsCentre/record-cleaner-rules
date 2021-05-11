@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Ylodes conspersus seasonal check
+Description=Check date of record against known seasonal limit of Ylodes conspersus
+Tvk=NBNSYS0000008532
+ErrorMsg=Date outside known seasonal limit for Ylodes conspersus
+StartDate=0501
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

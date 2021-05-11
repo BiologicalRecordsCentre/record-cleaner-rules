@@ -1,0 +1,56 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Limnephilus elegans 10km
+Description=Check coordinate against known 10km distribution of Limnephilus elegans
+ErrorMsg=Coordinate outside know range for Limnephilus elegans
+DataFieldName=Species
+DataRecordId=NBNSYS0000008474
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NG42
+NH31
+NH70
+NM39
+NM49
+NM67
+NM76
+NN45
+NN52
+NN79
+NO18
+NS53
+NT00
+NX35
+NX48
+NY25
+NZ13
+SC39
+SE06
+SH44
+SH48
+SH57
+SH58
+SH64
+SH73
+SH74
+SH96
+SJ35
+SJ43
+SJ53
+SJ56
+SJ65
+SJ69
+SN56
+SN63
+SN66
+SN69
+SN75
+SO05
+SO15
+SS59
+
+

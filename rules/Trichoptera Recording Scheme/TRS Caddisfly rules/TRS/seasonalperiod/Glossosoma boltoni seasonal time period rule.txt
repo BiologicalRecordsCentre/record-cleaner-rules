@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Glossosoma boltoni seasonal check
+Description=Check date of record against known seasonal limit of Glossosoma boltoni
+Tvk=NBNSYS0000008343
+ErrorMsg=Date outside known seasonal limit for Glossosoma boltoni
+StartDate=0301
+EndDate=1130
+LastChanged=20130528
+[EndMetadata]
+

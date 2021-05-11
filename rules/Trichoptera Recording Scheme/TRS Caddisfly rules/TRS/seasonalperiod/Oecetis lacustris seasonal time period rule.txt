@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Oecetis lacustris seasonal check
+Description=Check date of record against known seasonal limit of Oecetis lacustris
+Tvk=NBNSYS0000008536
+ErrorMsg=Date outside known seasonal limit for Oecetis lacustris
+StartDate=0601
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

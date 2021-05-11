@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Athripsodes commutatus temporal check
+Description=Check date of record against known temporal limit of Athripsodes commutatus
+Tvk=NBNSYS0000008515
+ErrorMsg=Date outside known temporal limit for Athripsodes commutatus
+StartDate=18620101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

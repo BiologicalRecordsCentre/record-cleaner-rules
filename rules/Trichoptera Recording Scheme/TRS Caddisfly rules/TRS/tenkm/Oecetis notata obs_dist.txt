@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Oecetis notata 10km
+Description=Check coordinate against known 10km distribution of Oecetis notata
+ErrorMsg=Coordinate outside know range for Oecetis notata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008537
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NN70
+SE64
+SJ41
+SN54
+SO14
+SO24
+SO50
+SO51
+SO52
+SS41
+SU31
+SX47
+SX65
+
+

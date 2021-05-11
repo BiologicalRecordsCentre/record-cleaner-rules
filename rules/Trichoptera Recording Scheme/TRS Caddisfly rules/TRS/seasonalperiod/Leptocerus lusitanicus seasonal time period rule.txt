@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Leptocerus lusitanicus seasonal check
+Description=Check date of record against known seasonal limit of Leptocerus lusitanicus
+Tvk=NBNSYS0000008523
+ErrorMsg=Date outside known seasonal limit for Leptocerus lusitanicus
+StartDate=0701
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

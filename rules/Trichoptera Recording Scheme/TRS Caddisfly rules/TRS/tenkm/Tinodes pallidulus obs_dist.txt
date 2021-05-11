@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Tinodes pallidulus 10km
+Description=Check coordinate against known 10km distribution of Tinodes pallidulus
+ErrorMsg=Coordinate outside know range for Tinodes pallidulus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008393
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NS79
+SD74
+SK51
+SK58
+SO41
+SO77
+SY28
+TR03
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Adicella reducta seasonal check
+Description=Check date of record against known seasonal limit of Adicella reducta
+Tvk=NBNSYS0000008529
+ErrorMsg=Date outside known seasonal limit for Adicella reducta
+StartDate=0601
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

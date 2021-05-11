@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Cyrnus insolutus 10km
+Description=Check coordinate against known 10km distribution of Cyrnus insolutus
+ErrorMsg=Coordinate outside know range for Cyrnus insolutus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008400
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+SH63
+SN76
+SN86
+
+

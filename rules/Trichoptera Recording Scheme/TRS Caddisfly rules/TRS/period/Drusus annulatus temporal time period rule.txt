@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Drusus annulatus temporal check
+Description=Check date of record against known temporal limit of Drusus annulatus
+Tvk=NBNSYS0000008442
+ErrorMsg=Date outside known temporal limit for Drusus annulatus
+StartDate=18370101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

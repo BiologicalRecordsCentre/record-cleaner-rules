@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Limnephilus centralis seasonal check
+Description=Check date of record against known seasonal limit of Limnephilus centralis
+Tvk=NBNSYS0000008471
+ErrorMsg=Date outside known seasonal limit for Limnephilus centralis
+StartDate=0301
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

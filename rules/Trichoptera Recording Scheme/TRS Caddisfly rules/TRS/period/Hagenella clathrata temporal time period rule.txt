@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Hagenella clathrata temporal check
+Description=Check date of record against known temporal limit of Hagenella clathrata
+Tvk=NBNSYS0000008428
+ErrorMsg=Date outside known temporal limit for Hagenella clathrata
+StartDate=18670101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

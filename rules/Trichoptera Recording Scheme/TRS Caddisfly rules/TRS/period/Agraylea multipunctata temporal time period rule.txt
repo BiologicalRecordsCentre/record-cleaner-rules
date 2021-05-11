@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Agraylea multipunctata temporal check
+Description=Check date of record against known temporal limit of Agraylea multipunctata
+Tvk=NBNSYS0000008349
+ErrorMsg=Date outside known temporal limit for Agraylea multipunctata
+StartDate=18580101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Ceraclea albimacula temporal check
+Description=Check date of record against known temporal limit of Ceraclea albimacula
+Tvk=NBNSYS0000008516
+ErrorMsg=Date outside known temporal limit for Ceraclea albimacula
+StartDate=18360101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Plectrocnemia geniculata seasonal check
+Description=Check date of record against known seasonal limit of Plectrocnemia geniculata
+Tvk=NBNSYS0000008408
+ErrorMsg=Date outside known seasonal limit for Plectrocnemia geniculata
+StartDate=0501
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

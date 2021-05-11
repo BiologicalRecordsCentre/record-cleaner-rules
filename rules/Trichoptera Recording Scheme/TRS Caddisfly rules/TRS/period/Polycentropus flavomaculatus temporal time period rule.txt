@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Polycentropus flavomaculatus temporal check
+Description=Check date of record against known temporal limit of Polycentropus flavomaculatus
+Tvk=NBNSYS0000008409
+ErrorMsg=Date outside known temporal limit for Polycentropus flavomaculatus
+StartDate=18250101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

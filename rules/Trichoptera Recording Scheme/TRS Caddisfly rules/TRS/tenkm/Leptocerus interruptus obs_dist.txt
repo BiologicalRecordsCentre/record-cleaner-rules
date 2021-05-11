@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Leptocerus interruptus 10km
+Description=Check coordinate against known 10km distribution of Leptocerus interruptus
+ErrorMsg=Coordinate outside know range for Leptocerus interruptus
+DataFieldName=Species
+DataRecordId=NHMSYS0020442420
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+SO30
+SY08
+SY29
+SY69
+
+

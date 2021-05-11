@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Psychomyia pusilla seasonal check
+Description=Check date of record against known seasonal limit of Psychomyia pusilla
+Tvk=NHMSYS0020704831
+ErrorMsg=Date outside known seasonal limit for Psychomyia pusilla
+StartDate=0501
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

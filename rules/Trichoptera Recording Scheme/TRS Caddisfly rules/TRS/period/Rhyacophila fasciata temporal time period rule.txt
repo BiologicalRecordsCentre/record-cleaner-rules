@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Rhyacophila fasciata temporal check
+Description=Check date of record against known temporal limit of Rhyacophila fasciata
+Tvk=NBNSYS0000155925
+ErrorMsg=Date outside known temporal limit for Rhyacophila fasciata
+StartDate=18620101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+
