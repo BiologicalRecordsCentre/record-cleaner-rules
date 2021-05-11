@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Scymnus (Scymnus) frontalis temporal check
+Description=Check date of record against known temporal limit of Scymnus (Scymnus) frontalis
+Tvk=NHMSYS0020153399
+ErrorMsg=Date outside known temporal limit for Scymnus (Scymnus) frontalis
+StartDate=18000101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

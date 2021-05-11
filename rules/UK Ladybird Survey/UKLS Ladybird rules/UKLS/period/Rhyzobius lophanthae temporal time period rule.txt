@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Rhyzobius lophanthae temporal check
+Description=Check date of record against known temporal limit of Rhyzobius lophanthae
+Tvk=NHMSYS0020153337
+ErrorMsg=Date outside known temporal limit for Rhyzobius lophanthae
+StartDate=19990101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

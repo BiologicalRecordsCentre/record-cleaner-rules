@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Scymnus (Pullus) auritus temporal check
+Description=Check date of record against known temporal limit of Scymnus (Pullus) auritus
+Tvk=NHMSYS0020153395
+ErrorMsg=Date outside known temporal limit for Scymnus (Pullus) auritus
+StartDate=18000101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

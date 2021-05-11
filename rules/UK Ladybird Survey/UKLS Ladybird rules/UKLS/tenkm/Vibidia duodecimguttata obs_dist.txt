@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Vibidia duodecimguttata 10km
+Description=Check coordinate against known 10km distribution of Vibidia duodecimguttata
+ErrorMsg=Coordinate outside know range for Vibidia duodecimguttata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008333
+LastChanged=20130430
+[EndMetadata]
+
+
+[10km_GB]
+NY09
+ST57
+SU00
+SU97
+
+

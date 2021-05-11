@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Myzia oblongoguttata temporal check
+Description=Check date of record against known temporal limit of Myzia oblongoguttata
+Tvk=NBNSYS0000008331
+ErrorMsg=Date outside known temporal limit for Myzia oblongoguttata
+StartDate=18000101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

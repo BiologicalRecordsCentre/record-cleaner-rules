@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Scymnus (Scymnus) rubromaculatus temporal check
+Description=Check date of record against known temporal limit of Scymnus (Scymnus) rubromaculatus
+Tvk=NHMSYS0020153403
+ErrorMsg=Date outside known temporal limit for Scymnus (Scymnus) rubromaculatus
+StartDate=19610101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

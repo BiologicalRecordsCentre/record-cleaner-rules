@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Scymnus (Pullus) suturalis temporal check
+Description=Check date of record against known temporal limit of Scymnus (Pullus) suturalis
+Tvk=NHMSYS0020153396
+ErrorMsg=Date outside known temporal limit for Scymnus (Pullus) suturalis
+StartDate=19020101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+
