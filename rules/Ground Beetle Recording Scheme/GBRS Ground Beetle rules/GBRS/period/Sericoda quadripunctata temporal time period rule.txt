@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Sericoda quadripunctata temporal check
+Description=Check date of record against known temporal limit of Sericoda quadripunctata
+Tvk=NHMSYS0001720084
+ErrorMsg=Date outside known temporal limit for Sericoda quadripunctata
+StartDate=
+EndDate=19801213
+LastChanged=20130528
+[EndMetadata]
+

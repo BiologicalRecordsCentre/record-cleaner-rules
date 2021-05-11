@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Somotrichus unifasciatus 10km
+Description=Check coordinate against known 10km distribution of Somotrichus unifasciatus
+ErrorMsg=Coordinate outside know range for Somotrichus unifasciatus
+DataFieldName=Species
+DataRecordId=NHMSYS0020977486
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+SE91
+SE92
+SE93
+TA01
+TA02
+TA03
+TA11
+TA12
+TA13
+TQ16
+TQ17
+TQ18
+TQ26
+TQ27
+TQ28
+TQ36
+TQ37
+TQ38
+TQ95
+TQ96
+TQ97
+TR05
+TR06
+TR07
+TR15
+TR16
+
+

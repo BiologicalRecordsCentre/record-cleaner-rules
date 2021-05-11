@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Carabus (Autocarabus) cancellatus 10km
+Description=Check coordinate against known 10km distribution of Carabus (Autocarabus) cancellatus
+ErrorMsg=Coordinate outside know range for Carabus (Autocarabus) cancellatus
+DataFieldName=Species
+DataRecordId=NHMSYS0001717505
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+SU30
+
+

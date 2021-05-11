@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Harpalus (Harpalus) froelichii 10km
+Description=Check coordinate against known 10km distribution of Harpalus (Harpalus) froelichii
+ErrorMsg=Coordinate outside know range for Harpalus (Harpalus) froelichii
+DataFieldName=Species
+DataRecordId=NHMSYS0001718352
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+SY58
+SY68
+SY78
+SY99
+SZ07
+TF34
+TF64
+TL68
+TL77
+TL78
+TL79
+TL88
+TL98
+TM02
+TM24
+TM57
+TM58
+TQ67
+
+

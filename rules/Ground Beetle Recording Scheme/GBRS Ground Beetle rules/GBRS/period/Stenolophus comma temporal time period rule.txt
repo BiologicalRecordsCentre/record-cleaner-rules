@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Stenolophus comma temporal check
+Description=Check date of record against known temporal limit of Stenolophus comma
+Tvk=NHMSYS0001720160
+ErrorMsg=Date outside known temporal limit for Stenolophus comma
+StartDate=19010101
+EndDate=19011213
+LastChanged=20130528
+[EndMetadata]
+

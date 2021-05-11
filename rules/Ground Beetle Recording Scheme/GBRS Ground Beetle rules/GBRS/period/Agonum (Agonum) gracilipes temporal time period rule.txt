@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Agonum (Agonum) gracilipes temporal check
+Description=Check date of record against known temporal limit of Agonum (Agonum) gracilipes
+Tvk=NHMSYS0001716596
+ErrorMsg=Date outside known temporal limit for Agonum (Agonum) gracilipes
+StartDate=
+EndDate=19871213
+LastChanged=20130528
+[EndMetadata]
+

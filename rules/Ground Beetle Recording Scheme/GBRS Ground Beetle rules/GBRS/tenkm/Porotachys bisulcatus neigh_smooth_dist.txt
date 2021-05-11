@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Porotachys bisulcatus 10km
+Description=Check coordinate against known 10km distribution of Porotachys bisulcatus
+ErrorMsg=Coordinate outside know range for Porotachys bisulcatus
+DataFieldName=Species
+DataRecordId=NHMSYS0001719676
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+NY14
+NY15
+NY16
+NY24
+NY25
+NY26
+NY34
+NY35
+NY36
+
+

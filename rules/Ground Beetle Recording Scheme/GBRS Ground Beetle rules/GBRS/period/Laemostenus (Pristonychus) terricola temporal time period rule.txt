@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Laemostenus (Pristonychus) terricola temporal check
+Description=Check date of record against known temporal limit of Laemostenus (Pristonychus) terricola
+Tvk=NHMSYS0001718679
+ErrorMsg=Date outside known temporal limit for Laemostenus (Pristonychus) terricola
+StartDate=19020101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

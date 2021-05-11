@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Harpalus (Harpalus) froelichii temporal check
+Description=Check date of record against known temporal limit of Harpalus (Harpalus) froelichii
+Tvk=NHMSYS0001718352
+ErrorMsg=Date outside known temporal limit for Harpalus (Harpalus) froelichii
+StartDate=18980101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

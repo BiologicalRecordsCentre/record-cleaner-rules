@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Harpalus (Cryptophonus) tenebrosus seasonal check
+Description=Check date of record against known seasonal limit of Harpalus (Cryptophonus) tenebrosus
+Tvk=NHMSYS0001718349
+ErrorMsg=Date outside known seasonal limit for Harpalus (Cryptophonus) tenebrosus
+StartDate=0301
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

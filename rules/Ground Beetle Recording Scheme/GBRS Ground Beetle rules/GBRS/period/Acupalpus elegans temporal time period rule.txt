@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Acupalpus elegans temporal check
+Description=Check date of record against known temporal limit of Acupalpus elegans
+Tvk=NBNSYS0000007436
+ErrorMsg=Date outside known temporal limit for Acupalpus elegans
+StartDate=
+EndDate=19521213
+LastChanged=20130528
+[EndMetadata]
+

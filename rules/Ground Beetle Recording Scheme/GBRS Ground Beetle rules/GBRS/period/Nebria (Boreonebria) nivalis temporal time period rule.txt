@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Nebria (Boreonebria) nivalis temporal check
+Description=Check date of record against known temporal limit of Nebria (Boreonebria) nivalis
+Tvk=NHMSYS0001719101
+ErrorMsg=Date outside known temporal limit for Nebria (Boreonebria) nivalis
+StartDate=19500101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

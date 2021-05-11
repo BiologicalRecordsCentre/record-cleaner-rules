@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Asaphidion stierlini temporal check
+Description=Check date of record against known temporal limit of Asaphidion stierlini
+Tvk=NBNSYS0000007207
+ErrorMsg=Date outside known temporal limit for Asaphidion stierlini
+StartDate=19860101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

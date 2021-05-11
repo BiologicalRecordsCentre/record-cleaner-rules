@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Bembidion (Philochthus) lunulatum temporal check
+Description=Check date of record against known temporal limit of Bembidion (Philochthus) lunulatum
+Tvk=NHMSYS0001717178
+ErrorMsg=Date outside known temporal limit for Bembidion (Philochthus) lunulatum
+StartDate=18930101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Bembidion (Bembidionetolitzkya) caeruleum temporal check
+Description=Check date of record against known temporal limit of Bembidion (Bembidionetolitzkya) caeruleum
+Tvk=NHMSYS0001717147
+ErrorMsg=Date outside known temporal limit for Bembidion (Bembidionetolitzkya) caeruleum
+StartDate=19890101
+EndDate=20091213
+LastChanged=20130528
+[EndMetadata]
+

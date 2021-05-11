@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Bembidion (Pseudolimnaeum) inustum temporal check
+Description=Check date of record against known temporal limit of Bembidion (Pseudolimnaeum) inustum
+Tvk=NHMSYS0001717185
+ErrorMsg=Date outside known temporal limit for Bembidion (Pseudolimnaeum) inustum
+StartDate=19990101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

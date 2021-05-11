@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Perigona nigriceps temporal check
+Description=Check date of record against known temporal limit of Perigona nigriceps
+Tvk=NBNSYS0000007342
+ErrorMsg=Date outside known temporal limit for Perigona nigriceps
+StartDate=19500101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

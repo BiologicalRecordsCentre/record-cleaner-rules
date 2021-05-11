@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Cicindela campestris seasonal check
+Description=Check date of record against known seasonal limit of Cicindela campestris
+Tvk=NBNSYS0000007122
+ErrorMsg=Date outside known seasonal limit for Cicindela campestris
+StartDate=0201
+EndDate=1130
+LastChanged=20130528
+[EndMetadata]
+

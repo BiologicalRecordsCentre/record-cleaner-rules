@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Pterostichus (Pseudomaseus) nigrita temporal check
+Description=Check date of record against known temporal limit of Pterostichus (Pseudomaseus) nigrita
+Tvk=NHMSYS0001719793
+ErrorMsg=Date outside known temporal limit for Pterostichus (Pseudomaseus) nigrita
+StartDate=19900101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

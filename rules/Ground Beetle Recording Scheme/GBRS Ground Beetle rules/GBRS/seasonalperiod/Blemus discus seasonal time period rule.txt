@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Blemus discus seasonal check
+Description=Check date of record against known seasonal limit of Blemus discus
+Tvk=NHMSYS0001717333
+ErrorMsg=Date outside known seasonal limit for Blemus discus
+StartDate=0401
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

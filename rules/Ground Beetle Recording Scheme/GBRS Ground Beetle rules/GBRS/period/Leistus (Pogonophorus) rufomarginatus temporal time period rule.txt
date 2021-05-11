@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Leistus (Pogonophorus) rufomarginatus temporal check
+Description=Check date of record against known temporal limit of Leistus (Pogonophorus) rufomarginatus
+Tvk=NHMSYS0001718801
+ErrorMsg=Date outside known temporal limit for Leistus (Pogonophorus) rufomarginatus
+StartDate=19420101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

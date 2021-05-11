@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Cicindela maritima seasonal check
+Description=Check date of record against known seasonal limit of Cicindela maritima
+Tvk=NHMSYS0001717604
+ErrorMsg=Date outside known seasonal limit for Cicindela maritima
+StartDate=0301
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

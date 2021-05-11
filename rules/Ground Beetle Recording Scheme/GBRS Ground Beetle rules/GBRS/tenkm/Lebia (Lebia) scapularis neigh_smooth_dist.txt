@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Lebia (Lebia) scapularis 10km
+Description=Check coordinate against known 10km distribution of Lebia (Lebia) scapularis
+ErrorMsg=Coordinate outside know range for Lebia (Lebia) scapularis
+DataFieldName=Species
+DataRecordId=NHMSYS0001718730
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+SS90
+SS91
+ST00
+ST01
+ST10
+ST11
+SX99
+SY09
+SY19
+TQ17
+TQ18
+TQ19
+TQ27
+TQ28
+TQ29
+TQ37
+TQ38
+TQ39
+TQ70
+TQ71
+TQ72
+TQ80
+TQ81
+TQ82
+TQ91
+TQ92
+
+

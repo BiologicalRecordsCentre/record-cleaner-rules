@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Bembidion (Philochthus) iricolor temporal check
+Description=Check date of record against known temporal limit of Bembidion (Philochthus) iricolor
+Tvk=NBNSYS0100001972
+ErrorMsg=Date outside known temporal limit for Bembidion (Philochthus) iricolor
+StartDate=18930101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+
