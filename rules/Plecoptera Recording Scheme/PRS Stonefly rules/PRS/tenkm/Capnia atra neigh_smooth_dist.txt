@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Capnia atra 10km
+Description=Check coordinate against known 10km distribution of Capnia atra
+ErrorMsg=Coordinate outside know range for Capnia atra
+DataFieldName=Species
+DataRecordId=NBNSYS0000022434
+LastChanged=20130426
+[EndMetadata]
+
+
+[10km_GB]
+NY00
+NY01
+NY10
+NY11
+NY20
+NY21
+NY30
+NY31
+SD08
+SD09
+SD18
+SD19
+SD28
+SD29
+SD39
+
+

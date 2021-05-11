@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Brachyptera putata seasonal check
+Description=Check date of record against known seasonal limit of Brachyptera putata
+Tvk=NBNSYS0000022413
+ErrorMsg=Date outside known seasonal limit for Brachyptera putata
+StartDate=0201
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

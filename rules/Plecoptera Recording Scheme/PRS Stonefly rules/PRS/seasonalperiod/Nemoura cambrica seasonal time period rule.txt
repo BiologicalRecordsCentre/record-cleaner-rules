@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Nemoura cambrica seasonal check
+Description=Check date of record against known seasonal limit of Nemoura cambrica
+Tvk=NBNSYS0000022420
+ErrorMsg=Date outside known seasonal limit for Nemoura cambrica
+StartDate=0401
+EndDate=0630
+LastChanged=20130528
+[EndMetadata]
+

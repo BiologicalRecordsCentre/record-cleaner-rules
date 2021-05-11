@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Isogenus nubecula
+Description=Checks date is within known recording period of Isogenus nubecula
+ErrorMsg=Date is outside known recording period of Isogenus nubecula
+Tvk=NBNSYS0000022438
+StartDate=
+EndDate=19951231
+LastChanged=20130327
+[EndMetadata]

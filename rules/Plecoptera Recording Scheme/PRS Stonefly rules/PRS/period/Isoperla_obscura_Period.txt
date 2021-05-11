@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Isoperla obscura
+Description=Checks date is within known recording period of Isoperla obscura
+ErrorMsg=Date is outside known recording period of Isoperla obscura
+Tvk=NBNSYS0000022440
+StartDate=19130101
+EndDate=19131231
+LastChanged=20130327
+[EndMetadata]

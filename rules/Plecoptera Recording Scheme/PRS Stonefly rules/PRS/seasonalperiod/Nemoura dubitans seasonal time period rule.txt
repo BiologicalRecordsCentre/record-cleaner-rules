@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Nemoura dubitans seasonal check
+Description=Check date of record against known seasonal limit of Nemoura dubitans
+Tvk=NBNSYS0000022422
+ErrorMsg=Date outside known seasonal limit for Nemoura dubitans
+StartDate=0401
+EndDate=0430
+LastChanged=20130528
+[EndMetadata]
+
