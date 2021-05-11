@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Dioctria rufipes seasonal check
+Description=Check date of record against known seasonal limit of Dioctria rufipes
+Tvk=NBNSYS0000007919
+ErrorMsg=Date outside known seasonal limit for Dioctria rufipes
+StartDate=0501
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

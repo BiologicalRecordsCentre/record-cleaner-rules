@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Chrysopilus erythrophthalmus seasonal check
+Description=Check date of record against known seasonal limit of Chrysopilus erythrophthalmus
+Tvk=NBNSYS0000007851
+ErrorMsg=Date outside known seasonal limit for Chrysopilus erythrophthalmus
+StartDate=0601
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

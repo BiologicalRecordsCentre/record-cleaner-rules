@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Hybomitra lurida seasonal check
+Description=Check date of record against known seasonal limit of Hybomitra lurida
+Tvk=NBNSYS0000007883
+ErrorMsg=Date outside known seasonal limit for Hybomitra lurida
+StartDate=0501
+EndDate=0731
+LastChanged=20130528
+[EndMetadata]
+

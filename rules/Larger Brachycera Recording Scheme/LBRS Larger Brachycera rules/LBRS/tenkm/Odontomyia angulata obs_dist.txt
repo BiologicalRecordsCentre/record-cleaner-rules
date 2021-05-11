@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Odontomyia angulata 10km
+Description=Check coordinate against known 10km distribution of Odontomyia angulata
+ErrorMsg=Coordinate outside know range for Odontomyia angulata
+DataFieldName=Species
+DataRecordId=NBNSYS0000007833
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+SU49
+TF71
+TG32
+TL99
+
+

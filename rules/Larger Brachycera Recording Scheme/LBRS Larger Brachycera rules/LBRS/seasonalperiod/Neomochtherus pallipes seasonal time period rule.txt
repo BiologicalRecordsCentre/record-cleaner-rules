@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Neomochtherus pallipes seasonal check
+Description=Check date of record against known seasonal limit of Neomochtherus pallipes
+Tvk=NBNSYS0100004212
+ErrorMsg=Date outside known seasonal limit for Neomochtherus pallipes
+StartDate=0801
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

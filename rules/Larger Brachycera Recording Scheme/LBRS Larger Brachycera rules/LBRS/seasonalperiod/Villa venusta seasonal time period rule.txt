@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Villa venusta seasonal check
+Description=Check date of record against known seasonal limit of Villa venusta
+Tvk=NBNSYS0100005964
+ErrorMsg=Date outside known seasonal limit for Villa venusta
+StartDate=0701
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Hybomitra muehlfeldi 10km
+Description=Check coordinate against known 10km distribution of Hybomitra muehlfeldi
+ErrorMsg=Coordinate outside know range for Hybomitra muehlfeldi
+DataFieldName=Species
+DataRecordId=NBNSYS0100003522
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+SJ57
+SN30
+SN31
+SN40
+SO34
+SP17
+SS59
+SS69
+TF70
+TF71
+TG13
+TG30
+TG31
+TG32
+TG41
+TG42
+TL99
+TM47
+TQ96
+TR06
+
+

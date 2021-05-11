@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Oxycera dives seasonal check
+Description=Check date of record against known seasonal limit of Oxycera dives
+Tvk=NBNSYS0000007809
+ErrorMsg=Date outside known seasonal limit for Oxycera dives
+StartDate=0601
+EndDate=0731
+LastChanged=20130528
+[EndMetadata]
+

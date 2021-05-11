@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Machimus cowini
+Description=Checks date is within known recording period of Machimus cowini
+ErrorMsg=Date is outside known recording period of Machimus cowini
+Tvk=NHMSYS0020734171
+StartDate=19410101
+EndDate=
+LastChanged=20130311
+[EndMetadata]

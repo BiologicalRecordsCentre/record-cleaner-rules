@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Machimus arthriticus seasonal check
+Description=Check date of record against known seasonal limit of Machimus arthriticus
+Tvk=NBNSYS0100003860
+ErrorMsg=Date outside known seasonal limit for Machimus arthriticus
+StartDate=0601
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

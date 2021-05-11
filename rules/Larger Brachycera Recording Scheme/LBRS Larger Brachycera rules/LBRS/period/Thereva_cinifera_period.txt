@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Thereva cinifera
+Description=Checks date is within known recording period of Thereva cinifera
+ErrorMsg=Date is outside known recording period of Thereva cinifera
+Tvk=NBNSYS0100005797
+StartDate=19920101
+EndDate=
+LastChanged=20130311
+[EndMetadata]

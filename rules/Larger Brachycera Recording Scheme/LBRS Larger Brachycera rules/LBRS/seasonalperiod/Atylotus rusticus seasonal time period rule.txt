@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Atylotus rusticus seasonal check
+Description=Check date of record against known seasonal limit of Atylotus rusticus
+Tvk=NBNSYS0000007878
+ErrorMsg=Date outside known seasonal limit for Atylotus rusticus
+StartDate=0601
+EndDate=0731
+LastChanged=20130528
+[EndMetadata]
+

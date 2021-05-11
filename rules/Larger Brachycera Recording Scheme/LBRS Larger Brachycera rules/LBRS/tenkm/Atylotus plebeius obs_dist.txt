@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Atylotus plebeius 10km
+Description=Check coordinate against known 10km distribution of Atylotus plebeius
+ErrorMsg=Coordinate outside know range for Atylotus plebeius
+DataFieldName=Species
+DataRecordId=NBNSYS0000007877
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+SJ56
+
+

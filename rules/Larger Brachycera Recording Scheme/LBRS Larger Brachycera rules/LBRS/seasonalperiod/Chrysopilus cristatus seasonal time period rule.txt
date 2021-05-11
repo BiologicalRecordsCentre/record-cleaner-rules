@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Chrysopilus cristatus seasonal check
+Description=Check date of record against known seasonal limit of Chrysopilus cristatus
+Tvk=NBNSYS0000007850
+ErrorMsg=Date outside known seasonal limit for Chrysopilus cristatus
+StartDate=0501
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

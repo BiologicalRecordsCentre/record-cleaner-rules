@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Hybomitra micans 10km
+Description=Check coordinate against known 10km distribution of Hybomitra micans
+ErrorMsg=Coordinate outside know range for Hybomitra micans
+DataFieldName=Species
+DataRecordId=NBNSYS0000007884
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+NY22
+NY25
+NY35
+SD38
+SD39
+SD49
+SN40
+SN83
+SU97
+
+

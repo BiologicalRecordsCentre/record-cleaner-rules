@@ -1,0 +1,49 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Tabanus maculicornis 10km
+Description=Check coordinate against known 10km distribution of Tabanus maculicornis
+ErrorMsg=Coordinate outside know range for Tabanus maculicornis
+DataFieldName=Species
+DataRecordId=NBNSYS0000007891
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+SE58
+SH57
+SH70
+SH71
+SO91
+SS22
+SS50
+SS64
+SS72
+SS73
+ST12
+ST70
+SU10
+SU20
+SU21
+SU22
+SU30
+SU40
+SU46
+SU47
+SU51
+SU56
+SU66
+SU67
+SU73
+SU84
+SU94
+SU95
+SU96
+SU97
+SX19
+SY69
+TL99
+TM46
+
+

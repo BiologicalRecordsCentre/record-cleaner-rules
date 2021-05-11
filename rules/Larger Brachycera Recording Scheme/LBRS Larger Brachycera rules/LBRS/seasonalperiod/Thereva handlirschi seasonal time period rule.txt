@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Thereva handlirschi seasonal check
+Description=Check date of record against known seasonal limit of Thereva handlirschi
+Tvk=NBNSYS0000007929
+ErrorMsg=Date outside known seasonal limit for Thereva handlirschi
+StartDate=0701
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Hybomitra montana seasonal check
+Description=Check date of record against known seasonal limit of Hybomitra montana
+Tvk=NBNSYS0000007885
+ErrorMsg=Date outside known seasonal limit for Hybomitra montana
+StartDate=0501
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

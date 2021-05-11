@@ -1,0 +1,52 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Symphoromyia crassicornis 10km
+Description=Check coordinate against known 10km distribution of Symphoromyia crassicornis
+ErrorMsg=Coordinate outside know range for Symphoromyia crassicornis
+DataFieldName=Species
+DataRecordId=NBNSYS0100020558
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+NG26
+NG33
+NG43
+NG61
+NH33
+NH80
+NH81
+NH90
+NH92
+NJ01
+NN52
+NN55
+NN62
+NO19
+NO64
+NS21
+NS61
+NS62
+NT54
+NT90
+NY30
+NY31
+NY36
+NY51
+NY92
+NZ16
+SD57
+SD90
+SD96
+SE20
+SE58
+SK09
+SK16
+SK18
+SK19
+SK25
+SK38
+
+

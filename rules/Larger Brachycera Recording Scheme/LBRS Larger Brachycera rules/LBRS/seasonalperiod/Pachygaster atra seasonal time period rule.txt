@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Pachygaster atra seasonal check
+Description=Check date of record against known seasonal limit of Pachygaster atra
+Tvk=NBNSYS0000007820
+ErrorMsg=Date outside known seasonal limit for Pachygaster atra
+StartDate=0501
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

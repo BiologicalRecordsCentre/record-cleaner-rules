@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Ptiolina nigra 10km
+Description=Check coordinate against known 10km distribution of Ptiolina nigra
+ErrorMsg=Coordinate outside know range for Ptiolina nigra
+DataFieldName=Species
+DataRecordId=NBNSYS0100004993
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+NO18
+NY26
+NZ44
+SD47
+SE50
+SK26
+SK32
+TQ21
+
+

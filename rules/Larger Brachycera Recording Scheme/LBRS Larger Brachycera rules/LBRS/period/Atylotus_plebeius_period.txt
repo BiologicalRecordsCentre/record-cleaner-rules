@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Atylotus plebeius
+Description=Checks date is within known recording period of Atylotus plebeius
+ErrorMsg=Date is outside known recording period of Atylotus plebeius
+Tvk=NBNSYS0000007877
+StartDate=19110101
+EndDate=
+LastChanged=20130311
+[EndMetadata]

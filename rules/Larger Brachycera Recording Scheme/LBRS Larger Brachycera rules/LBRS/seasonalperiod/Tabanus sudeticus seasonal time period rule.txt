@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Tabanus sudeticus seasonal check
+Description=Check date of record against known seasonal limit of Tabanus sudeticus
+Tvk=NBNSYS0000007889
+ErrorMsg=Date outside known seasonal limit for Tabanus sudeticus
+StartDate=0601
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

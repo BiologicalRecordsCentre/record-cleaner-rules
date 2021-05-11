@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Eupachygaster tarsalis 10km
+Description=Check coordinate against known 10km distribution of Eupachygaster tarsalis
+ErrorMsg=Coordinate outside know range for Eupachygaster tarsalis
+DataFieldName=Species
+DataRecordId=NBNSYS0000007824
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+SP03
+SP99
+ST84
+SU33
+TF20
+TL14
+TL17
+TL26
+TL45
+TL52
+TL66
+TQ69
+
+

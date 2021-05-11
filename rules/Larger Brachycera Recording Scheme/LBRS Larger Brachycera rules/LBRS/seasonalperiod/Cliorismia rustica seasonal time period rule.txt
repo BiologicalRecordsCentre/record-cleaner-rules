@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Cliorismia rustica seasonal check
+Description=Check date of record against known seasonal limit of Cliorismia rustica
+Tvk=NBNSYS0000189329
+ErrorMsg=Date outside known seasonal limit for Cliorismia rustica
+StartDate=0501
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

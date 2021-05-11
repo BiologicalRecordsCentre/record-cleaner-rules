@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Rhagio strigosus 10km
+Description=Check coordinate against known 10km distribution of Rhagio strigosus
+ErrorMsg=Coordinate outside know range for Rhagio strigosus
+DataFieldName=Species
+DataRecordId=NBNSYS0000007865
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+SU57
+SU58
+SU67
+SU68
+SU78
+TQ15
+
+

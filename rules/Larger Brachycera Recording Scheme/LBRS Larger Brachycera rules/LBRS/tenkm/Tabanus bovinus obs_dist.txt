@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Tabanus bovinus 10km
+Description=Check coordinate against known 10km distribution of Tabanus bovinus
+ErrorMsg=Coordinate outside know range for Tabanus bovinus
+DataFieldName=Species
+DataRecordId=NBNSYS0000007888
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+SU10
+SU30
+SU31
+SU42
+SU50
+SU51
+SW83
+SY59
+TQ89
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Haematopota grandis seasonal check
+Description=Check date of record against known seasonal limit of Haematopota grandis
+Tvk=NBNSYS0000007873
+ErrorMsg=Date outside known seasonal limit for Haematopota grandis
+StartDate=0601
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+
