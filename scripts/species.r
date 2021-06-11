@@ -26,7 +26,8 @@ species_checks = function(
 	# Check for duplicated rows
 	if(nrow(species) != nrow(unique(species))){
 		warning(
-			"Species csv contains duplicated rows which will be removed.", 
+			"Species below are duplicated.\n\t", 
+		    paste(species[duplicated(species),]$NAME, collapse="\n\t"), 
 			immediate. = TRUE
 		)
 		species = unique(species)
@@ -34,11 +35,11 @@ species_checks = function(
 			
 	# Look for TVKs that are matched to more than one name
 	chk_inds = which(
-			tapply(as.character(species$NAME), species$TVK, length, simplify = FALSE) > 1
+		tapply(as.character(species$NAME), species$TVK, length, simplify = FALSE) > 1
 	)
 	if(length(chk_inds) > 0){
 		warning(
-		  "TVKs given below are linked to more than 1 name and will be removed.\n\t", 
+		  "TVKs given below are linked to more than 1 name.\n\t", 
 		  paste(names(chk_inds), collapse="\n\t"), 
 		  immediate. = TRUE
 		)
@@ -49,7 +50,7 @@ species_checks = function(
 	  tapply(as.character(species$TVK), species$NAME, length, simplify = FALSE) > 1)
 	if(length(chk_inds) > 0){
 		warning(
-		  "Name(s) given below are linked to more than 1 TVK.\n\t", 
+		  "Names given below are linked to more than 1 TVK.\n\t", 
 		  paste(names(chk_inds), collapse="\n\t"), 
 		  immediate. = TRUE
 		)
