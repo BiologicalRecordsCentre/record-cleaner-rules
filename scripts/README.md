@@ -11,7 +11,8 @@ species. The first row must contain the headings as
 TVK,NAME,ID_DIFF
 ```
 Each subsequent row should contain the taxon-version key, Latin name, and
-a number from 1 to 5 indicating identification difficulty.
+a number from 1 to 5 indicating identification difficulty. The difficulty
+number can be omitted if not needed.
 
 ### Difficulties
 A file named `difficulties.csv` shall list identification difficulty data in 
