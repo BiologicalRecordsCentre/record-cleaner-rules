@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Cerura vinula
-Description=Checks date is within known flight period of Cerura vinula
-ErrorMsg=Date is outside known flight period of Cerura vinula
-Tvk=NBNSYS0000006081
-DataFieldName=
-StartDate=0401
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 71.003 Cerura vinula (Puss Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cerura vinula (Puss Moth)
+Tvk = NBNSYS0000006081
+StartDate = 0401
+EndDate = 0731
+LastChanged = 20210525
 [EndMetadata]
-
-         

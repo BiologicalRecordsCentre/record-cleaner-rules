@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Hypomecis roboraria
-Description=Checks date is within known recording period of Hypomecis roboraria
-ErrorMsg=Date is outside known recording period of Hypomecis roboraria
-Tvk=NHMSYS0000502920
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.267 Hypomecis roboraria (Great Oak Beauty)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Hypomecis roboraria (Great Oak Beauty)
+Tvk = NHMSYS0021144245
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

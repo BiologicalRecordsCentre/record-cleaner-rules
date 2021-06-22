@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Synanthedon spheciformis
-Description=Checks date is within known flight period of Synanthedon spheciformis
-ErrorMsg=Date is outside known flight period of Synanthedon spheciformis
-Tvk=NHMSYS0000504421
-DataFieldName=
-StartDate=0401
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 52.006 Synanthedon spheciformis (White-barred Clearwing)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Synanthedon spheciformis (White-barred Clearwing)
+Tvk = NHMSYS0021143406
+StartDate = 0515
+EndDate = 0630
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Catarhoe cuculata
-Description=Checks date is within known recording period of Catarhoe cuculata
-ErrorMsg=Date is outside known recording period of Catarhoe cuculata
-Tvk=NBNSYS0000005814
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.056 Catarhoe cuculata (Royal Mantle)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Catarhoe cuculata (Royal Mantle)
+Tvk = NBNSYS0000005814
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

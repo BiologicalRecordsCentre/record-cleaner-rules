@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.193 Endothenia quadrimaculana (Blotched Marble)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Endothenia quadrimaculana (Blotched Marble)
+Tvk = NHMSYS0000502367
+StartDate = 0601
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

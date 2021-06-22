@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 29.002 Diurnea lipsiella (November Tubic)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Diurnea lipsiella (November Tubic)
+Tvk = NHMSYS0021142565
+StartDate = 1001
+EndDate = 1130
+LastChanged = 20210525
+[EndMetadata]

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Ochropleura leucogaster
-Description=Checks date is within known flight period of Ochropleura leucogaster
-ErrorMsg=Date is outside known flight period of Ochropleura leucogaster
-Tvk=NBNSYS0000005273
-DataFieldName=
-StartDate=0401
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.330 Ochropleura leucogaster (Radford's Flame Shoulder)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Ochropleura leucogaster (Radford's Flame Shoulder)
+Tvk = NHMSYS0021144905
+StartDate = 0921
+EndDate = 1115
+LastChanged = 20210525
 [EndMetadata]
-
-         

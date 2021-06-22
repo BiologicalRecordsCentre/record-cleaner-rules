@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Hemistola chrysoprasaria
-Description=Checks date is within known flight period of Hemistola chrysoprasaria
-ErrorMsg=Date is outside known flight period of Hemistola chrysoprasaria
-Tvk=NBNSYS0000005746
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.302 Hemistola chrysoprasaria (Small Emerald)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hemistola chrysoprasaria (Small Emerald)
+Tvk = NHMSYS0021144321
+StartDate = 0521
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

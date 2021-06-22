@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.112 Chloantha hyperici (Pale-shouldered Cloud)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Chloantha hyperici (Pale-shouldered Cloud)
+Tvk = NHMSYS0021144597
+StartDate = 19960820
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

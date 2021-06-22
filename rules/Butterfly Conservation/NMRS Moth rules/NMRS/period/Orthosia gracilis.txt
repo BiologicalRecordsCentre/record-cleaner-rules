@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Orthosia gracilis
-Description=Checks date is within known recording period of Orthosia gracilis
-ErrorMsg=Date is outside known recording period of Orthosia gracilis
-Tvk=NHMSYS0000503516
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.247 Orthosia gracilis (Powdered Quaker)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Orthosia gracilis (Powdered Quaker)
+Tvk = NHMSYS0021144793
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

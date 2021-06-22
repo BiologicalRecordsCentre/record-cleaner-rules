@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 15.054 Phyllonorycter viminiella (Willow Midget)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Phyllonorycter viminiella (Willow Midget)
+Tvk = NBNSYS0000025925
+StartDate = 0401
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

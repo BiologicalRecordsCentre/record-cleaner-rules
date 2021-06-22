@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Paracolax tristalis
-Description=Checks date is within known flight period of Paracolax tristalis
-ErrorMsg=Date is outside known flight period of Paracolax tristalis
-Tvk=NBNSYS0000006598
-DataFieldName=
-StartDate=0601
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.051 Paracolax tristalis (Clay Fan-foot)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Paracolax tristalis (Clay Fan-foot)
+Tvk = NBNSYS0000006598
+StartDate = 0621
+EndDate = 0815
+LastChanged = 20210525
 [EndMetadata]
-
-         

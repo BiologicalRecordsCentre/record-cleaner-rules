@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.132 Luperina nickerlii nickerlii (Sandhill Rustic)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Luperina nickerlii nickerlii (Sandhill Rustic)
+Tvk = NHMSYS0021144622
+StartDate = 0721
+EndDate = 0915
+LastChanged = 20210525
+[EndMetadata]

@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Synthymia fixa
-Description=Checks date is within known recording period of Synthymia fixa
-ErrorMsg=Date is outside known recording period of Synthymia fixa
-Tvk=NBNSYS0000006501
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.049 Synthymia fixa (Goldwing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Synthymia fixa (Goldwing)
+Tvk = NBNSYS0000006501
+StartDate = 19370623
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

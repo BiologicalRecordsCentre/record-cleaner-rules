@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.152 Globia algae (Rush Wainscot)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Globia algae (Rush Wainscot)
+Tvk = NHMSYS0021144657
+StartDate = 0715
+EndDate = 1007
+LastChanged = 20210525
+[EndMetadata]

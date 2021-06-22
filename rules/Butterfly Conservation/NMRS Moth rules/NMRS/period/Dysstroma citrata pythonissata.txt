@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.098 Dysstroma citrata pythonissata (Dark Marbled Carpet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Dysstroma citrata pythonissata (Dark Marbled Carpet)
+Tvk = NHMSYS0021143998
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

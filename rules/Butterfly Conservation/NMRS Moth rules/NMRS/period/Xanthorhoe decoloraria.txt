@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Xanthorhoe decoloraria
-Description=Checks date is within known recording period of Xanthorhoe decoloraria
-ErrorMsg=Date is outside known recording period of Xanthorhoe decoloraria
-Tvk=NHMSYS0000520988
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.048 Xanthorhoe decoloraria (Red Carpet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Xanthorhoe decoloraria (Red Carpet)
+Tvk = NHMSYS0000520988
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

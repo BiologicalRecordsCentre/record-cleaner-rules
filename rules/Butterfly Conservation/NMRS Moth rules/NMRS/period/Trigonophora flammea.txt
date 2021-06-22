@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Trigonophora flammea
-Description=Checks date is within known recording period of Trigonophora flammea
-ErrorMsg=Date is outside known recording period of Trigonophora flammea
-Tvk=NBNSYS0000006344
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.229 Trigonophora flammea (Flame Brocade)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Trigonophora flammea (Flame Brocade)
+Tvk = NBNSYS0000006344
+StartDate = 18500701
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 39.002 Blastodacna atra (Apple-pith Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Blastodacna atra (Apple-pith Moth)
+Tvk = NHMSYS0000501498
+StartDate = 0521
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

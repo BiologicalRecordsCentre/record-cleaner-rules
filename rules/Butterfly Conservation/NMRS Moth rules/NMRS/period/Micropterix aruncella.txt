@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 1.004 Micropterix aruncella (White-barred Gold)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Micropterix aruncella (White-barred Gold)
+Tvk = NHMSYS0000503229
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

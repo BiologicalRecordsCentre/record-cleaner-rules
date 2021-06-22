@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Laspeyria flexula
-Description=Checks date is within known flight period of Laspeyria flexula
-ErrorMsg=Date is outside known flight period of Laspeyria flexula
-Tvk=NHMSYS0000503023
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.069 Laspeyria flexula (Beautiful Hook-tip)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Laspeyria flexula (Beautiful Hook-tip)
+Tvk = NHMSYS0021144440
+StartDate = 0521
+EndDate = 1015
+LastChanged = 20210525
 [EndMetadata]
-
-         

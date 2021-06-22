@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Aporophyla nigra
-Description=Checks date is within known recording period of Aporophyla nigra
-ErrorMsg=Date is outside known recording period of Aporophyla nigra
-Tvk=NBNSYS0000006325
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.233 Aporophyla nigra (Black Rustic)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Aporophyla nigra (Black Rustic)
+Tvk = NBNSYS0000006325
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

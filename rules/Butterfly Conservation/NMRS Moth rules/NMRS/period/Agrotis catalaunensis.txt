@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.326 Agrotis catalaunensis (Grouville Dart)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Agrotis catalaunensis (Grouville Dart)
+Tvk = NHMSYS0021144902
+StartDate = 20020910
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

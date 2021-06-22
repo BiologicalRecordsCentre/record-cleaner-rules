@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 15.062 Phyllonorycter staintoniella (Cornish Midget)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Phyllonorycter staintoniella (Cornish Midget)
+Tvk = NBNSYS0100004625
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

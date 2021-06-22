@@ -1,15 +1,12 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Theria primaria
-Description=Checks date is within known flight period of Theria primaria
-ErrorMsg=Date is outside known flight period of Theria primaria
-Tvk=NBNSYS0000006052
-DataFieldName=
-StartDate=0331
-EndDate=1201
-ReverseRule=True
-LastChanged=20120126
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.282 Theria primaria (Early Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Theria primaria (Early Moth)
+Tvk = NBNSYS0000006052
+StartDate = 0421
+EndDate = 1221
+ReverseRule = True
+LastChanged = 20210525
 [EndMetadata]
-
-         

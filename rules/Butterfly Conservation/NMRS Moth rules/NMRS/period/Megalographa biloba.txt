@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.019 Megalographa biloba (Stephens' Gem)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Megalographa biloba (Stephens' Gem)
+Tvk = NBNSYS0100003895
+StartDate = 19540719
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

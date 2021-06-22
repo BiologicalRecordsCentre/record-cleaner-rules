@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Cleora cinctaria
-Description=Checks date is within known recording period of Cleora cinctaria
-ErrorMsg=Date is outside known recording period of Cleora cinctaria
-Tvk=NHMSYS0000519018
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.263 Cleora cinctaria (Ringed Carpet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Cleora cinctaria (Ringed Carpet)
+Tvk = NHMSYS0000519018
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

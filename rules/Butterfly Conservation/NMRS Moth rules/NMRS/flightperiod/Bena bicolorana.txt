@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Bena bicolorana
-Description=Checks date is within known flight period of Bena bicolorana
-ErrorMsg=Date is outside known flight period of Bena bicolorana
-Tvk=NHMSYS0000501469
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 74.007 Bena bicolorana (Scarce Silver-lines)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Bena bicolorana (Scarce Silver-lines)
+Tvk = NHMSYS0000501469
+StartDate = 0601
+EndDate = 0821
+LastChanged = 20210525
 [EndMetadata]
-
-         

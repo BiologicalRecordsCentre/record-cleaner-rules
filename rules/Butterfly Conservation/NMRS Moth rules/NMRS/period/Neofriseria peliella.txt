@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.087 Neofriseria peliella (White-spot Groundling)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Neofriseria peliella (White-spot Groundling)
+Tvk = NHMSYS0000503366
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

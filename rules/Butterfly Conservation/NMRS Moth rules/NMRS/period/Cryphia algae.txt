@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Cryphia algae
-Description=Checks date is within known recording period of Cryphia algae
-ErrorMsg=Date is outside known recording period of Cryphia algae
-Tvk=NBNSYS0000006387
-StartDate=20000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.082 Cryphia algae (Tree-lichen Beauty)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Cryphia algae (Tree-lichen Beauty)
+Tvk = NBNSYS0000006387
+StartDate = 18590701
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

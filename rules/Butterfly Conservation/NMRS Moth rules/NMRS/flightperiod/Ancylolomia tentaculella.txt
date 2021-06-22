@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 63.113 Ancylolomia tentaculella (Scarce Striped Grass-veneer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Ancylolomia tentaculella (Scarce Striped Grass-veneer)
+Tvk = NHMSYS0000501240
+StartDate = 0701
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

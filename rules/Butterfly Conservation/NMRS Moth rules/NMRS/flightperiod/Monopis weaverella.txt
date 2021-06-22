@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 12.037 Monopis weaverella (Carrion Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Monopis weaverella (Carrion Moth)
+Tvk = NHMSYS0000503293
+StartDate = 0401
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

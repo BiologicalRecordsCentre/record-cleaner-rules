@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Rhizedra lutosa
-Description=Checks date is within known flight period of Rhizedra lutosa
-ErrorMsg=Date is outside known flight period of Rhizedra lutosa
-Tvk=NHMSYS0000504048
-DataFieldName=
-StartDate=0701
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.134 Rhizedra lutosa (Large Wainscot)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Rhizedra lutosa (Large Wainscot)
+Tvk = NHMSYS0021144629
+StartDate = 0715
+EndDate = 1115
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 65.016 Achlya flavicornis galbanus (Yellow Horned)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Achlya flavicornis galbanus (Yellow Horned)
+Tvk = NHMSYS0021143802
+StartDate = 0215
+EndDate = 0515
+LastChanged = 20210525
+[EndMetadata]

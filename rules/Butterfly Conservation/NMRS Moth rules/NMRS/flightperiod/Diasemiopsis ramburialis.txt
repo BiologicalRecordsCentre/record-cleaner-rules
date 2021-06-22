@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 63.044 Diasemiopsis ramburialis (Vagrant China-mark)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Diasemiopsis ramburialis (Vagrant China-mark)
+Tvk = NHMSYS0000502147
+StartDate = 0301
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.320 Dichrorampha alpinana (Broad-blotch Drill)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Dichrorampha alpinana (Broad-blotch Drill)
+Tvk = NHMSYS0000502160
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

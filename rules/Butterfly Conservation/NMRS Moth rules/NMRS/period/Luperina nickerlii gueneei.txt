@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.132 Luperina nickerlii gueneei (Sandhill Rustic)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Luperina nickerlii gueneei (Sandhill Rustic)
+Tvk = NHMSYS0021144623
+StartDate = 19630101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

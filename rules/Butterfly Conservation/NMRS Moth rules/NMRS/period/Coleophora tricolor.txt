@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 37.062 Coleophora tricolor (Basil-thyme Case-bearer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Coleophora tricolor (Basil-thyme Case-bearer)
+Tvk = NHMSYS0000501933
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

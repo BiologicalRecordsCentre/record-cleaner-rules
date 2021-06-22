@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Dryobotodes eremita
-Description=Checks date is within known flight period of Dryobotodes eremita
-ErrorMsg=Date is outside known flight period of Dryobotodes eremita
-Tvk=NBNSYS0000006341
-DataFieldName=
-StartDate=0701
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.225 Dryobotodes eremita (Brindled Green)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Dryobotodes eremita (Brindled Green)
+Tvk = NBNSYS0000006341
+StartDate = 0801
+EndDate = 1130
+LastChanged = 20210525
 [EndMetadata]
-
-         

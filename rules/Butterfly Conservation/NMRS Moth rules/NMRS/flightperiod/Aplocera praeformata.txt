@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Aplocera praeformata
-Description=Checks date is within known flight period of Aplocera praeformata
-ErrorMsg=Date is outside known flight period of Aplocera praeformata
-Tvk=NHMSYS0000501133
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.194 Aplocera praeformata (Purple Treble-bar)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Aplocera praeformata (Purple Treble-bar)
+Tvk = NHMSYS0021144142
+StartDate = 0601
+EndDate = 1031
+LastChanged = 20210525
 [EndMetadata]
-
-         

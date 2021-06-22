@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.068 Acleris maccana (Marbled Button)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Acleris maccana (Marbled Button)
+Tvk = NHMSYS0000500939
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

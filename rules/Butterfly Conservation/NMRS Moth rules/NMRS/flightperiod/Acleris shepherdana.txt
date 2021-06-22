@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.079 Acleris shepherdana (Meadow-sweet Button)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Acleris shepherdana (Meadow-sweet Button)
+Tvk = NHMSYS0000500945
+StartDate = 0721
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

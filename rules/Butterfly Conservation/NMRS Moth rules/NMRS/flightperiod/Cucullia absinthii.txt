@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Cucullia absinthii
-Description=Checks date is within known flight period of Cucullia absinthii
-ErrorMsg=Date is outside known flight period of Cucullia absinthii
-Tvk=NBNSYS0000006304
-DataFieldName=
-StartDate=0601
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.050 Cucullia absinthii (Wormwood)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cucullia absinthii (Wormwood)
+Tvk = NBNSYS0000006304
+StartDate = 0621
+EndDate = 0831
+LastChanged = 20210525
 [EndMetadata]
-
-         

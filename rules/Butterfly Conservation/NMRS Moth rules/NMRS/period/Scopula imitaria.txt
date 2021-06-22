@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Scopula imitaria
-Description=Checks date is within known recording period of Scopula imitaria
-ErrorMsg=Date is outside known recording period of Scopula imitaria
-Tvk=NHMSYS0000504127
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.024 Scopula imitaria (Small Blood-vein)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Scopula imitaria (Small Blood-vein)
+Tvk = NHMSYS0021143870
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Diarsia dahlii
-Description=Checks date is within known flight period of Diarsia dahlii
-ErrorMsg=Date is outside known flight period of Diarsia dahlii
-Tvk=NHMSYS0000502143
-DataFieldName=
-StartDate=0701
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.331 Diarsia dahlii (Barred Chestnut)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Diarsia dahlii (Barred Chestnut)
+Tvk = NHMSYS0021144906
+StartDate = 0701
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

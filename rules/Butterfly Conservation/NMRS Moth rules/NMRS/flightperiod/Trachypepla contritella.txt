@@ -1,0 +1,12 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 28.029 Trachypepla contritella
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Trachypepla contritella
+Tvk = NHMSYS0021238032
+StartDate = 0201
+EndDate = 1031
+ReverseRule = True
+LastChanged = 20210525
+[EndMetadata]

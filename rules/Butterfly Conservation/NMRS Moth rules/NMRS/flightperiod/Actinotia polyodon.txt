@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Actinotia polyodon
-Description=Checks date is within known flight period of Actinotia polyodon
-ErrorMsg=Date is outside known flight period of Actinotia polyodon
-Tvk=NBNSYS0000006183
-DataFieldName=
-StartDate=0401
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.111 Actinotia polyodon (Purple Cloud)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Actinotia polyodon (Purple Cloud)
+Tvk = NBNSYS0000006183
+StartDate = 0515
+EndDate = 0707
+LastChanged = 20210525
 [EndMetadata]
-
-         

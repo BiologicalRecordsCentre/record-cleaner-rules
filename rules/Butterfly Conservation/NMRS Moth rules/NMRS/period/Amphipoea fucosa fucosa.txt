@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.126 Amphipoea fucosa fucosa (Saltern Ear)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Amphipoea fucosa fucosa (Saltern Ear)
+Tvk = NHMSYS0021144617
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

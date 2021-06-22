@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Meganephria bimaculosa
-Description=Checks date is within known recording period of Meganephria bimaculosa
-ErrorMsg=Date is outside known recording period of Meganephria bimaculosa
-Tvk=MM0001Z100H6VVQ1
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.067 Meganephria bimaculosa (Double-spot Brocade)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Meganephria bimaculosa (Double-spot Brocade)
+Tvk = MM0001Z100H6VVQ1
+StartDate = 18150701
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

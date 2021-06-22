@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 9.006 Lampronia fuscatella (Scarce Bright)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Lampronia fuscatella (Scarce Bright)
+Tvk = NHMSYS0000502998
+StartDate = 0501
+EndDate = 0630
+LastChanged = 20210525
+[EndMetadata]

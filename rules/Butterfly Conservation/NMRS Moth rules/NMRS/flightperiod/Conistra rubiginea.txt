@@ -1,15 +1,12 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Conistra rubiginea
-Description=Checks date is within known flight period of Conistra rubiginea
-ErrorMsg=Date is outside known flight period of Conistra rubiginea
-Tvk=NHMSYS0000501971
-DataFieldName=
-StartDate=0531
-EndDate=0901
-ReverseRule=True
-LastChanged=20120126
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.197 Conistra rubiginea (Dotted Chestnut)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Conistra rubiginea (Dotted Chestnut)
+Tvk = NHMSYS0021144720
+StartDate = 0521
+EndDate = 0921
+ReverseRule = True
+LastChanged = 20210525
 [EndMetadata]
-
-         

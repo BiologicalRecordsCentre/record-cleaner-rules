@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Eulithis populata
-Description=Checks date is within known flight period of Eulithis populata
-ErrorMsg=Date is outside known flight period of Eulithis populata
-Tvk=NBNSYS0000005836
-DataFieldName=
-StartDate=0601
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.091 Eulithis populata (Northern Spinach)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eulithis populata (Northern Spinach)
+Tvk = NBNSYS0000005836
+StartDate = 0601
+EndDate = 1007
+LastChanged = 20210525
 [EndMetadata]
-
-         

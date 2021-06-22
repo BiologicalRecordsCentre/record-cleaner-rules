@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 65.011 Tethea or hibernica (Poplar Lutestring)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Tethea or hibernica (Poplar Lutestring)
+Tvk = NHMSYS0021143796
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

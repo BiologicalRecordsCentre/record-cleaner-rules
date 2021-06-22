@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 63.004 Pyrausta sanguinalis (Scarce Crimson & Gold)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pyrausta sanguinalis (Scarce Crimson & Gold)
+Tvk = NBNSYS0000026894
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

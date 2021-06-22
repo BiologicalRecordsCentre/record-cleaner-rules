@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Xestia ditrapezium
-Description=Checks date is within known flight period of Xestia ditrapezium
-ErrorMsg=Date is outside known flight period of Xestia ditrapezium
-Tvk=NHMSYS0000504670
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.360 Xestia ditrapezium (Triple-spotted Clay)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Xestia ditrapezium (Triple-spotted Clay)
+Tvk = NHMSYS0021144942
+StartDate = 0601
+EndDate = 0831
+LastChanged = 20210525
 [EndMetadata]
-
-         

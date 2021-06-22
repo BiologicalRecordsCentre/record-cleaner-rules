@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 15.032 Parornix finitimella (Pointed Slender)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Parornix finitimella (Pointed Slender)
+Tvk = NHMSYS0000503647
+StartDate = 0401
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

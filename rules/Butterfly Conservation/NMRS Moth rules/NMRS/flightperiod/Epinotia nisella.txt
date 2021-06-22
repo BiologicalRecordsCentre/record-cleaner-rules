@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.255 Epinotia nisella (Grey Poplar Bell)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Epinotia nisella (Grey Poplar Bell)
+Tvk = NHMSYS0000502442
+StartDate = 0601
+EndDate = 1130
+LastChanged = 20210525
+[EndMetadata]

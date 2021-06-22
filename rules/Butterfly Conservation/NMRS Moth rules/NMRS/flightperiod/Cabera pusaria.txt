@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Cabera pusaria
-Description=Checks date is within known flight period of Cabera pusaria
-ErrorMsg=Date is outside known flight period of Cabera pusaria
-Tvk=NBNSYS0000006047
-DataFieldName=
-StartDate=0401
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.277 Cabera pusaria (Common White Wave)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cabera pusaria (Common White Wave)
+Tvk = NBNSYS0000006047
+StartDate = 0421
+EndDate = 0907
+LastChanged = 20210525
 [EndMetadata]
-
-         

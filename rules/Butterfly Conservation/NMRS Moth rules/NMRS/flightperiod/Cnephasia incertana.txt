@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.049 Cnephasia incertana (Light Grey Tortrix)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cnephasia incertana (Light Grey Tortrix)
+Tvk = NHMSYS0000501333
+StartDate = 0507
+EndDate = 0821
+LastChanged = 20210525
+[EndMetadata]

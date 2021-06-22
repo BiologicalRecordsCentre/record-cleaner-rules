@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Acronicta psi or tridens
-Description=Checks date is within known flight period of Acronicta psi or tridens
-ErrorMsg=Date is outside known flight period of Acronicta psi or tridens
-Tvk=NHMSYS0001703742
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+Shortname = 73.03x Acronicta psi/tridens
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Acronicta psi/tridens
+Tvk = NHMSYS0001703742
+StartDate = 0415
+EndDate = 0915
+LastChanged = 20210525
 [EndMetadata]
-
-         

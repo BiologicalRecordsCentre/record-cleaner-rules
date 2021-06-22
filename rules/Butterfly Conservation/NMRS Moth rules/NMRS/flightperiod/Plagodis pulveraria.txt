@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Plagodis pulveraria
-Description=Checks date is within known flight period of Plagodis pulveraria
-ErrorMsg=Date is outside known flight period of Plagodis pulveraria
-Tvk=NBNSYS0000005994
-DataFieldName=
-StartDate=0401
-EndDate=0731
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.223 Plagodis pulveraria (Barred Umber)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Plagodis pulveraria (Barred Umber)
+Tvk = NBNSYS0000005994
+StartDate = 0415
+EndDate = 0815
+LastChanged = 20210525
 [EndMetadata]
-
-         

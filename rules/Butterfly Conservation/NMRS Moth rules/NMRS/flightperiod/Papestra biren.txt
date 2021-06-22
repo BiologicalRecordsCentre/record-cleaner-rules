@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Papestra biren
-Description=Checks date is within known flight period of Papestra biren
-ErrorMsg=Date is outside known flight period of Papestra biren
-Tvk=NBNSYS0000006253
-DataFieldName=
-StartDate=0401
-EndDate=0731
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.272 Papestra biren (Glaucous Shears)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Papestra biren (Glaucous Shears)
+Tvk = NBNSYS0000006253
+StartDate = 0415
+EndDate = 0715
+LastChanged = 20210525
 [EndMetadata]
-
-         

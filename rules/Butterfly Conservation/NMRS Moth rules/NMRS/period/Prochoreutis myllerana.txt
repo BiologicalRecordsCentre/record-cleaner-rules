@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 48.002 Prochoreutis myllerana (Small Metal-mark)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Prochoreutis myllerana (Small Metal-mark)
+Tvk = NBNSYS0100004871
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

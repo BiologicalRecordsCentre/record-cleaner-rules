@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 66.006 Lasiocampa trifolii flava (Pale Grass Eggar)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Lasiocampa trifolii flava (Pale Grass Eggar)
+Tvk = NHMSYS0021143816
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

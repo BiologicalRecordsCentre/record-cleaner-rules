@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Catocala fraxini
-Description=Checks date is within known flight period of Catocala fraxini
-ErrorMsg=Date is outside known flight period of Catocala fraxini
-Tvk=NBNSYS0000006556
-DataFieldName=
-StartDate=0801
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.076 Catocala fraxini (Clifden Nonpareil)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Catocala fraxini (Clifden Nonpareil)
+Tvk = NBNSYS0000006556
+StartDate = 0807
+EndDate = 1107
+LastChanged = 20210525
 [EndMetadata]
-
-         

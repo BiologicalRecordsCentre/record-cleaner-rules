@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 16.015 Swammerdamia caesiella (Birch Ermine)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Swammerdamia caesiella (Birch Ermine)
+Tvk = NHMSYS0000504410
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.023 Plusia putnami gracilis (Lempke's Gold Spot)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Plusia putnami gracilis (Lempke's Gold Spot)
+Tvk = NHMSYS0021144481
+StartDate = 0607
+EndDate = 0915
+LastChanged = 20210525
+[EndMetadata]

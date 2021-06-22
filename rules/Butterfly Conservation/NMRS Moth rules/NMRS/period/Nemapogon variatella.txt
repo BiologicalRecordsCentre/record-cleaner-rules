@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 12.020 Nemapogon variatella (Pale Corn Clothes Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Nemapogon variatella (Pale Corn Clothes Moth)
+Tvk = NHMSYS0000503341
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

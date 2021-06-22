@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Eupithecia millefoliata
-Description=Checks date is within known recording period of Eupithecia millefoliata
-ErrorMsg=Date is outside known recording period of Eupithecia millefoliata
-Tvk=NHMSYS0000502610
-StartDate=19330101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.186 Eupithecia millefoliata (Yarrow Pug)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eupithecia millefoliata (Yarrow Pug)
+Tvk = NHMSYS0000502610
+StartDate = 19330101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Idaea humiliata
-Description=Checks date is within known recording period of Idaea humiliata
-ErrorMsg=Date is outside known recording period of Idaea humiliata
-Tvk=NBNSYS0000005779
-StartDate=17000101
-EndDate=19311231
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.007 Idaea humiliata (Isle of Wight Wave)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Idaea humiliata (Isle of Wight Wave)
+Tvk = NBNSYS0000005779
+StartDate = 17000101
+EndDate = 19311231
+LastChanged = 20210521
 [EndMetadata]
-
-         

@@ -1,0 +1,12 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 32.009 Agonopterix purpurea (Small Purple Flat-body)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Agonopterix purpurea (Small Purple Flat-body)
+Tvk = NHMSYS0000501069
+StartDate = 0701
+EndDate = 0731
+ReverseRule = True
+LastChanged = 20210525
+[EndMetadata]

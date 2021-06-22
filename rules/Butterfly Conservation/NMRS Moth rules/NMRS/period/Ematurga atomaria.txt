@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Ematurga atomaria
-Description=Checks date is within known recording period of Ematurga atomaria
-ErrorMsg=Date is outside known recording period of Ematurga atomaria
-Tvk=NBNSYS0000006044
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.275 Ematurga atomaria (Common Heath)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Ematurga atomaria (Common Heath)
+Tvk = NBNSYS0000006044
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Eilema caniola
-Description=Checks date is within known recording period of Eilema caniola
-ErrorMsg=Date is outside known recording period of Eilema caniola
-Tvk=NHMSYS0000502288
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.047 Eilema caniola (Hoary Footman)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eilema caniola (Hoary Footman)
+Tvk = NHMSYS0021144420
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

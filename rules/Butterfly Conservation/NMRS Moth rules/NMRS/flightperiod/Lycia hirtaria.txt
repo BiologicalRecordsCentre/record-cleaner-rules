@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Lycia hirtaria
-Description=Checks date is within known flight period of Lycia hirtaria
-ErrorMsg=Date is outside known flight period of Lycia hirtaria
-Tvk=NBNSYS0000006018
-DataFieldName=
-StartDate=0201
-EndDate=0531
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.248 Lycia hirtaria (Brindled Beauty)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Lycia hirtaria (Brindled Beauty)
+Tvk = NBNSYS0000006018
+StartDate = 0215
+EndDate = 0607
+LastChanged = 20210525
 [EndMetadata]
-
-         

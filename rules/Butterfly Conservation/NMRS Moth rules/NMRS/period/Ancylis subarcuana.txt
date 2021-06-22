@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.208 Ancylis subarcuana (Creeping Willow Roller)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Ancylis subarcuana (Creeping Willow Roller)
+Tvk = NHMSYS0000501104
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

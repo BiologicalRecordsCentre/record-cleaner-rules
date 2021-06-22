@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Hoplodrina blanda
-Description=Checks date is within known flight period of Hoplodrina blanda
-ErrorMsg=Date is outside known flight period of Hoplodrina blanda
-Tvk=NHMSYS0000502877
-DataFieldName=
-StartDate=0501
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.097 Hoplodrina blanda (Rustic)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hoplodrina blanda (Rustic)
+Tvk = NHMSYS0021144580
+StartDate = 0521
+EndDate = 1031
+LastChanged = 20210525
 [EndMetadata]
-
-         

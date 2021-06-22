@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Aporophyla lutulenta
-Description=Checks date is within known flight period of Aporophyla lutulenta
-ErrorMsg=Date is outside known flight period of Aporophyla lutulenta
-Tvk=NHMSYS0000501150
-DataFieldName=
-StartDate=0801
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.231 Aporophyla lutulenta (Deep-brown Dart)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Aporophyla lutulenta (Deep-brown Dart)
+Tvk = NHMSYS0021144770
+StartDate = 0815
+EndDate = 1031
+LastChanged = 20210525
 [EndMetadata]
-
-         

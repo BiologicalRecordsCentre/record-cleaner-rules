@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Drymonia dodonaea
-Description=Checks date is within known recording period of Drymonia dodonaea
-ErrorMsg=Date is outside known recording period of Drymonia dodonaea
-Tvk=NHMSYS0000502224
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 71.010 Drymonia dodonaea (Marbled Brown)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Drymonia dodonaea (Marbled Brown)
+Tvk = NHMSYS0021144344
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

@@ -1,0 +1,12 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 32.031 Agonopterix alstromeriana (Brown-spot Flat-body)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Agonopterix alstromeriana (Brown-spot Flat-body)
+Tvk = NHMSYS0000501042
+StartDate = 0601
+EndDate = 0630
+ReverseRule = True
+LastChanged = 20210525
+[EndMetadata]

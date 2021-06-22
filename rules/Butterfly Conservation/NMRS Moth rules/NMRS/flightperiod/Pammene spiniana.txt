@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.373 Pammene spiniana (Triangle-marked Piercer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Pammene spiniana (Triangle-marked Piercer)
+Tvk = NHMSYS0021143390
+StartDate = 0701
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

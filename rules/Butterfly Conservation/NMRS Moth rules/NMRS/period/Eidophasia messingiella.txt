@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 18.007 Eidophasia messingiella (Bitter-cress Diamond-back)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eidophasia messingiella (Bitter-cress Diamond-back)
+Tvk = NHMSYS0000502286
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

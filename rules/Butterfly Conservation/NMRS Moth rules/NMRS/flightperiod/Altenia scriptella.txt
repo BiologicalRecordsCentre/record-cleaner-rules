@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.155 Altenia scriptella (Horse-shoe Groundling)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Altenia scriptella (Horse-shoe Groundling)
+Tvk = NBNSYS0100001488
+StartDate = 0601
+EndDate = 0807
+LastChanged = 20210525
+[EndMetadata]

@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Conistra rubiginea
-Description=Checks date is within known recording period of Conistra rubiginea
-ErrorMsg=Date is outside known recording period of Conistra rubiginea
-Tvk=NHMSYS0000501971
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.197 Conistra rubiginea (Dotted Chestnut)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Conistra rubiginea (Dotted Chestnut)
+Tvk = NHMSYS0021144720
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

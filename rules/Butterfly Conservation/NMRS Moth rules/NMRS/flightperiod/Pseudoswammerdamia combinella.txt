@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 16.014 Pseudoswammerdamia combinella (Copper-tipped Ermine)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Pseudoswammerdamia combinella (Copper-tipped Ermine)
+Tvk = NHMSYS0000503952
+StartDate = 0401
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

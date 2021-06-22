@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.345 Lathronympha strigana (Red Piercer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Lathronympha strigana (Red Piercer)
+Tvk = NHMSYS0000503025
+StartDate = 0521
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

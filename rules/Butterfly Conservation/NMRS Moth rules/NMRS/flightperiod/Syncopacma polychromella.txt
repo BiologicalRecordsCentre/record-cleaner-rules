@@ -1,0 +1,12 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.009 Syncopacma polychromella (African Sober)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Syncopacma polychromella (African Sober)
+Tvk = NHMSYS0000504431
+StartDate = 0801
+EndDate = 1130
+ReverseRule = True
+LastChanged = 20210525
+[EndMetadata]

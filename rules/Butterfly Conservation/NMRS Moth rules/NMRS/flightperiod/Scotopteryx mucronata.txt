@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Scotopteryx mucronata
-Description=Checks date is within known flight period of Scotopteryx mucronata
-ErrorMsg=Date is outside known flight period of Scotopteryx mucronata
-Tvk=NBNSYS0000005809
-DataFieldName=
-StartDate=0401
-EndDate=0731
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.040 Scotopteryx mucronata (Lead Belle)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Scotopteryx mucronata (Lead Belle)
+Tvk = NBNSYS0000005809
+StartDate = 0501
+EndDate = 0731
+LastChanged = 20210525
 [EndMetadata]
-
-         

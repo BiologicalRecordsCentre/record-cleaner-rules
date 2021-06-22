@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.185 Eupithecia denotata denotata (Campanula Pug)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eupithecia denotata denotata (Campanula Pug)
+Tvk = NHMSYS0021144126
+StartDate = 0515
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

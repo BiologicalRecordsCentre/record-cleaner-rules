@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Acasis viretata
-Description=Checks date is within known recording period of Acasis viretata
-ErrorMsg=Date is outside known recording period of Acasis viretata
-Tvk=NHMSYS0000500908
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.200 Acasis viretata (Yellow-barred Brindle)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Acasis viretata (Yellow-barred Brindle)
+Tvk = NHMSYS0021144153
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

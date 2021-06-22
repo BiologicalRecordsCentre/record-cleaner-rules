@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 5.003 Pseudopostega auritella (Fen Bent-wing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pseudopostega auritella (Fen Bent-wing)
+Tvk = NHMSYS0021142154
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Ematurga atomaria
-Description=Checks date is within known flight period of Ematurga atomaria
-ErrorMsg=Date is outside known flight period of Ematurga atomaria
-Tvk=NBNSYS0000006044
-DataFieldName=
-StartDate=0401
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.275 Ematurga atomaria (Common Heath)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Ematurga atomaria (Common Heath)
+Tvk = NBNSYS0000006044
+StartDate = 0321
+EndDate = 0807
+LastChanged = 20210525
 [EndMetadata]
-
-         

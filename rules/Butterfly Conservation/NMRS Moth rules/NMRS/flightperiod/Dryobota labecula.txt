@@ -1,14 +1,12 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Dryobota labecula
-Description=Checks date is within known flight period of Dryobota labecula
-ErrorMsg=Date is outside known flight period of Dryobota labecula
-Tvk=MM0001Z1Q00021ZZ
-DataFieldName=
-StartDate=0901
-EndDate=0131
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.223 Dryobota labecula (Oak Rustic)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Dryobota labecula (Oak Rustic)
+Tvk = MM0001Z1Q00021ZZ
+StartDate = 0107
+EndDate = 0921
+ReverseRule = True
+LastChanged = 20210525
 [EndMetadata]
-
-         

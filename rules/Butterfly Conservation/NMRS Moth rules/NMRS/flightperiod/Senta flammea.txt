@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.305 Senta flammea (Flame Wainscot)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Senta flammea (Flame Wainscot)
+Tvk = NBNSYS0000006302
+StartDate = 0421
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

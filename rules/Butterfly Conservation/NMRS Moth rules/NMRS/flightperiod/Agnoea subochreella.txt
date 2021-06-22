@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 30.002 Agnoea subochreella (Straw-coloured Tubic)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Agnoea subochreella (Straw-coloured Tubic)
+Tvk = NHMSYS0021166481
+StartDate = 0501
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

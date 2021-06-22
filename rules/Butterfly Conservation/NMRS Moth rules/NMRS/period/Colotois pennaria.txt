@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Colotois pennaria
-Description=Checks date is within known recording period of Colotois pennaria
-ErrorMsg=Date is outside known recording period of Colotois pennaria
-Tvk=NHMSYS0000501963
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.244 Colotois pennaria (Feathered Thorn)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Colotois pennaria (Feathered Thorn)
+Tvk = NHMSYS0000501963
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

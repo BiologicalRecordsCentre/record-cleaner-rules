@@ -1,15 +1,12 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Chloroclysta siterata
-Description=Checks date is within known flight period of Chloroclysta siterata
-ErrorMsg=Date is outside known flight period of Chloroclysta siterata
-Tvk=NBNSYS0000005840
-DataFieldName=
-StartDate=0630
-EndDate=0801
-ReverseRule=True
-LastChanged=20120126
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.095 Chloroclysta siterata (Red-Green Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Chloroclysta siterata (Red-Green Carpet)
+Tvk = NBNSYS0000005840
+StartDate = 0701
+EndDate = 0731
+ReverseRule = True
+LastChanged = 20210525
 [EndMetadata]
-
-         

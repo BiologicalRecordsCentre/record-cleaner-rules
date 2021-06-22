@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 15.021 Leucospilapteryx omissella (Mugwort Slender)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Leucospilapteryx omissella (Mugwort Slender)
+Tvk = NHMSYS0000503055
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

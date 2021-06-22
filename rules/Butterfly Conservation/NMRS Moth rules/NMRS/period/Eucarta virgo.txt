@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Eucarta virgo
-Description=Checks date is within known recording period of Eucarta virgo
-ErrorMsg=Date is outside known recording period of Eucarta virgo
-Tvk=NHMSYS0020758196
-StartDate=20060629
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.079 Eucarta virgo (Silvery Gem)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eucarta virgo (Silvery Gem)
+Tvk = NHMSYS0020758196
+StartDate = 20060629
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

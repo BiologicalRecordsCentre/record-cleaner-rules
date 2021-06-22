@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Orgyia antiqua
-Description=Checks date is within known flight period of Orgyia antiqua
-ErrorMsg=Date is outside known flight period of Orgyia antiqua
-Tvk=NBNSYS0000006112
-DataFieldName=
-StartDate=0601
-EndDate=1231
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.017 Orgyia antiqua (Vapourer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Orgyia antiqua (Vapourer)
+Tvk = NBNSYS0000006112
+StartDate = 0601
+EndDate = 1115
+LastChanged = 20210525
 [EndMetadata]
-
-         

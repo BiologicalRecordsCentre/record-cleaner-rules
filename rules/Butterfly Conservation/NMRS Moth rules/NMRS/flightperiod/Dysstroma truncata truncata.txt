@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.097 Dysstroma truncata truncata (Common Marbled Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Dysstroma truncata truncata (Common Marbled Carpet)
+Tvk = NHMSYS0021143993
+StartDate = 0501
+EndDate = 1130
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.059 Metzneria aprilella (Brilliant Neb)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Metzneria aprilella (Brilliant Neb)
+Tvk = NHMSYS0000503222
+StartDate = 0601
+EndDate = 0807
+LastChanged = 20210525
+[EndMetadata]

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Euclidia glyphica
-Description=Checks date is within known flight period of Euclidia glyphica
-ErrorMsg=Date is outside known flight period of Euclidia glyphica
-Tvk=MM0001Z100DH5JN1
-DataFieldName=
-StartDate=0401
-EndDate=0731
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.083 Euclidia glyphica (Burnet Companion)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Euclidia glyphica (Burnet Companion)
+Tvk = MM0001Z100DH5JN1
+StartDate = 0415
+EndDate = 0721
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.309 Dichrorampha plumbana (Lead-coloured Drill)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Dichrorampha plumbana (Lead-coloured Drill)
+Tvk = NHMSYS0000502167
+StartDate = 0501
+EndDate = 0707
+LastChanged = 20210525
+[EndMetadata]

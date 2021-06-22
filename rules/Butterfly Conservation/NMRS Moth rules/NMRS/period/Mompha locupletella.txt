@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 40.013 Mompha locupletella (Red Mompha)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Mompha locupletella (Red Mompha)
+Tvk = NHMSYS0021142866
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

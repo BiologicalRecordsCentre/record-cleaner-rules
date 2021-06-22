@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.021 Ptycholomoides aeriferana (Yellow Larch Tortrix)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Ptycholomoides aeriferana (Yellow Larch Tortrix)
+Tvk = NHMSYS0021143011
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

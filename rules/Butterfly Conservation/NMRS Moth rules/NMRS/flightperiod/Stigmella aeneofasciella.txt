@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 4.049 Stigmella aeneofasciella (Brassy Pigmy)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Stigmella aeneofasciella (Brassy Pigmy)
+Tvk = NHMSYS0000504327
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

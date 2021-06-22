@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Notodonta tritophus
-Description=Checks date is within known recording period of Notodonta tritophus
-ErrorMsg=Date is outside known recording period of Notodonta tritophus
-Tvk=NHMSYS0000503409
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 71.015 Notodonta tritophus (Three-humped Prominent)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Notodonta tritophus (Three-humped Prominent)
+Tvk = NBNSYS0100004290
+StartDate = 18420101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

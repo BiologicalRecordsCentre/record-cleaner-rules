@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.103 Gelechia cuneatella (Long-winged Groundling)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Gelechia cuneatella (Long-winged Groundling)
+Tvk = NHMSYS0000502705
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Apamea anceps
-Description=Checks date is within known recording period of Apamea anceps
-ErrorMsg=Date is outside known recording period of Apamea anceps
-Tvk=NHMSYS0000501277
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.157 Apamea anceps (Large Nutmeg)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Apamea anceps (Large Nutmeg)
+Tvk = NHMSYS0021144667
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Coenophila subrosea
-Description=Checks date is within known recording period of Coenophila subrosea
-ErrorMsg=Date is outside known recording period of Coenophila subrosea
-Tvk=NHMSYS0000501811
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.364 Coenophila subrosea (Rosy Marsh Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Coenophila subrosea (Rosy Marsh Moth)
+Tvk = NHMSYS0000501811
+StartDate = 19670101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

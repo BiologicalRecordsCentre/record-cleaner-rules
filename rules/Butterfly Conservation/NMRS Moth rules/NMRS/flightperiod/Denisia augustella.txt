@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 28.006 Denisia augustella (Surrey Tubic)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Denisia augustella (Surrey Tubic)
+Tvk = NBNSYS0100002771
+StartDate = 0415
+EndDate = 0621
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.058 Cucullia verbasci (Mullein)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cucullia verbasci (Mullein)
+Tvk = NBNSYS0000006314
+StartDate = 0321
+EndDate = 0707
+LastChanged = 20210525
+[EndMetadata]

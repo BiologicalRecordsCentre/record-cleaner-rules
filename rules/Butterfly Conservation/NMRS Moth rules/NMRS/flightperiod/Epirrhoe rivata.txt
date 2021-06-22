@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Epirrhoe rivata
-Description=Checks date is within known flight period of Epirrhoe rivata
-ErrorMsg=Date is outside known flight period of Epirrhoe rivata
-Tvk=NHMSYS0000502466
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.062 Epirrhoe rivata (Wood Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Epirrhoe rivata (Wood Carpet)
+Tvk = NHMSYS0021143938
+StartDate = 0401
+EndDate = 0915
+LastChanged = 20210525
 [EndMetadata]
-
-         

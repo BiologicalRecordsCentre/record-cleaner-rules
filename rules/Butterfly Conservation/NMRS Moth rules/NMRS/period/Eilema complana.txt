@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Eilema complana
-Description=Checks date is within known recording period of Eilema complana
-ErrorMsg=Date is outside known recording period of Eilema complana
-Tvk=NBNSYS0000006133
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.046 Eilema complana (Scarce Footman)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eilema complana (Scarce Footman)
+Tvk = NBNSYS0000006133
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

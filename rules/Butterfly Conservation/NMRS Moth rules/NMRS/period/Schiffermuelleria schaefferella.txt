@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 28.002 Schiffermuelleria schaefferella (Brown-tip Tubic)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Schiffermuelleria schaefferella (Brown-tip Tubic)
+Tvk = NHMSYS0021142536
+StartDate = 20120528
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

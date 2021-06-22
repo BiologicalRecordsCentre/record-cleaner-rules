@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Apamea unanimis
-Description=Checks date is within known flight period of Apamea unanimis
-ErrorMsg=Date is outside known flight period of Apamea unanimis
-Tvk=NBNSYS0000006430
-DataFieldName=
-StartDate=0401
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.159 Apamea unanimis (Small Clouded Brindle)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Apamea unanimis (Small Clouded Brindle)
+Tvk = NHMSYS0021144672
+StartDate = 0515
+EndDate = 0815
+LastChanged = 20210525
 [EndMetadata]
-
-         

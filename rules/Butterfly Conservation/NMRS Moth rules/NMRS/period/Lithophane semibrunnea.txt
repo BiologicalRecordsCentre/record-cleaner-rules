@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Lithophane semibrunnea
-Description=Checks date is within known recording period of Lithophane semibrunnea
-ErrorMsg=Date is outside known recording period of Lithophane semibrunnea
-Tvk=NBNSYS0000006328
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.200 Lithophane semibrunnea (Tawny Pinion)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Lithophane semibrunnea (Tawny Pinion)
+Tvk = NBNSYS0000006328
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 39.006 Chrysoclista lathamella
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Chrysoclista lathamella
+Tvk = NBNSYS0100002419
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

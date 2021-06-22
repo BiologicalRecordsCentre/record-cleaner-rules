@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Biston strataria
-Description=Checks date is within known flight period of Biston strataria
-ErrorMsg=Date is outside known flight period of Biston strataria
-Tvk=NBNSYS0000006021
-DataFieldName=
-StartDate=0101
-EndDate=0531
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.251 Biston strataria (Oak Beauty)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Biston strataria (Oak Beauty)
+Tvk = NBNSYS0000006021
+StartDate = 0121
+EndDate = 0507
+LastChanged = 20210525
 [EndMetadata]
-
-         

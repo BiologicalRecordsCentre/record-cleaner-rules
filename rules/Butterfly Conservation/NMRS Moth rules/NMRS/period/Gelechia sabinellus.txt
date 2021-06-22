@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.100 Gelechia sabinellus (Juniper Groundling)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Gelechia sabinellus (Juniper Groundling)
+Tvk = NBNSYS0100003245
+StartDate = 19710101
+EndDate = 19781231
+LastChanged = 20210521
+[EndMetadata]

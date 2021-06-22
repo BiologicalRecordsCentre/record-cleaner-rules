@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 45.006 Platyptilia isodactylus (Hoary Plume)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Platyptilia isodactylus (Hoary Plume)
+Tvk = NHMSYS0000503853
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

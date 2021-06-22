@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Cidaria fulvata
-Description=Checks date is within known recording period of Cidaria fulvata
-ErrorMsg=Date is outside known recording period of Cidaria fulvata
-Tvk=NBNSYS0000005845
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.085 Cidaria fulvata (Barred Yellow)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Cidaria fulvata (Barred Yellow)
+Tvk = NBNSYS0000005845
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Eupithecia centaureata
-Description=Checks date is within known flight period of Eupithecia centaureata
-ErrorMsg=Date is outside known flight period of Eupithecia centaureata
-Tvk=NHMSYS0000502592
-DataFieldName=
-StartDate=0301
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.173 Eupithecia centaureata (Lime-speck Pug)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eupithecia centaureata (Lime-speck Pug)
+Tvk = NHMSYS0021144104
+StartDate = 0415
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

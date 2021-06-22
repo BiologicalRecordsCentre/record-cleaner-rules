@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Spaelotis ravida
-Description=Checks date is within known recording period of Spaelotis ravida
-ErrorMsg=Date is outside known recording period of Spaelotis ravida
-Tvk=NHMSYS0000504264
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.349 Spaelotis ravida (Stout Dart)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Spaelotis ravida (Stout Dart)
+Tvk = NHMSYS0021144929
+StartDate = 17000101
+EndDate = 19991231
+LastChanged = 20210521
 [EndMetadata]
-
-         

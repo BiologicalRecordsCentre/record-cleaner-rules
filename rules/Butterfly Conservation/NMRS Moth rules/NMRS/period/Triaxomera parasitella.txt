@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 12.012 Triaxomera parasitella (Large Brindled Clothes Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Triaxomera parasitella (Large Brindled Clothes Moth)
+Tvk = NHMSYS0000504570
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

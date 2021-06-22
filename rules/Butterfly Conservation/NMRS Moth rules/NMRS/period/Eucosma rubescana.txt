@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.271 Eucosma rubescana (Pale Saltern Bell)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eucosma rubescana (Pale Saltern Bell)
+Tvk = NHMSYS0021143292
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

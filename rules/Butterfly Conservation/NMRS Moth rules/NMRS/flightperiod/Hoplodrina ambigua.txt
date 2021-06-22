@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Hoplodrina ambigua
-Description=Checks date is within known flight period of Hoplodrina ambigua
-ErrorMsg=Date is outside known flight period of Hoplodrina ambigua
-Tvk=NHMSYS0000502876
-DataFieldName=
-StartDate=0401
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.099 Hoplodrina ambigua (Vine's Rustic)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hoplodrina ambigua (Vine's Rustic)
+Tvk = NHMSYS0021144582
+StartDate = 0415
+EndDate = 1115
+LastChanged = 20210525
 [EndMetadata]
-
-         

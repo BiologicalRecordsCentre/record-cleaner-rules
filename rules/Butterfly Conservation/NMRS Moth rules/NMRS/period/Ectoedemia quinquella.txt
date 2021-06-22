@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 4.087 Ectoedemia quinquella (Five-spot Pigmy)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Ectoedemia quinquella (Five-spot Pigmy)
+Tvk = NHMSYS0000502276
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

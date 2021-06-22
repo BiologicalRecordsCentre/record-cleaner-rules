@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Archiearis notha
-Description=Checks date is within known flight period of Archiearis notha
-ErrorMsg=Date is outside known flight period of Archiearis notha
-Tvk=NHMSYS0000501171
-DataFieldName=
-StartDate=0201
-EndDate=0531
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.204 Archiearis notha (Light Orange Underwing)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Archiearis notha (Light Orange Underwing)
+Tvk = NHMSYS0021144157
+StartDate = 0315
+EndDate = 0515
+LastChanged = 20210525
 [EndMetadata]
-
-         

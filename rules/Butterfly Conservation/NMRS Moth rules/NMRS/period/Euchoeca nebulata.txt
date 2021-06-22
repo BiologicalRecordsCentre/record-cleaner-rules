@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Euchoeca nebulata
-Description=Checks date is within known recording period of Euchoeca nebulata
-ErrorMsg=Date is outside known recording period of Euchoeca nebulata
-Tvk=NBNSYS0000005965
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.112 Euchoeca nebulata (Dingy Shell)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Euchoeca nebulata (Dingy Shell)
+Tvk = NBNSYS0000005965
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

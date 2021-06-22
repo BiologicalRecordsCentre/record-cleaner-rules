@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Pseudoips prasinana
-Description=Checks date is within known flight period of Pseudoips prasinana
-ErrorMsg=Date is outside known flight period of Pseudoips prasinana
-Tvk=NHMSYS0000517403
-DataFieldName=
-StartDate=0501
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 74.008 Pseudoips prasinana (Green Silver-lines)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Pseudoips prasinana (Green Silver-lines)
+Tvk = NHMSYS0000517403
+StartDate = 0501
+EndDate = 0815
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 4.074 Ectoedemia sericopeza (Norway-maple Pigmy)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Ectoedemia sericopeza (Norway-maple Pigmy)
+Tvk = NBNSYS0100002916
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

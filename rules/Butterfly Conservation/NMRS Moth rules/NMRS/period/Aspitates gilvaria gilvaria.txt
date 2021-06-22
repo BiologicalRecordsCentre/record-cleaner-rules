@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.293 Aspitates gilvaria gilvaria (Straw Belle)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Aspitates gilvaria gilvaria (Straw Belle)
+Tvk = NHMSYS0021144301
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

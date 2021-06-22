@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 4.025 Stigmella nylandriella (Common Rowan Pigmy)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Stigmella nylandriella (Common Rowan Pigmy)
+Tvk = NHMSYS0000504366
+StartDate = 0501
+EndDate = 0630
+LastChanged = 20210525
+[EndMetadata]

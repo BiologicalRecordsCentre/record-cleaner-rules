@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Lampropteryx otregiata
-Description=Checks date is within known flight period of Lampropteryx otregiata
-ErrorMsg=Date is outside known flight period of Lampropteryx otregiata
-Tvk=NBNSYS0000005831
-DataFieldName=
-StartDate=0401
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.104 Lampropteryx otregiata (Devon Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Lampropteryx otregiata (Devon Carpet)
+Tvk = NBNSYS0000005831
+StartDate = 0415
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

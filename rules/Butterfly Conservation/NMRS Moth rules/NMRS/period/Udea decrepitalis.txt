@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 63.036 Udea decrepitalis (Scotch Pearl)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Udea decrepitalis (Scotch Pearl)
+Tvk = NHMSYS0000504608
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

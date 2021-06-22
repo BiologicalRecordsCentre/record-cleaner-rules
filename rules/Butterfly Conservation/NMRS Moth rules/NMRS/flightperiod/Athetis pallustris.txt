@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Athetis pallustris
-Description=Checks date is within known flight period of Athetis pallustris
-ErrorMsg=Date is outside known flight period of Athetis pallustris
-Tvk=NHMSYS0000501421
-DataFieldName=
-StartDate=0401
-EndDate=0731
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.103 Athetis pallustris (Marsh Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Athetis pallustris (Marsh Moth)
+Tvk = NHMSYS0021144588
+StartDate = 0515
+EndDate = 0615
+LastChanged = 20210525
 [EndMetadata]
-
-         

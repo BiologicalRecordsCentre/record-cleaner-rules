@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Hydraecia micacea
-Description=Checks date is within known recording period of Hydraecia micacea
-ErrorMsg=Date is outside known recording period of Hydraecia micacea
-Tvk=NBNSYS0000006466
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.123 Hydraecia micacea (Rosy Rustic)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Hydraecia micacea (Rosy Rustic)
+Tvk = NBNSYS0000006466
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

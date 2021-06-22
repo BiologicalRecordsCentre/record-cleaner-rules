@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Pasiphila debiliata
-Description=Checks date is within known flight period of Pasiphila debiliata
-ErrorMsg=Date is outside known flight period of Pasiphila debiliata
-Tvk=NBNSYS0100004489
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.145 Pasiphila debiliata (Bilberry Pug)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Pasiphila debiliata (Bilberry Pug)
+Tvk = NHMSYS0021144071
+StartDate = 0521
+EndDate = 0821
+LastChanged = 20210525
 [EndMetadata]
-
-         

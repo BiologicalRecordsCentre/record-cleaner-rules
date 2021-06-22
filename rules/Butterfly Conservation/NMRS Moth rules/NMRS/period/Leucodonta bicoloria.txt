@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Leucodonta bicoloria
-Description=Checks date is within known recording period of Leucodonta bicoloria
-ErrorMsg=Date is outside known recording period of Leucodonta bicoloria
-Tvk=NHMSYS0000503044
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 71.019 Leucodonta bicoloria (White Prominent)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Leucodonta bicoloria (White Prominent)
+Tvk = NHMSYS0021144353
+StartDate = 17000101
+EndDate = 19381231
+LastChanged = 20210521
 [EndMetadata]
-
-         

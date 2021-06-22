@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 62.009 Elegia fallax (Channel Island Knot-horn)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Elegia fallax (Channel Island Knot-horn)
+Tvk = NHMSYS0001703659
+StartDate = 0401
+EndDate = 0430
+LastChanged = 20210525
+[EndMetadata]

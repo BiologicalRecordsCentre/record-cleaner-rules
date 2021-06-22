@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Pheosia gnoma
-Description=Checks date is within known recording period of Pheosia gnoma
-ErrorMsg=Date is outside known recording period of Pheosia gnoma
-Tvk=NBNSYS0000006092
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 71.018 Pheosia gnoma (Lesser Swallow Prominent)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pheosia gnoma (Lesser Swallow Prominent)
+Tvk = NHMSYS0021144351
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

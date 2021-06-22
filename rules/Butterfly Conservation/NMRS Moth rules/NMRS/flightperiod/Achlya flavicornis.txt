@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Achlya flavicornis
-Description=Checks date is within known flight period of Achlya flavicornis
-ErrorMsg=Date is outside known flight period of Achlya flavicornis
-Tvk=NBNSYS0000005732
-DataFieldName=
-StartDate=0201
-EndDate=0531
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 65.016 Achlya flavicornis (Yellow Horned)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Achlya flavicornis (Yellow Horned)
+Tvk = NBNSYS0000005732
+StartDate = 0215
+EndDate = 0515
+LastChanged = 20210525
 [EndMetadata]
-
-         

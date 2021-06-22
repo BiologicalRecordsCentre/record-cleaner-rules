@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Synanthedon tipuliformis
-Description=Checks date is within known flight period of Synanthedon tipuliformis
-ErrorMsg=Date is outside known flight period of Synanthedon tipuliformis
-Tvk=NBNSYS0000005688
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 52.013 Synanthedon tipuliformis (Currant Clearwing)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Synanthedon tipuliformis (Currant Clearwing)
+Tvk = NBNSYS0000005688
+StartDate = 0521
+EndDate = 0731
+LastChanged = 20210525
 [EndMetadata]
-
-         

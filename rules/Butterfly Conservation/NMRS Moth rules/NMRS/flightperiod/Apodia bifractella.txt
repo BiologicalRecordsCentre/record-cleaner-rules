@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.060 Apodia bifractella (Dark Fleabane Neb)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Apodia bifractella (Dark Fleabane Neb)
+Tvk = NHMSYS0021142697
+StartDate = 0701
+EndDate = 0907
+LastChanged = 20210525
+[EndMetadata]

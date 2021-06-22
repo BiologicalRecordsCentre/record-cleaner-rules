@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 63.062 Scoparia subfusca (Large Grey)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Scoparia subfusca (Large Grey)
+Tvk = NHMSYS0000504121
+StartDate = 0515
+EndDate = 0907
+LastChanged = 20210525
+[EndMetadata]

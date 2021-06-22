@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Ecliptopera silaceata
-Description=Checks date is within known recording period of Ecliptopera silaceata
-ErrorMsg=Date is outside known recording period of Ecliptopera silaceata
-Tvk=NHMSYS0000502259
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.094 Ecliptopera silaceata (Small Phoenix)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Ecliptopera silaceata (Small Phoenix)
+Tvk = NHMSYS0021143991
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

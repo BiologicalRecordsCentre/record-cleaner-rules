@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Odontopera bidentata
-Description=Checks date is within known recording period of Odontopera bidentata
-ErrorMsg=Date is outside known recording period of Odontopera bidentata
-Tvk=NBNSYS0000006011
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.240 Odontopera bidentata (Scalloped Hazel)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Odontopera bidentata (Scalloped Hazel)
+Tvk = NBNSYS0000006011
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

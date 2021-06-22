@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Thyatira batis
-Description=Checks date is within known flight period of Thyatira batis
-ErrorMsg=Date is outside known flight period of Thyatira batis
-Tvk=NBNSYS0000005724
-DataFieldName=
-StartDate=0401
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 65.008 Thyatira batis (Peach Blossom)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Thyatira batis (Peach Blossom)
+Tvk = NBNSYS0000005724
+StartDate = 0415
+EndDate = 0915
+LastChanged = 20210525
 [EndMetadata]
-
-         

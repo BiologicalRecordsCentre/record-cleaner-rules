@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.182 Lobesia botrana (European Vine Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Lobesia botrana (European Vine Moth)
+Tvk = NHMSYS0021143195
+StartDate = 0701
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

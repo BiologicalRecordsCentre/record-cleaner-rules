@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.260 Polia hepatica (Silvery Arches)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Polia hepatica (Silvery Arches)
+Tvk = NBNSYS0000154404
+StartDate = 0601
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

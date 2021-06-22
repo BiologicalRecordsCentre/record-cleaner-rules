@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 4.043 Stigmella lemniscella (Red Elm Pigmy)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Stigmella lemniscella (Red Elm Pigmy)
+Tvk = NBNSYS0100005605
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

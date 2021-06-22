@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Timandra comae
-Description=Checks date is within known flight period of Timandra comae
-ErrorMsg=Date is outside known flight period of Timandra comae
-Tvk=NBNSYS0100005831
-DataFieldName=
-StartDate=0401
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.029 Timandra comae (Blood-Vein)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Timandra comae (Blood-Vein)
+Tvk = NHMSYS0021143879
+StartDate = 0421
+EndDate = 1031
+LastChanged = 20210525
 [EndMetadata]
-
-         

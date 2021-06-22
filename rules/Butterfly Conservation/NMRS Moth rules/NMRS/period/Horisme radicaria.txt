@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.1271 Horisme radicaria (Cryptic Fern)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Horisme radicaria (Cryptic Fern)
+Tvk = NHMSYS0021297304
+StartDate = 20040806
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

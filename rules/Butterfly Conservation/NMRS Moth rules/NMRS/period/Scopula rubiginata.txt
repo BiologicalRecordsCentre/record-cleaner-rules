@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Scopula rubiginata
-Description=Checks date is within known recording period of Scopula rubiginata
-ErrorMsg=Date is outside known recording period of Scopula rubiginata
-Tvk=NBNSYS0000005761
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.022 Scopula rubiginata (Tawny Wave)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Scopula rubiginata (Tawny Wave)
+Tvk = NBNSYS0000005761
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Eupithecia satyrata
-Description=Checks date is within known flight period of Eupithecia satyrata
-ErrorMsg=Date is outside known flight period of Eupithecia satyrata
-Tvk=NBNSYS0000005916
-DataFieldName=
-StartDate=0401
-EndDate=0731
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.177 Eupithecia satyrata (Satyr Pug)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eupithecia satyrata (Satyr Pug)
+Tvk = NBNSYS0000005916
+StartDate = 0415
+EndDate = 0807
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Eupithecia pygmaeata
-Description=Checks date is within known flight period of Eupithecia pygmaeata
-ErrorMsg=Date is outside known flight period of Eupithecia pygmaeata
-Tvk=NHMSYS0000502616
-DataFieldName=
-StartDate=0401
-EndDate=0731
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.154 Eupithecia pygmaeata (Marsh Pug)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eupithecia pygmaeata (Marsh Pug)
+Tvk = NHMSYS0021144081
+StartDate = 0421
+EndDate = 0831
+LastChanged = 20210525
 [EndMetadata]
-
-         

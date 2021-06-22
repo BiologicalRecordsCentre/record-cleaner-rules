@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Chiasmia aestimaria
-Description=Checks date is within known flight period of Chiasmia aestimaria
-ErrorMsg=Date is outside known flight period of Chiasmia aestimaria
-Tvk=NHMSYS0001703668
-DataFieldName=
-StartDate=0401
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.219 Chiasmia aestimaria (Tamarisk Peacock)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Chiasmia aestimaria (Tamarisk Peacock)
+Tvk = NHMSYS0021144173
+StartDate = 0807
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

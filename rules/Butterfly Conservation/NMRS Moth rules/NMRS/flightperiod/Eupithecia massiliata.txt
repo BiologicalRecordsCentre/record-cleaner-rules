@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Eupithecia massiliata
-Description=Checks date is within known flight period of Eupithecia massiliata
-ErrorMsg=Date is outside known flight period of Eupithecia massiliata
-Tvk=NHMSYS0001703671
-DataFieldName=
-StartDate=0201
-EndDate=0731
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.1561 Eupithecia massiliata (Epping Pug)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eupithecia massiliata (Epping Pug)
+Tvk = NHMSYS0001703671
+StartDate = 0401
+EndDate = 0415
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Mamestra brassicae
-Description=Checks date is within known flight period of Mamestra brassicae
-ErrorMsg=Date is outside known flight period of Mamestra brassicae
-Tvk=NBNSYS0000006245
-DataFieldName=
-StartDate=0401
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.274 Mamestra brassicae (Cabbage Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Mamestra brassicae (Cabbage Moth)
+Tvk = NBNSYS0000006245
+StartDate = 0415
+EndDate = 1015
+LastChanged = 20210525
 [EndMetadata]
-
-         

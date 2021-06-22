@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.007 Periclepsis cinctana (Dover Tortrix)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Periclepsis cinctana (Dover Tortrix)
+Tvk = NHMSYS0021142992
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

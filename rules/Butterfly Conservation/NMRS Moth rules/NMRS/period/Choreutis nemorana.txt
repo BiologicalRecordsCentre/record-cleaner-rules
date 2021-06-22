@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 48.0071 Choreutis nemorana (Fig-leaf Skeletonizer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Choreutis nemorana (Fig-leaf Skeletonizer)
+Tvk = NHMSYS0021142983
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Autographa jota
-Description=Checks date is within known flight period of Autographa jota
-ErrorMsg=Date is outside known flight period of Autographa jota
-Tvk=NBNSYS0000006548
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.017 Autographa jota (Plain Golden Y)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Autographa jota (Plain Golden Y)
+Tvk = NBNSYS0000006548
+StartDate = 0515
+EndDate = 0915
+LastChanged = 20210525
 [EndMetadata]
-
-         

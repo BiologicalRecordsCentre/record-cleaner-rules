@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 20.007 Argyresthia cupressella (Cypress-tip Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Argyresthia cupressella (Cypress-tip Moth)
+Tvk = NBNSYS0100001643
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

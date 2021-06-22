@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Diaphora mendica
-Description=Checks date is within known recording period of Diaphora mendica
-ErrorMsg=Date is outside known recording period of Diaphora mendica
-Tvk=NBNSYS0000006149
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.022 Diaphora mendica (Muslin Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Diaphora mendica (Muslin Moth)
+Tvk = NBNSYS0000006149
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

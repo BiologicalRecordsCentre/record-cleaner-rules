@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.046 Bryotropha senectella (Dull Red Neb)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Bryotropha senectella (Dull Red Neb)
+Tvk = NHMSYS0000501557
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

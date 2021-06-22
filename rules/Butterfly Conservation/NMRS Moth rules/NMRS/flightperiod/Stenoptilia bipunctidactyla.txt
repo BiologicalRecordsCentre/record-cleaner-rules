@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 45.013 Stenoptilia bipunctidactyla (Twin-spot Plume)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Stenoptilia bipunctidactyla (Twin-spot Plume)
+Tvk = NHMSYS0000504309
+StartDate = 0501
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

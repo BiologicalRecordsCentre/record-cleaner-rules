@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 40.010 Mompha epilobiella (Common Mompha)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Mompha epilobiella (Common Mompha)
+Tvk = NHMSYS0021142860
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

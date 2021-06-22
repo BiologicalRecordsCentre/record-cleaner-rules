@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Idaea seriata
-Description=Checks date is within known flight period of Idaea seriata
-ErrorMsg=Date is outside known flight period of Idaea seriata
-Tvk=NBNSYS0000005780
-DataFieldName=
-StartDate=0501
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.008 Idaea seriata (Small Dusty Wave)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Idaea seriata (Small Dusty Wave)
+Tvk = NBNSYS0000005780
+StartDate = 0421
+EndDate = 1015
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Ennomos alniaria
-Description=Checks date is within known recording period of Ennomos alniaria
-ErrorMsg=Date is outside known recording period of Ennomos alniaria
-Tvk=NBNSYS0000006004
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.234 Ennomos alniaria (Canary-shouldered Thorn)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Ennomos alniaria (Canary-shouldered Thorn)
+Tvk = NBNSYS0000006004
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

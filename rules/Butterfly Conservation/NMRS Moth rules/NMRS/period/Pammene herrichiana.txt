@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.368 Pammene herrichiana (Beech-mast Piercer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pammene herrichiana (Beech-mast Piercer)
+Tvk = NHMSYS0000503557
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

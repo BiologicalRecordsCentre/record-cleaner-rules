@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Polychrysia moneta
-Description=Checks date is within known flight period of Polychrysia moneta
-ErrorMsg=Date is outside known flight period of Polychrysia moneta
-Tvk=NBNSYS0000006542
-DataFieldName=
-StartDate=0501
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.014 Polychrysia moneta (Golden Plusia)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Polychrysia moneta (Golden Plusia)
+Tvk = NBNSYS0000006542
+StartDate = 0601
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

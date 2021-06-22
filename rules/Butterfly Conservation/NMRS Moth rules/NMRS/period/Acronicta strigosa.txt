@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Acronicta strigosa
-Description=Checks date is within known recording period of Acronicta strigosa
-ErrorMsg=Date is outside known recording period of Acronicta strigosa
-Tvk=NHMSYS0000500981
-StartDate=17000101
-EndDate=19331231
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.041 Acronicta strigosa (Marsh Dagger)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Acronicta strigosa (Marsh Dagger)
+Tvk = NHMSYS0021144504
+StartDate = 17000101
+EndDate = 19331231
+LastChanged = 20210521
 [EndMetadata]
-
-         

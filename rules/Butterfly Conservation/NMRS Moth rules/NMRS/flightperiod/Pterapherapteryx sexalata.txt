@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Pterapherapteryx sexalata
-Description=Checks date is within known flight period of Pterapherapteryx sexalata
-ErrorMsg=Date is outside known flight period of Pterapherapteryx sexalata
-Tvk=NBNSYS0000005973
-DataFieldName=
-StartDate=0401
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.199 Pterapherapteryx sexalata (Small Seraphim)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Pterapherapteryx sexalata (Small Seraphim)
+Tvk = NBNSYS0000005973
+StartDate = 0421
+EndDate = 0907
+LastChanged = 20210525
 [EndMetadata]
-
-         

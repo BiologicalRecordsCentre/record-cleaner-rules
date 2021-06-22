@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Aplasta ononaria
-Description=Checks date is within known flight period of Aplasta ononaria
-ErrorMsg=Date is outside known flight period of Aplasta ononaria
-Tvk=NBNSYS0000005737
-DataFieldName=
-StartDate=0501
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.296 Aplasta ononaria (Rest Harrow)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Aplasta ononaria (Rest Harrow)
+Tvk = NBNSYS0000005737
+StartDate = 0607
+EndDate = 0907
+LastChanged = 20210525
 [EndMetadata]
-
-         

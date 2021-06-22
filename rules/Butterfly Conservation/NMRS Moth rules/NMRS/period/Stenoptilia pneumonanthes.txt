@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 45.020 Stenoptilia pneumonanthes (Gentian Plume)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Stenoptilia pneumonanthes (Gentian Plume)
+Tvk = NHMSYS0000504313
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

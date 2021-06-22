@@ -1,0 +1,12 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 15.093 Phyllocnistis xenia (Kent Bent-wing)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Phyllocnistis xenia (Kent Bent-wing)
+Tvk = NHMSYS0000503754
+StartDate = 0601
+EndDate = 0630
+ReverseRule = True
+LastChanged = 20210525
+[EndMetadata]

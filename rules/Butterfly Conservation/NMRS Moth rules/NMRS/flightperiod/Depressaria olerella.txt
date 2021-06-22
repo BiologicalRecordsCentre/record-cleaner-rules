@@ -1,0 +1,12 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 32.046 Depressaria olerella (Yarrow Flat-body)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Depressaria olerella (Yarrow Flat-body)
+Tvk = NHMSYS0000502125
+StartDate = 0501
+EndDate = 0731
+ReverseRule = True
+LastChanged = 20210525
+[EndMetadata]

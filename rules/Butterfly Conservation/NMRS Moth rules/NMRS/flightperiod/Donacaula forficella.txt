@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 63.121 Donacaula forficella (Pale Water-veneer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Donacaula forficella (Pale Water-veneer)
+Tvk = NHMSYS0000502204
+StartDate = 0515
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

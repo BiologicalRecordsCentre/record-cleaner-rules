@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 63.120 Schoenobius gigantella (Giant Water-veneer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Schoenobius gigantella (Giant Water-veneer)
+Tvk = NHMSYS0021143785
+StartDate = 0521
+EndDate = 0915
+LastChanged = 20210525
+[EndMetadata]

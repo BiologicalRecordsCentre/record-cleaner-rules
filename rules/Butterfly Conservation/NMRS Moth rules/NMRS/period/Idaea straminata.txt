@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Idaea straminata
-Description=Checks date is within known recording period of Idaea straminata
-ErrorMsg=Date is outside known recording period of Idaea straminata
-Tvk=NBNSYS0000005788
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.018 Idaea straminata (Plain Wave)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Idaea straminata (Plain Wave)
+Tvk = NBNSYS0000005788
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

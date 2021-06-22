@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.054 Cucullia gnaphalii gnaphalii (Cudweed)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Cucullia gnaphalii gnaphalii (Cudweed)
+Tvk = NHMSYS0021144521
+StartDate = 17000101
+EndDate = 19790811
+LastChanged = 20210521
+[EndMetadata]

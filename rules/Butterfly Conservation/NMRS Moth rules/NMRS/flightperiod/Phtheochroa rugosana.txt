@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.095 Phtheochroa rugosana (Rough-winged Conch)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Phtheochroa rugosana (Rough-winged Conch)
+Tvk = NHMSYS0021143113
+StartDate = 0421
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

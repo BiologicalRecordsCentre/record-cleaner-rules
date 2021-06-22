@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Saturnia pavonia
-Description=Checks date is within known recording period of Saturnia pavonia
-ErrorMsg=Date is outside known recording period of Saturnia pavonia
-Tvk=NBNSYS0000156325
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 68.001 Saturnia pavonia (Emperor Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Saturnia pavonia (Emperor Moth)
+Tvk = NBNSYS0000156325
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

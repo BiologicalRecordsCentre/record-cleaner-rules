@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Anarta melanopa
-Description=Checks date is within known flight period of Anarta melanopa
-ErrorMsg=Date is outside known flight period of Anarta melanopa
-Tvk=NBNSYS0000006235
-DataFieldName=
-StartDate=0401
-EndDate=0731
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.256 Anarta melanopa (Broad-bordered White Underwing)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Anarta melanopa (Broad-bordered White Underwing)
+Tvk = NBNSYS0000006235
+StartDate = 0501
+EndDate = 0707
+LastChanged = 20210525
 [EndMetadata]
-
-         

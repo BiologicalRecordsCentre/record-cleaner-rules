@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Plagodis dolabraria
-Description=Checks date is within known flight period of Plagodis dolabraria
-ErrorMsg=Date is outside known flight period of Plagodis dolabraria
-Tvk=NBNSYS0000005995
-DataFieldName=
-StartDate=0401
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.224 Plagodis dolabraria (Scorched Wing)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Plagodis dolabraria (Scorched Wing)
+Tvk = NBNSYS0000005995
+StartDate = 0501
+EndDate = 0721
+LastChanged = 20210525
 [EndMetadata]
-
-         

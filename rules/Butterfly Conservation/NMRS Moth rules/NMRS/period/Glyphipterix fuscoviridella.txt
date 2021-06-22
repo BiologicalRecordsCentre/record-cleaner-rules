@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 19.003 Glyphipterix fuscoviridella (Plain Fanner)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Glyphipterix fuscoviridella (Plain Fanner)
+Tvk = NHMSYS0000502735
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Glacies coracina
-Description=Checks date is within known flight period of Glacies coracina
-ErrorMsg=Date is outside known flight period of Glacies coracina
-Tvk=NHMSYS0000502725
-DataFieldName=
-StartDate=0601
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.289 Glacies coracina (Black Mountain Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Glacies coracina (Black Mountain Moth)
+Tvk = NHMSYS0000502725
+StartDate = 0521
+EndDate = 0807
+LastChanged = 20210525
 [EndMetadata]
-
-         

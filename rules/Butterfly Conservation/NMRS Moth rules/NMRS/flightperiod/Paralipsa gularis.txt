@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 62.003 Paralipsa gularis (Stored Nut Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Paralipsa gularis (Stored Nut Moth)
+Tvk = NHMSYS0000503603
+StartDate = 0301
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

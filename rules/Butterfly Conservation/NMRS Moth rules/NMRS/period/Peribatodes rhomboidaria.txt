@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Peribatodes rhomboidaria
-Description=Checks date is within known recording period of Peribatodes rhomboidaria
-ErrorMsg=Date is outside known recording period of Peribatodes rhomboidaria
-Tvk=NHMSYS0000503679
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.258 Peribatodes rhomboidaria (Willow Beauty)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Peribatodes rhomboidaria (Willow Beauty)
+Tvk = NHMSYS0021144226
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

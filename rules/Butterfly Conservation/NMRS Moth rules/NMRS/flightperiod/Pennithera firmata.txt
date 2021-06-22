@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.077 Pennithera firmata (Pine Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Pennithera firmata (Pine Carpet)
+Tvk = NHMSYS0021143969
+StartDate = 0421
+EndDate = 1130
+LastChanged = 20210525
+[EndMetadata]

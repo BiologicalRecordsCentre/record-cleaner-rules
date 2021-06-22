@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Noctua comes
-Description=Checks date is within known flight period of Noctua comes
-ErrorMsg=Date is outside known flight period of Noctua comes
-Tvk=NHMSYS0000503386
-DataFieldName=
-StartDate=0601
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.345 Noctua comes (Lesser Yellow Underwing)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Noctua comes (Lesser Yellow Underwing)
+Tvk = NHMSYS0021144922
+StartDate = 0601
+EndDate = 1130
+LastChanged = 20210525
 [EndMetadata]
-
-         

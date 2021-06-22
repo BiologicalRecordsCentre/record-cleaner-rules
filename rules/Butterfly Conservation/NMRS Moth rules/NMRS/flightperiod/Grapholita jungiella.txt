@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.354 Grapholita jungiella (Vetch Piercer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Grapholita jungiella (Vetch Piercer)
+Tvk = NBNSYS0100003288
+StartDate = 0401
+EndDate = 0630
+LastChanged = 20210525
+[EndMetadata]

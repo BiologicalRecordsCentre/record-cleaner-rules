@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Acasis viretata
-Description=Checks date is within known flight period of Acasis viretata
-ErrorMsg=Date is outside known flight period of Acasis viretata
-Tvk=NHMSYS0000500908
-DataFieldName=
-StartDate=0401
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.200 Acasis viretata (Yellow-barred Brindle)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Acasis viretata (Yellow-barred Brindle)
+Tvk = NHMSYS0021144153
+StartDate = 0321
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

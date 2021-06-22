@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Gortyna borelii
-Description=Checks date is within known flight period of Gortyna borelii
-ErrorMsg=Date is outside known flight period of Gortyna borelii
-Tvk=NHMSYS0000520248
-DataFieldName=
-StartDate=0801
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.122 Gortyna borelii (Fisher's Estuarine Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Gortyna borelii (Fisher's Estuarine Moth)
+Tvk = NHMSYS0000520248
+StartDate = 0901
+EndDate = 1015
+LastChanged = 20210525
 [EndMetadata]
-
-         

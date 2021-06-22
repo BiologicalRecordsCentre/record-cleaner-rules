@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.120 Rheumaptera hastata hastata (Argent & Sable)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Rheumaptera hastata hastata (Argent & Sable)
+Tvk = NHMSYS0021144034
+StartDate = 0501
+EndDate = 0721
+LastChanged = 20210525
+[EndMetadata]

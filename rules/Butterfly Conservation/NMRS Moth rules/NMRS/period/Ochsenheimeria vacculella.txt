@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 17.016 Ochsenheimeria vacculella (Cereal Stem-moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Ochsenheimeria vacculella (Cereal Stem-moth)
+Tvk = NHMSYS0000503443
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

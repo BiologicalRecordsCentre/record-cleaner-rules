@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Cyclophora linearia
-Description=Checks date is within known flight period of Cyclophora linearia
-ErrorMsg=Date is outside known flight period of Cyclophora linearia
-Tvk=NHMSYS0000502051
-DataFieldName=
-StartDate=0401
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.037 Cyclophora linearia (Clay Triple-lines)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cyclophora linearia (Clay Triple-lines)
+Tvk = NHMSYS0021143894
+StartDate = 0415
+EndDate = 0915
+LastChanged = 20210525
 [EndMetadata]
-
-         

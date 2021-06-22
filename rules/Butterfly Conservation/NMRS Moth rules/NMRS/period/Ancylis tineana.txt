@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.217 Ancylis tineana (Rannoch Roller)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Ancylis tineana (Rannoch Roller)
+Tvk = NHMSYS0021143239
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

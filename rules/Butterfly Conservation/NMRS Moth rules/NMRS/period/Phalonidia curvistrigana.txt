@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.100 Phalonidia curvistrigana (Golden-rod Conch)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Phalonidia curvistrigana (Golden-rod Conch)
+Tvk = NHMSYS0000503705
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

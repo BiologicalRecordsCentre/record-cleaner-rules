@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Lycophotia porphyrea
-Description=Checks date is within known recording period of Lycophotia porphyrea
-ErrorMsg=Date is outside known recording period of Lycophotia porphyrea
-Tvk=NHMSYS0000503128
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.338 Lycophotia porphyrea (True Lover's Knot)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Lycophotia porphyrea (True Lover's Knot)
+Tvk = NHMSYS0021144917
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

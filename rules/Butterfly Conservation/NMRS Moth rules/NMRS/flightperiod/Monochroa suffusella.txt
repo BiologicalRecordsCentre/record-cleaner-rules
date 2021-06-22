@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.076 Monochroa suffusella (Notch-wing Neb)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Monochroa suffusella (Notch-wing Neb)
+Tvk = NHMSYS0000503281
+StartDate = 0515
+EndDate = 0807
+LastChanged = 20210525
+[EndMetadata]

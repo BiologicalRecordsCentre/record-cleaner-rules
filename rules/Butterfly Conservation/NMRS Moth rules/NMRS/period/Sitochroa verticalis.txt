@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 63.015 Sitochroa verticalis (Lesser Pearl)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Sitochroa verticalis (Lesser Pearl)
+Tvk = NHMSYS0000504228
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

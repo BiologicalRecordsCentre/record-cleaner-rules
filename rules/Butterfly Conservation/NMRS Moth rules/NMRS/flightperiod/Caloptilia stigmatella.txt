@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 15.010 Caloptilia stigmatella (White-triangle Slender)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Caloptilia stigmatella (White-triangle Slender)
+Tvk = NHMSYS0000501616
+StartDate = 0101
+EndDate = 1231
+LastChanged = 20210525
+[EndMetadata]

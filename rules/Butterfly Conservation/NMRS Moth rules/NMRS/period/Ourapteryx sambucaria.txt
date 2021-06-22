@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Ourapteryx sambucaria
-Description=Checks date is within known recording period of Ourapteryx sambucaria
-ErrorMsg=Date is outside known recording period of Ourapteryx sambucaria
-Tvk=NBNSYS0000006013
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.243 Ourapteryx sambucaria (Swallow-tailed Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Ourapteryx sambucaria (Swallow-tailed Moth)
+Tvk = NBNSYS0000006013
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

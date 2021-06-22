@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 19.003 Glyphipterix fuscoviridella (Plain Fanner)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Glyphipterix fuscoviridella (Plain Fanner)
+Tvk = NHMSYS0000502735
+StartDate = 0501
+EndDate = 0630
+LastChanged = 20210525
+[EndMetadata]

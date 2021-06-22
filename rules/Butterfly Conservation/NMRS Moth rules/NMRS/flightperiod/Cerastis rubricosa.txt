@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Cerastis rubricosa
-Description=Checks date is within known flight period of Cerastis rubricosa
-ErrorMsg=Date is outside known flight period of Cerastis rubricosa
-Tvk=NHMSYS0000501720
-DataFieldName=
-StartDate=0201
-EndDate=0531
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.336 Cerastis rubricosa (Red Chestnut)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cerastis rubricosa (Red Chestnut)
+Tvk = NHMSYS0021144914
+StartDate = 0201
+EndDate = 0607
+LastChanged = 20210525
 [EndMetadata]
-
-         

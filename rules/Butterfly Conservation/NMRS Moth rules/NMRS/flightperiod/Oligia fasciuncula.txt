@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Oligia fasciuncula
-Description=Checks date is within known flight period of Oligia fasciuncula
-ErrorMsg=Date is outside known flight period of Oligia fasciuncula
-Tvk=NBNSYS0000006438
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.176 Oligia fasciuncula (Middle-barred Minor)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Oligia fasciuncula (Middle-barred Minor)
+Tvk = NBNSYS0000006438
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
 [EndMetadata]
-
-         

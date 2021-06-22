@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 32.013 Agonopterix carduella (Thistle Flat-body)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Agonopterix carduella (Thistle Flat-body)
+Tvk = NHMSYS0021142585
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

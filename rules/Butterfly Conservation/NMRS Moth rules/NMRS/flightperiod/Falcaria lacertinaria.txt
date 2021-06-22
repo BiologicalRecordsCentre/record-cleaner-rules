@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Falcaria lacertinaria
-Description=Checks date is within known flight period of Falcaria lacertinaria
-ErrorMsg=Date is outside known flight period of Falcaria lacertinaria
-Tvk=NBNSYS0000005717
-DataFieldName=
-StartDate=0401
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 65.001 Falcaria lacertinaria (Scalloped Hook-tip)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Falcaria lacertinaria (Scalloped Hook-tip)
+Tvk = NBNSYS0000005717
+StartDate = 0401
+EndDate = 0915
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Zygaena exulans
-Description=Checks date is within known recording period of Zygaena exulans
-ErrorMsg=Date is outside known recording period of Zygaena exulans
-Tvk=NHMSYS0000520663
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 54.006 Zygaena exulans (Scotch Burnet or Mountain Burnet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Zygaena exulans (Scotch Burnet or Mountain Burnet)
+Tvk = NHMSYS0000520663
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

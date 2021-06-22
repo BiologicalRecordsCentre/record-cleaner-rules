@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Chrysodeixis chalcites
-Description=Checks date is within known recording period of Chrysodeixis chalcites
-ErrorMsg=Date is outside known recording period of Chrysodeixis chalcites
-Tvk=NBNSYS0000006533
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.008 Chrysodeixis chalcites (Golden Twin-spot)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Chrysodeixis chalcites (Golden Twin-spot)
+Tvk = NHMSYS0021144468
+StartDate = 19430101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

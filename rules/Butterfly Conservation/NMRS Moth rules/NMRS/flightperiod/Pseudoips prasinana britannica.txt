@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 74.008 Pseudoips prasinana britannica (Green Silver-lines)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Pseudoips prasinana britannica (Green Silver-lines)
+Tvk = NHMSYS0021144966
+StartDate = 0501
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

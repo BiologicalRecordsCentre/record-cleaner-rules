@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.076 Acleris cristana (Tufted Button)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Acleris cristana (Tufted Button)
+Tvk = NHMSYS0021143093
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

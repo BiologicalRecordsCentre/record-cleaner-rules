@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 63.048 Palpita vitrealis (Olive-tree Pearl)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Palpita vitrealis (Olive-tree Pearl)
+Tvk = MM0001Z100HTMPQ1
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

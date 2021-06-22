@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Calophasia platyptera
-Description=Checks date is within known flight period of Calophasia platyptera
-ErrorMsg=Date is outside known flight period of Calophasia platyptera
-Tvk=NBNSYS0000006317
-DataFieldName=
-StartDate=0301
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.060 Calophasia platyptera (Antirrhinum Brocade)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Calophasia platyptera (Antirrhinum Brocade)
+Tvk = NBNSYS0000006317
+StartDate = 0401
+EndDate = 1031
+LastChanged = 20210525
 [EndMetadata]
-
-         

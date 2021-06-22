@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Sesia bembeciformis
-Description=Checks date is within known flight period of Sesia bembeciformis
-ErrorMsg=Date is outside known flight period of Sesia bembeciformis
-Tvk=NHMSYS0000504198
-DataFieldName=
-StartDate=0601
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 52.003 Sesia bembeciformis (Lunar Hornet Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Sesia bembeciformis (Lunar Hornet Moth)
+Tvk = NHMSYS0021143404
+StartDate = 0601
+EndDate = 0815
+LastChanged = 20210525
 [EndMetadata]
-
-         

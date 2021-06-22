@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.020 Argyrotaenia ljungiana (Heather Tortrix)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Argyrotaenia ljungiana (Heather Tortrix)
+Tvk = NHMSYS0000501394
+StartDate = 0201
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

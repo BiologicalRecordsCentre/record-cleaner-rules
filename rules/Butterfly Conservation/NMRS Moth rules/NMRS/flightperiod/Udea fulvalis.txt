@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 63.032 Udea fulvalis (Fulvous Pearl)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Udea fulvalis (Fulvous Pearl)
+Tvk = NHMSYS0021143723
+StartDate = 0701
+EndDate = 0915
+LastChanged = 20210525
+[EndMetadata]

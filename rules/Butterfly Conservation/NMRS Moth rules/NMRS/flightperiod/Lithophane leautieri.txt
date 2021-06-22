@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Lithophane leautieri
-Description=Checks date is within known flight period of Lithophane leautieri
-ErrorMsg=Date is outside known flight period of Lithophane leautieri
-Tvk=NHMSYS0000520793
-DataFieldName=
-StartDate=0801
-EndDate=1231
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.206 Lithophane leautieri (Blair's Shoulder-knot)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Lithophane leautieri (Blair's Shoulder-knot)
+Tvk = NHMSYS0000520793
+StartDate = 0901
+EndDate = 1130
+LastChanged = 20210525
 [EndMetadata]
-
-         

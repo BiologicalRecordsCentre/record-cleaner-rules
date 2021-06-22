@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.218 Chiasmia clathrata hugginsi (Latticed Heath)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Chiasmia clathrata hugginsi (Latticed Heath)
+Tvk = NHMSYS0021144172
+StartDate = 0415
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

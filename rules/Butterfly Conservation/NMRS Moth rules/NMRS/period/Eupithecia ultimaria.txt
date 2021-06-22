@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Eupithecia ultimaria
-Description=Checks date is within known recording period of Eupithecia ultimaria
-ErrorMsg=Date is outside known recording period of Eupithecia ultimaria
-Tvk=NBNSYS0000033137
-StartDate=19900101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.152 Eupithecia ultimaria (Channel Islands Pug)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eupithecia ultimaria (Channel Islands Pug)
+Tvk = NBNSYS0000033137
+StartDate = 19840820
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

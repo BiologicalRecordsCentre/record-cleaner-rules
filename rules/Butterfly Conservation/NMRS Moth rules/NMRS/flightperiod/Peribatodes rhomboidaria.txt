@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Peribatodes rhomboidaria
-Description=Checks date is within known flight period of Peribatodes rhomboidaria
-ErrorMsg=Date is outside known flight period of Peribatodes rhomboidaria
-Tvk=NHMSYS0000503679
-DataFieldName=
-StartDate=0501
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.258 Peribatodes rhomboidaria (Willow Beauty)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Peribatodes rhomboidaria (Willow Beauty)
+Tvk = NHMSYS0021144226
+StartDate = 0507
+EndDate = 1031
+LastChanged = 20210525
 [EndMetadata]
-
-         

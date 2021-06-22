@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Cucullia asteris
-Description=Checks date is within known recording period of Cucullia asteris
-ErrorMsg=Date is outside known recording period of Cucullia asteris
-Tvk=NHMSYS0000502037
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.055 Cucullia asteris (Star-wort)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Cucullia asteris (Star-wort)
+Tvk = NHMSYS0021144523
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

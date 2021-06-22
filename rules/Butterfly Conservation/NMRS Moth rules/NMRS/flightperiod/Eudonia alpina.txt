@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 63.070 Eudonia alpina (Highland Grey)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eudonia alpina (Highland Grey)
+Tvk = NHMSYS0000502551
+StartDate = 0515
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

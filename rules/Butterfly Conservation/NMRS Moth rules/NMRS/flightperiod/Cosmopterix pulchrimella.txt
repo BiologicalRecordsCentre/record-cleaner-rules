@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 34.009 Cosmopterix pulchrimella (Pellitory Cosmet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cosmopterix pulchrimella (Pellitory Cosmet)
+Tvk = NHMSYS0001703651
+StartDate = 0501
+EndDate = 1130
+LastChanged = 20210525
+[EndMetadata]

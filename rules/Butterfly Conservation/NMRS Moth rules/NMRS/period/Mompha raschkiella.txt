@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 40.015 Mompha raschkiella (Little Mompha)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Mompha raschkiella (Little Mompha)
+Tvk = NHMSYS0000503264
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

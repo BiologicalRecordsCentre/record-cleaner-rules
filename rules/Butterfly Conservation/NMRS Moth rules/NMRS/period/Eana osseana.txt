@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.045 Eana osseana (Dotted Shade)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eana osseana (Dotted Shade)
+Tvk = NHMSYS0000502247
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

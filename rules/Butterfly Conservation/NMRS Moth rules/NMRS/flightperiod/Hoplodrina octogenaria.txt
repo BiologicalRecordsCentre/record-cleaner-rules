@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.096 Hoplodrina octogenaria (Uncertain)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hoplodrina octogenaria (Uncertain)
+Tvk = NHMSYS0021144579
+StartDate = 0521
+EndDate = 1115
+LastChanged = 20210525
+[EndMetadata]

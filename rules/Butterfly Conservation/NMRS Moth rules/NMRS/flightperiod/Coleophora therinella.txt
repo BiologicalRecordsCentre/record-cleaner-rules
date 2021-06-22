@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 37.081 Coleophora therinella (Black-bindweed Case-bearer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Coleophora therinella (Black-bindweed Case-bearer)
+Tvk = NHMSYS0000501932
+StartDate = 0601
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

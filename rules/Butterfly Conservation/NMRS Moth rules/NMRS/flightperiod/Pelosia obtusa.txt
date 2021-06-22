@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Pelosia obtusa
-Description=Checks date is within known flight period of Pelosia obtusa
-ErrorMsg=Date is outside known flight period of Pelosia obtusa
-Tvk=NHMSYS0000503663
-DataFieldName=
-StartDate=0601
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.040 Pelosia obtusa (Small Dotted Footman)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Pelosia obtusa (Small Dotted Footman)
+Tvk = NHMSYS0021144412
+StartDate = 0621
+EndDate = 0831
+LastChanged = 20210525
 [EndMetadata]
-
-         

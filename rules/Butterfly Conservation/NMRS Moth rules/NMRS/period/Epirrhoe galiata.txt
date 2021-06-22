@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Epirrhoe galiata
-Description=Checks date is within known recording period of Epirrhoe galiata
-ErrorMsg=Date is outside known recording period of Epirrhoe galiata
-Tvk=NHMSYS0000502465
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.063 Epirrhoe galiata (Galium Carpet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Epirrhoe galiata (Galium Carpet)
+Tvk = NHMSYS0021143939
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

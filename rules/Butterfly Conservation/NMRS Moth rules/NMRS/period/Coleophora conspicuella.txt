@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 37.058 Coleophora conspicuella (Knapweed Case-bearer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Coleophora conspicuella (Knapweed Case-bearer)
+Tvk = NHMSYS0000501849
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

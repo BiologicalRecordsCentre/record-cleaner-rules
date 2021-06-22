@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.370 Pammene luedersiana (Inverness Piercer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pammene luedersiana (Inverness Piercer)
+Tvk = NHMSYS0000503560
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

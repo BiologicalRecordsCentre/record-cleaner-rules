@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Mythimna l-album
-Description=Checks date is within known recording period of Mythimna l-album
-ErrorMsg=Date is outside known recording period of Mythimna l-album
-Tvk=NBNSYS0000006295
-StartDate=19300101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.300 Mythimna l-album (L-album Wainscot)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Mythimna l-album (L-album Wainscot)
+Tvk = NBNSYS0000006295
+StartDate = 19010101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

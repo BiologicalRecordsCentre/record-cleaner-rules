@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 18.003 Plutella porrectella (Grey-streaked Diamond-back)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Plutella porrectella (Grey-streaked Diamond-back)
+Tvk = NHMSYS0000503884
+StartDate = 0421
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

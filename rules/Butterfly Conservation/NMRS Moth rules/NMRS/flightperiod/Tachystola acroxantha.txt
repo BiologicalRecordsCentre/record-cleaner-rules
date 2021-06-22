@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 28.024 Tachystola acroxantha (Ruddy Streak)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Tachystola acroxantha (Ruddy Streak)
+Tvk = NBNSYS0100005693
+StartDate = 0401
+EndDate = 1231
+LastChanged = 20210525
+[EndMetadata]

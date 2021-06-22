@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.007 Vittaplusia vittata (Streaked Plusia)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Vittaplusia vittata (Streaked Plusia)
+Tvk = NHMSYS0021144467
+StartDate = 19950731
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

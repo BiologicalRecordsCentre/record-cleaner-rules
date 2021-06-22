@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 37.107 Coleophora clypeiferella (Body-marked Case-bearer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Coleophora clypeiferella (Body-marked Case-bearer)
+Tvk = NHMSYS0000501848
+StartDate = 0701
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

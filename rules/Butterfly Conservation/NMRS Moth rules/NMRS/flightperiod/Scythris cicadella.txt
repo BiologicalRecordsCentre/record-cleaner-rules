@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 43.011 Scythris cicadella (Sand Owlet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Scythris cicadella (Sand Owlet)
+Tvk = NHMSYS0000504160
+StartDate = 0701
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

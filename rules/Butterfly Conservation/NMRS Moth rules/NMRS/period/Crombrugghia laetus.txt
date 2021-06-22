@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 45.027 Crombrugghia laetus (Scarce Light Plume)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Crombrugghia laetus (Scarce Light Plume)
+Tvk = NBNSYS0000027026
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

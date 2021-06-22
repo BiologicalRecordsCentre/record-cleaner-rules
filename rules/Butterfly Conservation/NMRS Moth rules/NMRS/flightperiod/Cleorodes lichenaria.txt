@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Cleorodes lichenaria
-Description=Checks date is within known flight period of Cleorodes lichenaria
-ErrorMsg=Date is outside known flight period of Cleorodes lichenaria
-Tvk=NBNSYS0000006037
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.288 Cleorodes lichenaria (Brussels Lace)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cleorodes lichenaria (Brussels Lace)
+Tvk = NBNSYS0000006037
+StartDate = 0515
+EndDate = 1031
+LastChanged = 20210525
 [EndMetadata]
-
-         

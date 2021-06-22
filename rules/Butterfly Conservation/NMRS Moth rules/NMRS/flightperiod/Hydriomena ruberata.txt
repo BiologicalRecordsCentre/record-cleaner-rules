@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Hydriomena ruberata
-Description=Checks date is within known flight period of Hydriomena ruberata
-ErrorMsg=Date is outside known flight period of Hydriomena ruberata
-Tvk=NBNSYS0000005859
-DataFieldName=
-StartDate=0401
-EndDate=0731
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.076 Hydriomena ruberata (Ruddy Highflier)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hydriomena ruberata (Ruddy Highflier)
+Tvk = NHMSYS0021143965
+StartDate = 0415
+EndDate = 0630
+LastChanged = 20210525
 [EndMetadata]
-
-         

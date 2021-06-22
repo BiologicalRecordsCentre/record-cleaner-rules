@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Laelia coenosa
-Description=Checks date is within known recording period of Laelia coenosa
-ErrorMsg=Date is outside known recording period of Laelia coenosa
-Tvk=NHMSYS0000502991
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.014 Laelia coenosa (Reed Tussock)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Laelia coenosa (Reed Tussock)
+Tvk = NHMSYS0021144380
+StartDate = 18190101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

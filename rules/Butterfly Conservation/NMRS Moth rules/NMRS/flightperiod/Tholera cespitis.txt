@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Tholera cespitis
-Description=Checks date is within known flight period of Tholera cespitis
-ErrorMsg=Date is outside known flight period of Tholera cespitis
-Tvk=NHMSYS0000504506
-DataFieldName=
-StartDate=0701
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.252 Tholera cespitis (Hedge Rustic)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Tholera cespitis (Hedge Rustic)
+Tvk = NHMSYS0021144801
+StartDate = 0715
+EndDate = 1015
+LastChanged = 20210525
 [EndMetadata]
-
-         

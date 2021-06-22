@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 63.017 Anania lancealis (Long-winged Pearl)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Anania lancealis (Long-winged Pearl)
+Tvk = NHMSYS0021127793
+StartDate = 0515
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

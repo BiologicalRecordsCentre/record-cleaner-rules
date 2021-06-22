@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Perizoma bifaciata
-Description=Checks date is within known recording period of Perizoma bifaciata
-ErrorMsg=Date is outside known recording period of Perizoma bifaciata
-Tvk=NBNSYS0000005884
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.134 Perizoma bifaciata (Barred Rivulet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Perizoma bifaciata (Barred Rivulet)
+Tvk = NBNSYS0000005884
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

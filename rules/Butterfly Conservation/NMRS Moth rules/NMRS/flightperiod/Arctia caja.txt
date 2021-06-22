@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Arctia caja
-Description=Checks date is within known flight period of Arctia caja
-ErrorMsg=Date is outside known flight period of Arctia caja
-Tvk=NBNSYS0000006143
-DataFieldName=
-StartDate=0601
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.026 Arctia caja (Garden Tiger)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Arctia caja (Garden Tiger)
+Tvk = NBNSYS0000006143
+StartDate = 0601
+EndDate = 0915
+LastChanged = 20210525
 [EndMetadata]
-
-         

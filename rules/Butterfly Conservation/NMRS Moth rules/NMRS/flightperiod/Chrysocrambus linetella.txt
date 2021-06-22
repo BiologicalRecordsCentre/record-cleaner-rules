@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 63.105 Chrysocrambus linetella (Orange-bar Grass-veneer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Chrysocrambus linetella (Orange-bar Grass-veneer)
+Tvk = NHMSYS0000501777
+StartDate = 0601
+EndDate = 0630
+LastChanged = 20210525
+[EndMetadata]

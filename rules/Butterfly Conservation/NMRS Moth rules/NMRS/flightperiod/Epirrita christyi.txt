@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Epirrita christyi
-Description=Checks date is within known flight period of Epirrita christyi
-ErrorMsg=Date is outside known flight period of Epirrita christyi
-Tvk=NBNSYS0000005876
-DataFieldName=
-StartDate=0801
-EndDate=1231
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.108 Epirrita christyi (Pale November Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Epirrita christyi (Pale November Moth)
+Tvk = NBNSYS0000005876
+StartDate = 0915
+EndDate = 1207
+LastChanged = 20210525
 [EndMetadata]
-
-         

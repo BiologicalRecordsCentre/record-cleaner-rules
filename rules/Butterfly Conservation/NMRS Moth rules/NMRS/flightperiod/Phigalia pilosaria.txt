@@ -1,15 +1,12 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Phigalia pilosaria
-Description=Checks date is within known flight period of Phigalia pilosaria
-ErrorMsg=Date is outside known flight period of Phigalia pilosaria
-Tvk=NHMSYS0000503715
-DataFieldName=
-StartDate=0430
-EndDate=1201
-ReverseRule=True
-LastChanged=20120126
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.247 Phigalia pilosaria (Pale Brindled Beauty)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Phigalia pilosaria (Pale Brindled Beauty)
+Tvk = NHMSYS0021144213
+StartDate = 0430
+EndDate = 1031
+ReverseRule = True
+LastChanged = 20210525
 [EndMetadata]
-
-         

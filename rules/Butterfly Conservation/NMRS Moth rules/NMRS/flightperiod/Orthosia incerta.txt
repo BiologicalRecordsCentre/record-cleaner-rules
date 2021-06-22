@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Orthosia incerta
-Description=Checks date is within known flight period of Orthosia incerta
-ErrorMsg=Date is outside known flight period of Orthosia incerta
-Tvk=NBNSYS0000006281
-DataFieldName=
-StartDate=0201
-EndDate=0630
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.242 Orthosia incerta (Clouded Drab)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Orthosia incerta (Clouded Drab)
+Tvk = NBNSYS0000006281
+StartDate = 0201
+EndDate = 0615
+LastChanged = 20210525
 [EndMetadata]
-
-         

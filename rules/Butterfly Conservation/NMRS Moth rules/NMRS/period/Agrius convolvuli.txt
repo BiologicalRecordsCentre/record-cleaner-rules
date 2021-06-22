@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Agrius convolvuli
-Description=Checks date is within known recording period of Agrius convolvuli
-ErrorMsg=Date is outside known recording period of Agrius convolvuli
-Tvk=NBNSYS0000006063
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 69.004 Agrius convolvuli (Convolvulus Hawk-moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Agrius convolvuli (Convolvulus Hawk-moth)
+Tvk = NBNSYS0000006063
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

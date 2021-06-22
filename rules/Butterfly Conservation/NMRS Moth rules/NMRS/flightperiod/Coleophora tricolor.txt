@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 37.062 Coleophora tricolor (Basil-thyme Case-bearer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Coleophora tricolor (Basil-thyme Case-bearer)
+Tvk = NHMSYS0000501933
+StartDate = 0701
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

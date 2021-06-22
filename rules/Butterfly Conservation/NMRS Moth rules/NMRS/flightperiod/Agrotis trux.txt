@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Agrotis trux
-Description=Checks date is within known flight period of Agrotis trux
-ErrorMsg=Date is outside known flight period of Agrotis trux
-Tvk=NHMSYS0000516938
-DataFieldName=
-StartDate=0601
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.324 Agrotis trux (Crescent Dart)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Agrotis trux (Crescent Dart)
+Tvk = NHMSYS0000516938
+StartDate = 0601
+EndDate = 1015
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Diarsia mendica
-Description=Checks date is within known flight period of Diarsia mendica
-ErrorMsg=Date is outside known flight period of Diarsia mendica
-Tvk=NHMSYS0000519388
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.333 Diarsia mendica (Ingrailed Clay)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Diarsia mendica (Ingrailed Clay)
+Tvk = NHMSYS0000519388
+StartDate = 0507
+EndDate = 0921
+LastChanged = 20210525
 [EndMetadata]
-
-         

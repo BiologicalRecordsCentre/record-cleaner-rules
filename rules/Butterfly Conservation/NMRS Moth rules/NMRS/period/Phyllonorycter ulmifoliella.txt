@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 15.075 Phyllonorycter ulmifoliella (Red Birch Midget)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Phyllonorycter ulmifoliella (Red Birch Midget)
+Tvk = NHMSYS0021142448
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.2841 Pungeleria capreolaria (Banded Pine Carpet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pungeleria capreolaria (Banded Pine Carpet)
+Tvk = NHMSYS0021125337
+StartDate = 20130927
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

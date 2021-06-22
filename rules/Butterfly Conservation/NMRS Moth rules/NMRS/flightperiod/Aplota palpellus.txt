@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 28.027 Aplota palpellus (Scarce Brown Streak)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Aplota palpellus (Scarce Brown Streak)
+Tvk = NHMSYS0021142562
+StartDate = 0701
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

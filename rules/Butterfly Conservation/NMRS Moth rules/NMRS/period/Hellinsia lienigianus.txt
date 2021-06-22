@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 45.040 Hellinsia lienigianus (Mugwort Plume)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Hellinsia lienigianus (Mugwort Plume)
+Tvk = NHMSYS0021142951
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

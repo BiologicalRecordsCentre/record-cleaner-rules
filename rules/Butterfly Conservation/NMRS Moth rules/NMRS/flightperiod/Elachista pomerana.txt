@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 38.035 Elachista pomerana (Fen Dwarf)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Elachista pomerana (Fen Dwarf)
+Tvk = NHMSYS0000502324
+StartDate = 0401
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.090 Prolita solutella (Buff Groundling)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Prolita solutella (Buff Groundling)
+Tvk = NBNSYS0000026301
+StartDate = 0501
+EndDate = 0630
+LastChanged = 20210525
+[EndMetadata]

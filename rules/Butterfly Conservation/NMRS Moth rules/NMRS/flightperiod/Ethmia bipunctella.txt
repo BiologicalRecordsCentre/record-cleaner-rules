@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 33.006 Ethmia bipunctella (Bordered Ermel)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Ethmia bipunctella (Bordered Ermel)
+Tvk = NBNSYS0000026224
+StartDate = 0501
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

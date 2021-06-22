@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.363 Xestia alpicola alpicola (Northern Dart)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Xestia alpicola alpicola (Northern Dart)
+Tvk = NHMSYS0021144945
+StartDate = 0621
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

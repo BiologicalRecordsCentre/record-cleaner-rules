@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Malacosoma castrensis
-Description=Checks date is within known flight period of Malacosoma castrensis
-ErrorMsg=Date is outside known flight period of Malacosoma castrensis
-Tvk=NBNSYS0000005704
-DataFieldName=
-StartDate=0601
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 66.004 Malacosoma castrensis (Ground Lackey)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Malacosoma castrensis (Ground Lackey)
+Tvk = NBNSYS0000005704
+StartDate = 0621
+EndDate = 0915
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Drymonia dodonaea
-Description=Checks date is within known flight period of Drymonia dodonaea
-ErrorMsg=Date is outside known flight period of Drymonia dodonaea
-Tvk=NHMSYS0000502224
-DataFieldName=
-StartDate=0401
-EndDate=0731
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 71.010 Drymonia dodonaea (Marbled Brown)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Drymonia dodonaea (Marbled Brown)
+Tvk = NHMSYS0021144344
+StartDate = 0401
+EndDate = 0721
+LastChanged = 20210525
 [EndMetadata]
-
-         

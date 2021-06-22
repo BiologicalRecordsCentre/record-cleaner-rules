@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 12.031 Tinea columbariella (Eaves Clothes Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Tinea columbariella (Eaves Clothes Moth)
+Tvk = NHMSYS0000504528
+StartDate = 0601
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

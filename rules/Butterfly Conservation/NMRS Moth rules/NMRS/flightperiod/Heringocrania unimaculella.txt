@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 2.003 Heringocrania unimaculella (White-spot Purple)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Heringocrania unimaculella (White-spot Purple)
+Tvk = NHMSYS0000502490
+StartDate = 0301
+EndDate = 0430
+LastChanged = 20210525
+[EndMetadata]

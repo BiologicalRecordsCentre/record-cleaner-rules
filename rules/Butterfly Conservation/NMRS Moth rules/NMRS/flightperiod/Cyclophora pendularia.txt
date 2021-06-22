@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Cyclophora pendularia
-Description=Checks date is within known flight period of Cyclophora pendularia
-ErrorMsg=Date is outside known flight period of Cyclophora pendularia
-Tvk=NBNSYS0000005748
-DataFieldName=
-StartDate=0401
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.030 Cyclophora pendularia (Dingy Mocha)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cyclophora pendularia (Dingy Mocha)
+Tvk = NBNSYS0000005748
+StartDate = 0415
+EndDate = 0915
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.117 Crypsedra gemmea (Cameo)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Crypsedra gemmea (Cameo)
+Tvk = NHMSYS0021144604
+StartDate = 19790901
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

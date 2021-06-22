@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Rheumaptera hastata
-Description=Checks date is within known flight period of Rheumaptera hastata
-ErrorMsg=Date is outside known flight period of Rheumaptera hastata
-Tvk=NBNSYS0000005867
-DataFieldName=
-StartDate=0401
-EndDate=0731
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.120 Rheumaptera hastata (Argent & Sable)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Rheumaptera hastata (Argent & Sable)
+Tvk = NBNSYS0000005867
+StartDate = 0501
+EndDate = 0721
+LastChanged = 20210525
 [EndMetadata]
-
-         

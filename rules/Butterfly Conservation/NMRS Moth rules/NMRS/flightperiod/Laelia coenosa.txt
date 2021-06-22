@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Laelia coenosa
-Description=Checks date is within known flight period of Laelia coenosa
-ErrorMsg=Date is outside known flight period of Laelia coenosa
-Tvk=NHMSYS0000502991
-DataFieldName=
-StartDate=0601
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.014 Laelia coenosa (Reed Tussock)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Laelia coenosa (Reed Tussock)
+Tvk = NHMSYS0021144380
+StartDate = 0701
+EndDate = 0831
+LastChanged = 20210525
 [EndMetadata]
-
-         

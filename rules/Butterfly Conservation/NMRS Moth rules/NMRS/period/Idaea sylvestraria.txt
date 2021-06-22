@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Idaea sylvestraria
-Description=Checks date is within known recording period of Idaea sylvestraria
-ErrorMsg=Date is outside known recording period of Idaea sylvestraria
-Tvk=NHMSYS0000502934
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.010 Idaea sylvestraria (Dotted Border Wave)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Idaea sylvestraria (Dotted Border Wave)
+Tvk = NHMSYS0021143853
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

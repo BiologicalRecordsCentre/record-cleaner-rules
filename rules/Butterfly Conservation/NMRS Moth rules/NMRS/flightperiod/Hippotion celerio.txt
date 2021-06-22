@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Hippotion celerio
-Description=Checks date is within known flight period of Hippotion celerio
-ErrorMsg=Date is outside known flight period of Hippotion celerio
-Tvk=NBNSYS0000006079
-DataFieldName=
-StartDate=0701
-EndDate=1231
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 69.018 Hippotion celerio (Silver-striped Hawk-moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hippotion celerio (Silver-striped Hawk-moth)
+Tvk = NBNSYS0000006079
+StartDate = 0807
+EndDate = 1207
+LastChanged = 20210525
 [EndMetadata]
-
-         

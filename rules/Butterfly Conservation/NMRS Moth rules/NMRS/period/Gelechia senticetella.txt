@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.099 Gelechia senticetella (Cypress Groundling)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Gelechia senticetella (Cypress Groundling)
+Tvk = NHMSYS0000502712
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

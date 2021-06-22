@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.089 Prolita sexpunctella (Six-spot Groundling)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Prolita sexpunctella (Six-spot Groundling)
+Tvk = NBNSYS0000005367
+StartDate = 0501
+EndDate = 0707
+LastChanged = 20210525
+[EndMetadata]

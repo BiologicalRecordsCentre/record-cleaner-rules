@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.128 Aethes rubigana (Burdock Conch)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Aethes rubigana (Burdock Conch)
+Tvk = NHMSYS0000501015
+StartDate = 0601
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 12.024 Cephimallota crassiflavella (Simple Clothes Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Cephimallota crassiflavella (Simple Clothes Moth)
+Tvk = NHMSYS0021142384
+StartDate = 17000101
+EndDate = 18991231
+LastChanged = 20210521
+[EndMetadata]

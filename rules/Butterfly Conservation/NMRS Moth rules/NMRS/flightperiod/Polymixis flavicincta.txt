@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Polymixis flavicincta
-Description=Checks date is within known flight period of Polymixis flavicincta
-ErrorMsg=Date is outside known flight period of Polymixis flavicincta
-Tvk=NHMSYS0000503895
-DataFieldName=
-StartDate=0801
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.237 Polymixis flavicincta (Large Ranunculus)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Polymixis flavicincta (Large Ranunculus)
+Tvk = NHMSYS0021144778
+StartDate = 0821
+EndDate = 1031
+LastChanged = 20210525
 [EndMetadata]
-
-         

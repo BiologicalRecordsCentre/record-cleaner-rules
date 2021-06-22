@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 4.083 Ectoedemia hannoverella (New Poplar Pigmy)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Ectoedemia hannoverella (New Poplar Pigmy)
+Tvk = NHMSYS0001703656
+StartDate = 20020925
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

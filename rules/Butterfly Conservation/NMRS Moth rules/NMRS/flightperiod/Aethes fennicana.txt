@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.126 Aethes fennicana (Angelica Conch)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Aethes fennicana (Angelica Conch)
+Tvk = NHMSYS0021167174
+StartDate = 0801
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

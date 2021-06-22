@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.098 Dysstroma citrata pythonissata (Dark Marbled Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Dysstroma citrata pythonissata (Dark Marbled Carpet)
+Tvk = NHMSYS0021143998
+StartDate = 0521
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

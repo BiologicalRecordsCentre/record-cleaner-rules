@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 45.038 Hellinsia tephradactyla (Plain Plume)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hellinsia tephradactyla (Plain Plume)
+Tvk = NHMSYS0021142949
+StartDate = 0601
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

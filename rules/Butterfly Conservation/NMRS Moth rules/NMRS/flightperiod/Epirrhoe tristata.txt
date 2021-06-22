@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Epirrhoe tristata
-Description=Checks date is within known flight period of Epirrhoe tristata
-ErrorMsg=Date is outside known flight period of Epirrhoe tristata
-Tvk=NBNSYS0000005815
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.060 Epirrhoe tristata (Small Argent & Sable)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Epirrhoe tristata (Small Argent & Sable)
+Tvk = NBNSYS0000005815
+StartDate = 0401
+EndDate = 0907
+LastChanged = 20210525
 [EndMetadata]
-
-         

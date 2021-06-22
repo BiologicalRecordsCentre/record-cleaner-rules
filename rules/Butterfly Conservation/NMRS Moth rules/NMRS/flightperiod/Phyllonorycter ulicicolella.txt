@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 15.060 Phyllonorycter ulicicolella (Gorse Midget)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Phyllonorycter ulicicolella (Gorse Midget)
+Tvk = NHMSYS0000503818
+StartDate = 0501
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

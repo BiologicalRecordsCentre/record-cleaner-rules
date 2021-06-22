@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Hadena caesia
-Description=Checks date is within known flight period of Hadena caesia
-ErrorMsg=Date is outside known flight period of Hadena caesia
-Tvk=NHMSYS0000520318
-DataFieldName=
-StartDate=0401
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.285 Hadena caesia (Grey)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hadena caesia (Grey)
+Tvk = NHMSYS0000520318
+StartDate = 0501
+EndDate = 0907
+LastChanged = 20210525
 [EndMetadata]
-
-         

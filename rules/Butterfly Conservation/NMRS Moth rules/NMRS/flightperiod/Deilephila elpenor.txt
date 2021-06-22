@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Deilephila elpenor
-Description=Checks date is within known flight period of Deilephila elpenor
-ErrorMsg=Date is outside known flight period of Deilephila elpenor
-Tvk=NBNSYS0000006077
-DataFieldName=
-StartDate=0401
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 69.016 Deilephila elpenor (Elephant Hawk-moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Deilephila elpenor (Elephant Hawk-moth)
+Tvk = NBNSYS0000006077
+StartDate = 0507
+EndDate = 0831
+LastChanged = 20210525
 [EndMetadata]
-
-         

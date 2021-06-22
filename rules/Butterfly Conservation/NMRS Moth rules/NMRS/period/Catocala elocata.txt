@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Catocala elocata
-Description=Checks date is within known recording period of Catocala elocata
-ErrorMsg=Date is outside known recording period of Catocala elocata
-Tvk=NBNSYS0000005301
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.080 Catocala elocata (French Red Underwing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Catocala elocata (French Red Underwing)
+Tvk = NHMSYS0021144448
+StartDate = 19031020
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

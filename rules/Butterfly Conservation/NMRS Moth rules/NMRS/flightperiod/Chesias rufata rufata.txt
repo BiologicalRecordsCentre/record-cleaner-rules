@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.196 Chesias rufata rufata (Broom-tip)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Chesias rufata rufata (Broom-tip)
+Tvk = NHMSYS0021144145
+StartDate = 0401
+EndDate = 0821
+LastChanged = 20210525
+[EndMetadata]

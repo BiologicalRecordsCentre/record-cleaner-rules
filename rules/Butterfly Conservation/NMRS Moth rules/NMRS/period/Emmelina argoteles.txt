@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 45.045 Emmelina argoteles (Reed-bed Plume)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Emmelina argoteles (Reed-bed Plume)
+Tvk = NHMSYS0020732915
+StartDate = 20050624
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

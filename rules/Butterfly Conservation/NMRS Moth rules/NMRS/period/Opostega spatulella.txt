@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 5.002 Opostega spatulella (Essex Bent-wing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Opostega spatulella (Essex Bent-wing)
+Tvk = NHMSYS0000503499
+StartDate = 17000101
+EndDate = 20050525
+LastChanged = 20210521
+[EndMetadata]

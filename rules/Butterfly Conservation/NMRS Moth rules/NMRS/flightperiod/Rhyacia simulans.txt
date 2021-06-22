@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Rhyacia simulans
-Description=Checks date is within known flight period of Rhyacia simulans
-ErrorMsg=Date is outside known flight period of Rhyacia simulans
-Tvk=NBNSYS0000006191
-DataFieldName=
-StartDate=0501
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.339 Rhyacia simulans (Dotted Rustic)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Rhyacia simulans (Dotted Rustic)
+Tvk = NBNSYS0000006191
+StartDate = 0601
+EndDate = 1007
+LastChanged = 20210525
 [EndMetadata]
-
-         

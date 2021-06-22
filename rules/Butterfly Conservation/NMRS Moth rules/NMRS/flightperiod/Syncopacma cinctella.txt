@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.002 Syncopacma cinctella (White-streak Sober)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Syncopacma cinctella (White-streak Sober)
+Tvk = NHMSYS0000504429
+StartDate = 0521
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

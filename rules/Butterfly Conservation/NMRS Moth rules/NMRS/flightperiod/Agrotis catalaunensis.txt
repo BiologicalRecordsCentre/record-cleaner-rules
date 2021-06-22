@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.326 Agrotis catalaunensis (Grouville Dart)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Agrotis catalaunensis (Grouville Dart)
+Tvk = NHMSYS0021144902
+StartDate = 0301
+EndDate = 1130
+LastChanged = 20210525
+[EndMetadata]

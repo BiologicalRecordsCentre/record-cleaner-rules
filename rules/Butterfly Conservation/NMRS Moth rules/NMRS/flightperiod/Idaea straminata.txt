@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Idaea straminata
-Description=Checks date is within known flight period of Idaea straminata
-ErrorMsg=Date is outside known flight period of Idaea straminata
-Tvk=NBNSYS0000005788
-DataFieldName=
-StartDate=0601
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.018 Idaea straminata (Plain Wave)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Idaea straminata (Plain Wave)
+Tvk = NBNSYS0000005788
+StartDate = 0601
+EndDate = 0831
+LastChanged = 20210525
 [EndMetadata]
-
-         

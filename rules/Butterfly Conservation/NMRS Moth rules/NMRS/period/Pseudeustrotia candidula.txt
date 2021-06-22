@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Pseudeustrotia candidula
-Description=Checks date is within known recording period of Pseudeustrotia candidula
-ErrorMsg=Date is outside known recording period of Pseudeustrotia candidula
-Tvk=NHMSYS0020758202
-StartDate=20061029
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.086 Pseudeustrotia candidula (Shining Marbled)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pseudeustrotia candidula (Shining Marbled)
+Tvk = NHMSYS0020758202
+StartDate = 20061028
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

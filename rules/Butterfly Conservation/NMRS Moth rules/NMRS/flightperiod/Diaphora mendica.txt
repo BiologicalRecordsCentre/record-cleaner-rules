@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Diaphora mendica
-Description=Checks date is within known flight period of Diaphora mendica
-ErrorMsg=Date is outside known flight period of Diaphora mendica
-Tvk=NBNSYS0000006149
-DataFieldName=
-StartDate=0401
-EndDate=0930
-LastChanged=20120126
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.022 Diaphora mendica (Muslin Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Diaphora mendica (Muslin Moth)
+Tvk = NBNSYS0000006149
+StartDate = 0321
+EndDate = 0721
+LastChanged = 20210525
 [EndMetadata]
-
-         

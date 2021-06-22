@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Stauropus fagi
-Description=Checks date is within known recording period of Stauropus fagi
-ErrorMsg=Date is outside known recording period of Stauropus fagi
-Tvk=NBNSYS0000006085
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 71.009 Stauropus fagi (Lobster Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Stauropus fagi (Lobster Moth)
+Tvk = NBNSYS0000006085
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

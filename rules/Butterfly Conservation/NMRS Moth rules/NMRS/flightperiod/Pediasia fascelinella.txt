@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 63.108 Pediasia fascelinella (Banded Grass-veneer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Pediasia fascelinella (Banded Grass-veneer)
+Tvk = NHMSYS0021143774
+StartDate = 0601
+EndDate = 0915
+LastChanged = 20210525
+[EndMetadata]

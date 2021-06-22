@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.097 Dysstroma truncata concinnata (Arran Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Dysstroma truncata concinnata (Arran Carpet)
+Tvk = NHMSYS0021143995
+StartDate = 0501
+EndDate = 1130
+LastChanged = 20210525
+[EndMetadata]

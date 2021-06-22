@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.120 Rheumaptera hastata nigrescens (Argent & Sable)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Rheumaptera hastata nigrescens (Argent & Sable)
+Tvk = NHMSYS0021144035
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

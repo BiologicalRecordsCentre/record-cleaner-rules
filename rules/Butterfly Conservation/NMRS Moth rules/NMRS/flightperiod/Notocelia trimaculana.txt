@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.298 Notocelia trimaculana (Triple-blotched Bell)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Notocelia trimaculana (Triple-blotched Bell)
+Tvk = NHMSYS0021143318
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

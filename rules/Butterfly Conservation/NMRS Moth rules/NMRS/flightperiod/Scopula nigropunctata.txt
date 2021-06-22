@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Scopula nigropunctata
-Description=Checks date is within known flight period of Scopula nigropunctata
-ErrorMsg=Date is outside known flight period of Scopula nigropunctata
-Tvk=NBNSYS0000005757
-DataFieldName=
-StartDate=0601
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.020 Scopula nigropunctata (Sub-angled Wave)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Scopula nigropunctata (Sub-angled Wave)
+Tvk = NBNSYS0000005757
+StartDate = 0615
+EndDate = 0815
+LastChanged = 20210525
 [EndMetadata]
-
-         

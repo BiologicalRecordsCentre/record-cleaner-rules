@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Eupithecia virgaureata
-Description=Checks date is within known recording period of Eupithecia virgaureata
-ErrorMsg=Date is outside known recording period of Eupithecia virgaureata
-Tvk=NBNSYS0000005939
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.161 Eupithecia virgaureata (Golden-rod Pug)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eupithecia virgaureata (Golden-rod Pug)
+Tvk = NBNSYS0000005939
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

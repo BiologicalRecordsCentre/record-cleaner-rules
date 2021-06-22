@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Euphyia biangulata
-Description=Checks date is within known recording period of Euphyia biangulata
-ErrorMsg=Date is outside known recording period of Euphyia biangulata
-Tvk=NBNSYS0000005873
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.064 Euphyia biangulata (Cloaked Carpet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Euphyia biangulata (Cloaked Carpet)
+Tvk = NBNSYS0000005873
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

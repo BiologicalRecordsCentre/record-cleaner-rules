@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Callopistria latreillei
-Description=Checks date is within known flight period of Callopistria latreillei
-ErrorMsg=Date is outside known flight period of Callopistria latreillei
-Tvk=NBNSYS0000006405
-DataFieldName=
-StartDate=0401
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.081 Callopistria latreillei (Latreille's Latin)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Callopistria latreillei (Latreille's Latin)
+Tvk = NBNSYS0000006405
+StartDate = 1001
+EndDate = 1031
+LastChanged = 20210525
 [EndMetadata]
-
-         

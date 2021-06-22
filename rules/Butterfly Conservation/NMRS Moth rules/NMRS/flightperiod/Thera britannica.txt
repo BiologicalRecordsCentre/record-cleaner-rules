@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Thera britannica
-Description=Checks date is within known flight period of Thera britannica
-ErrorMsg=Date is outside known flight period of Thera britannica
-Tvk=NHMSYS0000504489
-DataFieldName=
-StartDate=0401
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.079 Thera britannica (Spruce Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Thera britannica (Spruce Carpet)
+Tvk = NHMSYS0000504489
+StartDate = 0321
+EndDate = 1231
+LastChanged = 20210525
 [EndMetadata]
-
-         

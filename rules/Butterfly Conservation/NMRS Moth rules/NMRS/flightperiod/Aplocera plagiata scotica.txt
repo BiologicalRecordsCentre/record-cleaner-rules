@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.192 Aplocera plagiata scotica (Treble-bar)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Aplocera plagiata scotica (Treble-bar)
+Tvk = NHMSYS0021144140
+StartDate = 0415
+EndDate = 0915
+LastChanged = 20210525
+[EndMetadata]

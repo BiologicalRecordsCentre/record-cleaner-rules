@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Macaria carbonaria
-Description=Checks date is within known flight period of Macaria carbonaria
-ErrorMsg=Date is outside known flight period of Macaria carbonaria
-Tvk=NBNSYS0100003855
-DataFieldName=
-StartDate=0301
-EndDate=0731
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.216 Macaria carbonaria (Netted Mountain Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Macaria carbonaria (Netted Mountain Moth)
+Tvk = NBNSYS0100003855
+StartDate = 0415
+EndDate = 0607
+LastChanged = 20210525
 [EndMetadata]
-
-         

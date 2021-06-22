@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Chiasmia clathrata
-Description=Checks date is within known flight period of Chiasmia clathrata
-ErrorMsg=Date is outside known flight period of Chiasmia clathrata
-Tvk=NBNSYS0100002337
-DataFieldName=
-StartDate=0401
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.218 Chiasmia clathrata (Latticed Heath)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Chiasmia clathrata (Latticed Heath)
+Tvk = NBNSYS0100002337
+StartDate = 0415
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Xanthorhoe ferrugata
-Description=Checks date is within known flight period of Xanthorhoe ferrugata
-ErrorMsg=Date is outside known flight period of Xanthorhoe ferrugata
-Tvk=NBNSYS0000005800
-DataFieldName=
-StartDate=0401
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.052 Xanthorhoe ferrugata (Dark-barred Twin-spot Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Xanthorhoe ferrugata (Dark-barred Twin-spot Carpet)
+Tvk = NBNSYS0000005800
+StartDate = 0415
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

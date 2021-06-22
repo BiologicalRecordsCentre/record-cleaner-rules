@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Hyles gallii
-Description=Checks date is within known flight period of Hyles gallii
-ErrorMsg=Date is outside known flight period of Hyles gallii
-Tvk=MM0001Z10063HLV1
-DataFieldName=
-StartDate=0401
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 69.014 Hyles gallii (Bedstraw Hawk-moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hyles gallii (Bedstraw Hawk-moth)
+Tvk = MM0001Z10063HLV1
+StartDate = 0507
+EndDate = 0915
+LastChanged = 20210525
 [EndMetadata]
-
-         

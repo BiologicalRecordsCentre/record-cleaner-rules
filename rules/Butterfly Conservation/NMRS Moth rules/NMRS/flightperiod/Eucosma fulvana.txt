@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.267 Eucosma fulvana (Fulvous Bell)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eucosma fulvana (Fulvous Bell)
+Tvk = NBNSYS0000100586
+StartDate = 0521
+EndDate = 0807
+LastChanged = 20210525
+[EndMetadata]

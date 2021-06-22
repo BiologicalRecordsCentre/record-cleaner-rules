@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Phragmatobia fuliginosa
-Description=Checks date is within known recording period of Phragmatobia fuliginosa
-ErrorMsg=Date is outside known recording period of Phragmatobia fuliginosa
-Tvk=NBNSYS0000006150
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.024 Phragmatobia fuliginosa (Ruby Tiger)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Phragmatobia fuliginosa (Ruby Tiger)
+Tvk = NBNSYS0000006150
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

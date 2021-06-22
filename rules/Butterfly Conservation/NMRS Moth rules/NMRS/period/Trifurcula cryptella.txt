@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 4.065 Trifurcula cryptella (Wood Lotus Pigmy)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Trifurcula cryptella (Wood Lotus Pigmy)
+Tvk = NHMSYS0000504584
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Pseudoips prasinana
-Description=Checks date is within known recording period of Pseudoips prasinana
-ErrorMsg=Date is outside known recording period of Pseudoips prasinana
-Tvk=NHMSYS0000517403
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 74.008 Pseudoips prasinana (Green Silver-lines)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pseudoips prasinana (Green Silver-lines)
+Tvk = NHMSYS0000517403
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

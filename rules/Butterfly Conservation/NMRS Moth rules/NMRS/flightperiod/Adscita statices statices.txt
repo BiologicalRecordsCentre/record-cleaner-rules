@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 54.002 Adscita statices statices (Forester)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Adscita statices statices (Forester)
+Tvk = NHMSYS0021143418
+StartDate = 0507
+EndDate = 0807
+LastChanged = 20210525
+[EndMetadata]

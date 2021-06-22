@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 20.005 Argyresthia trifasciata (Triple-barred Argent)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Argyresthia trifasciata (Triple-barred Argent)
+Tvk = NHMSYS0000501391
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

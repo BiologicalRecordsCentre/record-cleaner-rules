@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 4.043 Stigmella lemniscella (Red Elm Pigmy)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Stigmella lemniscella (Red Elm Pigmy)
+Tvk = NBNSYS0100005605
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.127 Tuta absoluta (Tomato Leaf-miner)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Tuta absoluta (Tomato Leaf-miner)
+Tvk = NHMSYS0020973895
+StartDate = 0401
+EndDate = 1231
+LastChanged = 20210525
+[EndMetadata]

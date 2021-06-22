@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 28.011 Borkhausenia minutella (Thatch Tubic)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Borkhausenia minutella (Thatch Tubic)
+Tvk = NHMSYS0000501519
+StartDate = 0501
+EndDate = 0630
+LastChanged = 20210525
+[EndMetadata]

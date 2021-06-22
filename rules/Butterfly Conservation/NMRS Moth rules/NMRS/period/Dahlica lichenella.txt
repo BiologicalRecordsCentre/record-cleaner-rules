@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 11.005 Dahlica lichenella (Lichen Bagworm)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Dahlica lichenella (Lichen Bagworm)
+Tvk = NHMSYS0000502086
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

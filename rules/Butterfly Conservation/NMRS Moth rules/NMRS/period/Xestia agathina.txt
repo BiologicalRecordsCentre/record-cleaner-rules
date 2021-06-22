@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Xestia agathina
-Description=Checks date is within known recording period of Xestia agathina
-ErrorMsg=Date is outside known recording period of Xestia agathina
-Tvk=NBNSYS0000006226
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.356 Xestia agathina (Heath Rustic)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Xestia agathina (Heath Rustic)
+Tvk = NBNSYS0000006226
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

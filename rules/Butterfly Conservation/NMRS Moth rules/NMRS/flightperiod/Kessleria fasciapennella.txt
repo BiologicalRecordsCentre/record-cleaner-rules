@@ -1,0 +1,12 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 16.013 Kessleria fasciapennella (Lost Ermine)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Kessleria fasciapennella (Lost Ermine)
+Tvk = NHMSYS0000502979
+StartDate = 0601
+EndDate = 0731
+ReverseRule = True
+LastChanged = 20210525
+[EndMetadata]

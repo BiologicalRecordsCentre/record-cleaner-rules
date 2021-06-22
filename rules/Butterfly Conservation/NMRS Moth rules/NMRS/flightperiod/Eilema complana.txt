@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Eilema complana
-Description=Checks date is within known flight period of Eilema complana
-ErrorMsg=Date is outside known flight period of Eilema complana
-Tvk=NBNSYS0000006133
-DataFieldName=
-StartDate=0601
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.046 Eilema complana (Scarce Footman)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eilema complana (Scarce Footman)
+Tvk = NBNSYS0000006133
+StartDate = 0615
+EndDate = 0915
+LastChanged = 20210525
 [EndMetadata]
-
-         

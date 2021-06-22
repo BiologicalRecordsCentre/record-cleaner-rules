@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.084 Plemyria rubiginata plumbata (Blue-bordered Carpet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Plemyria rubiginata plumbata (Blue-bordered Carpet)
+Tvk = NHMSYS0021143985
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

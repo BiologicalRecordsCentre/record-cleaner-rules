@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 37.080 Coleophora virgaureae (Golden-rod Case-bearer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Coleophora virgaureae (Golden-rod Case-bearer)
+Tvk = NHMSYS0000501945
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

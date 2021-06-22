@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.206 Ancylis upupana (Dark Roller)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Ancylis upupana (Dark Roller)
+Tvk = NHMSYS0000501236
+StartDate = 0501
+EndDate = 0630
+LastChanged = 20210525
+[EndMetadata]

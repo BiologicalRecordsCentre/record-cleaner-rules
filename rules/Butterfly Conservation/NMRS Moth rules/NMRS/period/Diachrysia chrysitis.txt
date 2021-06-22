@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Diachrysia chrysitis
-Description=Checks date is within known recording period of Diachrysia chrysitis
-ErrorMsg=Date is outside known recording period of Diachrysia chrysitis
-Tvk=NBNSYS0000006539
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.012 Diachrysia chrysitis (Burnished Brass)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Diachrysia chrysitis (Burnished Brass)
+Tvk = NBNSYS0000006539
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

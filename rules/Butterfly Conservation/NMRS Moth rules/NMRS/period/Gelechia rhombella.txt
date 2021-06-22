@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.097 Gelechia rhombella (Apple Groundling)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Gelechia rhombella (Apple Groundling)
+Tvk = NHMSYS0021142740
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

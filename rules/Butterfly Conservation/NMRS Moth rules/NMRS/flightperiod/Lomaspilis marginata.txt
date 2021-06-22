@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Lomaspilis marginata
-Description=Checks date is within known flight period of Lomaspilis marginata
-ErrorMsg=Date is outside known flight period of Lomaspilis marginata
-Tvk=NBNSYS0000005978
-DataFieldName=
-StartDate=0401
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.207 Lomaspilis marginata (Clouded Border)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Lomaspilis marginata (Clouded Border)
+Tvk = NBNSYS0000005978
+StartDate = 0301
+EndDate = 0907
+LastChanged = 20210525
 [EndMetadata]
-
-         

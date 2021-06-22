@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Selidosema brunnearia
-Description=Checks date is within known recording period of Selidosema brunnearia
-ErrorMsg=Date is outside known recording period of Selidosema brunnearia
-Tvk=NBNSYS0000006030
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.262 Selidosema brunnearia (Bordered Grey)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Selidosema brunnearia (Bordered Grey)
+Tvk = NBNSYS0000006030
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

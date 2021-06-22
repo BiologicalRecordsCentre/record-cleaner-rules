@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Xestia triangulum
-Description=Checks date is within known flight period of Xestia triangulum
-ErrorMsg=Date is outside known flight period of Xestia triangulum
-Tvk=NBNSYS0000006219
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.361 Xestia triangulum (Double Square-spot)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Xestia triangulum (Double Square-spot)
+Tvk = NBNSYS0000006219
+StartDate = 0515
+EndDate = 0915
+LastChanged = 20210525
 [EndMetadata]
-
-         

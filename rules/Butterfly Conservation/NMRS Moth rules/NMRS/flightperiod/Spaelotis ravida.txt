@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Spaelotis ravida
-Description=Checks date is within known flight period of Spaelotis ravida
-ErrorMsg=Date is outside known flight period of Spaelotis ravida
-Tvk=NHMSYS0000504264
-DataFieldName=
-StartDate=0601
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.349 Spaelotis ravida (Stout Dart)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Spaelotis ravida (Stout Dart)
+Tvk = NHMSYS0021144929
+StartDate = 0601
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

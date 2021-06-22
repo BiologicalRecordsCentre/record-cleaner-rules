@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Furcula bifida
-Description=Checks date is within known flight period of Furcula bifida
-ErrorMsg=Date is outside known flight period of Furcula bifida
-Tvk=NBNSYS0000006084
-DataFieldName=
-StartDate=0401
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 71.007 Furcula bifida (Poplar Kitten)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Furcula bifida (Poplar Kitten)
+Tvk = NBNSYS0000006084
+StartDate = 0415
+EndDate = 0831
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.055 Metzneria aestivella (Carline Neb)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Metzneria aestivella (Carline Neb)
+Tvk = NHMSYS0000503221
+StartDate = 0621
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

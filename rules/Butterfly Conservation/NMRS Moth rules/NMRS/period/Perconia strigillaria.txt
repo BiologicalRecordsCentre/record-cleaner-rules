@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Perconia strigillaria
-Description=Checks date is within known recording period of Perconia strigillaria
-ErrorMsg=Date is outside known recording period of Perconia strigillaria
-Tvk=NHMSYS0000503676
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.295 Perconia strigillaria (Grass Wave)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Perconia strigillaria (Grass Wave)
+Tvk = NHMSYS0021144306
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

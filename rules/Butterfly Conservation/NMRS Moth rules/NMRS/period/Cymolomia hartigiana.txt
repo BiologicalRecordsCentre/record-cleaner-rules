@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.176 Cymolomia hartigiana (Plumbeous Spruce Tortrix)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Cymolomia hartigiana (Plumbeous Spruce Tortrix)
+Tvk = NHMSYS0021143186
+StartDate = 20070717
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

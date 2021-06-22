@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Bembecia ichneumoniformis
-Description=Checks date is within known recording period of Bembecia ichneumoniformis
-ErrorMsg=Date is outside known recording period of Bembecia ichneumoniformis
-Tvk=NHMSYS0000501466
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 52.014 Bembecia ichneumoniformis (Six-belted Clearwing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Bembecia ichneumoniformis (Six-belted Clearwing)
+Tvk = NBNSYS0100001926
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

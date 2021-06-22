@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Biston betularia
-Description=Checks date is within known flight period of Biston betularia
-ErrorMsg=Date is outside known flight period of Biston betularia
-Tvk=NBNSYS0000006022
-DataFieldName=
-StartDate=0401
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.252 Biston betularia (Peppered Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Biston betularia (Peppered Moth)
+Tvk = NBNSYS0000006022
+StartDate = 0415
+EndDate = 0907
+LastChanged = 20210525
 [EndMetadata]
-
-         

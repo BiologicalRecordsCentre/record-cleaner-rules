@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Hyppa rectilinea
-Description=Checks date is within known flight period of Hyppa rectilinea
-ErrorMsg=Date is outside known flight period of Hyppa rectilinea
-Tvk=NBNSYS0000006416
-DataFieldName=
-StartDate=0401
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.110 Hyppa rectilinea (Saxon)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hyppa rectilinea (Saxon)
+Tvk = NHMSYS0021144595
+StartDate = 0507
+EndDate = 0731
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 15.0201 Dialectica scalariella (Bugloss Slender)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Dialectica scalariella (Bugloss Slender)
+Tvk = NHMSYS0001703652
+StartDate = 20040927
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

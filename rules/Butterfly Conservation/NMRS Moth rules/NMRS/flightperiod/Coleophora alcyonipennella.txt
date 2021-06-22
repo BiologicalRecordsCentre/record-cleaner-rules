@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 37.035 Coleophora alcyonipennella (Clover Case-bearer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Coleophora alcyonipennella (Clover Case-bearer)
+Tvk = NHMSYS0000501824
+StartDate = 0501
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

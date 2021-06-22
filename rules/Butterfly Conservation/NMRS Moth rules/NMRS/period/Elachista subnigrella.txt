@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 38.033 Elachista subnigrella (Dark Dwarf)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Elachista subnigrella (Dark Dwarf)
+Tvk = NHMSYS0000502329
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

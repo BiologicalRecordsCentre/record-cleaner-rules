@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 63.027 Psammotis pulveralis (Scarce Marsh Pearl)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Psammotis pulveralis (Scarce Marsh Pearl)
+Tvk = NBNSYS0100004894
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 62.061 Vitula biviella (Pine-blossom Knot-horn)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Vitula biviella (Pine-blossom Knot-horn)
+Tvk = NHMSYS0000504629
+StartDate = 0615
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Macaria signaria
-Description=Checks date is within known flight period of Macaria signaria
-ErrorMsg=Date is outside known flight period of Macaria signaria
-Tvk=NBNSYS0100003858
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.213 Macaria signaria (Dusky Peacock)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Macaria signaria (Dusky Peacock)
+Tvk = NHMSYS0021144167
+StartDate = 0515
+EndDate = 0815
+LastChanged = 20210525
 [EndMetadata]
-
-         

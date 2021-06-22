@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.155 Hedya salicella (White-backed Marble)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Hedya salicella (White-backed Marble)
+Tvk = NHMSYS0000502816
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

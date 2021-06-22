@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.052 Cnephasia pasiuana (Meadow Shade)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Cnephasia pasiuana (Meadow Shade)
+Tvk = NHMSYS0021143059
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

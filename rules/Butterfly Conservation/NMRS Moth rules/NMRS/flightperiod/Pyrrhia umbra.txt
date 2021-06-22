@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Pyrrhia umbra
-Description=Checks date is within known flight period of Pyrrhia umbra
-ErrorMsg=Date is outside known flight period of Pyrrhia umbra
-Tvk=NBNSYS0000006505
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.070 Pyrrhia umbra (Bordered Sallow)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Pyrrhia umbra (Bordered Sallow)
+Tvk = NBNSYS0000006505
+StartDate = 0421
+EndDate = 1015
+LastChanged = 20210525
 [EndMetadata]
-
-         

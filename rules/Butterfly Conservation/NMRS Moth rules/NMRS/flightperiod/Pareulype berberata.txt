@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Pareulype berberata
-Description=Checks date is within known flight period of Pareulype berberata
-ErrorMsg=Date is outside known flight period of Pareulype berberata
-Tvk=NHMSYS0000503633
-DataFieldName=
-StartDate=0401
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.124 Pareulype berberata (Barberry Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Pareulype berberata (Barberry Carpet)
+Tvk = NHMSYS0021144040
+StartDate = 0515
+EndDate = 0907
+LastChanged = 20210525
 [EndMetadata]
-
-         

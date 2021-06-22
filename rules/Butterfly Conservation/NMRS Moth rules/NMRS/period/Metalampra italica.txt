@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 28.008 Metalampra italica (Italian Tubic)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Metalampra italica (Italian Tubic)
+Tvk = NHMSYS0001703661
+StartDate = 20030816
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

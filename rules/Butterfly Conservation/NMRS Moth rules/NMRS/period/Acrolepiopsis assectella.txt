@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 19.011 Acrolepiopsis assectella (Leek Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Acrolepiopsis assectella (Leek Moth)
+Tvk = NHMSYS0000500971
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

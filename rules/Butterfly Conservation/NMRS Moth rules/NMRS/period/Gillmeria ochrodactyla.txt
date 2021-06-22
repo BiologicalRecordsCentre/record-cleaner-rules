@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 45.009 Gillmeria ochrodactyla (Tansy Plume)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Gillmeria ochrodactyla (Tansy Plume)
+Tvk = NHMSYS0021142899
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

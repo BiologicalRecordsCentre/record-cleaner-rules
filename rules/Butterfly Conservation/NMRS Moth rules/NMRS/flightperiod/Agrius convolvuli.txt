@@ -1,15 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Agrius convolvuli
-Description=Checks date is within known flight period of Agrius convolvuli
-ErrorMsg=Date is outside known flight period of Agrius convolvuli
-Tvk=NBNSYS0000006063
-DataFieldName=
-StartDate=0131
-EndDate=0501
-ReverseRule=True
-LastChanged=20120126
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 69.004 Agrius convolvuli (Convolvulus Hawk-moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Agrius convolvuli (Convolvulus Hawk-moth)
+Tvk = NBNSYS0000006063
+StartDate = 0615
+EndDate = 1031
+LastChanged = 20210525
 [EndMetadata]
-
-         

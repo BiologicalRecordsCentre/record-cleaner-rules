@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Catocala elocata
-Description=Checks date is within known flight period of Catocala elocata
-ErrorMsg=Date is outside known flight period of Catocala elocata
-Tvk=NBNSYS0000005301
-DataFieldName=
-StartDate=0701
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.080 Catocala elocata (French Red Underwing)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Catocala elocata (French Red Underwing)
+Tvk = NHMSYS0021144448
+StartDate = 0701
+EndDate = 1031
+LastChanged = 20210525
 [EndMetadata]
-
-         

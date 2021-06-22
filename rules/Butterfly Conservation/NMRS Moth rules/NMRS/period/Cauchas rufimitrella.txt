@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 7.010 Cauchas rufimitrella (Meadow Long-horn)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Cauchas rufimitrella (Meadow Long-horn)
+Tvk = NHMSYS0021142167
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

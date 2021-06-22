@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Gortyna flavago
-Description=Checks date is within known recording period of Gortyna flavago
-ErrorMsg=Date is outside known recording period of Gortyna flavago
-Tvk=NHMSYS0000502755
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.121 Gortyna flavago (Frosted Orange)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Gortyna flavago (Frosted Orange)
+Tvk = NHMSYS0021144610
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

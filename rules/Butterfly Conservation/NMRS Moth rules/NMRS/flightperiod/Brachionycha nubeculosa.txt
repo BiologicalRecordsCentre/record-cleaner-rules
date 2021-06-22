@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Brachionycha nubeculosa
-Description=Checks date is within known flight period of Brachionycha nubeculosa
-ErrorMsg=Date is outside known flight period of Brachionycha nubeculosa
-Tvk=NBNSYS0000006321
-DataFieldName=
-StartDate=0201
-EndDate=0531
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.066 Brachionycha nubeculosa (Rannoch Sprawler)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Brachionycha nubeculosa (Rannoch Sprawler)
+Tvk = NBNSYS0000006321
+StartDate = 0307
+EndDate = 0507
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 63.091 Agriphila latistria (White-streak Grass-veneer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Agriphila latistria (White-streak Grass-veneer)
+Tvk = NBNSYS0000026831
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

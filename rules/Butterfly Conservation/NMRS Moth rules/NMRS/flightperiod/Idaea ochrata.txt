@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Idaea ochrata
-Description=Checks date is within known flight period of Idaea ochrata
-ErrorMsg=Date is outside known flight period of Idaea ochrata
-Tvk=NHMSYS0000520553
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.003 Idaea ochrata (Bright Wave)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Idaea ochrata (Bright Wave)
+Tvk = NHMSYS0000520553
+StartDate = 0607
+EndDate = 0721
+LastChanged = 20210525
 [EndMetadata]
-
-         

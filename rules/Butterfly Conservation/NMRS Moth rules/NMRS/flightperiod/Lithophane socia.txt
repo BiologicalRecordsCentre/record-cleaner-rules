@@ -1,0 +1,12 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.201 Lithophane socia (Pale Pinion)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Lithophane socia (Pale Pinion)
+Tvk = NBNSYS0000150730
+StartDate = 0630
+EndDate = 0831
+ReverseRule = True
+LastChanged = 20210525
+[EndMetadata]

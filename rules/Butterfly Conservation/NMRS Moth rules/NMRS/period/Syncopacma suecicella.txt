@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.008 Syncopacma suecicella (Western Sober)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Syncopacma suecicella (Western Sober)
+Tvk = NHMSYS0000504433
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

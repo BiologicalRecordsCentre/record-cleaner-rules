@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Trisateles emortualis
-Description=Checks date is within known flight period of Trisateles emortualis
-ErrorMsg=Date is outside known flight period of Trisateles emortualis
-Tvk=NHMSYS0000504595
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.070 Trisateles emortualis (Olive Crescent)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Trisateles emortualis (Olive Crescent)
+Tvk = NHMSYS0021144441
+StartDate = 0601
+EndDate = 0807
+LastChanged = 20210525
 [EndMetadata]
-
-         

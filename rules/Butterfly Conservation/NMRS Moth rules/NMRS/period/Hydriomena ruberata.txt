@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Hydriomena ruberata
-Description=Checks date is within known recording period of Hydriomena ruberata
-ErrorMsg=Date is outside known recording period of Hydriomena ruberata
-Tvk=NBNSYS0000005859
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.076 Hydriomena ruberata (Ruddy Highflier)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Hydriomena ruberata (Ruddy Highflier)
+Tvk = NHMSYS0021143965
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

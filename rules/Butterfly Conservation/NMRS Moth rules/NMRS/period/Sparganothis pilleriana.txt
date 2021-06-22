@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.003 Sparganothis pilleriana (Long-nosed Tortrix)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Sparganothis pilleriana (Long-nosed Tortrix)
+Tvk = NHMSYS0021142989
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

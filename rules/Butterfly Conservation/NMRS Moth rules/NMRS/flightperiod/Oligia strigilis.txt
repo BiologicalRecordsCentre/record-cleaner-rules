@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Oligia strigilis
-Description=Checks date is within known flight period of Oligia strigilis
-ErrorMsg=Date is outside known flight period of Oligia strigilis
-Tvk=NBNSYS0000006435
-DataFieldName=
-StartDate=0401
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.173 Oligia strigilis (Marbled Minor)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Oligia strigilis (Marbled Minor)
+Tvk = NBNSYS0000006435
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
 [EndMetadata]
-
-         

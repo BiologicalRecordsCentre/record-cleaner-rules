@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.104 Athetis hospes (Porter's Rustic)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Athetis hospes (Porter's Rustic)
+Tvk = NHMSYS0021144590
+StartDate = 19780826
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.078 Acleris aspersana (Ginger Button)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Acleris aspersana (Ginger Button)
+Tvk = NHMSYS0021143095
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]
