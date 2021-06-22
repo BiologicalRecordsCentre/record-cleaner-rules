@@ -4,8 +4,8 @@ Group = Moths Flight Period
 Shortname = 37.07x Coleophora alticolella/glaucicolella
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Coleophora alticolella/glaucicolella
-Tvk = NHMSYS0001703649
+Tvk = NHMSYS0001703650
 StartDate = 0501
 EndDate = 0831
-LastChanged = 20210525
+LastChanged = 20210527
 [EndMetadata]

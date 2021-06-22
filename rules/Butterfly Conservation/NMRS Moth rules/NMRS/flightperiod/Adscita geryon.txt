@@ -6,6 +6,6 @@ Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Adscita geryon (Cistus Forester)
 Tvk = NHMSYS0000501001
 StartDate = 0421
-EndDate = 0721
-LastChanged = 20210525
+EndDate = 0807
+LastChanged = 20210527
 [EndMetadata]

@@ -7,5 +7,5 @@ ErrorMsg = Date is outside known flight period of Acronicta psi/tridens
 Tvk = NHMSYS0001703742
 StartDate = 0415
 EndDate = 0915
-LastChanged = 20210525
+LastChanged = 20210527
 [EndMetadata]

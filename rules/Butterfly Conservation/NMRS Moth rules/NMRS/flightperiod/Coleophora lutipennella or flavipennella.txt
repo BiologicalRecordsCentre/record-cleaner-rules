@@ -4,8 +4,8 @@ Group = Moths Flight Period
 Shortname = 37.00x Coleophora lutipennella/flavipennella
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Coleophora lutipennella/flavipennella
-Tvk = NHMSYS0001703650
+Tvk = NHMSYS0020083406
 StartDate = 0515
 EndDate = 0815
-LastChanged = 20210525
+LastChanged = 20210527
 [EndMetadata]
