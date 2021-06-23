@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Sargus cuprarius seasonal check
+Description=Check date of record against known seasonal limit of Sargus cuprarius
+Tvk=NBNSYS0000007830
+ErrorMsg=Date outside known seasonal limit for Sargus cuprarius
+StartDate=0601
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

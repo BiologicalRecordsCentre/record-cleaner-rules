@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Metrioptera roeselii temporal check
+Description=Check date of record against known temporal limit of Metrioptera roeselii
+Tvk=NBNSYS0000006822
+ErrorMsg=Date outside known temporal limit for Metrioptera roeselii
+StartDate=18000101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

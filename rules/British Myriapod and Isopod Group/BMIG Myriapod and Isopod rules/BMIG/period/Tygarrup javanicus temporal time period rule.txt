@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Tygarrup javanicus temporal check
+Description=Check date of record against known temporal limit of Tygarrup javanicus
+Tvk=NHMSYS0020784896
+ErrorMsg=Date outside known temporal limit for Tygarrup javanicus
+StartDate=19760208
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

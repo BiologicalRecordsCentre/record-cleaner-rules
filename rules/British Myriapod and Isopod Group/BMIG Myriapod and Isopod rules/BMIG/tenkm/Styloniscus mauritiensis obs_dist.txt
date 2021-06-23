@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Styloniscus mauritiensis 10km
+Description=Check coordinate against known 10km distribution of Styloniscus mauritiensis
+ErrorMsg=Coordinate outside know range for Styloniscus mauritiensis
+DataFieldName=Species
+DataRecordId=NHMSYS0000377500
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+NT27
+
+

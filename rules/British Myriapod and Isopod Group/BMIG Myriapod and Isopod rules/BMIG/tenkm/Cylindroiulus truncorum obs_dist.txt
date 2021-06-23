@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Cylindroiulus truncorum 10km
+Description=Check coordinate against known 10km distribution of Cylindroiulus truncorum
+ErrorMsg=Coordinate outside know range for Cylindroiulus truncorum
+DataFieldName=Species
+DataRecordId=NBNSYS0000011395
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+NS56
+NX05
+SK50
+SP50
+TQ17
+
+

@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Oxycera terminata 10km
+Description=Check coordinate against known 10km distribution of Oxycera terminata
+ErrorMsg=Coordinate outside know range for Oxycera terminata
+DataFieldName=Species
+DataRecordId=NBNSYS0000007817
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+SK80
+SO12
+SO31
+SO32
+SO33
+SO42
+SO90
+SP25
+SP74
+SP99
+ST73
+TL35
+
+

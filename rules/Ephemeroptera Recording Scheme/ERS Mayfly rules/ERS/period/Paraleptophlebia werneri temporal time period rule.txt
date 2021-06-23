@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Paraleptophlebia werneri temporal check
+Description=Check date of record against known temporal limit of Paraleptophlebia werneri
+Tvk=NBNSYS0000010893
+ErrorMsg=Date outside known temporal limit for Paraleptophlebia werneri
+StartDate=19190101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

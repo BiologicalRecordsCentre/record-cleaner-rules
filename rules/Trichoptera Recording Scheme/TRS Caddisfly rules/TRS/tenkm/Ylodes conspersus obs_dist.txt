@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Ylodes conspersus 10km
+Description=Check coordinate against known 10km distribution of Ylodes conspersus
+ErrorMsg=Coordinate outside know range for Ylodes conspersus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008532
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+SO57
+SP10
+SP40
+SU19
+SU31
+SU32
+SU33
+SU34
+SU41
+SU42
+SU43
+SU46
+SU53
+SU56
+SU88
+SU97
+SX17
+SY29
+SY39
+SY79
+SY88
+SY89
+SY98
+SZ19
+TL48
+
+

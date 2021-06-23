@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Styloniscus spinosus temporal check
+Description=Check date of record against known temporal limit of Styloniscus spinosus
+Tvk=NBNSYS0000008558
+ErrorMsg=Date outside known temporal limit for Styloniscus spinosus
+StartDate=19070101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

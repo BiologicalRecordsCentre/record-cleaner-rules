@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Neopachygaster meromelas seasonal check
+Description=Check date of record against known seasonal limit of Neopachygaster meromelas
+Tvk=NBNSYS0100004215
+ErrorMsg=Date outside known seasonal limit for Neopachygaster meromelas
+StartDate=0601
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

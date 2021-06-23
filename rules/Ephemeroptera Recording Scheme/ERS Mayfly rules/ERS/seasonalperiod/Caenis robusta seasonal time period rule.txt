@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Caenis robusta seasonal check
+Description=Check date of record against known seasonal limit of Caenis robusta
+Tvk=NBNSYS0000010905
+ErrorMsg=Date outside known seasonal limit for Caenis robusta
+StartDate=0601
+EndDate=0731
+LastChanged=20130528
+[EndMetadata]
+

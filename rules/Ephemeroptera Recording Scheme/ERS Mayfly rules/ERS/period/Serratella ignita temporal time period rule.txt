@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Serratella ignita temporal check
+Description=Check date of record against known temporal limit of Serratella ignita
+Tvk=NBNSYS0100005496
+ErrorMsg=Date outside known temporal limit for Serratella ignita
+StartDate=17610101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

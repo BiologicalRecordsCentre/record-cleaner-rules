@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Halesus radiatus temporal check
+Description=Check date of record against known temporal limit of Halesus radiatus
+Tvk=NBNSYS0000008447
+ErrorMsg=Date outside known temporal limit for Halesus radiatus
+StartDate=18400101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

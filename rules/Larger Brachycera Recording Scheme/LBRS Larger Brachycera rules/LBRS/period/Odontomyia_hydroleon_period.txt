@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Odontomyia hydroleon
+Description=Checks date is within known recording period of Odontomyia hydroleon
+ErrorMsg=Date is outside known recording period of Odontomyia hydroleon
+Tvk=NBNSYS0000007835
+StartDate=19860101
+EndDate=
+LastChanged=20130311
+[EndMetadata]

@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Ironoquia dubia 10km
+Description=Check coordinate against known 10km distribution of Ironoquia dubia
+ErrorMsg=Coordinate outside know range for Ironoquia dubia
+DataFieldName=Species
+DataRecordId=NBNSYS0000008437
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+SU66
+SU97
+
+

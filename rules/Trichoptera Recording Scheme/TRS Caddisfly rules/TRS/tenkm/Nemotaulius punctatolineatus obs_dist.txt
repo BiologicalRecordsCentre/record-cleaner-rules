@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Nemotaulius punctatolineatus 10km
+Description=Check coordinate against known 10km distribution of Nemotaulius punctatolineatus
+ErrorMsg=Coordinate outside know range for Nemotaulius punctatolineatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008495
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NC73
+NC75
+ND03
+ND14
+ND24
+NH91
+NJ01
+
+

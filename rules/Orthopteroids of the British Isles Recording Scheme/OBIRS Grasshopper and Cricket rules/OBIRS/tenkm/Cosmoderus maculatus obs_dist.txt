@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Cosmoderus maculatus 10km
+Description=Check coordinate against known 10km distribution of Cosmoderus maculatus
+ErrorMsg=Coordinate outside know range for Cosmoderus maculatus
+DataFieldName=Species
+DataRecordId=NHMSYS0020978404
+LastChanged=20130430
+[EndMetadata]
+
+
+[10km_GB]
+ST09
+ST17
+
+

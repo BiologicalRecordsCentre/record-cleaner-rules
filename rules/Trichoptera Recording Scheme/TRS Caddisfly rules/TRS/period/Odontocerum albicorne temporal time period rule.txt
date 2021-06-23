@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Odontocerum albicorne temporal check
+Description=Check date of record against known temporal limit of Odontocerum albicorne
+Tvk=NBNSYS0000008507
+ErrorMsg=Date outside known temporal limit for Odontocerum albicorne
+StartDate=18250101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

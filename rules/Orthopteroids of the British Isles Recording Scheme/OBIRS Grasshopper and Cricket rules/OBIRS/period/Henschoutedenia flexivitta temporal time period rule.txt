@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Henschoutedenia flexivitta temporal check
+Description=Check date of record against known temporal limit of Henschoutedenia flexivitta
+Tvk=NBNSYS0100003439
+ErrorMsg=Date outside known temporal limit for Henschoutedenia flexivitta
+StartDate=19540101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

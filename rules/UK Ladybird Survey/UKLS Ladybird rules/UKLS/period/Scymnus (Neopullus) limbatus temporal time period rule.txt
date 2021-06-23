@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Scymnus (Neopullus) limbatus temporal check
+Description=Check date of record against known temporal limit of Scymnus (Neopullus) limbatus
+Tvk=NHMSYS0020153393
+ErrorMsg=Date outside known temporal limit for Scymnus (Neopullus) limbatus
+StartDate=18000101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

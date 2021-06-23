@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Heptagenia longicauda temporal check
+Description=Check date of record against known temporal limit of Heptagenia longicauda
+Tvk=NHMSYS0000066972
+ErrorMsg=Date outside known temporal limit for Heptagenia longicauda
+StartDate=18350101
+EndDate=19301231
+LastChanged=20130528
+[EndMetadata]
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Platycleis albopunctata seasonal check
+Description=Check date of record against known seasonal limit of Platycleis albopunctata
+Tvk=NHMSYS0001387438
+ErrorMsg=Date outside known seasonal limit for Platycleis albopunctata
+StartDate=0401
+EndDate=1130
+LastChanged=20130528
+[EndMetadata]
+

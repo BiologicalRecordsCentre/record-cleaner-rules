@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Limnephilus centralis temporal check
+Description=Check date of record against known temporal limit of Limnephilus centralis
+Tvk=NBNSYS0000008471
+ErrorMsg=Date outside known temporal limit for Limnephilus centralis
+StartDate=18250101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

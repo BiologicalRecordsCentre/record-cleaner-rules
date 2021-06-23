@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Dioctria linearis seasonal check
+Description=Check date of record against known seasonal limit of Dioctria linearis
+Tvk=NBNSYS0000007917
+ErrorMsg=Date outside known seasonal limit for Dioctria linearis
+StartDate=0501
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

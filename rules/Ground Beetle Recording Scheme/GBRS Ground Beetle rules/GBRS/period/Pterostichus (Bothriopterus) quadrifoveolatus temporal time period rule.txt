@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Pterostichus (Bothriopterus) quadrifoveolatus temporal check
+Description=Check date of record against known temporal limit of Pterostichus (Bothriopterus) quadrifoveolatus
+Tvk=NHMSYS0001719778
+ErrorMsg=Date outside known temporal limit for Pterostichus (Bothriopterus) quadrifoveolatus
+StartDate=19160101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

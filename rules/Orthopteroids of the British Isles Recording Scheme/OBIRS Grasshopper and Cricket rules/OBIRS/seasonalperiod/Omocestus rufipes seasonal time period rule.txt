@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Omocestus rufipes seasonal check
+Description=Check date of record against known seasonal limit of Omocestus rufipes
+Tvk=NHMSYS0001387431
+ErrorMsg=Date outside known seasonal limit for Omocestus rufipes
+StartDate=0501
+EndDate=1130
+LastChanged=20130528
+[EndMetadata]
+

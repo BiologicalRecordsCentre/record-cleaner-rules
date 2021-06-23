@@ -1,0 +1,52 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Eutolmus rufibarbis 10km
+Description=Check coordinate against known 10km distribution of Eutolmus rufibarbis
+ErrorMsg=Coordinate outside know range for Eutolmus rufibarbis
+DataFieldName=Species
+DataRecordId=NBNSYS0000007900
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+SU10
+SU49
+SU51
+SU72
+SU82
+SU83
+SU84
+SU85
+SU91
+SU93
+SU94
+SU95
+SU96
+SU97
+SZ08
+SZ19
+SZ48
+TF70
+TF71
+TL67
+TL77
+TL78
+TL79
+TL87
+TL88
+TL89
+TL97
+TL98
+TL99
+TM34
+TM45
+TM47
+TQ05
+TQ06
+TQ14
+TQ16
+TQ57
+
+

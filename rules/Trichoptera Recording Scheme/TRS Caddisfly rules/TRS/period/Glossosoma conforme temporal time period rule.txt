@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Glossosoma conforme temporal check
+Description=Check date of record against known temporal limit of Glossosoma conforme
+Tvk=NHMSYS0020752276
+ErrorMsg=Date outside known temporal limit for Glossosoma conforme
+StartDate=18570101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

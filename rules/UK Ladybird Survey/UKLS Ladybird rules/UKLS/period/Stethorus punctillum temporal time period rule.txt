@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Stethorus punctillum temporal check
+Description=Check date of record against known temporal limit of Stethorus punctillum
+Tvk=NBNSYS0000008294
+ErrorMsg=Date outside known temporal limit for Stethorus punctillum
+StartDate=18000101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

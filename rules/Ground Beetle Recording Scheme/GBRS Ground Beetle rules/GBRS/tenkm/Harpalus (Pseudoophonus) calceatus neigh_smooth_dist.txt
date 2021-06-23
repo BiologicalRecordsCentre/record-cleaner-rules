@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Harpalus (Pseudoophonus) calceatus 10km
+Description=Check coordinate against known 10km distribution of Harpalus (Pseudoophonus) calceatus
+ErrorMsg=Coordinate outside know range for Harpalus (Pseudoophonus) calceatus
+DataFieldName=Species
+DataRecordId=NHMSYS0001718359
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+SJ25
+SJ26
+SJ27
+SJ35
+SJ36
+SJ37
+SJ45
+SJ46
+SJ47
+TQ56
+TQ57
+TQ58
+TQ66
+TQ67
+TQ68
+TQ76
+TQ77
+TQ78
+
+

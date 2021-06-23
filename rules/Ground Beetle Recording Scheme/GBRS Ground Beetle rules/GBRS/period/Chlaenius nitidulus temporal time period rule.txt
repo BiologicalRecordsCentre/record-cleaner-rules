@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Chlaenius nitidulus temporal check
+Description=Check date of record against known temporal limit of Chlaenius nitidulus
+Tvk=NBNSYS0000007452
+ErrorMsg=Date outside known temporal limit for Chlaenius nitidulus
+StartDate=
+EndDate=19301213
+LastChanged=20130528
+[EndMetadata]
+

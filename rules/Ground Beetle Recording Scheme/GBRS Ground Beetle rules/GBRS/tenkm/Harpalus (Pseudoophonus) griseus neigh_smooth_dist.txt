@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Harpalus (Pseudoophonus) griseus 10km
+Description=Check coordinate against known 10km distribution of Harpalus (Pseudoophonus) griseus
+ErrorMsg=Coordinate outside know range for Harpalus (Pseudoophonus) griseus
+DataFieldName=Species
+DataRecordId=NHMSYS0001718360
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+TL77
+TL78
+TL79
+TL87
+TL88
+TL89
+TL97
+TL98
+TL99
+TQ16
+TQ17
+TQ18
+TQ26
+TQ27
+TQ28
+TQ36
+TQ37
+TQ38
+
+

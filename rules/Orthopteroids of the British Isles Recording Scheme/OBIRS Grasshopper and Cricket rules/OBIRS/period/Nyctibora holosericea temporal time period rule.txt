@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Nyctibora holosericea temporal check
+Description=Check date of record against known temporal limit of Nyctibora holosericea
+Tvk=NHMSYS0020978482
+ErrorMsg=Date outside known temporal limit for Nyctibora holosericea
+StartDate=19310101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

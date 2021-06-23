@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Oxyethira distinctella 10km
+Description=Check coordinate against known 10km distribution of Oxyethira distinctella
+ErrorMsg=Coordinate outside know range for Oxyethira distinctella
+DataFieldName=Species
+DataRecordId=NBNSYS0000008366
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NN55
+SU32
+
+

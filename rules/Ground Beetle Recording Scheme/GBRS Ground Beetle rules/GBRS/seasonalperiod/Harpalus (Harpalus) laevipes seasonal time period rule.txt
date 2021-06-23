@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Harpalus (Harpalus) laevipes seasonal check
+Description=Check date of record against known seasonal limit of Harpalus (Harpalus) laevipes
+Tvk=NHMSYS0001718353
+ErrorMsg=Date outside known seasonal limit for Harpalus (Harpalus) laevipes
+StartDate=0401
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

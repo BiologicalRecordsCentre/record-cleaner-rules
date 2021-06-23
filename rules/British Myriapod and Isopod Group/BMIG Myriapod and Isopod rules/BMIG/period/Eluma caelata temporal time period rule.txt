@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Eluma caelata temporal check
+Description=Check date of record against known temporal limit of Eluma caelata
+Tvk=NHMSYS0020977835
+ErrorMsg=Date outside known temporal limit for Eluma caelata
+StartDate=19750101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

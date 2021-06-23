@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Dyschirius (Dyschiriodes) extensus temporal check
+Description=Check date of record against known temporal limit of Dyschirius (Dyschiriodes) extensus
+Tvk=NHMSYS0001718004
+ErrorMsg=Date outside known temporal limit for Dyschirius (Dyschiriodes) extensus
+StartDate=
+EndDate=19401213
+LastChanged=20130528
+[EndMetadata]
+

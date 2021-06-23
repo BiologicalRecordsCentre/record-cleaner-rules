@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Oxyethira frici temporal check
+Description=Check date of record against known temporal limit of Oxyethira frici
+Tvk=NBNSYS0000008369
+ErrorMsg=Date outside known temporal limit for Oxyethira frici
+StartDate=18800101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

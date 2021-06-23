@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Beris chalybata seasonal check
+Description=Check date of record against known seasonal limit of Beris chalybata
+Tvk=NBNSYS0000007795
+ErrorMsg=Date outside known seasonal limit for Beris chalybata
+StartDate=0401
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

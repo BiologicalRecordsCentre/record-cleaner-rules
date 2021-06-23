@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Oxyethira falcata temporal check
+Description=Check date of record against known temporal limit of Oxyethira falcata
+Tvk=NBNSYS0000008367
+ErrorMsg=Date outside known temporal limit for Oxyethira falcata
+StartDate=18980101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Stenolophus comma 10km
+Description=Check coordinate against known 10km distribution of Stenolophus comma
+ErrorMsg=Coordinate outside know range for Stenolophus comma
+DataFieldName=Species
+DataRecordId=NHMSYS0001720160
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+SY58
+SY59
+SY67
+SY68
+SY69
+SY77
+SY78
+SY79
+TL03
+TL04
+TL05
+TL13
+TL14
+TL15
+TL23
+TL24
+TL25
+TL80
+TL81
+TL82
+TL90
+TL91
+TL92
+TM00
+TM01
+TM02
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Heptagenia longicauda seasonal check
+Description=Check date of record against known seasonal limit of Heptagenia longicauda
+Tvk=NHMSYS0000066972
+ErrorMsg=Date outside known seasonal limit for Heptagenia longicauda
+StartDate=0501
+EndDate=0630
+LastChanged=20130528
+[EndMetadata]
+

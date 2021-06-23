@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Ameletus inopinatus seasonal check
+Description=Check date of record against known seasonal limit of Ameletus inopinatus
+Tvk=NBNSYS0000010859
+ErrorMsg=Date outside known seasonal limit for Ameletus inopinatus
+StartDate=0501
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

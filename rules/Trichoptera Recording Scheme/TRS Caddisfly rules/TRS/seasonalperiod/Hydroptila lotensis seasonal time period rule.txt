@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Hydroptila lotensis seasonal check
+Description=Check date of record against known seasonal limit of Hydroptila lotensis
+Tvk=NBNSYS0000008355
+ErrorMsg=Date outside known seasonal limit for Hydroptila lotensis
+StartDate=0501
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

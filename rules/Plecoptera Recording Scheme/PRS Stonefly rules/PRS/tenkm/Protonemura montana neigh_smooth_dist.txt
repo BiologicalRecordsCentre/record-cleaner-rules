@@ -1,0 +1,49 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Protonemura montana 10km
+Description=Check coordinate against known 10km distribution of Protonemura montana
+ErrorMsg=Coordinate outside know range for Protonemura montana
+DataFieldName=Species
+DataRecordId=NBNSYS0000022426
+LastChanged=20130426
+[EndMetadata]
+
+
+[10km_GB]
+NY60
+NY61
+NY62
+NY70
+NY71
+NY72
+NY80
+NY81
+NY82
+SD91
+SD92
+SD93
+SE01
+SE02
+SE03
+SE04
+SE05
+SE10
+SE11
+SE12
+SE13
+SE14
+SE15
+SE20
+SE23
+SE24
+SE25
+SE30
+SK18
+SK19
+SK28
+SK29
+SK38
+SK39
+
+

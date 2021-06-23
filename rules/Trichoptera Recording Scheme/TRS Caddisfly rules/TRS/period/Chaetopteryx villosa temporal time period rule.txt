@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Chaetopteryx villosa temporal check
+Description=Check date of record against known temporal limit of Chaetopteryx villosa
+Tvk=NHMSYS0020704776
+ErrorMsg=Date outside known temporal limit for Chaetopteryx villosa
+StartDate=18210101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

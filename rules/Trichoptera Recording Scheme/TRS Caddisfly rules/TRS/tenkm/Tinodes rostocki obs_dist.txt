@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Tinodes rostocki 10km
+Description=Check coordinate against known 10km distribution of Tinodes rostocki
+ErrorMsg=Coordinate outside know range for Tinodes rostocki
+DataFieldName=Species
+DataRecordId=NBNSYS0000008394
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+SK04
+SK27
+SK28
+SO01
+SO22
+SO77
+SY39
+TL52
+
+

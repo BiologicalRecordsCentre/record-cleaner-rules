@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Cylindroiulus salicivorus temporal check
+Description=Check date of record against known temporal limit of Cylindroiulus salicivorus
+Tvk=NHMSYS0000356246
+ErrorMsg=Date outside known temporal limit for Cylindroiulus salicivorus
+StartDate=19871102
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

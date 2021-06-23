@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Oligotricha striata seasonal check
+Description=Check date of record against known seasonal limit of Oligotricha striata
+Tvk=NBNSYS0000008429
+ErrorMsg=Date outside known seasonal limit for Oligotricha striata
+StartDate=0501
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

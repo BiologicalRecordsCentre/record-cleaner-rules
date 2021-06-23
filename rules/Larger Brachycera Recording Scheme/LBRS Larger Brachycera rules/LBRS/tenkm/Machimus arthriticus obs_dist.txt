@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Machimus arthriticus 10km
+Description=Check coordinate against known 10km distribution of Machimus arthriticus
+ErrorMsg=Coordinate outside know range for Machimus arthriticus
+DataFieldName=Species
+DataRecordId=NBNSYS0100003860
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+TL87
+TL88
+
+

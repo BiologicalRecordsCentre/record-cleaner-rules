@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Dromius angustus temporal check
+Description=Check date of record against known temporal limit of Dromius angustus
+Tvk=NHMSYS0001717971
+ErrorMsg=Date outside known temporal limit for Dromius angustus
+StartDate=19080101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

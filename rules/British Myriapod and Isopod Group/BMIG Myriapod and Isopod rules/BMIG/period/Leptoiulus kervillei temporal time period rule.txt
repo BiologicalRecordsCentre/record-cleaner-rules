@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Leptoiulus kervillei temporal check
+Description=Check date of record against known temporal limit of Leptoiulus kervillei
+Tvk=NBNSYS0000011384
+ErrorMsg=Date outside known temporal limit for Leptoiulus kervillei
+StartDate=19340127
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

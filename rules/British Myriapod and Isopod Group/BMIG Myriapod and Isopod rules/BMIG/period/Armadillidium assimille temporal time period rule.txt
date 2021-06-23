@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Armadillidium assimille temporal check
+Description=Check date of record against known temporal limit of Armadillidium assimille
+Tvk=NHMSYS0020977823
+ErrorMsg=Date outside known temporal limit for Armadillidium assimille
+StartDate=20050511
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

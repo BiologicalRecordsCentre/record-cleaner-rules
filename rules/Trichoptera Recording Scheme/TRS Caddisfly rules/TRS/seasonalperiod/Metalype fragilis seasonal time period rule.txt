@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Metalype fragilis seasonal check
+Description=Check date of record against known seasonal limit of Metalype fragilis
+Tvk=NBNSYS0000008387
+ErrorMsg=Date outside known seasonal limit for Metalype fragilis
+StartDate=0601
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

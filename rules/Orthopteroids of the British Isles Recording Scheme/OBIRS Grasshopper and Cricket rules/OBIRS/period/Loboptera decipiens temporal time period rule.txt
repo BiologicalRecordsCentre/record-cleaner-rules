@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Loboptera decipiens temporal check
+Description=Check date of record against known temporal limit of Loboptera decipiens
+Tvk=NHMSYS0001693174
+ErrorMsg=Date outside known temporal limit for Loboptera decipiens
+StartDate=19970101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

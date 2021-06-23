@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Blaniulus guttulatus temporal check
+Description=Check date of record against known temporal limit of Blaniulus guttulatus
+Tvk=NBNSYS0000011375
+ErrorMsg=Date outside known temporal limit for Blaniulus guttulatus
+StartDate=18140101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

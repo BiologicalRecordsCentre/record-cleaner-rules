@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Rhithrogena germanica seasonal check
+Description=Check date of record against known seasonal limit of Rhithrogena germanica
+Tvk=NBNSYS0000010886
+ErrorMsg=Date outside known seasonal limit for Rhithrogena germanica
+StartDate=0301
+EndDate=0531
+LastChanged=20130528
+[EndMetadata]
+

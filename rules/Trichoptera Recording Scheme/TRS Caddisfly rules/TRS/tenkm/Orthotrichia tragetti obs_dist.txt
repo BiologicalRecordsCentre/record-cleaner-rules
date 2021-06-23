@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Orthotrichia tragetti 10km
+Description=Check coordinate against known 10km distribution of Orthotrichia tragetti
+ErrorMsg=Coordinate outside know range for Orthotrichia tragetti
+DataFieldName=Species
+DataRecordId=NBNSYS0000008379
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+SU32
+
+

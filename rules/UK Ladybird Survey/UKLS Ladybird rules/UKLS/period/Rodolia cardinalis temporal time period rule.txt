@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Rodolia cardinalis temporal check
+Description=Check date of record against known temporal limit of Rodolia cardinalis
+Tvk=NHMSYS0020153342
+ErrorMsg=Date outside known temporal limit for Rodolia cardinalis
+StartDate=20030101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

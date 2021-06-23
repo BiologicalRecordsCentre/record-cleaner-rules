@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Colapteroblatta nigra 10km
+Description=Check coordinate against known 10km distribution of Colapteroblatta nigra
+ErrorMsg=Coordinate outside know range for Colapteroblatta nigra
+DataFieldName=Species
+DataRecordId=NBNSYS0100004188
+LastChanged=20130430
+[EndMetadata]
+
+
+[10km_GB]
+ST17
+
+

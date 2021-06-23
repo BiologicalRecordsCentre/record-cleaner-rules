@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Henosepilachna argus 10km
+Description=Check coordinate against known 10km distribution of Henosepilachna argus
+ErrorMsg=Coordinate outside know range for Henosepilachna argus
+DataFieldName=Species
+DataRecordId=NHMSYS0020152260
+LastChanged=20130430
+[EndMetadata]
+
+
+[10km_GB]
+SP26
+SU69
+SU96
+TQ04
+TQ05
+TQ06
+TQ07
+TQ15
+TQ16
+TQ17
+TQ18
+TQ25
+TQ26
+TQ36
+TQ37
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Paraleptophlebia submarginata seasonal check
+Description=Check date of record against known seasonal limit of Paraleptophlebia submarginata
+Tvk=NBNSYS0000010892
+ErrorMsg=Date outside known seasonal limit for Paraleptophlebia submarginata
+StartDate=0401
+EndDate=0731
+LastChanged=20130528
+[EndMetadata]
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Amara (Amara) famelica temporal check
+Description=Check date of record against known temporal limit of Amara (Amara) famelica
+Tvk=NHMSYS0001716726
+ErrorMsg=Date outside known temporal limit for Amara (Amara) famelica
+StartDate=18960101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

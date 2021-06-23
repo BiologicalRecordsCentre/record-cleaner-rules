@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Apatania muliebris temporal check
+Description=Check date of record against known temporal limit of Apatania muliebris
+Tvk=NBNSYS0000008439
+ErrorMsg=Date outside known temporal limit for Apatania muliebris
+StartDate=18640101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

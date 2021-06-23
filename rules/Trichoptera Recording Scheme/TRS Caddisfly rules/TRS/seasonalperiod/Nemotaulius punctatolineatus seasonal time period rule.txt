@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Nemotaulius punctatolineatus seasonal check
+Description=Check date of record against known seasonal limit of Nemotaulius punctatolineatus
+Tvk=NBNSYS0000008495
+ErrorMsg=Date outside known seasonal limit for Nemotaulius punctatolineatus
+StartDate=0601
+EndDate=0731
+LastChanged=20130528
+[EndMetadata]
+

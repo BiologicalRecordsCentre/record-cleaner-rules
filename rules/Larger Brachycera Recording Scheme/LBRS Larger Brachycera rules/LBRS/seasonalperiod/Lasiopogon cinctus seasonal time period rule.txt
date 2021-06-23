@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Lasiopogon cinctus seasonal check
+Description=Check date of record against known seasonal limit of Lasiopogon cinctus
+Tvk=NBNSYS0000007921
+ErrorMsg=Date outside known seasonal limit for Lasiopogon cinctus
+StartDate=0401
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

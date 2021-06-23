@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Ibisia marginata seasonal check
+Description=Check date of record against known seasonal limit of Ibisia marginata
+Tvk=NBNSYS0100003576
+ErrorMsg=Date outside known seasonal limit for Ibisia marginata
+StartDate=0601
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

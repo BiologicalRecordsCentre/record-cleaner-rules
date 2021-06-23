@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Stratiomys singularior seasonal check
+Description=Check date of record against known seasonal limit of Stratiomys singularior
+Tvk=NBNSYS0000007840
+ErrorMsg=Date outside known seasonal limit for Stratiomys singularior
+StartDate=0501
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

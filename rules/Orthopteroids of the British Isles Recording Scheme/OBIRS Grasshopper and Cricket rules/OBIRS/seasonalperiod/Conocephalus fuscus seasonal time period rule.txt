@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Conocephalus fuscus seasonal check
+Description=Check date of record against known seasonal limit of Conocephalus fuscus
+Tvk=NHMSYS0020752279
+ErrorMsg=Date outside known seasonal limit for Conocephalus fuscus
+StartDate=0501
+EndDate=1130
+LastChanged=20130528
+[EndMetadata]
+

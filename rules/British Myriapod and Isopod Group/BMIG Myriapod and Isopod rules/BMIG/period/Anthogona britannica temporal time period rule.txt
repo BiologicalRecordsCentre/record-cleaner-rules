@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Anthogona britannica temporal check
+Description=Check date of record against known temporal limit of Anthogona britannica
+Tvk=NHMSYS0000356226
+ErrorMsg=Date outside known temporal limit for Anthogona britannica
+StartDate=19831018
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

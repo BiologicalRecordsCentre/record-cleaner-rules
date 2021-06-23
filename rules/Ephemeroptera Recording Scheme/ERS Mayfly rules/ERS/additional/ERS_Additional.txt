@@ -1,0 +1,18 @@
+[Metadata]
+TestType=AncillarySpecies
+Group=Additional Verification
+ShortName=Check for Emphemeroptera species that require additional verification
+Description=Check for Emphemeroptera species where additional verification is required
+ErrorMsg=Records for this Emphemeroptera species requires additional verification
+ReverseRule=True
+LastChanged=20130410
+[EndMetadata]
+
+[INI]
+1=This is a rare species
+2=Records for this species must always be verified (rarity, new arrivals)
+
+[Data]
+NBNSYS0000010877,2
+NHMSYS0000066972,2
+

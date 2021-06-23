@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Glossosoma intermedium temporal check
+Description=Check date of record against known temporal limit of Glossosoma intermedium
+Tvk=NBNSYS0000008345
+ErrorMsg=Date outside known temporal limit for Glossosoma intermedium
+StartDate=19250101
+EndDate=20031231
+LastChanged=20130528
+[EndMetadata]
+

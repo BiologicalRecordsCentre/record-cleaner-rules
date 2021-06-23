@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Hydroptila sylvestris 10km
+Description=Check coordinate against known 10km distribution of Hydroptila sylvestris
+ErrorMsg=Coordinate outside know range for Hydroptila sylvestris
+DataFieldName=Species
+DataRecordId=NBNSYS0000008361
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NC01
+NC12
+NH90
+
+

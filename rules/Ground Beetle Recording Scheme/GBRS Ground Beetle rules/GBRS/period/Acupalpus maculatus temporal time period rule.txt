@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Acupalpus maculatus temporal check
+Description=Check date of record against known temporal limit of Acupalpus maculatus
+Tvk=NHMSYS0001716498
+ErrorMsg=Date outside known temporal limit for Acupalpus maculatus
+StartDate=20030101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

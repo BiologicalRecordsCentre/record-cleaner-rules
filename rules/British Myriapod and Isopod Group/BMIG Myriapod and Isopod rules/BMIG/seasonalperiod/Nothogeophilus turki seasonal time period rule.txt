@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Nothogeophilus turki seasonal check
+Description=Check date of record against known seasonal limit of Nothogeophilus turki
+Tvk=MM0001Z1ZT0011Z1
+ErrorMsg=Date outside known seasonal limit for Nothogeophilus turki
+StartDate=0401
+EndDate=0630
+LastChanged=20130528
+[EndMetadata]
+

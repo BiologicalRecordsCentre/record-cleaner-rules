@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Sericoda quadripunctata seasonal check
+Description=Check date of record against known seasonal limit of Sericoda quadripunctata
+Tvk=NHMSYS0001720084
+ErrorMsg=Date outside known seasonal limit for Sericoda quadripunctata
+StartDate=0401
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Chimarra marginata 10km
+Description=Check coordinate against known 10km distribution of Chimarra marginata
+ErrorMsg=Coordinate outside know range for Chimarra marginata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008384
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NC01
+NC02
+NC12
+NC24
+NH55
+NH59
+NM95
+NN60
+NO13
+NX36
+NX37
+NX46
+NY30
+SH62
+SH64
+SH65
+SH72
+SJ14
+SJ24
+SN34
+SO54
+SS74
+SU42
+SX17
+SX57
+SX67
+SX76
+SX77
+
+

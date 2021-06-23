@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Tricholeiochiton fagesii 10km
+Description=Check coordinate against known 10km distribution of Tricholeiochiton fagesii
+ErrorMsg=Coordinate outside know range for Tricholeiochiton fagesii
+DataFieldName=Species
+DataRecordId=NBNSYS0000008374
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NJ40
+SH44
+SH58
+SJ28
+SJ53
+SS69
+SY88
+TL99
+TQ91
+
+

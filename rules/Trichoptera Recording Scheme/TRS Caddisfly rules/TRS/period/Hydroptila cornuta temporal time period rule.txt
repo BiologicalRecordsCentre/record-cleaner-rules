@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Hydroptila cornuta temporal check
+Description=Check date of record against known temporal limit of Hydroptila cornuta
+Tvk=NBNSYS0000008353
+ErrorMsg=Date outside known temporal limit for Hydroptila cornuta
+StartDate=19150101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

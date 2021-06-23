@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Habrophlebia fusca temporal check
+Description=Check date of record against known temporal limit of Habrophlebia fusca
+Tvk=NBNSYS0000010888
+ErrorMsg=Date outside known temporal limit for Habrophlebia fusca
+StartDate=18340101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

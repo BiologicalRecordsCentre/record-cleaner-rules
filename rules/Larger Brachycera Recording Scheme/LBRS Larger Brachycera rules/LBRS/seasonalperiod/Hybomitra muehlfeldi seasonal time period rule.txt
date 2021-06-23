@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Hybomitra muehlfeldi seasonal check
+Description=Check date of record against known seasonal limit of Hybomitra muehlfeldi
+Tvk=NBNSYS0100003522
+ErrorMsg=Date outside known seasonal limit for Hybomitra muehlfeldi
+StartDate=0601
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

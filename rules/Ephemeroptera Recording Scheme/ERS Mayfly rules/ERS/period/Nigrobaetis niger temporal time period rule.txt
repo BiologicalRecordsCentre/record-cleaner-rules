@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Nigrobaetis niger temporal check
+Description=Check date of record against known temporal limit of Nigrobaetis niger
+Tvk=NBNSYS0100004260
+ErrorMsg=Date outside known temporal limit for Nigrobaetis niger
+StartDate=17610101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

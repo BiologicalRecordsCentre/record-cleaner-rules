@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Geophilus carpophagus 10km
+Description=Check coordinate against known 10km distribution of Geophilus carpophagus
+ErrorMsg=Coordinate outside know range for Geophilus carpophagus
+DataFieldName=Species
+DataRecordId=NHMSYS0020526954
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+SP31
+SP40
+SP41
+SP50
+SP51
+SP60
+SP70
+SP80
+SP81
+ST04
+SU49
+SU58
+SU59
+SU67
+SU68
+SU69
+SU78
+SU79
+SU88
+SU89
+SU99
+SZ38
+SZ47
+SZ48
+SZ57
+SZ59
+SZ68
+SZ69
+
+

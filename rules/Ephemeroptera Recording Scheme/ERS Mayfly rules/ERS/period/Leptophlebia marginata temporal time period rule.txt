@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Leptophlebia marginata temporal check
+Description=Check date of record against known temporal limit of Leptophlebia marginata
+Tvk=NHMSYS0000066974
+ErrorMsg=Date outside known temporal limit for Leptophlebia marginata
+StartDate=17670101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

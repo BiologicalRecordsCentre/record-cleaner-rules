@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Acanthoxyla prasina subsp. inermis temporal check
+Description=Check date of record against known temporal limit of Acanthoxyla prasina subsp. inermis
+Tvk=NHMSYS0001387234
+ErrorMsg=Date outside known temporal limit for Acanthoxyla prasina subsp. inermis
+StartDate=19200101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

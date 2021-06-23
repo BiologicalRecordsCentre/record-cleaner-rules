@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Villa cingulata 10km
+Description=Check coordinate against known 10km distribution of Villa cingulata
+ErrorMsg=Coordinate outside know range for Villa cingulata
+DataFieldName=Species
+DataRecordId=NBNSYS0000007946
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+SO80
+SO81
+SO90
+SO91
+SP80
+SP90
+ST89
+SU68
+SU78
+SU79
+SU88
+SU89
+SU99
+
+

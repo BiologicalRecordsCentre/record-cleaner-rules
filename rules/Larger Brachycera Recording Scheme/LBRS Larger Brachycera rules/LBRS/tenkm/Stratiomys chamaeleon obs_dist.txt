@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Stratiomys chamaeleon 10km
+Description=Check coordinate against known 10km distribution of Stratiomys chamaeleon
+ErrorMsg=Coordinate outside know range for Stratiomys chamaeleon
+DataFieldName=Species
+DataRecordId=NBNSYS0000007839
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+NH66
+SH47
+SH48
+SH57
+SH58
+SU49
+TQ86
+
+

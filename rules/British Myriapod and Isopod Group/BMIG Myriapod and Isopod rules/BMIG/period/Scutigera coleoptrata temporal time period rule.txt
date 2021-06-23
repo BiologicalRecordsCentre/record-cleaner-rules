@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Scutigera coleoptrata temporal check
+Description=Check date of record against known temporal limit of Scutigera coleoptrata
+Tvk=NBNSYS0000011447
+ErrorMsg=Date outside known temporal limit for Scutigera coleoptrata
+StartDate=19070101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Ithytrichia clavata 10km
+Description=Check coordinate against known 10km distribution of Ithytrichia clavata
+ErrorMsg=Coordinate outside know range for Ithytrichia clavata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008375
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NX46
+SU67
+
+

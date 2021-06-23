@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Dicheirotrichus gustavii seasonal check
+Description=Check date of record against known seasonal limit of Dicheirotrichus gustavii
+Tvk=NHMSYS0001717913
+ErrorMsg=Date outside known seasonal limit for Dicheirotrichus gustavii
+StartDate=0301
+EndDate=1130
+LastChanged=20130528
+[EndMetadata]
+

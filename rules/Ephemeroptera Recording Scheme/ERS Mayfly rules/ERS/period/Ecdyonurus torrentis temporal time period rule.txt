@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Ecdyonurus torrentis temporal check
+Description=Check date of record against known temporal limit of Ecdyonurus torrentis
+Tvk=NBNSYS0000010880
+ErrorMsg=Date outside known temporal limit for Ecdyonurus torrentis
+StartDate=19420101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

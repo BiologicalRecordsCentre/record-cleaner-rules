@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Oxyethira mirabilis seasonal check
+Description=Check date of record against known seasonal limit of Oxyethira mirabilis
+Tvk=NBNSYS0000008370
+ErrorMsg=Date outside known seasonal limit for Oxyethira mirabilis
+StartDate=0701
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

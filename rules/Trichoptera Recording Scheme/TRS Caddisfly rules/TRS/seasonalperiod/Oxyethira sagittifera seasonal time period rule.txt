@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Oxyethira sagittifera seasonal check
+Description=Check date of record against known seasonal limit of Oxyethira sagittifera
+Tvk=NBNSYS0000008371
+ErrorMsg=Date outside known seasonal limit for Oxyethira sagittifera
+StartDate=0601
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

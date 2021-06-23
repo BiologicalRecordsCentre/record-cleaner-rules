@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Cliorismia rustica 10km
+Description=Check coordinate against known 10km distribution of Cliorismia rustica
+ErrorMsg=Coordinate outside know range for Cliorismia rustica
+DataFieldName=Species
+DataRecordId=NBNSYS0000189329
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+NY45
+NY46
+NY53
+NY54
+NY96
+SE19
+SE68
+SJ66
+SJ67
+SJ68
+SJ76
+SJ78
+SJ86
+SJ87
+SJ88
+SJ99
+SM81
+SO21
+SO30
+SO31
+SO32
+SO41
+SO42
+ST17
+SU72
+SU82
+SU94
+
+

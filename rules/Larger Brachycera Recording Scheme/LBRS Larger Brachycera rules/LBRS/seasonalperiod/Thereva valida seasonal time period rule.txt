@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Thereva valida seasonal check
+Description=Check date of record against known seasonal limit of Thereva valida
+Tvk=NBNSYS0000007934
+ErrorMsg=Date outside known seasonal limit for Thereva valida
+StartDate=0601
+EndDate=0731
+LastChanged=20130528
+[EndMetadata]
+

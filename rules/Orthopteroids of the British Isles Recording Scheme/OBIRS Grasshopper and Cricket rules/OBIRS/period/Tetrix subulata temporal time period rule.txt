@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Tetrix subulata temporal check
+Description=Check date of record against known temporal limit of Tetrix subulata
+Tvk=NBNSYS0000006832
+ErrorMsg=Date outside known temporal limit for Tetrix subulata
+StartDate=18000101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

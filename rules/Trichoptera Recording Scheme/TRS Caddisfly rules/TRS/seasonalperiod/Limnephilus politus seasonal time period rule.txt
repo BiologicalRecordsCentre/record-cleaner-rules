@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Limnephilus politus seasonal check
+Description=Check date of record against known seasonal limit of Limnephilus politus
+Tvk=NBNSYS0000008488
+ErrorMsg=Date outside known seasonal limit for Limnephilus politus
+StartDate=0701
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

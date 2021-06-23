@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Thereva strigata 10km
+Description=Check coordinate against known 10km distribution of Thereva strigata
+ErrorMsg=Coordinate outside know range for Thereva strigata
+DataFieldName=Species
+DataRecordId=NBNSYS0000007933
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+SX96
+SZ38
+SZ57
+TR33
+
+

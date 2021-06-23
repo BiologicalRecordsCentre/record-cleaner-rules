@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Thalassisobates littoralis 10km
+Description=Check coordinate against known 10km distribution of Thalassisobates littoralis
+ErrorMsg=Coordinate outside know range for Thalassisobates littoralis
+DataFieldName=Species
+DataRecordId=NBNSYS0000011374
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+NX74
+SH46
+SH56
+SS59
+SV81
+SV91
+SX84
+TM23
+TV59
+
+

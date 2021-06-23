@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Henosepilachna argus temporal check
+Description=Check date of record against known temporal limit of Henosepilachna argus
+Tvk=NHMSYS0020152260
+ErrorMsg=Date outside known temporal limit for Henosepilachna argus
+StartDate=19970101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

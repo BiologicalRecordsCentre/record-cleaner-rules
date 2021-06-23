@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Sargus cuprarius 10km
+Description=Check coordinate against known 10km distribution of Sargus cuprarius
+ErrorMsg=Coordinate outside know range for Sargus cuprarius
+DataFieldName=Species
+DataRecordId=NBNSYS0000007830
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+NZ16
+NZ43
+SJ60
+SK36
+SO58
+SO75
+SO77
+SP31
+SP32
+ST55
+SU50
+SU56
+SU70
+SU72
+SU73
+SU81
+SU82
+SY68
+TL28
+TQ05
+TQ91
+TR03
+
+

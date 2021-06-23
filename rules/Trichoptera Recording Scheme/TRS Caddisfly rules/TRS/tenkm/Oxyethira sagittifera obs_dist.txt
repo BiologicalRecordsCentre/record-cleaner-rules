@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Oxyethira sagittifera 10km
+Description=Check coordinate against known 10km distribution of Oxyethira sagittifera
+ErrorMsg=Coordinate outside know range for Oxyethira sagittifera
+DataFieldName=Species
+DataRecordId=NBNSYS0000008371
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NC12
+NX48
+SH63
+SN65
+SN87
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Lamyctes emarginatus seasonal check
+Description=Check date of record against known seasonal limit of Lamyctes emarginatus
+Tvk=NHMSYS0000570579
+ErrorMsg=Date outside known seasonal limit for Lamyctes emarginatus
+StartDate=0101
+EndDate=1130
+LastChanged=20130528
+[EndMetadata]
+

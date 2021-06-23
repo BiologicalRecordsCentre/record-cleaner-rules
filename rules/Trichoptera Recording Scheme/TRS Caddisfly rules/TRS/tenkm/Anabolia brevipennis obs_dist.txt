@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Anabolia brevipennis 10km
+Description=Check coordinate against known 10km distribution of Anabolia brevipennis
+ErrorMsg=Coordinate outside know range for Anabolia brevipennis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008496
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NX66
+SJ43
+SJ57
+SJ65
+SJ97
+TF70
+TG32
+TL26
+TL99
+TM07
+
+

@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Euborellia annulipes 10km
+Description=Check coordinate against known 10km distribution of Euborellia annulipes
+ErrorMsg=Coordinate outside know range for Euborellia annulipes
+DataFieldName=Species
+DataRecordId=NHMSYS0001387304
+LastChanged=20130430
+[EndMetadata]
+
+
+[10km_GB]
+NT27
+SJ79
+SK22
+SO98
+SW83
+SX47
+TA02
+TQ29
+TQ78
+TQ97
+TR35
+
+

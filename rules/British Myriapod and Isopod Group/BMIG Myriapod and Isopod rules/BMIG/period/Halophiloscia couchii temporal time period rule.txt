@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Halophiloscia couchii temporal check
+Description=Check date of record against known temporal limit of Halophiloscia couchii
+Tvk=NHMSYS0001593599
+ErrorMsg=Date outside known temporal limit for Halophiloscia couchii
+StartDate=18580101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

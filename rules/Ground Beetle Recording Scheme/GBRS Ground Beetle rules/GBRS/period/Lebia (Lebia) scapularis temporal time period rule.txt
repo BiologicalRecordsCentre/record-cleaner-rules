@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Lebia (Lebia) scapularis temporal check
+Description=Check date of record against known temporal limit of Lebia (Lebia) scapularis
+Tvk=NHMSYS0001718730
+ErrorMsg=Date outside known temporal limit for Lebia (Lebia) scapularis
+StartDate=
+EndDate=18831213
+LastChanged=20130528
+[EndMetadata]
+

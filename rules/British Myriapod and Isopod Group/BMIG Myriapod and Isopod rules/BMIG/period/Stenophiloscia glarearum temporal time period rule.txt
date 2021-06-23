@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Stenophiloscia glarearum temporal check
+Description=Check date of record against known temporal limit of Stenophiloscia glarearum
+Tvk=NHMSYS0020302572
+ErrorMsg=Date outside known temporal limit for Stenophiloscia glarearum
+StartDate=19740301
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

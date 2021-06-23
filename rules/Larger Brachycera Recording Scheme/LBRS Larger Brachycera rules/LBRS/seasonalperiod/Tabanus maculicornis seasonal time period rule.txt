@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Tabanus maculicornis seasonal check
+Description=Check date of record against known seasonal limit of Tabanus maculicornis
+Tvk=NBNSYS0000007891
+ErrorMsg=Date outside known seasonal limit for Tabanus maculicornis
+StartDate=0501
+EndDate=0731
+LastChanged=20130528
+[EndMetadata]
+

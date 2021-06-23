@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Abax parallelus 10km
+Description=Check coordinate against known 10km distribution of Abax parallelus
+ErrorMsg=Coordinate outside know range for Abax parallelus
+DataFieldName=Species
+DataRecordId=NBNSYS0000007303
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+SV80
+SV81
+SV90
+SV91
+
+

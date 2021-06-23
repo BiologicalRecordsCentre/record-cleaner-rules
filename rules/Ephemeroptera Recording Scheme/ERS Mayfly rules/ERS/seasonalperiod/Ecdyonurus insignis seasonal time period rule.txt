@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Ecdyonurus insignis seasonal check
+Description=Check date of record against known seasonal limit of Ecdyonurus insignis
+Tvk=NBNSYS0000010879
+ErrorMsg=Date outside known seasonal limit for Ecdyonurus insignis
+StartDate=0501
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

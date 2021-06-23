@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Goera pilosa seasonal check
+Description=Check date of record against known seasonal limit of Goera pilosa
+Tvk=NHMSYS0020704791
+ErrorMsg=Date outside known seasonal limit for Goera pilosa
+StartDate=0501
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

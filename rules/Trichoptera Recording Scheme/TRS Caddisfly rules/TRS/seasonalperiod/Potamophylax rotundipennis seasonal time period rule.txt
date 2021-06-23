@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Potamophylax rotundipennis seasonal check
+Description=Check date of record against known seasonal limit of Potamophylax rotundipennis
+Tvk=NBNSYS0000008458
+ErrorMsg=Date outside known seasonal limit for Potamophylax rotundipennis
+StartDate=0701
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

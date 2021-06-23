@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Nauphoeta cinerea temporal check
+Description=Check date of record against known temporal limit of Nauphoeta cinerea
+Tvk=NHMSYS0001387421
+ErrorMsg=Date outside known temporal limit for Nauphoeta cinerea
+StartDate=19000101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

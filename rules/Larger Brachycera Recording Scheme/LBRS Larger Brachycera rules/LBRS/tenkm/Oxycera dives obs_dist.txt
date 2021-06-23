@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Oxycera dives 10km
+Description=Check coordinate against known 10km distribution of Oxycera dives
+ErrorMsg=Coordinate outside know range for Oxycera dives
+DataFieldName=Species
+DataRecordId=NBNSYS0000007809
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+NS62
+NT40
+NT41
+NT51
+NY63
+NY98
+NZ00
+NZ02
+SD48
+SE49
+SE58
+SN72
+
+

@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Metalype fragilis 10km
+Description=Check coordinate against known 10km distribution of Metalype fragilis
+ErrorMsg=Coordinate outside know range for Metalype fragilis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008387
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+SD96
+SM91
+SP10
+SU31
+SU32
+SU33
+SU34
+SU44
+SU46
+SU53
+
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Siphlonurus lacustris temporal check
+Description=Check date of record against known temporal limit of Siphlonurus lacustris
+Tvk=NBNSYS0000010862
+ErrorMsg=Date outside known temporal limit for Siphlonurus lacustris
+StartDate=18700101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

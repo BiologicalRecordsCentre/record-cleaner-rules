@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Ectobius panzeri seasonal check
+Description=Check date of record against known seasonal limit of Ectobius panzeri
+Tvk=NHMSYS0001387301
+ErrorMsg=Date outside known seasonal limit for Ectobius panzeri
+StartDate=0501
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

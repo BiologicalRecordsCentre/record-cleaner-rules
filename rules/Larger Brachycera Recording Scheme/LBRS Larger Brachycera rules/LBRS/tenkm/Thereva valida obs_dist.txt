@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Thereva valida 10km
+Description=Check coordinate against known 10km distribution of Thereva valida
+ErrorMsg=Coordinate outside know range for Thereva valida
+DataFieldName=Species
+DataRecordId=NBNSYS0000007934
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+NH81
+NJ02
+NZ44
+SE58
+SE68
+
+

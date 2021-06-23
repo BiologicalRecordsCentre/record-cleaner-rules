@@ -1,0 +1,44 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Stethophyma grossum 10km
+Description=Check coordinate against known 10km distribution of Stethophyma grossum
+ErrorMsg=Coordinate outside know range for Stethophyma grossum
+DataFieldName=Species
+DataRecordId=NBNSYS0000006834
+LastChanged=20130430
+[EndMetadata]
+
+
+[10km_GB]
+ST11
+ST34
+ST43
+ST44
+SU00
+SU10
+SU11
+SU20
+SU21
+SU30
+SU40
+SU94
+SU96
+SY88
+SY89
+SY98
+SY99
+SZ08
+SZ19
+SZ29
+SZ39
+TF50
+TF62
+TG31
+TG32
+TG40
+TL29
+TL56
+TL57
+
+

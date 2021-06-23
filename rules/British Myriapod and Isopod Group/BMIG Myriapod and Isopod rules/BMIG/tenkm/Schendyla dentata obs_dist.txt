@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Schendyla dentata 10km
+Description=Check coordinate against known 10km distribution of Schendyla dentata
+ErrorMsg=Coordinate outside know range for Schendyla dentata
+DataFieldName=Species
+DataRecordId=NHMSYS0020500692
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+NT27
+SO38
+SO47
+SP20
+SP31
+SP32
+SP33
+SP34
+SP41
+SP42
+SP44
+SP50
+SP51
+SP52
+SP60
+SS59
+SW63
+SX45
+SX65
+SY67
+TF72
+TF73
+TG20
+TL92
+TM24
+TQ27
+
+

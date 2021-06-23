@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Nemurella pictetii seasonal check
+Description=Check date of record against known seasonal limit of Nemurella pictetii
+Tvk=NHMSYS0020316272
+ErrorMsg=Date outside known seasonal limit for Nemurella pictetii
+StartDate=0201
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

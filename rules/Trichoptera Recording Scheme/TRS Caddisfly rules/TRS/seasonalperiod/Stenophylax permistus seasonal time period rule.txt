@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Stenophylax permistus seasonal check
+Description=Check date of record against known seasonal limit of Stenophylax permistus
+Tvk=NBNSYS0000008459
+ErrorMsg=Date outside known seasonal limit for Stenophylax permistus
+StartDate=0201
+EndDate=1130
+LastChanged=20130528
+[EndMetadata]
+

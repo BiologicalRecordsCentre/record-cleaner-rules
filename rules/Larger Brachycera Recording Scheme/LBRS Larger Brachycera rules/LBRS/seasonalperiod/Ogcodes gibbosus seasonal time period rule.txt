@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Ogcodes gibbosus seasonal check
+Description=Check date of record against known seasonal limit of Ogcodes gibbosus
+Tvk=NBNSYS0000007939
+ErrorMsg=Date outside known seasonal limit for Ogcodes gibbosus
+StartDate=0601
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

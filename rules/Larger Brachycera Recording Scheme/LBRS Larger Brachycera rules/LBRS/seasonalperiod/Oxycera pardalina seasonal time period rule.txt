@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Oxycera pardalina seasonal check
+Description=Check date of record against known seasonal limit of Oxycera pardalina
+Tvk=NBNSYS0000007814
+ErrorMsg=Date outside known seasonal limit for Oxycera pardalina
+StartDate=0601
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Glossosoma intermedium 10km
+Description=Check coordinate against known 10km distribution of Glossosoma intermedium
+ErrorMsg=Coordinate outside know range for Glossosoma intermedium
+DataFieldName=Species
+DataRecordId=NBNSYS0000008345
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NC80
+NY30
+NY41
+SE02
+SE34
+SK02
+SK04
+SU32
+SX57
+
+

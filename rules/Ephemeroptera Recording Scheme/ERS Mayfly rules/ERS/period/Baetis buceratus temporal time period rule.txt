@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Baetis buceratus temporal check
+Description=Check date of record against known temporal limit of Baetis buceratus
+Tvk=NBNSYS0000010864
+ErrorMsg=Date outside known temporal limit for Baetis buceratus
+StartDate=18700101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

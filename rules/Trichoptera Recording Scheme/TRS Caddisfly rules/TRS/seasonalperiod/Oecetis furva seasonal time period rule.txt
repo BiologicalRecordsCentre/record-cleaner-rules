@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Oecetis furva seasonal check
+Description=Check date of record against known seasonal limit of Oecetis furva
+Tvk=NBNSYS0000008535
+ErrorMsg=Date outside known seasonal limit for Oecetis furva
+StartDate=0601
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

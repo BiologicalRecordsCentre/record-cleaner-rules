@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Oxyethira tristella temporal check
+Description=Check date of record against known temporal limit of Oxyethira tristella
+Tvk=NBNSYS0000008373
+ErrorMsg=Date outside known temporal limit for Oxyethira tristella
+StartDate=18850101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Bembidion (Bembidion) humerale 10km
+Description=Check coordinate against known 10km distribution of Bembidion (Bembidion) humerale
+ErrorMsg=Coordinate outside know range for Bembidion (Bembidion) humerale
+DataFieldName=Species
+DataRecordId=NBNSYS0100001928
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+SE61
+SE70
+SE71
+
+

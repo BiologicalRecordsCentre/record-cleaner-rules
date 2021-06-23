@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Chrysopilus erythrophthalmus 10km
+Description=Check coordinate against known 10km distribution of Chrysopilus erythrophthalmus
+ErrorMsg=Coordinate outside know range for Chrysopilus erythrophthalmus
+DataFieldName=Species
+DataRecordId=NBNSYS0000007851
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+NH84
+NJ15
+NS16
+NS17
+NS25
+NS26
+NS27
+NS28
+NS29
+NS36
+NS45
+
+
