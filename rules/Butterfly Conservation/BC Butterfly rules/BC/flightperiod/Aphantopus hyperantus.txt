@@ -1,0 +1,11 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Aphantopus hyperantus
+Description=Checks date is within known flight period of Aphantopus hyperantus
+ErrorMsg=Date is outside known flight period of Aphantopus hyperantus
+Tvk=NHMSYS0000501120
+StartDate=0601
+EndDate=0831
+LastChanged=20210608
+[EndMetadata]

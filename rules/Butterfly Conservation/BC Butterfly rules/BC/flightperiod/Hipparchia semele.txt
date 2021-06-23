@@ -1,0 +1,11 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Hipparchia semele
+Description=Checks date is within known flight period of Hipparchia semele
+ErrorMsg=Date is outside known flight period of Hipparchia semele
+Tvk=NHMSYS0000520428
+StartDate=0601
+EndDate=0930
+LastChanged=20210608
+[EndMetadata]

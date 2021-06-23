@@ -1,0 +1,11 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Speyeria aglaja
+Description=Checks date is within known flight period of Speyeria aglaja
+ErrorMsg=Date is outside known flight period of Speyeria aglaja
+Tvk=NHMSYS0021297309
+StartDate=0501
+EndDate=0930
+LastChanged=20210608
+[EndMetadata]

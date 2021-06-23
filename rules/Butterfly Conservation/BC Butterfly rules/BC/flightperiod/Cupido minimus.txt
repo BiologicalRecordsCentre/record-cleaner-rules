@@ -1,0 +1,11 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Cupido minimus
+Description=Checks date is within known flight period of Cupido minimus
+ErrorMsg=Date is outside known flight period of Cupido minimus
+Tvk=NHMSYS0000502045
+StartDate=0401
+EndDate=0930
+LastChanged=20210608
+[EndMetadata]
