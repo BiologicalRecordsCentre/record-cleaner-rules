@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Cyaniris semiargus
+Description=Checks date is within known recording period of Cyaniris semiargus
+ErrorMsg=Date is outside known recording period of Cyaniris semiargus
+Tvk=NHMSYS0000502047
+StartDate=17000101
+EndDate=19040101
+LastChanged=20110328
+[EndMetadata]
+
+         

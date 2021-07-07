@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Phengaris arion
+Description=Checks date is within known recording period of Phengaris arion
+ErrorMsg=Date is outside known recording period of Phengaris arion
+Tvk=NHMSYS0020757917
+StartDate=17000101
+EndDate=
+LastChanged=20210707
+[EndMetadata]

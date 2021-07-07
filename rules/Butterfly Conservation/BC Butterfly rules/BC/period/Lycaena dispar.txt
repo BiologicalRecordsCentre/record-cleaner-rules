@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Lycaena dispar
+Description=Checks date is within known recording period of Lycaena dispar
+ErrorMsg=Date is outside known recording period of Lycaena dispar
+Tvk=NHMSYS0000516450
+StartDate=17000101
+EndDate=18640101
+LastChanged=20110328
+[EndMetadata]
+
+         

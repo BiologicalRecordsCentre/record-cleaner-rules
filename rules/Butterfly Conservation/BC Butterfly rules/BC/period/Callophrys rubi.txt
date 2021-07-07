@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Callophrys rubi
+Description=Checks date is within known recording period of Callophrys rubi
+ErrorMsg=Date is outside known recording period of Callophrys rubi
+Tvk=NHMSYS0000501598
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

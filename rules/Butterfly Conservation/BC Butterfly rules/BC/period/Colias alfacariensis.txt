@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Colias alfacariensis
+Description=Checks date is within known recording period of Colias alfacariensis
+ErrorMsg=Date is outside known recording period of Colias alfacariensis
+Tvk=NBNSYS0000005518
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

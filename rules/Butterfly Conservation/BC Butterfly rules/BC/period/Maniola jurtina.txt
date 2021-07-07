@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Maniola jurtina
+Description=Checks date is within known recording period of Maniola jurtina
+ErrorMsg=Date is outside known recording period of Maniola jurtina
+Tvk=NHMSYS0000521977
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

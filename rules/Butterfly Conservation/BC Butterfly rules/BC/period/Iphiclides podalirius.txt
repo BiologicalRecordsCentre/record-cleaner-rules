@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Iphiclides podalirius
+Description=Checks date is within known recording period of Iphiclides podalirius
+ErrorMsg=Date is outside known recording period of Iphiclides podalirius
+Tvk=NHMSYS0000502952
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         
