@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Eulithis prunata
-Description=Checks date is within known flight period of Eulithis prunata
-ErrorMsg=Date is outside known flight period of Eulithis prunata
-Tvk=NBNSYS0000005834
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.089 Eulithis prunata (Phoenix)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eulithis prunata (Phoenix)
+Tvk = NBNSYS0000005834
+StartDate = 0507
+EndDate = 0915
+LastChanged = 20210525
 [EndMetadata]
-
-         

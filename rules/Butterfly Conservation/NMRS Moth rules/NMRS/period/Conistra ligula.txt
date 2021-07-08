@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Conistra ligula
-Description=Checks date is within known recording period of Conistra ligula
-ErrorMsg=Date is outside known recording period of Conistra ligula
-Tvk=NBNSYS0000006354
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.195 Conistra ligula (Dark Chestnut)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Conistra ligula (Dark Chestnut)
+Tvk = NBNSYS0000006354
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Aplocera plagiata
-Description=Checks date is within known recording period of Aplocera plagiata
-ErrorMsg=Date is outside known recording period of Aplocera plagiata
-Tvk=NBNSYS0000005958
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.192 Aplocera plagiata (Treble-bar)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Aplocera plagiata (Treble-bar)
+Tvk = NBNSYS0000005958
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

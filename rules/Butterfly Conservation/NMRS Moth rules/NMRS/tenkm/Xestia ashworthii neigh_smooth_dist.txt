@@ -6,18 +6,19 @@ Description=Check coordinate against known 10km distribution of Xestia ashworthi
 ErrorMsg=Coordinate outside known range for Xestia ashworthii
 DataFieldName=Species
 DataRecordId=NBNSYS0000006220
-LastChanged=20150511
+LastChanged=20200404
 [EndMetadata]
 
 
 [10km_GB]
-SH32
-SH33
 SH34
+SH36
 SH43
 SH44
 SH45
 SH46
+SH47
+SH48
 SH50
 SH51
 SH52
@@ -25,6 +26,8 @@ SH53
 SH54
 SH55
 SH56
+SH57
+SH58
 SH60
 SH61
 SH62
@@ -32,6 +35,8 @@ SH63
 SH64
 SH65
 SH66
+SH67
+SH68
 SH70
 SH71
 SH72
@@ -39,6 +44,8 @@ SH73
 SH74
 SH75
 SH76
+SH77
+SH78
 SH80
 SH81
 SH82
@@ -46,48 +53,32 @@ SH83
 SH84
 SH85
 SH86
+SH87
+SH88
 SH90
 SH91
 SH92
 SH93
 SH94
 SH95
-SH96
 SJ00
 SJ01
 SJ02
 SJ03
-SJ04
-SJ05
-SJ06
 SJ10
 SJ11
 SJ12
 SJ13
-SJ14
-SJ20
-SJ21
-SJ22
-SJ23
-SJ24
-SN57
 SN58
 SN59
-SN67
 SN68
 SN69
-SN77
 SN78
 SN79
-SN87
 SN88
 SN89
 SN98
 SN99
-SO08
-SO09
-SO19
-SO29
 
 
 [10km_Ireland]

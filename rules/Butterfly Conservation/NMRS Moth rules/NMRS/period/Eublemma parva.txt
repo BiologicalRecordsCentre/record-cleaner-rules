@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Eublemma parva
-Description=Checks date is within known recording period of Eublemma parva
-ErrorMsg=Date is outside known recording period of Eublemma parva
-Tvk=NHMSYS0000502511
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.073 Eublemma parva (Small Marbled)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eublemma parva (Small Marbled)
+Tvk = NHMSYS0021144444
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

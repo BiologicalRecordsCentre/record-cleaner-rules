@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Entephria caesiata
-Description=Checks date is within known recording period of Entephria caesiata
-ErrorMsg=Date is outside known recording period of Entephria caesiata
-Tvk=NHMSYS0000502383
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.072 Entephria caesiata (Grey Mountain Carpet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Entephria caesiata (Grey Mountain Carpet)
+Tvk = NHMSYS0021143952
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

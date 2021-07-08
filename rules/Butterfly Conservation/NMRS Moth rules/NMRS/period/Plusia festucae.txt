@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Plusia festucae
-Description=Checks date is within known recording period of Plusia festucae
-ErrorMsg=Date is outside known recording period of Plusia festucae
-Tvk=NBNSYS0000006544
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.022 Plusia festucae (Gold Spot)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Plusia festucae (Gold Spot)
+Tvk = NBNSYS0000006544
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

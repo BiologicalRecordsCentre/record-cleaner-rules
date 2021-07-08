@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Eupithecia subfuscata
-Description=Checks date is within known flight period of Eupithecia subfuscata
-ErrorMsg=Date is outside known flight period of Eupithecia subfuscata
-Tvk=NBNSYS0000005925
-DataFieldName=
-StartDate=0401
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.190 Eupithecia subfuscata (Grey Pug)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eupithecia subfuscata (Grey Pug)
+Tvk = NBNSYS0000005925
+StartDate = 0415
+EndDate = 0831
+LastChanged = 20210525
 [EndMetadata]
-
-         

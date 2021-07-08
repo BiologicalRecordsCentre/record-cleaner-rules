@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Spodoptera littoralis
-Description=Checks date is within known flight period of Spodoptera littoralis
-ErrorMsg=Date is outside known flight period of Spodoptera littoralis
-Tvk=NBNSYS0000006491
-DataFieldName=
-StartDate=0501
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.089 Spodoptera littoralis (Mediterranean Brocade)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Spodoptera littoralis (Mediterranean Brocade)
+Tvk = NBNSYS0000006491
+StartDate = 0615
+EndDate = 1015
+LastChanged = 20210525
 [EndMetadata]
-
-         

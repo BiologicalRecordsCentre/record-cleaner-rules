@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 47.006 Epermenia falciformis (Large Lance-wing)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Epermenia falciformis (Large Lance-wing)
+Tvk = NBNSYS0100003026
+StartDate = 0601
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

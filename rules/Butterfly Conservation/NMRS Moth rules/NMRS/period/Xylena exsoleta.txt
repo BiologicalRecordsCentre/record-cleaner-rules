@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Xylena exsoleta
-Description=Checks date is within known recording period of Xylena exsoleta
-ErrorMsg=Date is outside known recording period of Xylena exsoleta
-Tvk=NBNSYS0000006335
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.208 Xylena exsoleta (Sword-grass)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Xylena exsoleta (Sword-grass)
+Tvk = NBNSYS0000006335
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

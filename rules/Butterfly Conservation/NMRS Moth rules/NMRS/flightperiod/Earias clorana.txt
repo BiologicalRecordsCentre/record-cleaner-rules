@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Earias clorana
-Description=Checks date is within known flight period of Earias clorana
-ErrorMsg=Date is outside known flight period of Earias clorana
-Tvk=NBNSYS0000006524
-DataFieldName=
-StartDate=0401
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 74.011 Earias clorana (Cream-bordered Green Pea)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Earias clorana (Cream-bordered Green Pea)
+Tvk = NBNSYS0000006524
+StartDate = 0507
+EndDate = 0907
+LastChanged = 20210525
 [EndMetadata]
-
-         

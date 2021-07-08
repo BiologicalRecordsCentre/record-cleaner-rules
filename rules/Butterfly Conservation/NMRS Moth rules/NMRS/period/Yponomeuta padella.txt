@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 16.002 Yponomeuta padella (Orchard Ermine)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Yponomeuta padella (Orchard Ermine)
+Tvk = NHMSYS0000504688
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

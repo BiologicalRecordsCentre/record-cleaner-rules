@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.249 Epinotia ramella (Small Birch Bell)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Epinotia ramella (Small Birch Bell)
+Tvk = NHMSYS0000502445
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

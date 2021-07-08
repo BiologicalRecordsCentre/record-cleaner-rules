@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Sesia apiformis
-Description=Checks date is within known flight period of Sesia apiformis
-ErrorMsg=Date is outside known flight period of Sesia apiformis
-Tvk=NBNSYS0000005685
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 52.002 Sesia apiformis (Hornet Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Sesia apiformis (Hornet Moth)
+Tvk = NBNSYS0000005685
+StartDate = 0507
+EndDate = 0731
+LastChanged = 20210525
 [EndMetadata]
-
-         

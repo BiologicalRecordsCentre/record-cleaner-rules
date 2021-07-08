@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 15.092 Phyllocnistis unipunctella (Poplar Bent-wing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Phyllocnistis unipunctella (Poplar Bent-wing)
+Tvk = NHMSYS0000503753
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 12.027 Tinea pellionella (Case-bearing Clothes Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Tinea pellionella (Case-bearing Clothes Moth)
+Tvk = NHMSYS0000504538
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

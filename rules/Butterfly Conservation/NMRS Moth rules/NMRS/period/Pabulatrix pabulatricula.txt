@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.153 Pabulatrix pabulatricula (Union Rustic)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pabulatrix pabulatricula (Union Rustic)
+Tvk = NHMSYS0021144660
+StartDate = 18880101
+EndDate = 19351231
+LastChanged = 20210521
+[EndMetadata]

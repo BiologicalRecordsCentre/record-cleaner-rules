@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Hoplodrina superstes
-Description=Checks date is within known flight period of Hoplodrina superstes
-ErrorMsg=Date is outside known flight period of Hoplodrina superstes
-Tvk=NBNSYS0000006488
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.098 Hoplodrina superstes (Powdered Rustic)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hoplodrina superstes (Powdered Rustic)
+Tvk = NBNSYS0000006488
+StartDate = 0601
+EndDate = 0831
+LastChanged = 20210525
 [EndMetadata]
-
-         

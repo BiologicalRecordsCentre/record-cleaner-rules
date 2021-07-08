@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.058 Cucullia verbasci (Mullein)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Cucullia verbasci (Mullein)
+Tvk = NBNSYS0000006314
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

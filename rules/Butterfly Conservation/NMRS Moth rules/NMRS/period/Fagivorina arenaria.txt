@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Fagivorina arenaria
-Description=Checks date is within known recording period of Fagivorina arenaria
-ErrorMsg=Date is outside known recording period of Fagivorina arenaria
-Tvk=NBNSYS0000006038
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.269 Fagivorina arenaria (Speckled Beauty)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Fagivorina arenaria (Speckled Beauty)
+Tvk = NBNSYS0000006038
+StartDate = 17000101
+EndDate = 18980731
+LastChanged = 20210521
 [EndMetadata]
-
-         

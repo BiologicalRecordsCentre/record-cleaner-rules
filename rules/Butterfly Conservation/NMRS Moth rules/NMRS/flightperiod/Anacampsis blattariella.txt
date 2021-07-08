@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.012 Anacampsis blattariella (Birch Sober)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Anacampsis blattariella (Birch Sober)
+Tvk = NHMSYS0000501224
+StartDate = 0701
+EndDate = 0907
+LastChanged = 20210525
+[EndMetadata]

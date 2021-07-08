@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 4.068 Trifurcula immundella (Broom Pigmy)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Trifurcula immundella (Broom Pigmy)
+Tvk = NHMSYS0000504587
+StartDate = 0601
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

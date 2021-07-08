@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Comibaena bajularia
-Description=Checks date is within known recording period of Comibaena bajularia
-ErrorMsg=Date is outside known recording period of Comibaena bajularia
-Tvk=NHMSYS0000501965
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.300 Comibaena bajularia (Blotched Emerald)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Comibaena bajularia (Blotched Emerald)
+Tvk = NHMSYS0021144316
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

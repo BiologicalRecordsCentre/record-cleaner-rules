@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 65.014 Cymatophorina diluta diluta (Oak Lutestring)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Cymatophorina diluta diluta (Oak Lutestring)
+Tvk = NHMSYS0021143799
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

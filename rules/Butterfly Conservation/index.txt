@@ -1,3 +1,4 @@
-http://data.nbn.org.uk/recordcleaner/rules/BC/NMRS_IDifficulty.zip#Moth ID Difficulty#31/03/2011
-http://data.nbn.org.uk/recordcleaner/rules/BC/NMRS Moth rules.zip#Moth range, recording and flight periods#13/12/2016
-http://data.nbn.org.uk/recordcleaner/rules/BC/BC Butterfly rules.zip#Butterfly range rules#13/07/2015
+http://data.nbn.org.uk/recordcleaner/rules/BC/NMRS_IDifficulty.zip#Moth ID Difficulty#07/07/2021
+http://data.nbn.org.uk/recordcleaner/rules/BC/NMRS Moth rules.zip#Moth range, recording and flight periods#07/07/2021
+http://data.nbn.org.uk/recordcleaner/rules/BC/BC_IDifficulty.zip#Butterfly ID Difficulty#07/07/2021
+http://data.nbn.org.uk/recordcleaner/rules/BC/BC Butterfly rules.zip#Butterfly range, recording and flight periods#07/07/2021

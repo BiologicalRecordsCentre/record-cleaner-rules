@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.024 Phragmatobia fuliginosa borealis (Ruby Tiger)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Phragmatobia fuliginosa borealis (Ruby Tiger)
+Tvk = NHMSYS0021144394
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

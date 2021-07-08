@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Heliothis peltigera
-Description=Checks date is within known flight period of Heliothis peltigera
-ErrorMsg=Date is outside known flight period of Heliothis peltigera
-Tvk=NHMSYS0000502831
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.074 Heliothis peltigera (Bordered Straw)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Heliothis peltigera (Bordered Straw)
+Tvk = NHMSYS0021144540
+StartDate = 0201
+EndDate = 1031
+LastChanged = 20210525
 [EndMetadata]
-
-         

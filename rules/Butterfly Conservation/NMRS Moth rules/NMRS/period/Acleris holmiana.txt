@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.061 Acleris holmiana (White-triangle Button)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Acleris holmiana (White-triangle Button)
+Tvk = NBNSYS0100001407
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

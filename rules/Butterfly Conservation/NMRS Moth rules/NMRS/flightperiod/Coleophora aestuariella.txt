@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 37.079 Coleophora aestuariella (Buff Blite Case-bearer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Coleophora aestuariella (Buff Blite Case-bearer)
+Tvk = NHMSYS0000501816
+StartDate = 0701
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

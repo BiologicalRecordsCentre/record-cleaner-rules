@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 4.055 Stigmella hemargyrella (Beech Pigmy)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Stigmella hemargyrella (Beech Pigmy)
+Tvk = NHMSYS0000504355
+StartDate = 0421
+EndDate = 0807
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 63.049 Hodebertia testalis (Tropical Pearl)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Hodebertia testalis (Tropical Pearl)
+Tvk = NHMSYS0021143735
+StartDate = 20070101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

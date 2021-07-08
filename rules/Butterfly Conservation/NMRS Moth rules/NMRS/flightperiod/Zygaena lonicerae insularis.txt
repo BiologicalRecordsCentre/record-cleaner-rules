@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 54.009 Zygaena lonicerae insularis (Narrow-bordered Five-spot Burnet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Zygaena lonicerae insularis (Narrow-bordered Five-spot Burnet)
+Tvk = NHMSYS0021143442
+StartDate = 0521
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

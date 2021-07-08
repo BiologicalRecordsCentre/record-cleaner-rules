@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.139 Martania taeniata (Barred Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Martania taeniata (Barred Carpet)
+Tvk = NHMSYS0021144064
+StartDate = 0615
+EndDate = 0821
+LastChanged = 20210525
+[EndMetadata]

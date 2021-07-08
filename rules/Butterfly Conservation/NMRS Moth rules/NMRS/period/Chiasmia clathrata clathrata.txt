@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.218 Chiasmia clathrata clathrata (Latticed Heath)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Chiasmia clathrata clathrata (Latticed Heath)
+Tvk = NHMSYS0021144171
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

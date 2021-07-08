@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Arenostola phragmitidis
-Description=Checks date is within known recording period of Arenostola phragmitidis
-ErrorMsg=Date is outside known recording period of Arenostola phragmitidis
-Tvk=NHMSYS0000501343
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.137 Arenostola phragmitidis (Fen Wainscot)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Arenostola phragmitidis (Fen Wainscot)
+Tvk = NHMSYS0021144632
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

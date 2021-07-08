@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 37.064 Coleophora vulnerariae (Lost Case-bearer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Coleophora vulnerariae (Lost Case-bearer)
+Tvk = NBNSYS0100002535
+StartDate = 0601
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Acosmetia caliginosa
-Description=Checks date is within known recording period of Acosmetia caliginosa
-ErrorMsg=Date is outside known recording period of Acosmetia caliginosa
-Tvk=NHMSYS0000500959
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.078 Acosmetia caliginosa (Reddish Buff)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Acosmetia caliginosa (Reddish Buff)
+Tvk = NHMSYS0021144548
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

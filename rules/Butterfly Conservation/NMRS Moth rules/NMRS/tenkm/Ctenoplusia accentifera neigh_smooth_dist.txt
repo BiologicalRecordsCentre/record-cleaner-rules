@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Ctenoplusia accentifera 10km
+Description=Check coordinate against known 10km distribution of Ctenoplusia accentifera
+ErrorMsg=Coordinate outside known range for Ctenoplusia accentifera
+DataFieldName=Species
+DataRecordId=NBNSYS0000006536
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+SX97
+SX98
+SX99
+SY07
+SY08
+SY09
+SY18
+SY19
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Eupithecia distinctaria
-Description=Checks date is within known flight period of Eupithecia distinctaria
-ErrorMsg=Date is outside known flight period of Eupithecia distinctaria
-Tvk=NHMSYS0000520033
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.172 Eupithecia distinctaria (Thyme Pug)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eupithecia distinctaria (Thyme Pug)
+Tvk = NHMSYS0000520033
+StartDate = 0521
+EndDate = 0821
+LastChanged = 20210525
 [EndMetadata]
-
-         

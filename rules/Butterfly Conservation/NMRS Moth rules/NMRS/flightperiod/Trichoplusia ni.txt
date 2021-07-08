@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Trichoplusia ni
-Description=Checks date is within known flight period of Trichoplusia ni
-ErrorMsg=Date is outside known flight period of Trichoplusia ni
-Tvk=NHMSYS0000504579
-DataFieldName=
-StartDate=0401
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.003 Trichoplusia ni (Ni Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Trichoplusia ni (Ni Moth)
+Tvk = NHMSYS0021144463
+StartDate = 0201
+EndDate = 1221
+LastChanged = 20210525
 [EndMetadata]
-
-         

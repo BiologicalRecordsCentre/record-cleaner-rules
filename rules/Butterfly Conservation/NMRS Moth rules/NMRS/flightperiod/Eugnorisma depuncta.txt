@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Eugnorisma depuncta
-Description=Checks date is within known flight period of Eugnorisma depuncta
-ErrorMsg=Date is outside known flight period of Eugnorisma depuncta
-Tvk=NBNSYS0000006189
-DataFieldName=
-StartDate=0601
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.366 Eugnorisma depuncta (Plain Clay)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eugnorisma depuncta (Plain Clay)
+Tvk = NBNSYS0000006189
+StartDate = 0701
+EndDate = 0921
+LastChanged = 20210525
 [EndMetadata]
-
-         

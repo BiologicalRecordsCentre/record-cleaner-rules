@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.157 Recurvaria leucatella (White-barred Groundling)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Recurvaria leucatella (White-barred Groundling)
+Tvk = NHMSYS0000504026
+StartDate = 0621
+EndDate = 0821
+LastChanged = 20210525
+[EndMetadata]

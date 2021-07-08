@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 32.017 Agonopterix arenella (Brindled Flat-body)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Agonopterix arenella (Brindled Flat-body)
+Tvk = NHMSYS0021142586
+StartDate = 0101
+EndDate = 1231
+LastChanged = 20210525
+[EndMetadata]

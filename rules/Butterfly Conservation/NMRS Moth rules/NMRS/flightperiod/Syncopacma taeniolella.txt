@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.004 Syncopacma taeniolella (Silver-barred Sober)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Syncopacma taeniolella (Silver-barred Sober)
+Tvk = NHMSYS0000504434
+StartDate = 0615
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

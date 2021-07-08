@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+Shortname = 73.17x Oligia strigilis agg.
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Oligia strigilis agg.
+Tvk = NHMSYS0020083468
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Ennomos fuscantaria
-Description=Checks date is within known flight period of Ennomos fuscantaria
-ErrorMsg=Date is outside known flight period of Ennomos fuscantaria
-Tvk=NBNSYS0000006005
-DataFieldName=
-StartDate=0601
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.235 Ennomos fuscantaria (Dusky Thorn)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Ennomos fuscantaria (Dusky Thorn)
+Tvk = NBNSYS0000006005
+StartDate = 0707
+EndDate = 1031
+LastChanged = 20210525
 [EndMetadata]
-
-         

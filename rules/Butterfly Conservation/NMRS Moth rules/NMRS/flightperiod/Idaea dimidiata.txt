@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Idaea dimidiata
-Description=Checks date is within known flight period of Idaea dimidiata
-ErrorMsg=Date is outside known flight period of Idaea dimidiata
-Tvk=NBNSYS0000005781
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.011 Idaea dimidiata (Single-dotted Wave)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Idaea dimidiata (Single-dotted Wave)
+Tvk = NBNSYS0000005781
+StartDate = 0501
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

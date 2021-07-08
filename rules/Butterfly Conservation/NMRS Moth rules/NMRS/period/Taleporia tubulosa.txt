@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 11.006 Taleporia tubulosa (Brown Bagworm)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Taleporia tubulosa (Brown Bagworm)
+Tvk = NHMSYS0000504447
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 65.014 Cymatophorina diluta hartwiegi (Oak Lutestring)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cymatophorina diluta hartwiegi (Oak Lutestring)
+Tvk = NHMSYS0021143800
+StartDate = 0801
+EndDate = 1015
+LastChanged = 20210525
+[EndMetadata]

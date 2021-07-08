@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Acherontia atropos
-Description=Checks date is within known recording period of Acherontia atropos
-ErrorMsg=Date is outside known recording period of Acherontia atropos
-Tvk=NBNSYS0000006064
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 69.005 Acherontia atropos (Death's-head Hawk-moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Acherontia atropos (Death's-head Hawk-moth)
+Tvk = NBNSYS0000006064
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.050 Aristotelia ericinella (Heather Neb)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Aristotelia ericinella (Heather Neb)
+Tvk = NHMSYS0000501400
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Macaria liturata
-Description=Checks date is within known flight period of Macaria liturata
-ErrorMsg=Date is outside known flight period of Macaria liturata
-Tvk=NBNSYS0100003856
-DataFieldName=
-StartDate=0501
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.214 Macaria liturata (Tawny-barred Angle)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Macaria liturata (Tawny-barred Angle)
+Tvk = NBNSYS0100003856
+StartDate = 0415
+EndDate = 0921
+LastChanged = 20210525
 [EndMetadata]
-
-         

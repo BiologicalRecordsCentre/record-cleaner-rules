@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Hada plebeja
-Description=Checks date is within known flight period of Hada plebeja
-ErrorMsg=Date is outside known flight period of Hada plebeja
-Tvk=NHMSYS0000502789
-DataFieldName=
-StartDate=0401
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.273 Hada plebeja (Shears)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hada plebeja (Shears)
+Tvk = NHMSYS0000502789
+StartDate = 0401
+EndDate = 0831
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Callimorpha dominula
-Description=Checks date is within known recording period of Callimorpha dominula
-ErrorMsg=Date is outside known recording period of Callimorpha dominula
-Tvk=NBNSYS0000006154
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.029 Callimorpha dominula (Scarlet Tiger)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Callimorpha dominula (Scarlet Tiger)
+Tvk = NBNSYS0000006154
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

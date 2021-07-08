@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 38.015 Elachista gangabella (Yellow-barred Dwarf)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Elachista gangabella (Yellow-barred Dwarf)
+Tvk = NHMSYS0000502308
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

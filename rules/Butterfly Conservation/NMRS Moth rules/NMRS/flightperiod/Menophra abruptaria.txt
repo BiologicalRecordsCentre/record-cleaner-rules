@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Menophra abruptaria
-Description=Checks date is within known flight period of Menophra abruptaria
-ErrorMsg=Date is outside known flight period of Menophra abruptaria
-Tvk=NBNSYS0000006027
-DataFieldName=
-StartDate=0301
-EndDate=0731
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.257 Menophra abruptaria (Waved Umber)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Menophra abruptaria (Waved Umber)
+Tvk = NBNSYS0000006027
+StartDate = 0321
+EndDate = 0807
+LastChanged = 20210525
 [EndMetadata]
-
-         

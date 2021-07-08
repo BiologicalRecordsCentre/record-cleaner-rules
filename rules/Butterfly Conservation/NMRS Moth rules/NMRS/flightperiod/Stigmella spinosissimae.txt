@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 4.016 Stigmella spinosissimae (Plain Rose Pigmy)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Stigmella spinosissimae (Plain Rose Pigmy)
+Tvk = NHMSYS0000504385
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

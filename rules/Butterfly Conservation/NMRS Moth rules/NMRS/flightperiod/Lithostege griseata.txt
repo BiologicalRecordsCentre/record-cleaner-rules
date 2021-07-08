@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Lithostege griseata
-Description=Checks date is within known flight period of Lithostege griseata
-ErrorMsg=Date is outside known flight period of Lithostege griseata
-Tvk=NHMSYS0000503083
-DataFieldName=
-StartDate=0401
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.197 Lithostege griseata (Grey Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Lithostege griseata (Grey Carpet)
+Tvk = NHMSYS0021144148
+StartDate = 0401
+EndDate = 0731
+LastChanged = 20210525
 [EndMetadata]
-
-         

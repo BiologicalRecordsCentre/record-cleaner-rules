@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Cryphia algae
-Description=Checks date is within known flight period of Cryphia algae
-ErrorMsg=Date is outside known flight period of Cryphia algae
-Tvk=NBNSYS0000006387
-DataFieldName=
-StartDate=0601
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.082 Cryphia algae (Tree-lichen Beauty)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cryphia algae (Tree-lichen Beauty)
+Tvk = NBNSYS0000006387
+StartDate = 0621
+EndDate = 0915
+LastChanged = 20210525
 [EndMetadata]
-
-         

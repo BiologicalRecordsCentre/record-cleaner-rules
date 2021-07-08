@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 63.069 Eudonia angustea (Narrow-winged Grey)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eudonia angustea (Narrow-winged Grey)
+Tvk = NHMSYS0000502552
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Ectropis bistortata or crepuscularia
-Description=Checks date is within known flight period of Ectropis bistortata or crepuscularia
-ErrorMsg=Date is outside known flight period of Ectropis bistortata or crepuscularia
-Tvk=NHMSYS0020467643
-DataFieldName=
-StartDate=0201
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+Shortname = 70.27x Ectropis bistortata/crepuscularia
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Ectropis bistortata/crepuscularia
+Tvk = NHMSYS0020467643
+StartDate = 0215
+EndDate = 1031
+LastChanged = 20210527
 [EndMetadata]
-
-         

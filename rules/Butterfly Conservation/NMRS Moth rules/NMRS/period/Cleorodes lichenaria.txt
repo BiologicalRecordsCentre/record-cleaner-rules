@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Cleorodes lichenaria
-Description=Checks date is within known recording period of Cleorodes lichenaria
-ErrorMsg=Date is outside known recording period of Cleorodes lichenaria
-Tvk=NBNSYS0000006037
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.288 Cleorodes lichenaria (Brussels Lace)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Cleorodes lichenaria (Brussels Lace)
+Tvk = NBNSYS0000006037
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

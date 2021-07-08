@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Synanthedon formicaeformis
-Description=Checks date is within known flight period of Synanthedon formicaeformis
-ErrorMsg=Date is outside known flight period of Synanthedon formicaeformis
-Tvk=NBNSYS0000005695
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 52.008 Synanthedon formicaeformis (Red-tipped Clearwing)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Synanthedon formicaeformis (Red-tipped Clearwing)
+Tvk = NHMSYS0021143407
+StartDate = 0515
+EndDate = 0821
+LastChanged = 20210525
 [EndMetadata]
-
-         

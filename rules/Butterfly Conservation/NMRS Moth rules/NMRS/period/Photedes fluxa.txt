@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.145 Photedes fluxa (Mere Wainscot)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Photedes fluxa (Mere Wainscot)
+Tvk = NHMSYS0021144643
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

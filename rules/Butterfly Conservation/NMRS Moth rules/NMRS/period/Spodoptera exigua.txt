@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Spodoptera exigua
-Description=Checks date is within known recording period of Spodoptera exigua
-ErrorMsg=Date is outside known recording period of Spodoptera exigua
-Tvk=NHMSYS0000504283
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.087 Spodoptera exigua (Small Mottled Willow)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Spodoptera exigua (Small Mottled Willow)
+Tvk = NHMSYS0021144565
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

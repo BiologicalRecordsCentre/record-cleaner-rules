@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Eupithecia millefoliata
-Description=Checks date is within known flight period of Eupithecia millefoliata
-ErrorMsg=Date is outside known flight period of Eupithecia millefoliata
-Tvk=NHMSYS0000502610
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.186 Eupithecia millefoliata (Yarrow Pug)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eupithecia millefoliata (Yarrow Pug)
+Tvk = NHMSYS0000502610
+StartDate = 0515
+EndDate = 0815
+LastChanged = 20210525
 [EndMetadata]
-
-         

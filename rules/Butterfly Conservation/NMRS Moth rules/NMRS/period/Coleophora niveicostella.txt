@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 37.043 Coleophora niveicostella (Drab Case-bearer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Coleophora niveicostella (Drab Case-bearer)
+Tvk = NHMSYS0000501902
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 4.024 Stigmella magdalenae (Northern Rowan Pigmy)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Stigmella magdalenae (Northern Rowan Pigmy)
+Tvk = NBNSYS0100005606
+StartDate = 0501
+EndDate = 0630
+LastChanged = 20210525
+[EndMetadata]

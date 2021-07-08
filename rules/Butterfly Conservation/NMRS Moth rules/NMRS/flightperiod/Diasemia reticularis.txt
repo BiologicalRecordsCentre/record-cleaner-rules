@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 63.043 Diasemia reticularis (Lettered China-mark)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Diasemia reticularis (Lettered China-mark)
+Tvk = NBNSYS0000146002
+StartDate = 0501
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Lithophane consocia 10km
+Description=Check coordinate against known 10km distribution of Lithophane consocia
+ErrorMsg=Coordinate outside known range for Lithophane consocia
+DataFieldName=Species
+DataRecordId=NHMSYS0001703673
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+TQ17
+TQ18
+TQ19
+TQ27
+TQ28
+TQ29
+TQ37
+TQ38
+TQ39
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

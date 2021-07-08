@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 63.073 Eudonia truncicolella (Ground-moss Grey)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eudonia truncicolella (Ground-moss Grey)
+Tvk = NHMSYS0000502560
+StartDate = 0615
+EndDate = 1015
+LastChanged = 20210525
+[EndMetadata]

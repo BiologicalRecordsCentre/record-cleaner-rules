@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Eupithecia abbreviata
-Description=Checks date is within known recording period of Eupithecia abbreviata
-ErrorMsg=Date is outside known recording period of Eupithecia abbreviata
-Tvk=NBNSYS0000005940
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.156 Eupithecia abbreviata (Brindled Pug)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eupithecia abbreviata (Brindled Pug)
+Tvk = NBNSYS0000005940
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

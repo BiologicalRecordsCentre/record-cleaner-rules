@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Camptogramma bilineata
-Description=Checks date is within known flight period of Camptogramma bilineata
-ErrorMsg=Date is outside known flight period of Camptogramma bilineata
-Tvk=NHMSYS0000517593
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.059 Camptogramma bilineata (Yellow Shell)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Camptogramma bilineata (Yellow Shell)
+Tvk = NHMSYS0000517593
+StartDate = 0507
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

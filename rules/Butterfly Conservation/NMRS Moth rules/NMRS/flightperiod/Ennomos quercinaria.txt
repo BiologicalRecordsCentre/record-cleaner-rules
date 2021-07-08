@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Ennomos quercinaria
-Description=Checks date is within known flight period of Ennomos quercinaria
-ErrorMsg=Date is outside known flight period of Ennomos quercinaria
-Tvk=NBNSYS0000006003
-DataFieldName=
-StartDate=0701
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.233 Ennomos quercinaria (August Thorn)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Ennomos quercinaria (August Thorn)
+Tvk = NBNSYS0000006003
+StartDate = 0621
+EndDate = 1021
+LastChanged = 20210525
 [EndMetadata]
-
-         

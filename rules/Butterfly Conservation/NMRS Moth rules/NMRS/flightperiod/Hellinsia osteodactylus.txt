@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 45.041 Hellinsia osteodactylus (Small Golden-rod Plume)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hellinsia osteodactylus (Small Golden-rod Plume)
+Tvk = NBNSYS0100003433
+StartDate = 0601
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

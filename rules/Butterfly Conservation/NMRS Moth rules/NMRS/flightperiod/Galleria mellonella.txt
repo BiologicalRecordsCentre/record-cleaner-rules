@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 62.006 Galleria mellonella (Wax Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Galleria mellonella (Wax Moth)
+Tvk = NHMSYS0000502701
+StartDate = 0601
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

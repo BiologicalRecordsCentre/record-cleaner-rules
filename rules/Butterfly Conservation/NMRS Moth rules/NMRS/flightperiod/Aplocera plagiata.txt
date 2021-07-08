@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Aplocera plagiata
-Description=Checks date is within known flight period of Aplocera plagiata
-ErrorMsg=Date is outside known flight period of Aplocera plagiata
-Tvk=NBNSYS0000005958
-DataFieldName=
-StartDate=0401
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.192 Aplocera plagiata (Treble-bar)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Aplocera plagiata (Treble-bar)
+Tvk = NBNSYS0000005958
+StartDate = 0415
+EndDate = 1015
+LastChanged = 20210525
 [EndMetadata]
-
-         

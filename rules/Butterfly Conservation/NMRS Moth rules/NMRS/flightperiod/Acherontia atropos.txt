@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Acherontia atropos
-Description=Checks date is within known flight period of Acherontia atropos
-ErrorMsg=Date is outside known flight period of Acherontia atropos
-Tvk=NBNSYS0000006064
-DataFieldName=
-StartDate=0401
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 69.005 Acherontia atropos (Death's-head Hawk-moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Acherontia atropos (Death's-head Hawk-moth)
+Tvk = NBNSYS0000006064
+StartDate = 0421
+EndDate = 1107
+LastChanged = 20210525
 [EndMetadata]
-
-         

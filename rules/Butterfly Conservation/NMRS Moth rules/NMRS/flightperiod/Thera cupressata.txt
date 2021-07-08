@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Thera cupressata
-Description=Checks date is within known flight period of Thera cupressata
-ErrorMsg=Date is outside known flight period of Thera cupressata
-Tvk=NBNSYS0000040782
-DataFieldName=
-StartDate=0501
-EndDate=1231
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.083 Thera cupressata (Cypress Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Thera cupressata (Cypress Carpet)
+Tvk = NHMSYS0021143981
+StartDate = 0415
+EndDate = 1215
+LastChanged = 20210525
 [EndMetadata]
-
-         

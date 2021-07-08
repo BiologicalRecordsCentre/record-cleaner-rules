@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 38.015 Elachista gangabella (Yellow-barred Dwarf)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Elachista gangabella (Yellow-barred Dwarf)
+Tvk = NHMSYS0000502308
+StartDate = 0501
+EndDate = 0630
+LastChanged = 20210525
+[EndMetadata]

@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Pennisetia hylaeiformis
-Description=Checks date is within known recording period of Pennisetia hylaeiformis
-ErrorMsg=Date is outside known recording period of Pennisetia hylaeiformis
-Tvk=NHMSYS0020695694
-StartDate=20071001
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 52.001 Pennisetia hylaeiformis (Raspberry Clearwing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pennisetia hylaeiformis (Raspberry Clearwing)
+Tvk = NHMSYS0020695694
+StartDate = 20071001
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

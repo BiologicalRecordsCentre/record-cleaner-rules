@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Eupithecia linariata
-Description=Checks date is within known recording period of Eupithecia linariata
-ErrorMsg=Date is outside known recording period of Eupithecia linariata
-Tvk=NHMSYS0000502609
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.150 Eupithecia linariata (Toadflax Pug)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eupithecia linariata (Toadflax Pug)
+Tvk = NHMSYS0021144079
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

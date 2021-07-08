@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Polyploca ridens
-Description=Checks date is within known recording period of Polyploca ridens
-ErrorMsg=Date is outside known recording period of Polyploca ridens
-Tvk=NBNSYS0000005733
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 65.015 Polyploca ridens (Frosted Green)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Polyploca ridens (Frosted Green)
+Tvk = NBNSYS0000005733
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

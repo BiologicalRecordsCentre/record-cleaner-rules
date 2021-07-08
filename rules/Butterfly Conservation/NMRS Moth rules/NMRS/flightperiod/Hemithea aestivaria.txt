@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Hemithea aestivaria
-Description=Checks date is within known flight period of Hemithea aestivaria
-ErrorMsg=Date is outside known flight period of Hemithea aestivaria
-Tvk=NHMSYS0000502840
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.305 Hemithea aestivaria (Common Emerald)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hemithea aestivaria (Common Emerald)
+Tvk = NHMSYS0021144330
+StartDate = 0601
+EndDate = 0821
+LastChanged = 20210525
 [EndMetadata]
-
-         

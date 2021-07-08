@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Ipimorpha retusa
-Description=Checks date is within known recording period of Ipimorpha retusa
-ErrorMsg=Date is outside known recording period of Ipimorpha retusa
-Tvk=NHMSYS0000502954
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.212 Ipimorpha retusa (Double Kidney)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Ipimorpha retusa (Double Kidney)
+Tvk = NHMSYS0000502954
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

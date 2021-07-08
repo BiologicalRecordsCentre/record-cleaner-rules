@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Eupithecia indigata
-Description=Checks date is within known flight period of Eupithecia indigata
-ErrorMsg=Date is outside known flight period of Eupithecia indigata
-Tvk=NHMSYS0000502602
-DataFieldName=
-StartDate=0301
-EndDate=0630
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.171 Eupithecia indigata (Ochreous Pug)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eupithecia indigata (Ochreous Pug)
+Tvk = NHMSYS0021144101
+StartDate = 0407
+EndDate = 0715
+LastChanged = 20210525
 [EndMetadata]
-
-         

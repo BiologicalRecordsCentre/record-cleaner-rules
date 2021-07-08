@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.025 Parasemia plantaginis insularum (Wood Tiger)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Parasemia plantaginis insularum (Wood Tiger)
+Tvk = NHMSYS0021144396
+StartDate = 0501
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 63.042 Diplopseustis perieresalis (Eastern Black Tabby)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Diplopseustis perieresalis (Eastern Black Tabby)
+Tvk = NHMSYS0001703654
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

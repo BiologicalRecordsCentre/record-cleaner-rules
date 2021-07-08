@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.135 Caryocolum proxima (Meadow Groundling)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Caryocolum proxima (Meadow Groundling)
+Tvk = NHMSYS0021142771
+StartDate = 0621
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

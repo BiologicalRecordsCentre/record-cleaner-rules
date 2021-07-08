@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 47.007 Epermenia farreni (Scarce Lance-wing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Epermenia farreni (Scarce Lance-wing)
+Tvk = NHMSYS0021142972
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

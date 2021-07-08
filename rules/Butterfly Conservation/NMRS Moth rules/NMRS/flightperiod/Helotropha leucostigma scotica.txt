@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.119 Helotropha leucostigma scotica (Crescent)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Helotropha leucostigma scotica (Crescent)
+Tvk = NHMSYS0021144607
+StartDate = 0621
+EndDate = 1015
+LastChanged = 20210525
+[EndMetadata]

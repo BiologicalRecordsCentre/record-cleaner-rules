@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Craniophora ligustri
-Description=Checks date is within known recording period of Craniophora ligustri
-ErrorMsg=Date is outside known recording period of Craniophora ligustri
-Tvk=NHMSYS0000502019
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.047 Craniophora ligustri (Coronet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Craniophora ligustri (Coronet)
+Tvk = NHMSYS0021144514
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

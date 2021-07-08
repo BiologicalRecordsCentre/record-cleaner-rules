@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.023 Pandemis cinnamomeana (White-faced Tortrix)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Pandemis cinnamomeana (White-faced Tortrix)
+Tvk = NHMSYS0000503575
+StartDate = 0601
+EndDate = 1014
+LastChanged = 20210525
+[EndMetadata]

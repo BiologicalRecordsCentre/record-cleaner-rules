@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Xanthorhoe spadicearia
-Description=Checks date is within known recording period of Xanthorhoe spadicearia
-ErrorMsg=Date is outside known recording period of Xanthorhoe spadicearia
-Tvk=NHMSYS0000504663
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.051 Xanthorhoe spadicearia (Red Twin-spot Carpet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Xanthorhoe spadicearia (Red Twin-spot Carpet)
+Tvk = NHMSYS0021143920
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

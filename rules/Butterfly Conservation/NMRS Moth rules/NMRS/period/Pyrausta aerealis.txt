@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 63.010 Pyrausta aerealis (Large Straw-barred Pearl)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pyrausta aerealis (Large Straw-barred Pearl)
+Tvk = NHMSYS0021143707
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

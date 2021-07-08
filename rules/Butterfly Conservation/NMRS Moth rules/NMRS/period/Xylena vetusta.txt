@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Xylena vetusta
-Description=Checks date is within known recording period of Xylena vetusta
-ErrorMsg=Date is outside known recording period of Xylena vetusta
-Tvk=NHMSYS0000504673
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.209 Xylena vetusta (Red Sword-grass)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Xylena vetusta (Red Sword-grass)
+Tvk = NHMSYS0021144742
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

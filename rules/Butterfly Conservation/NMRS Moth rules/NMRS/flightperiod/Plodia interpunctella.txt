@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 62.062 Plodia interpunctella (Indian Meal Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Plodia interpunctella (Indian Meal Moth)
+Tvk = NHMSYS0021143676
+StartDate = 0101
+EndDate = 1231
+LastChanged = 20210525
+[EndMetadata]

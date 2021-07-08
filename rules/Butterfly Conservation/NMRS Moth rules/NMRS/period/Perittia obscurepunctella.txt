@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 38.001 Perittia obscurepunctella (Honeysuckle Dwarf)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Perittia obscurepunctella (Honeysuckle Dwarf)
+Tvk = NHMSYS0000503691
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 40.007 Mompha bradleyi (New Neat Mompha)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Mompha bradleyi (New Neat Mompha)
+Tvk = NBNSYS0100004100
+StartDate = 0601
+EndDate = 0831
+ReverseRule = True
+LastChanged = 20210525
+[EndMetadata]

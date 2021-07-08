@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Clostera anachoreta
-Description=Checks date is within known recording period of Clostera anachoreta
-ErrorMsg=Date is outside known recording period of Clostera anachoreta
-Tvk=NHMSYS0000501320
-StartDate=19790101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 71.029 Clostera anachoreta (Scarce Chocolate-tip)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Clostera anachoreta (Scarce Chocolate-tip)
+Tvk = NHMSYS0021144362
+StartDate = 19780101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

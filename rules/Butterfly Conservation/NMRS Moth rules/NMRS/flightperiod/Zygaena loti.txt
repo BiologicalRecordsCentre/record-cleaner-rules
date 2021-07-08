@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Zygaena loti
-Description=Checks date is within known flight period of Zygaena loti
-ErrorMsg=Date is outside known flight period of Zygaena loti
-Tvk=NHMSYS0000520668
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 54.005 Zygaena loti (Slender Scotch Burnet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Zygaena loti (Slender Scotch Burnet)
+Tvk = NHMSYS0000520668
+StartDate = 0601
+EndDate = 0715
+LastChanged = 20210525
 [EndMetadata]
-
-         

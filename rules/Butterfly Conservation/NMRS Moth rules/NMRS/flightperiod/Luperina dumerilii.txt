@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Luperina dumerilii
-Description=Checks date is within known flight period of Luperina dumerilii
-ErrorMsg=Date is outside known flight period of Luperina dumerilii
-Tvk=NBNSYS0000006460
-DataFieldName=
-StartDate=0701
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.130 Luperina dumerilii (Dumeril's Rustic)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Luperina dumerilii (Dumeril's Rustic)
+Tvk = NHMSYS0021144620
+StartDate = 0901
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

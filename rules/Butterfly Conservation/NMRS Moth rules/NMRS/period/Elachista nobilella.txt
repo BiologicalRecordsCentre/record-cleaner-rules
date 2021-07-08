@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 38.031 Elachista nobilella (Surrey Dwarf)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Elachista nobilella (Surrey Dwarf)
+Tvk = NHMSYS0001703658
+StartDate = 20030605
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

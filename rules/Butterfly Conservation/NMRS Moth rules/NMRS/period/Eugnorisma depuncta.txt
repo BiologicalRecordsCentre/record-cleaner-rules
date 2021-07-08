@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Eugnorisma depuncta
-Description=Checks date is within known recording period of Eugnorisma depuncta
-ErrorMsg=Date is outside known recording period of Eugnorisma depuncta
-Tvk=NBNSYS0000006189
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.366 Eugnorisma depuncta (Plain Clay)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eugnorisma depuncta (Plain Clay)
+Tvk = NBNSYS0000006189
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

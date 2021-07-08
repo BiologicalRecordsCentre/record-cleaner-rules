@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Aporophyla nigra
-Description=Checks date is within known flight period of Aporophyla nigra
-ErrorMsg=Date is outside known flight period of Aporophyla nigra
-Tvk=NBNSYS0000006325
-DataFieldName=
-StartDate=0801
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.233 Aporophyla nigra (Black Rustic)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Aporophyla nigra (Black Rustic)
+Tvk = NBNSYS0000006325
+StartDate = 0801
+EndDate = 1130
+LastChanged = 20210525
 [EndMetadata]
-
-         

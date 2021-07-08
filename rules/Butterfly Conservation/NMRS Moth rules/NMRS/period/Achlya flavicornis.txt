@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Achlya flavicornis
-Description=Checks date is within known recording period of Achlya flavicornis
-ErrorMsg=Date is outside known recording period of Achlya flavicornis
-Tvk=NBNSYS0000005732
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 65.016 Achlya flavicornis (Yellow Horned)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Achlya flavicornis (Yellow Horned)
+Tvk = NBNSYS0000005732
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

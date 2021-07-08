@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.365 Pammene albuginana (Blotched Piercer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Pammene albuginana (Blotched Piercer)
+Tvk = NHMSYS0000503551
+StartDate = 0501
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

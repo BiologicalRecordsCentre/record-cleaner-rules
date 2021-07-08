@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.327 Cydia microgrammana (Rest-harrow Piercer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Cydia microgrammana (Rest-harrow Piercer)
+Tvk = NBNSYS0100002708
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

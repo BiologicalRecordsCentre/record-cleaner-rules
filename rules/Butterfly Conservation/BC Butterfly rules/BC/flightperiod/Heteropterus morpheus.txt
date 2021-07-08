@@ -1,0 +1,11 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Heteropterus morpheus
+Description=Checks date is within known flight period of Heteropterus morpheus
+ErrorMsg=Date is outside known flight period of Heteropterus morpheus
+Tvk=NHMSYS0000515916
+StartDate=0701
+EndDate=0831
+LastChanged=20210608
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 11.008 Luffia lapidella (Grey Bagworm)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Luffia lapidella (Grey Bagworm)
+Tvk = NHMSYS0000503105
+StartDate = 0601
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

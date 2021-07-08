@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Agrochola helvola
-Description=Checks date is within known flight period of Agrochola helvola
-ErrorMsg=Date is outside known flight period of Agrochola helvola
-Tvk=NBNSYS0000006360
-DataFieldName=
-StartDate=0801
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.188 Agrochola helvola (Flounced Chestnut)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Agrochola helvola (Flounced Chestnut)
+Tvk = NBNSYS0000006360
+StartDate = 0807
+EndDate = 1115
+LastChanged = 20210525
 [EndMetadata]
-
-         

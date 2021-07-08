@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Idaea contiguaria
-Description=Checks date is within known flight period of Idaea contiguaria
-ErrorMsg=Date is outside known flight period of Idaea contiguaria
-Tvk=NHMSYS0000520548
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.014 Idaea contiguaria (Weaver's Wave)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Idaea contiguaria (Weaver's Wave)
+Tvk = NHMSYS0000520548
+StartDate = 0615
+EndDate = 0721
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Macrothylacia rubi
-Description=Checks date is within known flight period of Macrothylacia rubi
-ErrorMsg=Date is outside known flight period of Macrothylacia rubi
-Tvk=NBNSYS0000005710
-DataFieldName=
-StartDate=0401
-EndDate=0731
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 66.008 Macrothylacia rubi (Fox Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Macrothylacia rubi (Fox Moth)
+Tvk = NBNSYS0000005710
+StartDate = 0415
+EndDate = 0731
+LastChanged = 20210525
 [EndMetadata]
-
-         

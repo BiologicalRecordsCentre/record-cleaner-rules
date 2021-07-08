@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 34.008 Cosmopterix scribaiella (New Marsh Cosmet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cosmopterix scribaiella (New Marsh Cosmet)
+Tvk = NBNSYS0100002620
+StartDate = 0601
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

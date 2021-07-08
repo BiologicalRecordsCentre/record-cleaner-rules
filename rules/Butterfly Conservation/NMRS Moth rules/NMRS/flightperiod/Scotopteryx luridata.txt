@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Scotopteryx luridata
-Description=Checks date is within known flight period of Scotopteryx luridata
-ErrorMsg=Date is outside known flight period of Scotopteryx luridata
-Tvk=NHMSYS0000521358
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.041 Scotopteryx luridata (July Belle)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Scotopteryx luridata (July Belle)
+Tvk = NHMSYS0000521358
+StartDate = 0515
+EndDate = 0821
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.2001 Tetramoera langmaidi (Langmaid's Tortrix)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Tetramoera langmaidi (Langmaid's Tortrix)
+Tvk = NHMSYS0021120360
+StartDate = 0701
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

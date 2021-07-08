@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Ennomos erosaria
-Description=Checks date is within known recording period of Ennomos erosaria
-ErrorMsg=Date is outside known recording period of Ennomos erosaria
-Tvk=NHMSYS0000502380
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.236 Ennomos erosaria (September Thorn)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Ennomos erosaria (September Thorn)
+Tvk = NHMSYS0021144194
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

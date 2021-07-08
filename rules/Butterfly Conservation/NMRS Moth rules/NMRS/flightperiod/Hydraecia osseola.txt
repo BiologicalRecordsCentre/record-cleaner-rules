@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Hydraecia osseola
-Description=Checks date is within known flight period of Hydraecia osseola
-ErrorMsg=Date is outside known flight period of Hydraecia osseola
-Tvk=NHMSYS0000520468
-DataFieldName=
-StartDate=0801
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.125 Hydraecia osseola (Marsh Mallow Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hydraecia osseola (Marsh Mallow Moth)
+Tvk = NHMSYS0000520468
+StartDate = 0821
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

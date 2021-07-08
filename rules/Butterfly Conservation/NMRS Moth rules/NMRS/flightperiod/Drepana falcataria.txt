@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Drepana falcataria
-Description=Checks date is within known flight period of Drepana falcataria
-ErrorMsg=Date is outside known flight period of Drepana falcataria
-Tvk=NBNSYS0000005720
-DataFieldName=
-StartDate=0401
-EndDate=1031
-LastChanged=20120126
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 65.005 Drepana falcataria (Pebble Hook-tip)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Drepana falcataria (Pebble Hook-tip)
+Tvk = NBNSYS0000005720
+StartDate = 0415
+EndDate = 1031
+LastChanged = 20210525
 [EndMetadata]
-
-         

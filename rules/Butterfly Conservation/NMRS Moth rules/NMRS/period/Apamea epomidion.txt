@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Apamea epomidion
-Description=Checks date is within known recording period of Apamea epomidion
-ErrorMsg=Date is outside known recording period of Apamea epomidion
-Tvk=NBNSYS0000006426
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.155 Apamea epomidion (Clouded Brindle)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Apamea epomidion (Clouded Brindle)
+Tvk = NBNSYS0000006426
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 20.005 Argyresthia trifasciata (Triple-barred Argent)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Argyresthia trifasciata (Triple-barred Argent)
+Tvk = NHMSYS0000501391
+StartDate = 0401
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

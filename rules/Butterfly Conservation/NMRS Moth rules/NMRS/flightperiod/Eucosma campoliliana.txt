@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.269 Eucosma campoliliana (Marbled Bell)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eucosma campoliliana (Marbled Bell)
+Tvk = NHMSYS0021143289
+StartDate = 0515
+EndDate = 0907
+LastChanged = 20210525
+[EndMetadata]

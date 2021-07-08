@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Pseudocoremia suavis 10km
+Description=Check coordinate against known 10km distribution of Pseudocoremia suavis
+ErrorMsg=Coordinate outside known range for Pseudocoremia suavis
+DataFieldName=Species
+DataRecordId=NHMSYS0020531231
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+SW42
+SW43
+SW44
+SW52
+SW53
+SW54
+SW61
+SW62
+SW63
+SW64
+SW71
+SW72
+SW73
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

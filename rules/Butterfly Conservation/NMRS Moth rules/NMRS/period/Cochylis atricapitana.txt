@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.139 Cochylis atricapitana (Black-headed Conch)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Cochylis atricapitana (Black-headed Conch)
+Tvk = NHMSYS0000501792
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

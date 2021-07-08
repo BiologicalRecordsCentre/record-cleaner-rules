@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.126 Phthorimaea operculella (Potato Tuber Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Phthorimaea operculella (Potato Tuber Moth)
+Tvk = NBNSYS0100004596
+StartDate = 0621
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

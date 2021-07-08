@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Thaumetopoea pityocampa
-Description=Checks date is within known flight period of Thaumetopoea pityocampa
-ErrorMsg=Date is outside known flight period of Thaumetopoea pityocampa
-Tvk=NHMSYS0000504484
-DataFieldName=
-StartDate=0401
-EndDate=0731
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 71.002 Thaumetopoea pityocampa (Pine Processionary)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Thaumetopoea pityocampa (Pine Processionary)
+Tvk = NHMSYS0021144336
+StartDate = 0601
+EndDate = 0831
+LastChanged = 20210525
 [EndMetadata]
-
-         

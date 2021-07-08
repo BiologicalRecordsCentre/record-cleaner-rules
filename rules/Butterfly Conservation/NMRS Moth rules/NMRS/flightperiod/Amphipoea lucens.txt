@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Amphipoea lucens
-Description=Checks date is within known flight period of Amphipoea lucens
-ErrorMsg=Date is outside known flight period of Amphipoea lucens
-Tvk=NBNSYS0000006462
-DataFieldName=
-StartDate=0701
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.127 Amphipoea lucens (Large Ear)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Amphipoea lucens (Large Ear)
+Tvk = NBNSYS0000006462
+StartDate = 0715
+EndDate = 1015
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 62.072 Pyralis farinalis (Meal Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Pyralis farinalis (Meal Moth)
+Tvk = NHMSYS0000503998
+StartDate = 0515
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

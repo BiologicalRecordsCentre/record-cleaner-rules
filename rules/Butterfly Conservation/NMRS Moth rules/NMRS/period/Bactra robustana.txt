@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.197 Bactra robustana (Saltern Marble)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Bactra robustana (Saltern Marble)
+Tvk = NHMSYS0000501441
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

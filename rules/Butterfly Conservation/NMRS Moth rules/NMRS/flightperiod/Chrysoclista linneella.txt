@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 39.005 Chrysoclista linneella (Lime Cosmet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Chrysoclista linneella (Lime Cosmet)
+Tvk = NBNSYS0100002420
+StartDate = 0521
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

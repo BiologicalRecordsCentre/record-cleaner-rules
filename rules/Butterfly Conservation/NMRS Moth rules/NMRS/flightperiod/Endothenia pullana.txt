@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.189 Endothenia pullana (Woundwort Marble)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Endothenia pullana (Woundwort Marble)
+Tvk = NHMSYS0000502366
+StartDate = 0521
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

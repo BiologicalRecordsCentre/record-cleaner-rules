@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 32.029 Agonopterix umbellana (Gorse Flat-body)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Agonopterix umbellana (Gorse Flat-body)
+Tvk = NBNSYS0100001430
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

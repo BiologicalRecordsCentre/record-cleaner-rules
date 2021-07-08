@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Eublemma parva
-Description=Checks date is within known flight period of Eublemma parva
-ErrorMsg=Date is outside known flight period of Eublemma parva
-Tvk=NHMSYS0000502511
-DataFieldName=
-StartDate=0201
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.073 Eublemma parva (Small Marbled)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eublemma parva (Small Marbled)
+Tvk = NHMSYS0021144444
+StartDate = 0521
+EndDate = 1031
+LastChanged = 20210525
 [EndMetadata]
-
-         

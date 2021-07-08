@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.300 Pseudococcyx turionella (Pine Bud Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pseudococcyx turionella (Pine Bud Moth)
+Tvk = NBNSYS0100004909
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

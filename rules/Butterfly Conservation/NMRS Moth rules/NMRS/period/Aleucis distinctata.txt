@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Aleucis distinctata
-Description=Checks date is within known recording period of Aleucis distinctata
-ErrorMsg=Date is outside known recording period of Aleucis distinctata
-Tvk=NHMSYS0000501193
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.281 Aleucis distinctata (Sloe Carpet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Aleucis distinctata (Sloe Carpet)
+Tvk = NHMSYS0021144272
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Helicoverpa armigera
-Description=Checks date is within known flight period of Helicoverpa armigera
-ErrorMsg=Date is outside known flight period of Helicoverpa armigera
-Tvk=NHMSYS0000502821
-DataFieldName=
-StartDate=0701
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.076 Helicoverpa armigera (Scarce Bordered Straw)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Helicoverpa armigera (Scarce Bordered Straw)
+Tvk = NHMSYS0021144542
+StartDate = 0607
+EndDate = 1115
+LastChanged = 20210525
 [EndMetadata]
-
-         

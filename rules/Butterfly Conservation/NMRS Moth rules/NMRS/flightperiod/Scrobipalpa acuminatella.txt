@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.109 Scrobipalpa acuminatella (Pointed Groundling)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Scrobipalpa acuminatella (Pointed Groundling)
+Tvk = NHMSYS0000504138
+StartDate = 0401
+EndDate = 0915
+LastChanged = 20210525
+[EndMetadata]

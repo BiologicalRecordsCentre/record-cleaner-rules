@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 4.095 Ectoedemia atricollis (Pinch-barred Pigmy)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Ectoedemia atricollis (Pinch-barred Pigmy)
+Tvk = NHMSYS0000502268
+StartDate = 0601
+EndDate = 0630
+LastChanged = 20210525
+[EndMetadata]

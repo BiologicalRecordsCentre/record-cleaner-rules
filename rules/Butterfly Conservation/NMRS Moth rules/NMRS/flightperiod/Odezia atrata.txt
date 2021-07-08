@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Odezia atrata
-Description=Checks date is within known flight period of Odezia atrata
-ErrorMsg=Date is outside known flight period of Odezia atrata
-Tvk=NBNSYS0000005961
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.130 Odezia atrata (Chimney Sweeper)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Odezia atrata (Chimney Sweeper)
+Tvk = NBNSYS0000005961
+StartDate = 0507
+EndDate = 0807
+LastChanged = 20210525
 [EndMetadata]
-
-         

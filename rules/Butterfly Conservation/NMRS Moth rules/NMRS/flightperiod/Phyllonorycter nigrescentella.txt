@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 15.071 Phyllonorycter nigrescentella (Vetch Midget)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Phyllonorycter nigrescentella (Vetch Midget)
+Tvk = NHMSYS0000503790
+StartDate = 0401
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

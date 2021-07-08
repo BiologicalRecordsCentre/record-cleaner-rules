@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Xanthorhoe biriviata
-Description=Checks date is within known flight period of Xanthorhoe biriviata
-ErrorMsg=Date is outside known flight period of Xanthorhoe biriviata
-Tvk=NBNSYS0000005794
-DataFieldName=
-StartDate=0401
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.050 Xanthorhoe biriviata (Balsam Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Xanthorhoe biriviata (Balsam Carpet)
+Tvk = NBNSYS0000005794
+StartDate = 0315
+EndDate = 0907
+LastChanged = 20210525
 [EndMetadata]
-
-         

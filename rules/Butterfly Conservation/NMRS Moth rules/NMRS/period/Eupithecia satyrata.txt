@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Eupithecia satyrata
-Description=Checks date is within known recording period of Eupithecia satyrata
-ErrorMsg=Date is outside known recording period of Eupithecia satyrata
-Tvk=NBNSYS0000005916
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.177 Eupithecia satyrata (Satyr Pug)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eupithecia satyrata (Satyr Pug)
+Tvk = NBNSYS0000005916
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

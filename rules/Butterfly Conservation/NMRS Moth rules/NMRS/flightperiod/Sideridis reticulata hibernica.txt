@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.277 Sideridis reticulata hibernica (Bordered Gothic)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Sideridis reticulata hibernica (Bordered Gothic)
+Tvk = NHMSYS0021144837
+StartDate = 0501
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

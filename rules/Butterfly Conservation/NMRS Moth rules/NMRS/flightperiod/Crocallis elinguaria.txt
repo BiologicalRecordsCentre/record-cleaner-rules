@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Crocallis elinguaria
-Description=Checks date is within known flight period of Crocallis elinguaria
-ErrorMsg=Date is outside known flight period of Crocallis elinguaria
-Tvk=NBNSYS0000006012
-DataFieldName=
-StartDate=0601
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.241 Crocallis elinguaria (Scalloped Oak)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Crocallis elinguaria (Scalloped Oak)
+Tvk = NBNSYS0000006012
+StartDate = 0601
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Agrochola circellaris
-Description=Checks date is within known recording period of Agrochola circellaris
-ErrorMsg=Date is outside known recording period of Agrochola circellaris
-Tvk=NBNSYS0000006357
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.192 Agrochola circellaris (Brick)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Agrochola circellaris (Brick)
+Tvk = NBNSYS0000006357
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

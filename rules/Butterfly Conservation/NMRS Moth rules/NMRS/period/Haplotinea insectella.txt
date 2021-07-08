@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 12.044 Haplotinea insectella (Drab Clothes Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Haplotinea insectella (Drab Clothes Moth)
+Tvk = NHMSYS0000502803
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

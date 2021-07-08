@@ -1,15 +1,12 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Erannis defoliaria
-Description=Checks date is within known flight period of Erannis defoliaria
-ErrorMsg=Date is outside known flight period of Erannis defoliaria
-Tvk=NBNSYS0000006026
-DataFieldName=
-StartDate=0131
-EndDate=0801
-ReverseRule=True
-LastChanged=20120126
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.256 Erannis defoliaria (Mottled Umber)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Erannis defoliaria (Mottled Umber)
+Tvk = NBNSYS0000006026
+StartDate = 0415
+EndDate = 0901
+ReverseRule = True
+LastChanged = 20210525
 [EndMetadata]
-
-         

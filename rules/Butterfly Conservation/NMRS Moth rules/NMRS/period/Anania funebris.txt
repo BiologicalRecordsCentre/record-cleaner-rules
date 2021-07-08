@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 63.024 Anania funebris (White-spotted Sable)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Anania funebris (White-spotted Sable)
+Tvk = NHMSYS0000501229
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

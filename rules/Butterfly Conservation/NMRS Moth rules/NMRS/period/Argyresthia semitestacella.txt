@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 20.024 Argyresthia semitestacella (Large Beech Argent)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Argyresthia semitestacella (Large Beech Argent)
+Tvk = NHMSYS0000501388
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

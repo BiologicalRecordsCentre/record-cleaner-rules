@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Euplagia quadripunctaria
-Description=Checks date is within known recording period of Euplagia quadripunctaria
-ErrorMsg=Date is outside known recording period of Euplagia quadripunctaria
-Tvk=NBNSYS0000006153
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.030 Euplagia quadripunctaria (Jersey Tiger)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Euplagia quadripunctaria (Jersey Tiger)
+Tvk = NBNSYS0000006153
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 4.028 Stigmella minusculella (Brown-tipped Pigmy)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Stigmella minusculella (Brown-tipped Pigmy)
+Tvk = NHMSYS0000504363
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

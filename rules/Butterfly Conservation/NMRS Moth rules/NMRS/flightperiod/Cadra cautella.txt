@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 62.067 Cadra cautella (Dried Currant Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cadra cautella (Dried Currant Moth)
+Tvk = NHMSYS0021109627
+StartDate = 0101
+EndDate = 1130
+LastChanged = 20210525
+[EndMetadata]

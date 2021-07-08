@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 37.107 Coleophora clypeiferella (Body-marked Case-bearer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Coleophora clypeiferella (Body-marked Case-bearer)
+Tvk = NHMSYS0000501848
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

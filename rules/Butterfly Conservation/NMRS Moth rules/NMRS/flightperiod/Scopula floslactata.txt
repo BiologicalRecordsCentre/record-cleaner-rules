@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Scopula floslactata
-Description=Checks date is within known flight period of Scopula floslactata
-ErrorMsg=Date is outside known flight period of Scopula floslactata
-Tvk=NBNSYS0000005766
-DataFieldName=
-StartDate=0401
-EndDate=0731
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.027 Scopula floslactata (Cream Wave)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Scopula floslactata (Cream Wave)
+Tvk = NBNSYS0000005766
+StartDate = 0415
+EndDate = 0831
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Zanclognatha lunalis
-Description=Checks date is within known flight period of Zanclognatha lunalis
-ErrorMsg=Date is outside known flight period of Zanclognatha lunalis
-Tvk=NBNSYS0100006031
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.058 Zanclognatha lunalis (Jubilee Fan-foot)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Zanclognatha lunalis (Jubilee Fan-foot)
+Tvk = NBNSYS0100006031
+StartDate = 0701
+EndDate = 0721
+LastChanged = 20210525
 [EndMetadata]
-
-         

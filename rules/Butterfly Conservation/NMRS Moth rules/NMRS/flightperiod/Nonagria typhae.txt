@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Nonagria typhae
-Description=Checks date is within known flight period of Nonagria typhae
-ErrorMsg=Date is outside known flight period of Nonagria typhae
-Tvk=NBNSYS0000006474
-DataFieldName=
-StartDate=0601
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.136 Nonagria typhae (Bulrush Wainscot)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Nonagria typhae (Bulrush Wainscot)
+Tvk = NBNSYS0000006474
+StartDate = 0621
+EndDate = 1031
+LastChanged = 20210525
 [EndMetadata]
-
-         

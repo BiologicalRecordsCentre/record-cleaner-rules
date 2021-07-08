@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.199 Eucosmomorpha albersana (Honeysuckle Bell)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eucosmomorpha albersana (Honeysuckle Bell)
+Tvk = NHMSYS0021143223
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

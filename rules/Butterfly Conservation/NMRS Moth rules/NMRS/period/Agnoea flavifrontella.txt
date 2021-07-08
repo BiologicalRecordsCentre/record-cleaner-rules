@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 30.001 Agnoea flavifrontella (Yellow-headed Tubic)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Agnoea flavifrontella (Yellow-headed Tubic)
+Tvk = NHMSYS0021166475
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

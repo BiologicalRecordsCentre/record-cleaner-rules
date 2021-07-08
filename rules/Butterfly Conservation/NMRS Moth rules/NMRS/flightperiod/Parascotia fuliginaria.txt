@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Parascotia fuliginaria
-Description=Checks date is within known flight period of Parascotia fuliginaria
-ErrorMsg=Date is outside known flight period of Parascotia fuliginaria
-Tvk=NBNSYS0000006579
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.066 Parascotia fuliginaria (Waved Black)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Parascotia fuliginaria (Waved Black)
+Tvk = NBNSYS0000006579
+StartDate = 0615
+EndDate = 0821
+LastChanged = 20210525
 [EndMetadata]
-
-         

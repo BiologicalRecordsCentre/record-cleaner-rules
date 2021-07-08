@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Polyommatus coridon
+Description=Checks date is within known recording period of Polyommatus coridon
+ErrorMsg=Date is outside known recording period of Polyommatus coridon
+Tvk=NHMSYS0020825965
+StartDate=17000101
+EndDate=
+LastChanged=20210707
+[EndMetadata]
+
+         

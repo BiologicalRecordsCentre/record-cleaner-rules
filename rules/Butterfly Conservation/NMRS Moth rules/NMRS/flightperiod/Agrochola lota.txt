@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Agrochola lota
-Description=Checks date is within known flight period of Agrochola lota
-ErrorMsg=Date is outside known flight period of Agrochola lota
-Tvk=NBNSYS0000006358
-DataFieldName=
-StartDate=0801
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.189 Agrochola lota (Red-line Quaker)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Agrochola lota (Red-line Quaker)
+Tvk = NBNSYS0000006358
+StartDate = 0901
+EndDate = 1207
+LastChanged = 20210525
 [EndMetadata]
-
-         

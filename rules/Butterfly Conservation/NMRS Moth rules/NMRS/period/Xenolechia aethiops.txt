@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.154 Xenolechia aethiops (Moorland Groundling)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Xenolechia aethiops (Moorland Groundling)
+Tvk = NHMSYS0000504665
+StartDate = 19460101
+EndDate = 19571231
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 16.012 Kessleria saxifragae (Highland Ermine)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Kessleria saxifragae (Highland Ermine)
+Tvk = NHMSYS0000502980
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.152 Apotomis sororculana (Narrow-winged Marble)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Apotomis sororculana (Narrow-winged Marble)
+Tvk = NHMSYS0000501159
+StartDate = 0501
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

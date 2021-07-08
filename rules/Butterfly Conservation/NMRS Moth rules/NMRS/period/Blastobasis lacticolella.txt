@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 41.003 Blastobasis lacticolella (London Dowd)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Blastobasis lacticolella (London Dowd)
+Tvk = NHMSYS0020676097
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

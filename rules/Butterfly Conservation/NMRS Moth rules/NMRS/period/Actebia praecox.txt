@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Actebia praecox
-Description=Checks date is within known recording period of Actebia praecox
-ErrorMsg=Date is outside known recording period of Actebia praecox
-Tvk=NBNSYS0000006185
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.308 Actebia praecox (Portland Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Actebia praecox (Portland Moth)
+Tvk = NBNSYS0000006185
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

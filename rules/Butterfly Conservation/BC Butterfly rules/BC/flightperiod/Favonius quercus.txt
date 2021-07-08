@@ -1,0 +1,11 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Favonius quercus
+Description=Checks date is within known flight period of Favonius quercus
+ErrorMsg=Date is outside known flight period of Favonius quercus
+Tvk=NHMSYS0021002801
+StartDate=0601
+EndDate=0930
+LastChanged=20210608
+[EndMetadata]

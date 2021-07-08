@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 63.072 Eudonia delunella (Pied Grey)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eudonia delunella (Pied Grey)
+Tvk = NHMSYS0000502553
+StartDate = 0601
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

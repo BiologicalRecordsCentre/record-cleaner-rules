@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Arctia villica
-Description=Checks date is within known flight period of Arctia villica
-ErrorMsg=Date is outside known flight period of Arctia villica
-Tvk=NHMSYS0000517243
-DataFieldName=
-StartDate=0401
-EndDate=0731
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.027 Arctia villica (Cream-spot Tiger)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Arctia villica (Cream-spot Tiger)
+Tvk = NHMSYS0000517243
+StartDate = 0421
+EndDate = 0715
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 38.037 Elachista canapennella (Little Dwarf)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Elachista canapennella (Little Dwarf)
+Tvk = NHMSYS0021142292
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

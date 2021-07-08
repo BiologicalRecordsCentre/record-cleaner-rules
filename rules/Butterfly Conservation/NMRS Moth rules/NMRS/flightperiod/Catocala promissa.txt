@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Catocala promissa
-Description=Checks date is within known flight period of Catocala promissa
-ErrorMsg=Date is outside known flight period of Catocala promissa
-Tvk=NHMSYS0000501672
-DataFieldName=
-StartDate=0601
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.082 Catocala promissa (Light Crimson Underwing)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Catocala promissa (Light Crimson Underwing)
+Tvk = NHMSYS0021144450
+StartDate = 0621
+EndDate = 0915
+LastChanged = 20210525
 [EndMetadata]
-
-         

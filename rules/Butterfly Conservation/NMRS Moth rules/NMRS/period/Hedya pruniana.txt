@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.157 Hedya pruniana (Plum Tortrix)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Hedya pruniana (Plum Tortrix)
+Tvk = NHMSYS0021143168
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

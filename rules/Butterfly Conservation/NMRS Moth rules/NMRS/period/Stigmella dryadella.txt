@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 4.050 Stigmella dryadella (Mountain-avens Pigmy)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Stigmella dryadella (Mountain-avens Pigmy)
+Tvk = NHMSYS0021142125
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

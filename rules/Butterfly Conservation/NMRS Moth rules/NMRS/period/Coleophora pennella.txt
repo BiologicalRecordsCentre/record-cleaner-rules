@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 37.065 Coleophora pennella (Bugloss Case-bearer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Coleophora pennella (Bugloss Case-bearer)
+Tvk = NBNSYS0100002533
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

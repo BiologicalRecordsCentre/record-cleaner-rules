@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Hecatera dysodea
-Description=Checks date is within known flight period of Hecatera dysodea
-ErrorMsg=Date is outside known flight period of Hecatera dysodea
-Tvk=NHMSYS0000502809
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.280 Hecatera dysodea (Small Ranunculus)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hecatera dysodea (Small Ranunculus)
+Tvk = NHMSYS0021144844
+StartDate = 0501
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

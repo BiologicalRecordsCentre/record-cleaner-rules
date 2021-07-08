@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.380 Pammene gallicana (Purple-shaded Piercer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pammene gallicana (Purple-shaded Piercer)
+Tvk = NBNSYS0100004400
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

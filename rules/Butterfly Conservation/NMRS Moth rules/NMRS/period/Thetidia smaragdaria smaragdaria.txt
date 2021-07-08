@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.301 Thetidia smaragdaria smaragdaria (Essex Emerald)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Thetidia smaragdaria smaragdaria (Essex Emerald)
+Tvk = NHMSYS0021144318
+StartDate = 17000101
+EndDate = 19910430
+LastChanged = 20210521
+[EndMetadata]

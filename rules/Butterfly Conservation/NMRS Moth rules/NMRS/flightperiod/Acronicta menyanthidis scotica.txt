@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.042 Acronicta menyanthidis scotica (Light Knot Grass)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Acronicta menyanthidis scotica (Light Knot Grass)
+Tvk = NHMSYS0021144507
+StartDate = 0415
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

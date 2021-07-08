@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Glacies coracina
-Description=Checks date is within known recording period of Glacies coracina
-ErrorMsg=Date is outside known recording period of Glacies coracina
-Tvk=NHMSYS0000502725
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.289 Glacies coracina (Black Mountain Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Glacies coracina (Black Mountain Moth)
+Tvk = NHMSYS0000502725
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

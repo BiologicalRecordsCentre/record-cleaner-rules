@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 45.032 Merrifieldia tridactyla (Western Thyme Plume)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Merrifieldia tridactyla (Western Thyme Plume)
+Tvk = NBNSYS0100004011
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

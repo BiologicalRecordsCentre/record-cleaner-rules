@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Pechipogo plumigeralis
-Description=Checks date is within known recording period of Pechipogo plumigeralis
-ErrorMsg=Date is outside known recording period of Pechipogo plumigeralis
-Tvk=NBNSYS0100004492
-StartDate=20000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.057 Pechipogo plumigeralis (Plumed Fan-foot)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pechipogo plumigeralis (Plumed Fan-foot)
+Tvk = NHMSYS0021144430
+StartDate = 19951012
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

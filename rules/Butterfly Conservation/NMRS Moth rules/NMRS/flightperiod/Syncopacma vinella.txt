@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.006 Syncopacma vinella (Brighton Sober)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Syncopacma vinella (Brighton Sober)
+Tvk = NHMSYS0000504435
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

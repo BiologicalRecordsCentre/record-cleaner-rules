@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Eupithecia expallidata
-Description=Checks date is within known flight period of Eupithecia expallidata
-ErrorMsg=Date is outside known flight period of Eupithecia expallidata
-Tvk=NBNSYS0000005921
-DataFieldName=
-StartDate=0601
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.180 Eupithecia expallidata (Bleached Pug)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eupithecia expallidata (Bleached Pug)
+Tvk = NBNSYS0000005921
+StartDate = 0515
+EndDate = 0907
+LastChanged = 20210525
 [EndMetadata]
-
-         

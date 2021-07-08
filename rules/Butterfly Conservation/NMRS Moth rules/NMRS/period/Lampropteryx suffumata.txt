@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Lampropteryx suffumata
-Description=Checks date is within known recording period of Lampropteryx suffumata
-ErrorMsg=Date is outside known recording period of Lampropteryx suffumata
-Tvk=NHMSYS0000503005
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.103 Lampropteryx suffumata (Water Carpet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Lampropteryx suffumata (Water Carpet)
+Tvk = NHMSYS0021144007
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

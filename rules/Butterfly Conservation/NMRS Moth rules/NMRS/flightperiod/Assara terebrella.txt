@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 62.047 Assara terebrella (Dark Spruce Knot-horn)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Assara terebrella (Dark Spruce Knot-horn)
+Tvk = NHMSYS0000501411
+StartDate = 0521
+EndDate = 1007
+LastChanged = 20210525
+[EndMetadata]

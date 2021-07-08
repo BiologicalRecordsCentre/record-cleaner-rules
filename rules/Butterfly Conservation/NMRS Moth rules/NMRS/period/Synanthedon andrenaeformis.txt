@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Synanthedon andrenaeformis
-Description=Checks date is within known recording period of Synanthedon andrenaeformis
-ErrorMsg=Date is outside known recording period of Synanthedon andrenaeformis
-Tvk=NBNSYS0000005693
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 52.010 Synanthedon andrenaeformis (Orange-tailed Clearwing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Synanthedon andrenaeformis (Orange-tailed Clearwing)
+Tvk = NBNSYS0000005693
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

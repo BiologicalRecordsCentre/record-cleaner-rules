@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Chiasmia aestimaria
-Description=Checks date is within known recording period of Chiasmia aestimaria
-ErrorMsg=Date is outside known recording period of Chiasmia aestimaria
-Tvk=NHMSYS0001703668
-StartDate=20040816
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.219 Chiasmia aestimaria (Tamarisk Peacock)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Chiasmia aestimaria (Tamarisk Peacock)
+Tvk = NHMSYS0021144173
+StartDate = 20040816
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

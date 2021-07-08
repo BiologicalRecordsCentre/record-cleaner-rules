@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Mesoligia furuncula
-Description=Checks date is within known flight period of Mesoligia furuncula
-ErrorMsg=Date is outside known flight period of Mesoligia furuncula
-Tvk=NHMSYS0000503208
-DataFieldName=
-StartDate=0601
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.172 Mesoligia furuncula (Cloaked Minor)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Mesoligia furuncula (Cloaked Minor)
+Tvk = NHMSYS0021144687
+StartDate = 0601
+EndDate = 0915
+LastChanged = 20210525
 [EndMetadata]
-
-         

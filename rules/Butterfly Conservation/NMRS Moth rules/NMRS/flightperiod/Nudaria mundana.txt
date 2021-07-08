@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Nudaria mundana
-Description=Checks date is within known flight period of Nudaria mundana
-ErrorMsg=Date is outside known flight period of Nudaria mundana
-Tvk=NBNSYS0000006124
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.036 Nudaria mundana (Muslin Footman)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Nudaria mundana (Muslin Footman)
+Tvk = NBNSYS0000006124
+StartDate = 0601
+EndDate = 0821
+LastChanged = 20210525
 [EndMetadata]
-
-         

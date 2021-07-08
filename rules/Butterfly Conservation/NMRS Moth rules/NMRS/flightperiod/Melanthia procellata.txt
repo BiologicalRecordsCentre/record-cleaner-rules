@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Melanthia procellata
-Description=Checks date is within known flight period of Melanthia procellata
-ErrorMsg=Date is outside known flight period of Melanthia procellata
-Tvk=NHMSYS0000503188
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.128 Melanthia procellata (Pretty Chalk Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Melanthia procellata (Pretty Chalk Carpet)
+Tvk = NHMSYS0021144045
+StartDate = 0415
+EndDate = 1015
+LastChanged = 20210525
 [EndMetadata]
-
-         

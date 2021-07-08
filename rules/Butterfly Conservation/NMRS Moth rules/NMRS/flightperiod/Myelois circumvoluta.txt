@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 62.042 Myelois circumvoluta (Thistle Ermine)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Myelois circumvoluta (Thistle Ermine)
+Tvk = NHMSYS0021143661
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

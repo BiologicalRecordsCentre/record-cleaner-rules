@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Cyclophora ruficiliaria
-Description=Checks date is within known flight period of Cyclophora ruficiliaria
-ErrorMsg=Date is outside known flight period of Cyclophora ruficiliaria
-Tvk=NHMSYS0020758190
-DataFieldName=
-StartDate=0601
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.034 Cyclophora ruficiliaria (Jersey Mocha)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cyclophora ruficiliaria (Jersey Mocha)
+Tvk = NHMSYS0020758190
+StartDate = 0415
+EndDate = 0921
+LastChanged = 20210525
 [EndMetadata]
-
-         

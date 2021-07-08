@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Mythimna l-album
-Description=Checks date is within known flight period of Mythimna l-album
-ErrorMsg=Date is outside known flight period of Mythimna l-album
-Tvk=NBNSYS0000006295
-DataFieldName=
-StartDate=0601
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.300 Mythimna l-album (L-album Wainscot)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Mythimna l-album (L-album Wainscot)
+Tvk = NBNSYS0000006295
+StartDate = 0507
+EndDate = 1107
+LastChanged = 20210525
 [EndMetadata]
-
-         

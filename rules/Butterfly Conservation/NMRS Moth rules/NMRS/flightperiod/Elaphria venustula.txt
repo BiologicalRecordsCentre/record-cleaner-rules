@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Elaphria venustula
-Description=Checks date is within known flight period of Elaphria venustula
-ErrorMsg=Date is outside known flight period of Elaphria venustula
-Tvk=NHMSYS0000502337
-DataFieldName=
-StartDate=0401
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.091 Elaphria venustula (Rosy Marbled)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Elaphria venustula (Rosy Marbled)
+Tvk = NHMSYS0000502337
+StartDate = 0507
+EndDate = 0821
+LastChanged = 20210525
 [EndMetadata]
-
-         

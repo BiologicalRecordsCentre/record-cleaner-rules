@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Hadena bicruris
-Description=Checks date is within known flight period of Hadena bicruris
-ErrorMsg=Date is outside known flight period of Hadena bicruris
-Tvk=NBNSYS0000006266
-DataFieldName=
-StartDate=0401
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.281 Hadena bicruris (Lychnis)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hadena bicruris (Lychnis)
+Tvk = NBNSYS0000006266
+StartDate = 0415
+EndDate = 0921
+LastChanged = 20210525
 [EndMetadata]
-
-         

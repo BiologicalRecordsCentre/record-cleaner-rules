@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Rhyacia lucipeta
-Description=Checks date is within known recording period of Rhyacia lucipeta
-ErrorMsg=Date is outside known recording period of Rhyacia lucipeta
-Tvk=NHMSYS0000504056
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.340 Rhyacia lucipeta (Southern Rustic)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Rhyacia lucipeta (Southern Rustic)
+Tvk = NHMSYS0021144919
+StartDate = 19680715
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

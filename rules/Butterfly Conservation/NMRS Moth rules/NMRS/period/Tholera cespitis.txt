@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Tholera cespitis
-Description=Checks date is within known recording period of Tholera cespitis
-ErrorMsg=Date is outside known recording period of Tholera cespitis
-Tvk=NHMSYS0000504506
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.252 Tholera cespitis (Hedge Rustic)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Tholera cespitis (Hedge Rustic)
+Tvk = NHMSYS0021144801
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

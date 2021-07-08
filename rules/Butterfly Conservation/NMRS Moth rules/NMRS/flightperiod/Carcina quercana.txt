@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 31.001 Carcina quercana (Long-horned Flat-body)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Carcina quercana (Long-horned Flat-body)
+Tvk = NHMSYS0000501639
+StartDate = 0501
+EndDate = 1207
+LastChanged = 20210525
+[EndMetadata]

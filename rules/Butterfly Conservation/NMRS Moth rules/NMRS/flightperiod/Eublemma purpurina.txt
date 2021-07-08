@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Eublemma purpurina
-Description=Checks date is within known flight period of Eublemma purpurina
-ErrorMsg=Date is outside known flight period of Eublemma purpurina
-Tvk=NHMSYS0001703670
-DataFieldName=
-StartDate=0401
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.074 Eublemma purpurina (Beautiful Marbled)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eublemma purpurina (Beautiful Marbled)
+Tvk = NHMSYS0001703670
+StartDate = 0615
+EndDate = 1015
+LastChanged = 20210525
 [EndMetadata]
-
-         

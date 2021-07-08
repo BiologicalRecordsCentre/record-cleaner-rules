@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Phragmataecia castaneae
-Description=Checks date is within known flight period of Phragmataecia castaneae
-ErrorMsg=Date is outside known flight period of Phragmataecia castaneae
-Tvk=NHMSYS0000503737
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 50.003 Phragmataecia castaneae (Reed Leopard)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Phragmataecia castaneae (Reed Leopard)
+Tvk = NHMSYS0000503737
+StartDate = 0521
+EndDate = 0815
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Rheumaptera undulata
-Description=Checks date is within known recording period of Rheumaptera undulata
-ErrorMsg=Date is outside known recording period of Rheumaptera undulata
-Tvk=NBNSYS0000005869
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.121 Rheumaptera undulata (Scallop Shell)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Rheumaptera undulata (Scallop Shell)
+Tvk = NHMSYS0021144037
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

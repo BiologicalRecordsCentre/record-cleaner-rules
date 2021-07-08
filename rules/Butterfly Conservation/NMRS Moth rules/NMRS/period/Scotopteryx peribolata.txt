@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Scotopteryx peribolata
-Description=Checks date is within known recording period of Scotopteryx peribolata
-ErrorMsg=Date is outside known recording period of Scotopteryx peribolata
-Tvk=NHMSYS0000504136
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.042 Scotopteryx peribolata (Spanish Carpet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Scotopteryx peribolata (Spanish Carpet)
+Tvk = NHMSYS0021143906
+StartDate = 18900101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

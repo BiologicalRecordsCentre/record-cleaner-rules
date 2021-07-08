@@ -1,0 +1,54 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Coenophila subrosea 10km
+Description=Check coordinate against known 10km distribution of Coenophila subrosea
+ErrorMsg=Coordinate outside known range for Coenophila subrosea
+DataFieldName=Species
+DataRecordId=NHMSYS0000501811
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+SD26
+SD27
+SD28
+SD29
+SD36
+SD37
+SD38
+SD39
+SD46
+SD47
+SD48
+SD49
+SH50
+SH60
+SH70
+SH80
+SN55
+SN56
+SN57
+SN58
+SN59
+SN65
+SN66
+SN67
+SN68
+SN69
+SN75
+SN76
+SN77
+SN78
+SN79
+SN88
+SN89
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

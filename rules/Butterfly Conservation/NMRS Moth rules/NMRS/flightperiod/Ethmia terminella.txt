@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 33.004 Ethmia terminella (Five-spot Ermel)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Ethmia terminella (Five-spot Ermel)
+Tvk = NBNSYS0000026221
+StartDate = 0601
+EndDate = 0707
+LastChanged = 20210525
+[EndMetadata]

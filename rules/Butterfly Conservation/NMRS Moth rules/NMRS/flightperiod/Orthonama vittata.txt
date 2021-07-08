@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Orthonama vittata
-Description=Checks date is within known flight period of Orthonama vittata
-ErrorMsg=Date is outside known flight period of Orthonama vittata
-Tvk=NBNSYS0000005792
-DataFieldName=
-StartDate=0401
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.046 Orthonama vittata (Oblique Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Orthonama vittata (Oblique Carpet)
+Tvk = NBNSYS0000005792
+StartDate = 0401
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

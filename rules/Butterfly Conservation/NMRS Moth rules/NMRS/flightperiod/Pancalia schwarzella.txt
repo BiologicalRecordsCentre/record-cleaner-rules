@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 34.002 Pancalia schwarzella (Scarce Violet Cosmet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Pancalia schwarzella (Scarce Violet Cosmet)
+Tvk = NBNSYS0100004407
+StartDate = 0301
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 63.029 Paratalanta pandalis (Bordered Pearl)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Paratalanta pandalis (Bordered Pearl)
+Tvk = NHMSYS0021143721
+StartDate = 0515
+EndDate = 0807
+LastChanged = 20210525
+[EndMetadata]

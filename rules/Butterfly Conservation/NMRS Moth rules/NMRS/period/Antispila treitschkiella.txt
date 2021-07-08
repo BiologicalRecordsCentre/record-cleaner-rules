@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 6.0021 Antispila treitschkiella (Cherry Lift)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Antispila treitschkiella (Cherry Lift)
+Tvk = NHMSYS0000501272
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

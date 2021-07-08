@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 62.040 Apomyelois ceratoniae (Locust Bean Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Apomyelois ceratoniae (Locust Bean Moth)
+Tvk = NBNSYS0100001619
+StartDate = 0601
+EndDate = 1130
+LastChanged = 20210525
+[EndMetadata]

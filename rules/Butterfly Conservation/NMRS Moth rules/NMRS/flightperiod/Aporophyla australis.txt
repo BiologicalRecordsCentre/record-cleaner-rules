@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Aporophyla australis
-Description=Checks date is within known flight period of Aporophyla australis
-ErrorMsg=Date is outside known flight period of Aporophyla australis
-Tvk=NHMSYS0000517198
-DataFieldName=
-StartDate=0801
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.230 Aporophyla australis (Feathered Brindle)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Aporophyla australis (Feathered Brindle)
+Tvk = NHMSYS0000517198
+StartDate = 0821
+EndDate = 1031
+LastChanged = 20210525
 [EndMetadata]
-
-         

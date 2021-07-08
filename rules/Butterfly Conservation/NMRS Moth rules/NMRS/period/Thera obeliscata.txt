@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Thera obeliscata
-Description=Checks date is within known recording period of Thera obeliscata
-ErrorMsg=Date is outside known recording period of Thera obeliscata
-Tvk=NHMSYS0000504493
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.081 Thera obeliscata (Grey Pine Carpet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Thera obeliscata (Grey Pine Carpet)
+Tvk = NHMSYS0021143975
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

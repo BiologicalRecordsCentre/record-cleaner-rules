@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Acronicta aceris
-Description=Checks date is within known flight period of Acronicta aceris
-ErrorMsg=Date is outside known flight period of Acronicta aceris
-Tvk=NBNSYS0000006374
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.039 Acronicta aceris (Sycamore)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Acronicta aceris (Sycamore)
+Tvk = NBNSYS0000006374
+StartDate = 0401
+EndDate = 0821
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,15 +1,12 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Jodia croceago
-Description=Checks date is within known flight period of Jodia croceago
-ErrorMsg=Date is outside known flight period of Jodia croceago
-Tvk=NHMSYS0000502967
-DataFieldName=
-StartDate=0630
-EndDate=0901
-ReverseRule=True
-LastChanged=20120126
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.199 Jodia croceago (Orange Upperwing)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Jodia croceago (Orange Upperwing)
+Tvk = NHMSYS0021144722
+StartDate = 0515
+EndDate = 1001
+ReverseRule = True
+LastChanged = 20210525
 [EndMetadata]
-
-         

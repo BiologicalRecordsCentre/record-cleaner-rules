@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Operophtera brumata
-Description=Checks date is within known recording period of Operophtera brumata
-ErrorMsg=Date is outside known recording period of Operophtera brumata
-Tvk=NBNSYS0000005879
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.106 Operophtera brumata (Winter Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Operophtera brumata (Winter Moth)
+Tvk = NBNSYS0000005879
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

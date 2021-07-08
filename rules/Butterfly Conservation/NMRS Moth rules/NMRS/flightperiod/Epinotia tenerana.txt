@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.248 Epinotia tenerana (Nut-bud Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Epinotia tenerana (Nut-bud Moth)
+Tvk = NHMSYS0021143268
+StartDate = 0601
+EndDate = 1007
+LastChanged = 20210525
+[EndMetadata]

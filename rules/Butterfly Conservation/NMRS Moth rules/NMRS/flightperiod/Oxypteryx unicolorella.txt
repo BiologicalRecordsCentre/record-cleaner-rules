@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.080 Oxypteryx unicolorella (Unmarked Neb)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Oxypteryx unicolorella (Unmarked Neb)
+Tvk = NHMSYS0021297329
+StartDate = 0521
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

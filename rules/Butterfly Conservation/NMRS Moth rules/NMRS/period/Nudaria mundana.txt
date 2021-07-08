@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Nudaria mundana
-Description=Checks date is within known recording period of Nudaria mundana
-ErrorMsg=Date is outside known recording period of Nudaria mundana
-Tvk=NBNSYS0000006124
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.036 Nudaria mundana (Muslin Footman)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Nudaria mundana (Muslin Footman)
+Tvk = NBNSYS0000006124
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

@@ -1,15 +1,12 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Lithophane consocia
-Description=Checks date is within known flight period of Lithophane consocia
-ErrorMsg=Date is outside known flight period of Lithophane consocia
-Tvk=NHMSYS0001703673
-DataFieldName=
-StartDate=0630
-EndDate=0801
-ReverseRule=True
-LastChanged=20120126
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.204 Lithophane consocia (Softly's Shoulder-knot)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Lithophane consocia (Softly's Shoulder-knot)
+Tvk = NHMSYS0001703673
+StartDate = 0531
+EndDate = 0901
+ReverseRule = True
+LastChanged = 20210525
 [EndMetadata]
-
-         

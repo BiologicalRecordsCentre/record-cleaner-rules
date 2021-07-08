@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 4.030 Stigmella hybnerella (Greenish Thorn Pigmy)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Stigmella hybnerella (Greenish Thorn Pigmy)
+Tvk = NHMSYS0000504356
+StartDate = 0401
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

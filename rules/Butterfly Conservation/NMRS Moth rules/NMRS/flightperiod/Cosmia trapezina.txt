@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Cosmia trapezina
-Description=Checks date is within known flight period of Cosmia trapezina
-ErrorMsg=Date is outside known flight period of Cosmia trapezina
-Tvk=NBNSYS0000006414
-DataFieldName=
-StartDate=0601
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.216 Cosmia trapezina (Dun-bar)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cosmia trapezina (Dun-bar)
+Tvk = NBNSYS0000006414
+StartDate = 0601
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

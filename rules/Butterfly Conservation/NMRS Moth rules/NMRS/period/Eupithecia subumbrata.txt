@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Eupithecia subumbrata
-Description=Checks date is within known recording period of Eupithecia subumbrata
-ErrorMsg=Date is outside known recording period of Eupithecia subumbrata
-Tvk=NHMSYS0000502620
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.189 Eupithecia subumbrata (Shaded Pug)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eupithecia subumbrata (Shaded Pug)
+Tvk = NHMSYS0021144131
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

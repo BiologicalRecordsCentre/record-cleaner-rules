@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 17.001 Ypsolopha mucronella (Spindle Smudge)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Ypsolopha mucronella (Spindle Smudge)
+Tvk = NHMSYS0000504701
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

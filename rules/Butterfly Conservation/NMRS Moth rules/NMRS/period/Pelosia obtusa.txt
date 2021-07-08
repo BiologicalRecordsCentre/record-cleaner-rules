@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Pelosia obtusa
-Description=Checks date is within known recording period of Pelosia obtusa
-ErrorMsg=Date is outside known recording period of Pelosia obtusa
-Tvk=NHMSYS0000503663
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.040 Pelosia obtusa (Small Dotted Footman)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pelosia obtusa (Small Dotted Footman)
+Tvk = NHMSYS0021144412
+StartDate = 19610101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

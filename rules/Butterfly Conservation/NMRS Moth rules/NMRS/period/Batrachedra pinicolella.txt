@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 36.002 Batrachedra pinicolella (Pine Cosmet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Batrachedra pinicolella (Pine Cosmet)
+Tvk = NHMSYS0000501456
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

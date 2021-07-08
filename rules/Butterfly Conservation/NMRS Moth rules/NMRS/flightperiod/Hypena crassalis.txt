@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Hypena crassalis
-Description=Checks date is within known flight period of Hypena crassalis
-ErrorMsg=Date is outside known flight period of Hypena crassalis
-Tvk=NBNSYS0000006580
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.007 Hypena crassalis (Beautiful Snout)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hypena crassalis (Beautiful Snout)
+Tvk = NBNSYS0000006580
+StartDate = 0515
+EndDate = 1007
+LastChanged = 20210525
 [EndMetadata]
-
-         

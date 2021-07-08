@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.017 Neofaculta ericetella (Heather Sober)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Neofaculta ericetella (Heather Sober)
+Tvk = NHMSYS0021142637
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

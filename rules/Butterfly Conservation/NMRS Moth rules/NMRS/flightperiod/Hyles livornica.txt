@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Hyles livornica
-Description=Checks date is within known flight period of Hyles livornica
-ErrorMsg=Date is outside known flight period of Hyles livornica
-Tvk=NBNSYS0100003566
-DataFieldName=
-StartDate=0401
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 69.015 Hyles livornica (Striped Hawk-moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hyles livornica (Striped Hawk-moth)
+Tvk = NHMSYS0021143839
+StartDate = 0415
+EndDate = 1015
+LastChanged = 20210525
 [EndMetadata]
-
-         

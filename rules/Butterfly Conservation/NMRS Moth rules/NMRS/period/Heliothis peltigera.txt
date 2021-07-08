@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Heliothis peltigera
-Description=Checks date is within known recording period of Heliothis peltigera
-ErrorMsg=Date is outside known recording period of Heliothis peltigera
-Tvk=NHMSYS0000502831
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.074 Heliothis peltigera (Bordered Straw)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Heliothis peltigera (Bordered Straw)
+Tvk = NHMSYS0021144540
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 12.043 Haplotinea ditella (Scarce Drab Clothes Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Haplotinea ditella (Scarce Drab Clothes Moth)
+Tvk = NHMSYS0000502802
+StartDate = 0601
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.017 Choristoneura diversana (Forest Tortrix)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Choristoneura diversana (Forest Tortrix)
+Tvk = NHMSYS0021143007
+StartDate = 0601
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 15.025 Parornix betulae (Brown Birch Slender)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Parornix betulae (Brown Birch Slender)
+Tvk = NHMSYS0000503643
+StartDate = 0401
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

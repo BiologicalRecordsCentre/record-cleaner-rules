@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 10.003 Coptotriche marginea (Bordered Carl)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Coptotriche marginea (Bordered Carl)
+Tvk = NHMSYS0021142180
+StartDate = 0415
+EndDate = 0915
+LastChanged = 20210525
+[EndMetadata]

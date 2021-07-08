@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Gymnoscelis rufifasciata
-Description=Checks date is within known recording period of Gymnoscelis rufifasciata
-ErrorMsg=Date is outside known recording period of Gymnoscelis rufifasciata
-Tvk=NBNSYS0000005950
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.141 Gymnoscelis rufifasciata (Double-striped Pug)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Gymnoscelis rufifasciata (Double-striped Pug)
+Tvk = NBNSYS0000005950
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

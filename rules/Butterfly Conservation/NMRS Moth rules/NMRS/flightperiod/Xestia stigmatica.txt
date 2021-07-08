@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.354 Xestia stigmatica (Square-spotted Clay)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Xestia stigmatica (Square-spotted Clay)
+Tvk = NHMSYS0021144935
+StartDate = 0621
+EndDate = 0915
+LastChanged = 20210525
+[EndMetadata]

@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Dicallomera fascelina
-Description=Checks date is within known recording period of Dicallomera fascelina
-ErrorMsg=Date is outside known recording period of Dicallomera fascelina
-Tvk=NBNSYS0000006113
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.016 Dicallomera fascelina (Dark Tussock)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Dicallomera fascelina (Dark Tussock)
+Tvk = NBNSYS0000006113
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

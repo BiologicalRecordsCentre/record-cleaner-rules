@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 29.003 Dasystoma salicella (Spring Tubic)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Dasystoma salicella (Spring Tubic)
+Tvk = NHMSYS0000502102
+StartDate = 0301
+EndDate = 0430
+LastChanged = 20210525
+[EndMetadata]

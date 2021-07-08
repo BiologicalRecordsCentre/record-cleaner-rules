@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 11.013 Psyche crassiorella (Scarce Grass Bagworm)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Psyche crassiorella (Scarce Grass Bagworm)
+Tvk = NHMSYS0000503961
+StartDate = 17000101
+EndDate = 19171231
+LastChanged = 20210521
+[EndMetadata]

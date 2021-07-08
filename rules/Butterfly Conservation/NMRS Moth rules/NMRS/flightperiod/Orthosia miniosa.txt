@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Orthosia miniosa
-Description=Checks date is within known flight period of Orthosia miniosa
-ErrorMsg=Date is outside known flight period of Orthosia miniosa
-Tvk=NHMSYS0000503517
-DataFieldName=
-StartDate=0201
-EndDate=0531
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.243 Orthosia miniosa (Blossom Underwing)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Orthosia miniosa (Blossom Underwing)
+Tvk = NHMSYS0021144788
+StartDate = 0307
+EndDate = 0507
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Thumatha senex
-Description=Checks date is within known flight period of Thumatha senex
-ErrorMsg=Date is outside known flight period of Thumatha senex
-Tvk=NHMSYS0000504509
-DataFieldName=
-StartDate=0601
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.037 Thumatha senex (Round-winged Muslin)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Thumatha senex (Round-winged Muslin)
+Tvk = NHMSYS0021144411
+StartDate = 0601
+EndDate = 0831
+LastChanged = 20210525
 [EndMetadata]
-
-         

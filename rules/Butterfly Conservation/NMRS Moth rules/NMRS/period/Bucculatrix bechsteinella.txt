@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 14.012 Bucculatrix bechsteinella (Hawthorn Bent-wing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Bucculatrix bechsteinella (Hawthorn Bent-wing)
+Tvk = NBNSYS0100002131
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

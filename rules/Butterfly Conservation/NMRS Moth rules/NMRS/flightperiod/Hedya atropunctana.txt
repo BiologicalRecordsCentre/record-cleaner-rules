@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.159 Hedya atropunctana (Shoulder-spot Marble)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hedya atropunctana (Shoulder-spot Marble)
+Tvk = NHMSYS0021143169
+StartDate = 0501
+EndDate = 0630
+LastChanged = 20210525
+[EndMetadata]

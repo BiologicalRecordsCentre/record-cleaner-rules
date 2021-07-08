@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Moths Recording Period
+ShortName=Melitaea athalia
+Description=Checks date is within known recording period of Melitaea athalia
+ErrorMsg=Date is outside known recording period of Melitaea athalia
+Tvk=NHMSYS0000503190
+StartDate=17000101
+EndDate=
+LastChanged=20210707
+[EndMetadata]
+
+         

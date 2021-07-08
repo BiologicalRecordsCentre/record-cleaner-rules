@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Eupithecia egenaria
-Description=Checks date is within known recording period of Eupithecia egenaria
-ErrorMsg=Date is outside known recording period of Eupithecia egenaria
-Tvk=NHMSYS0000502597
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.164 Eupithecia egenaria (Fletcher's Pug or Pauper Pug)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eupithecia egenaria (Fletcher's Pug or Pauper Pug)
+Tvk = NHMSYS0000502597
+StartDate = 19620101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

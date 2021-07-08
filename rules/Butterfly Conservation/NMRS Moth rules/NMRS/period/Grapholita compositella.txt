@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.347 Grapholita compositella (Triple-stripe Piercer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Grapholita compositella (Triple-stripe Piercer)
+Tvk = NBNSYS0100003283
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

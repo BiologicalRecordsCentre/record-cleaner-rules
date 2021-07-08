@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Gluphisia crenata
-Description=Checks date is within known flight period of Gluphisia crenata
-ErrorMsg=Date is outside known flight period of Gluphisia crenata
-Tvk=NBNSYS0000006102
-DataFieldName=
-StartDate=0301
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 71.026 Gluphisia crenata (Dusky Marbled Brown)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Gluphisia crenata (Dusky Marbled Brown)
+Tvk = NBNSYS0000006102
+StartDate = 0615
+EndDate = 0807
+LastChanged = 20210525
 [EndMetadata]
-
-         

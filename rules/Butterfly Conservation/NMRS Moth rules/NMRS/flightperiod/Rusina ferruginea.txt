@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Rusina ferruginea
-Description=Checks date is within known flight period of Rusina ferruginea
-ErrorMsg=Date is outside known flight period of Rusina ferruginea
-Tvk=NBNSYS0000006398
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.102 Rusina ferruginea (Brown Rustic)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Rusina ferruginea (Brown Rustic)
+Tvk = NBNSYS0000006398
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
 [EndMetadata]
-
-         

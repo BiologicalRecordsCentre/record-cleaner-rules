@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Tathorhynchus exsiccata
-Description=Checks date is within known recording period of Tathorhynchus exsiccata
-ErrorMsg=Date is outside known recording period of Tathorhynchus exsiccata
-Tvk=NBNSYS0000006391
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.065 Tathorhynchus exsiccata (Levant Blackneck)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Tathorhynchus exsiccata (Levant Blackneck)
+Tvk = NBNSYS0000006391
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

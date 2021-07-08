@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Amphipyra tragopoginis
-Description=Checks date is within known flight period of Amphipyra tragopoginis
-ErrorMsg=Date is outside known flight period of Amphipyra tragopoginis
-Tvk=NBNSYS0000006395
-DataFieldName=
-StartDate=0601
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.064 Amphipyra tragopoginis (Mouse Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Amphipyra tragopoginis (Mouse Moth)
+Tvk = NBNSYS0000006395
+StartDate = 0621
+EndDate = 1015
+LastChanged = 20210525
 [EndMetadata]
-
-         

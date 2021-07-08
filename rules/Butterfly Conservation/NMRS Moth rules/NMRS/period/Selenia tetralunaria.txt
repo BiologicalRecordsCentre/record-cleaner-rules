@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Selenia tetralunaria
-Description=Checks date is within known recording period of Selenia tetralunaria
-ErrorMsg=Date is outside known recording period of Selenia tetralunaria
-Tvk=NBNSYS0000006010
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.239 Selenia tetralunaria (Purple Thorn)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Selenia tetralunaria (Purple Thorn)
+Tvk = NBNSYS0000006010
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Paracolax tristalis
-Description=Checks date is within known recording period of Paracolax tristalis
-ErrorMsg=Date is outside known recording period of Paracolax tristalis
-Tvk=NBNSYS0000006598
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.051 Paracolax tristalis (Clay Fan-foot)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Paracolax tristalis (Clay Fan-foot)
+Tvk = NBNSYS0000006598
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.108 Polyphaenis sericata (Guernsey Underwing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Polyphaenis sericata (Guernsey Underwing)
+Tvk = NBNSYS0000005290
+StartDate = 18700101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

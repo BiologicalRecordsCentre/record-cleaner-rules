@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.110 Agapeta zoegana (Knapweed Conch)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Agapeta zoegana (Knapweed Conch)
+Tvk = NHMSYS0000501024
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

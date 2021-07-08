@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Orthosia miniosa
-Description=Checks date is within known recording period of Orthosia miniosa
-ErrorMsg=Date is outside known recording period of Orthosia miniosa
-Tvk=NHMSYS0000503517
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.243 Orthosia miniosa (Blossom Underwing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Orthosia miniosa (Blossom Underwing)
+Tvk = NHMSYS0021144788
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

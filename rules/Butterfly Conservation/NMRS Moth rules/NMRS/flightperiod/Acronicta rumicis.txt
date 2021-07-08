@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Acronicta rumicis
-Description=Checks date is within known flight period of Acronicta rumicis
-ErrorMsg=Date is outside known flight period of Acronicta rumicis
-Tvk=NBNSYS0000006384
-DataFieldName=
-StartDate=0401
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.045 Acronicta rumicis (Knot Grass)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Acronicta rumicis (Knot Grass)
+Tvk = NBNSYS0000006384
+StartDate = 0401
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

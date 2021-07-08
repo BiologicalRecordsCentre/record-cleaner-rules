@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.054 Metzneria neuropterella (Brown-veined Neb)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Metzneria neuropterella (Brown-veined Neb)
+Tvk = NHMSYS0000503226
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 45.034 Merrifieldia baliodactylus (Dingy White Plume)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Merrifieldia baliodactylus (Dingy White Plume)
+Tvk = NBNSYS0100004009
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

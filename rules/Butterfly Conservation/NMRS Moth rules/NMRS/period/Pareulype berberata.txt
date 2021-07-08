@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Pareulype berberata
-Description=Checks date is within known recording period of Pareulype berberata
-ErrorMsg=Date is outside known recording period of Pareulype berberata
-Tvk=NHMSYS0000503633
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.124 Pareulype berberata (Barberry Carpet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pareulype berberata (Barberry Carpet)
+Tvk = NHMSYS0021144040
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.166 Celypha lacunana (Common Marble)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Celypha lacunana (Common Marble)
+Tvk = NBNSYS0100002225
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

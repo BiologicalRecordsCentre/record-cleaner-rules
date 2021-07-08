@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Eupithecia tenuiata
-Description=Checks date is within known flight period of Eupithecia tenuiata
-ErrorMsg=Date is outside known flight period of Eupithecia tenuiata
-Tvk=NHMSYS0000502621
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.147 Eupithecia tenuiata (Slender Pug)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eupithecia tenuiata (Slender Pug)
+Tvk = NHMSYS0021144074
+StartDate = 0507
+EndDate = 0907
+LastChanged = 20210525
 [EndMetadata]
-
-         

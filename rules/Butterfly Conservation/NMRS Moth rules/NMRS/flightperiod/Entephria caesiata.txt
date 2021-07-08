@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Entephria caesiata
-Description=Checks date is within known flight period of Entephria caesiata
-ErrorMsg=Date is outside known flight period of Entephria caesiata
-Tvk=NHMSYS0000502383
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.072 Entephria caesiata (Grey Mountain Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Entephria caesiata (Grey Mountain Carpet)
+Tvk = NHMSYS0021143952
+StartDate = 0601
+EndDate = 1007
+LastChanged = 20210525
 [EndMetadata]
-
-         

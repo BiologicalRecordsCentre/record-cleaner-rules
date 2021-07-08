@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Peribatodes secundaria
-Description=Checks date is within known flight period of Peribatodes secundaria
-ErrorMsg=Date is outside known flight period of Peribatodes secundaria
-Tvk=NBNSYS0000006029
-DataFieldName=
-StartDate=0601
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.260 Peribatodes secundaria (Feathered Beauty)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Peribatodes secundaria (Feathered Beauty)
+Tvk = NHMSYS0021144229
+StartDate = 0621
+EndDate = 0721
+LastChanged = 20210525
 [EndMetadata]
-
-         

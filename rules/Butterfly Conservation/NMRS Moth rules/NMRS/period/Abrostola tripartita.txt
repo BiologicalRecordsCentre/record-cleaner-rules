@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Abrostola tripartita
-Description=Checks date is within known recording period of Abrostola tripartita
-ErrorMsg=Date is outside known recording period of Abrostola tripartita
-Tvk=NBNSYS0100001391
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.001 Abrostola tripartita (Spectacle)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Abrostola tripartita (Spectacle)
+Tvk = NBNSYS0100001391
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Furcula bifida
-Description=Checks date is within known recording period of Furcula bifida
-ErrorMsg=Date is outside known recording period of Furcula bifida
-Tvk=NBNSYS0000006084
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 71.007 Furcula bifida (Poplar Kitten)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Furcula bifida (Poplar Kitten)
+Tvk = NBNSYS0000006084
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

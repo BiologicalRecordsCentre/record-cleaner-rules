@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.249 Epinotia ramella (Small Birch Bell)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Epinotia ramella (Small Birch Bell)
+Tvk = NHMSYS0000502445
+StartDate = 0701
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

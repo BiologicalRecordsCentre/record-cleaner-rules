@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Xestia agathina
-Description=Checks date is within known flight period of Xestia agathina
-ErrorMsg=Date is outside known flight period of Xestia agathina
-Tvk=NBNSYS0000006226
-DataFieldName=
-StartDate=0801
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.356 Xestia agathina (Heath Rustic)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Xestia agathina (Heath Rustic)
+Tvk = NBNSYS0000006226
+StartDate = 0721
+EndDate = 1015
+LastChanged = 20210525
 [EndMetadata]
-
-         

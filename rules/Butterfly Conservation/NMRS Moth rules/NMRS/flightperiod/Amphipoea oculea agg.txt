@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+Shortname = 73.12x Amphipoea oculea agg.
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Amphipoea oculea agg.
+Tvk = NHMSYS0001703666
+StartDate = 0621
+EndDate = 1015
+LastChanged = 20210525
+[EndMetadata]

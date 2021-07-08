@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 41.004 Blastobasis vittata (Sussex Dowd)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Blastobasis vittata (Sussex Dowd)
+Tvk = NHMSYS0021142870
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 34.005 Cosmopterix zieglerella (Hedge Cosmet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cosmopterix zieglerella (Hedge Cosmet)
+Tvk = NHMSYS0021142610
+StartDate = 0521
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

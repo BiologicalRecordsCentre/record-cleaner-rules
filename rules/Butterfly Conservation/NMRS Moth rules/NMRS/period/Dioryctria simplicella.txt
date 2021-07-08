@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 62.027 Dioryctria simplicella (Brown Pine Knot-horn)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Dioryctria simplicella (Brown Pine Knot-horn)
+Tvk = NBNSYS0100002848
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

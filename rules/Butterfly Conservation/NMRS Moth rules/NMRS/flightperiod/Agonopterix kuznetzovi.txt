@@ -1,0 +1,12 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 32.014 Agonopterix kuznetzovi (Cornish Flat-body)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Agonopterix kuznetzovi (Cornish Flat-body)
+Tvk = NHMSYS0000501058
+StartDate = 0601
+EndDate = 0721
+ReverseRule = True
+LastChanged = 20210525
+[EndMetadata]

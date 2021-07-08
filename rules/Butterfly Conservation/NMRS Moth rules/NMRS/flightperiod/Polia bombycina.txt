@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Polia bombycina
-Description=Checks date is within known flight period of Polia bombycina
-ErrorMsg=Date is outside known flight period of Polia bombycina
-Tvk=NBNSYS0000006239
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.259 Polia bombycina (Pale Shining Brown)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Polia bombycina (Pale Shining Brown)
+Tvk = NBNSYS0000006239
+StartDate = 0601
+EndDate = 0731
+LastChanged = 20210525
 [EndMetadata]
-
-         

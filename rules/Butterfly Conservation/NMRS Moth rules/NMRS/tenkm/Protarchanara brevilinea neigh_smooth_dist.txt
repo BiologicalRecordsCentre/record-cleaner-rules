@@ -1,0 +1,51 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Protarchanara brevilinea 10km
+Description=Check coordinate against known 10km distribution of Protarchanara brevilinea
+ErrorMsg=Coordinate outside known range for Protarchanara brevilinea
+DataFieldName=Species
+DataRecordId=NHMSYS0021144654
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+TG20
+TG21
+TG22
+TG23
+TG30
+TG31
+TG32
+TG33
+TG40
+TG41
+TG42
+TG50
+TG51
+TM29
+TM33
+TM34
+TM35
+TM36
+TM37
+TM38
+TM39
+TM44
+TM45
+TM46
+TM47
+TM48
+TM49
+TM57
+TM58
+TM59
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

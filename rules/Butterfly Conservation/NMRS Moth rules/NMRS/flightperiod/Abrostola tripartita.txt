@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Abrostola tripartita
-Description=Checks date is within known flight period of Abrostola tripartita
-ErrorMsg=Date is outside known flight period of Abrostola tripartita
-Tvk=NBNSYS0100001391
-DataFieldName=
-StartDate=0401
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.001 Abrostola tripartita (Spectacle)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Abrostola tripartita (Spectacle)
+Tvk = NBNSYS0100001391
+StartDate = 0415
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Catocala conjuncta
-Description=Checks date is within known flight period of Catocala conjuncta
-ErrorMsg=Date is outside known flight period of Catocala conjuncta
-Tvk=NHMSYS0001703667
-DataFieldName=
-StartDate=0601
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.077 Catocala conjuncta (Minsmere Crimson Underwing)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Catocala conjuncta (Minsmere Crimson Underwing)
+Tvk = NHMSYS0001703667
+StartDate = 0721
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

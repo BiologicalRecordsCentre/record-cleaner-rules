@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Lymantria dispar
-Description=Checks date is within known flight period of Lymantria dispar
-ErrorMsg=Date is outside known flight period of Lymantria dispar
-Tvk=NBNSYS0000006120
-DataFieldName=
-StartDate=0701
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.011 Lymantria dispar (Gypsy Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Lymantria dispar (Gypsy Moth)
+Tvk = NBNSYS0000006120
+StartDate = 0615
+EndDate = 0915
+LastChanged = 20210525
 [EndMetadata]
-
-         

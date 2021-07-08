@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 20.023 Argyresthia albistria (Purple Argent)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Argyresthia albistria (Purple Argent)
+Tvk = NHMSYS0000501359
+StartDate = 0601
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

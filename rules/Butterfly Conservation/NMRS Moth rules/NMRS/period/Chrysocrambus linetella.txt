@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 63.105 Chrysocrambus linetella (Orange-bar Grass-veneer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Chrysocrambus linetella (Orange-bar Grass-veneer)
+Tvk = NHMSYS0000501777
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.375 Pammene regiana (Regal Piercer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pammene regiana (Regal Piercer)
+Tvk = NHMSYS0000503564
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

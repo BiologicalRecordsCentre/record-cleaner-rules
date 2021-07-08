@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.118 Scrobipalpa ocellatella (Beet Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Scrobipalpa ocellatella (Beet Moth)
+Tvk = NHMSYS0000504148
+StartDate = 0501
+EndDate = 1007
+LastChanged = 20210525
+[EndMetadata]

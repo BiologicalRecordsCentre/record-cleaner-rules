@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Paradarisa consonaria
-Description=Checks date is within known flight period of Paradarisa consonaria
-ErrorMsg=Date is outside known flight period of Paradarisa consonaria
-Tvk=NHMSYS0000503598
-DataFieldName=
-StartDate=0301
-EndDate=0731
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.272 Paradarisa consonaria (Square Spot)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Paradarisa consonaria (Square Spot)
+Tvk = NHMSYS0021144257
+StartDate = 0321
+EndDate = 0715
+LastChanged = 20210525
 [EndMetadata]
-
-         

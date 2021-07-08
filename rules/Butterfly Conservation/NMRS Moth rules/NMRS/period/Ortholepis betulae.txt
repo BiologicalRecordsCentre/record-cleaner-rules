@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 62.011 Ortholepis betulae (Birch Knot-horn)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Ortholepis betulae (Birch Knot-horn)
+Tvk = NBNSYS0100004350
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

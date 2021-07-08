@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.046 Eana argentana (Silver Shade)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eana argentana (Silver Shade)
+Tvk = NHMSYS0000502245
+StartDate = 18750101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

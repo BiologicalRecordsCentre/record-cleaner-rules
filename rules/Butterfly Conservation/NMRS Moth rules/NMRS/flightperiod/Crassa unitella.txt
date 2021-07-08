@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 28.014 Crassa unitella (Golden-brown Tubic)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Crassa unitella (Golden-brown Tubic)
+Tvk = NHMSYS0020978765
+StartDate = 0521
+EndDate = 0915
+LastChanged = 20210525
+[EndMetadata]

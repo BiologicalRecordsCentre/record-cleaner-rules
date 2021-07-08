@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Apamea remissa
-Description=Checks date is within known flight period of Apamea remissa
-ErrorMsg=Date is outside known flight period of Apamea remissa
-Tvk=NHMSYS0000501111
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.154 Apamea remissa (Dusky Brocade)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Apamea remissa (Dusky Brocade)
+Tvk = NHMSYS0021144661
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
 [EndMetadata]
-
-         

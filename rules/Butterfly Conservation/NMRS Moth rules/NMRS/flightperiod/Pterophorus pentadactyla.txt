@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 45.030 Pterophorus pentadactyla (White Plume)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Pterophorus pentadactyla (White Plume)
+Tvk = NHMSYS0000503972
+StartDate = 0301
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

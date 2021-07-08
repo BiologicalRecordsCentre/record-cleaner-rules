@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 21.004 Leucoptera laburnella (Laburnum Leaf-miner)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Leucoptera laburnella (Laburnum Leaf-miner)
+Tvk = NHMSYS0000503047
+StartDate = 0421
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

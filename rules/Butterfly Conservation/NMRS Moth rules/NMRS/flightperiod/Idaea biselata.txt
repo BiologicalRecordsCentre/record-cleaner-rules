@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Idaea biselata
-Description=Checks date is within known flight period of Idaea biselata
-ErrorMsg=Date is outside known flight period of Idaea biselata
-Tvk=NBNSYS0000005775
-DataFieldName=
-StartDate=0501
-EndDate=1130
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.013 Idaea biselata (Small Fan-footed Wave)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Idaea biselata (Small Fan-footed Wave)
+Tvk = NBNSYS0000005775
+StartDate = 0601
+EndDate = 1015
+LastChanged = 20210525
 [EndMetadata]
-
-         

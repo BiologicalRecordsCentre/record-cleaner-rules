@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.163 Celypha rurestrana (Hawkweed Marble)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Celypha rurestrana (Hawkweed Marble)
+Tvk = NHMSYS0021143173
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

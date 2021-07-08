@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 39.002 Blastodacna atra (Apple-pith Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Blastodacna atra (Apple-pith Moth)
+Tvk = NHMSYS0000501498
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

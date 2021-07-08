@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Stegania trimaculata 10km
+Description=Check coordinate against known 10km distribution of Stegania trimaculata
+ErrorMsg=Coordinate outside known range for Stegania trimaculata
+DataFieldName=Species
+DataRecordId=NHMSYS0000504304
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+SY58
+SY66
+SY67
+SY68
+SY77
+SY78
+TL30
+TL40
+TL50
+TQ38
+TQ39
+TQ48
+TQ49
+TQ58
+TQ59
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

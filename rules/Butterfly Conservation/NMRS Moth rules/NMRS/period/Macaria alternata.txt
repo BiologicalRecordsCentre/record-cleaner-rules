@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Macaria alternata
-Description=Checks date is within known recording period of Macaria alternata
-ErrorMsg=Date is outside known recording period of Macaria alternata
-Tvk=NHMSYS0000503142
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.212 Macaria alternata (Sharp-angled Peacock)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Macaria alternata (Sharp-angled Peacock)
+Tvk = NBNSYS0100003853
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

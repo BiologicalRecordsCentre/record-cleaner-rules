@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Apamea scolopacina
-Description=Checks date is within known recording period of Apamea scolopacina
-ErrorMsg=Date is outside known recording period of Apamea scolopacina
-Tvk=NBNSYS0000006433
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.160 Apamea scolopacina (Slender Brindle)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Apamea scolopacina (Slender Brindle)
+Tvk = NBNSYS0000006433
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

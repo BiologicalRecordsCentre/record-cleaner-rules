@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 15.027 Parornix carpinella (Hornbeam Slender)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Parornix carpinella (Hornbeam Slender)
+Tvk = NHMSYS0000503644
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

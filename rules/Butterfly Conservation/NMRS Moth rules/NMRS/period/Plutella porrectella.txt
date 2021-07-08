@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 18.003 Plutella porrectella (Grey-streaked Diamond-back)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Plutella porrectella (Grey-streaked Diamond-back)
+Tvk = NHMSYS0000503884
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

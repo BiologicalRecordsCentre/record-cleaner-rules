@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 12.006 Infurcitinea argentimaculella (Silver-barred Clothes Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Infurcitinea argentimaculella (Silver-barred Clothes Moth)
+Tvk = NHMSYS0000502950
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

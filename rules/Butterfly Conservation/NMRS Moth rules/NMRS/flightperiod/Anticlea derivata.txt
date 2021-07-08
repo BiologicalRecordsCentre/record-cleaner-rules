@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Anticlea derivata
-Description=Checks date is within known flight period of Anticlea derivata
-ErrorMsg=Date is outside known flight period of Anticlea derivata
-Tvk=NHMSYS0000501264
-DataFieldName=
-StartDate=0301
-EndDate=0630
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.067 Anticlea derivata (Streamer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Anticlea derivata (Streamer)
+Tvk = NHMSYS0021143944
+StartDate = 0315
+EndDate = 0607
+LastChanged = 20210525
 [EndMetadata]
-
-         

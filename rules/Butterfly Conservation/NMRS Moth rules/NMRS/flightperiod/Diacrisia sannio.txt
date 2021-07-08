@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Diacrisia sannio
-Description=Checks date is within known flight period of Diacrisia sannio
-ErrorMsg=Date is outside known flight period of Diacrisia sannio
-Tvk=NBNSYS0000006145
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.023 Diacrisia sannio (Clouded Buff)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Diacrisia sannio (Clouded Buff)
+Tvk = NBNSYS0000006145
+StartDate = 0515
+EndDate = 0907
+LastChanged = 20210525
 [EndMetadata]
-
-         

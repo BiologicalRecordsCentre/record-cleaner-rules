@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.249 Lycia lapponaria scotica (Rannoch Brindled Beauty)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Lycia lapponaria scotica (Rannoch Brindled Beauty)
+Tvk = NHMSYS0021144216
+StartDate = 0321
+EndDate = 0507
+LastChanged = 20210525
+[EndMetadata]

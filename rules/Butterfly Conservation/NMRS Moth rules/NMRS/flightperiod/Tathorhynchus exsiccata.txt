@@ -1,14 +1,12 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Tathorhynchus exsiccata
-Description=Checks date is within known flight period of Tathorhynchus exsiccata
-ErrorMsg=Date is outside known flight period of Tathorhynchus exsiccata
-Tvk=NBNSYS0000006391
-DataFieldName=
-StartDate=0101
-EndDate=1231
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.065 Tathorhynchus exsiccata (Levant Blackneck)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Tathorhynchus exsiccata (Levant Blackneck)
+Tvk = NBNSYS0000006391
+StartDate = 0507
+EndDate = 1215
+ReverseRule = True
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,14 +1,12 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Agriopis leucophaearia
-Description=Checks date is within known flight period of Agriopis leucophaearia
-ErrorMsg=Date is outside known flight period of Agriopis leucophaearia
-Tvk=NHMSYS0000501079
-DataFieldName=
-StartDate=0101
-EndDate=0430
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.253 Agriopis leucophaearia (Spring Usher)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Agriopis leucophaearia (Spring Usher)
+Tvk = NHMSYS0021144221
+StartDate = 0407
+EndDate = 1215
+ReverseRule = True
+LastChanged = 20210525
 [EndMetadata]
-
-         

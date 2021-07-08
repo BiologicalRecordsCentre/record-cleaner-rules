@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Zanclognatha lunalis 10km
+Description=Check coordinate against known 10km distribution of Zanclognatha lunalis
+ErrorMsg=Coordinate outside known range for Zanclognatha lunalis
+DataFieldName=Species
+DataRecordId=NBNSYS0100006031
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+SY97
+SY98
+SZ07
+SZ08
+TM00
+TM01
+TM02
+TM10
+TM11
+TM12
+TM20
+TM21
+TM22
+TQ94
+TQ95
+TQ96
+TR04
+TR05
+TR06
+TR14
+TR15
+TR16
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

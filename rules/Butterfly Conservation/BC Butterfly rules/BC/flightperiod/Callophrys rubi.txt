@@ -1,0 +1,11 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Callophrys rubi
+Description=Checks date is within known flight period of Callophrys rubi
+ErrorMsg=Date is outside known flight period of Callophrys rubi
+Tvk=NHMSYS0000501598
+StartDate=0301
+EndDate=0731
+LastChanged=20210608
+[EndMetadata]

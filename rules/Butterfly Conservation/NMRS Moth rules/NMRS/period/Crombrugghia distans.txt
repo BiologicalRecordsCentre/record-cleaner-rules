@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 45.026 Crombrugghia distans (Breckland Plume)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Crombrugghia distans (Breckland Plume)
+Tvk = NBNSYS0000027025
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

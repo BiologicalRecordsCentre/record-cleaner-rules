@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Eupithecia inturbata
-Description=Checks date is within known flight period of Eupithecia inturbata
-ErrorMsg=Date is outside known flight period of Eupithecia inturbata
-Tvk=NHMSYS0000502607
-DataFieldName=
-StartDate=0601
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.148 Eupithecia inturbata (Maple Pug)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eupithecia inturbata (Maple Pug)
+Tvk = NHMSYS0021144075
+StartDate = 0501
+EndDate = 0907
+LastChanged = 20210525
 [EndMetadata]
-
-         

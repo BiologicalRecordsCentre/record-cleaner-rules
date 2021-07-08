@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Odontopera bidentata
-Description=Checks date is within known flight period of Odontopera bidentata
-ErrorMsg=Date is outside known flight period of Odontopera bidentata
-Tvk=NBNSYS0000006011
-DataFieldName=
-StartDate=0401
-EndDate=0731
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.240 Odontopera bidentata (Scalloped Hazel)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Odontopera bidentata (Scalloped Hazel)
+Tvk = NBNSYS0000006011
+StartDate = 0415
+EndDate = 0831
+LastChanged = 20210525
 [EndMetadata]
-
-         

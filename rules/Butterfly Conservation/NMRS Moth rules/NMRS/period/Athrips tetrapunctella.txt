@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.086 Athrips tetrapunctella (Northern Groundling)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Athrips tetrapunctella (Northern Groundling)
+Tvk = NHMSYS0000501425
+StartDate = 17000101
+EndDate = 19491231
+LastChanged = 20210521
+[EndMetadata]

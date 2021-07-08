@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 10.001 Tischeria ekebladella (Oak Carl)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Tischeria ekebladella (Oak Carl)
+Tvk = NHMSYS0000504549
+StartDate = 0415
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

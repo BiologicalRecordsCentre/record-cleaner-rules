@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Euproctis similis
-Description=Checks date is within known flight period of Euproctis similis
-ErrorMsg=Date is outside known flight period of Euproctis similis
-Tvk=NBNSYS0000006116
-DataFieldName=
-StartDate=0601
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.013 Euproctis similis (Yellow-tail)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Euproctis similis (Yellow-tail)
+Tvk = NBNSYS0000006116
+StartDate = 0601
+EndDate = 1031
+LastChanged = 20210525
 [EndMetadata]
-
-         

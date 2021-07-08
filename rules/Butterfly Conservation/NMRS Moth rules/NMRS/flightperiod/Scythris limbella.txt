@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 43.007 Scythris limbella (Goosefoot Owlet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Scythris limbella (Goosefoot Owlet)
+Tvk = NHMSYS0000504168
+StartDate = 0601
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

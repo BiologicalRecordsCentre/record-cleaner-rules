@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Eilema depressa
-Description=Checks date is within known recording period of Eilema depressa
-ErrorMsg=Date is outside known recording period of Eilema depressa
-Tvk=NBNSYS0100002922
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.043 Eilema depressa (Buff Footman)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eilema depressa (Buff Footman)
+Tvk = NBNSYS0100002922
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

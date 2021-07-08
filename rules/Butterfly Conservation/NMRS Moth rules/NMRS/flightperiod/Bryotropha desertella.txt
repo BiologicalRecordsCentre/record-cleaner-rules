@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.041 Bryotropha desertella (Desert Neb)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Bryotropha desertella (Desert Neb)
+Tvk = NHMSYS0000501549
+StartDate = 0515
+EndDate = 0821
+LastChanged = 20210525
+[EndMetadata]

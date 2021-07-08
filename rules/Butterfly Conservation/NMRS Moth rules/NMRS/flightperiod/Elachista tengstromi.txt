@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 38.021 Elachista tengstromi (Small Wood-rush Dwarf)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Elachista tengstromi (Small Wood-rush Dwarf)
+Tvk = NHMSYS0021142278
+StartDate = 0701
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

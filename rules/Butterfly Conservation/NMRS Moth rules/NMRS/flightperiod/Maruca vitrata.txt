@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 63.045 Maruca vitrata (Mung Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Maruca vitrata (Mung Moth)
+Tvk = NHMSYS0000503170
+StartDate = 0601
+EndDate = 0907
+LastChanged = 20210525
+[EndMetadata]

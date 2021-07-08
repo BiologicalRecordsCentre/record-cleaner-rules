@@ -1,0 +1,51 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Hydraecia osseola 10km
+Description=Check coordinate against known 10km distribution of Hydraecia osseola
+ErrorMsg=Coordinate outside known range for Hydraecia osseola
+DataFieldName=Species
+DataRecordId=NHMSYS0000520468
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+TQ65
+TQ66
+TQ67
+TQ70
+TQ71
+TQ72
+TQ73
+TQ74
+TQ75
+TQ76
+TQ77
+TQ80
+TQ81
+TQ82
+TQ83
+TQ84
+TQ85
+TQ86
+TQ87
+TQ91
+TQ92
+TQ93
+TQ94
+TR01
+TR02
+TR03
+TR04
+TR12
+TR13
+TR14
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

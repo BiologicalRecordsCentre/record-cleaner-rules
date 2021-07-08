@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 37.091 Coleophora deviella (Grey Blite Case-bearer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Coleophora deviella (Grey Blite Case-bearer)
+Tvk = NHMSYS0000501855
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

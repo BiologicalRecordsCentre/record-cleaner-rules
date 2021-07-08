@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Rheumaptera undulata
-Description=Checks date is within known flight period of Rheumaptera undulata
-ErrorMsg=Date is outside known flight period of Rheumaptera undulata
-Tvk=NBNSYS0000005869
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.121 Rheumaptera undulata (Scallop Shell)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Rheumaptera undulata (Scallop Shell)
+Tvk = NHMSYS0021144037
+StartDate = 0601
+EndDate = 0831
+LastChanged = 20210525
 [EndMetadata]
-
-         

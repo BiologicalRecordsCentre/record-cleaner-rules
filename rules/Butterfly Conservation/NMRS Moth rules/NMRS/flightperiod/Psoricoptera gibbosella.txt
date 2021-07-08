@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.107 Psoricoptera gibbosella (Humped Groundling)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Psoricoptera gibbosella (Humped Groundling)
+Tvk = NHMSYS0000503958
+StartDate = 0701
+EndDate = 1007
+LastChanged = 20210525
+[EndMetadata]

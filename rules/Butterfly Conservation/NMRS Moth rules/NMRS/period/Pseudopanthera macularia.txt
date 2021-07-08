@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Pseudopanthera macularia
-Description=Checks date is within known recording period of Pseudopanthera macularia
-ErrorMsg=Date is outside known recording period of Pseudopanthera macularia
-Tvk=NBNSYS0000006000
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.229 Pseudopanthera macularia (Speckled Yellow)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pseudopanthera macularia (Speckled Yellow)
+Tvk = NBNSYS0000006000
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

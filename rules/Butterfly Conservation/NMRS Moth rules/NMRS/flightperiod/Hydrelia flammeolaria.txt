@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Hydrelia flammeolaria
-Description=Checks date is within known flight period of Hydrelia flammeolaria
-ErrorMsg=Date is outside known flight period of Hydrelia flammeolaria
-Tvk=NBNSYS0000005967
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.114 Hydrelia flammeolaria (Small Yellow Wave)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hydrelia flammeolaria (Small Yellow Wave)
+Tvk = NBNSYS0000005967
+StartDate = 0515
+EndDate = 0815
+LastChanged = 20210525
 [EndMetadata]
-
-         

@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Meganola albula
-Description=Checks date is within known flight period of Meganola albula
-ErrorMsg=Date is outside known flight period of Meganola albula
-Tvk=NHMSYS0000503182
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 74.002 Meganola albula (Kent Black Arches)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Meganola albula (Kent Black Arches)
+Tvk = NHMSYS0021144954
+StartDate = 0601
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

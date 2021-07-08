@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Lacanobia blenna
-Description=Checks date is within known flight period of Lacanobia blenna
-ErrorMsg=Date is outside known flight period of Lacanobia blenna
-Tvk=NHMSYS0000502984
-DataFieldName=
-StartDate=0701
-EndDate=1031
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.269 Lacanobia blenna (Stranger)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Lacanobia blenna (Stranger)
+Tvk = NHMSYS0021144820
+StartDate = 0501
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

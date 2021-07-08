@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 54.009 Zygaena lonicerae jocelynae (Talisker Narrow-bordered Five Spot Burnet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Zygaena lonicerae jocelynae (Talisker Narrow-bordered Five Spot Burnet)
+Tvk = NHMSYS0021143443
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

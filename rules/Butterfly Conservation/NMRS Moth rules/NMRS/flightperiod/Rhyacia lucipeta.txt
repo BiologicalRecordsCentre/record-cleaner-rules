@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Rhyacia lucipeta
-Description=Checks date is within known flight period of Rhyacia lucipeta
-ErrorMsg=Date is outside known flight period of Rhyacia lucipeta
-Tvk=NHMSYS0000504056
-DataFieldName=
-StartDate=0501
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.340 Rhyacia lucipeta (Southern Rustic)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Rhyacia lucipeta (Southern Rustic)
+Tvk = NHMSYS0021144919
+StartDate = 0601
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

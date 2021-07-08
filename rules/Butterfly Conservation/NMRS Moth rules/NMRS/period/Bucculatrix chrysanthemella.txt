@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 14.004 Bucculatrix chrysanthemella (Canary Bent-wing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Bucculatrix chrysanthemella (Canary Bent-wing)
+Tvk = NHMSYS0021142406
+StartDate = 20090619
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Eupithecia plumbeolata
-Description=Checks date is within known recording period of Eupithecia plumbeolata
-ErrorMsg=Date is outside known recording period of Eupithecia plumbeolata
-Tvk=NBNSYS0000005896
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.153 Eupithecia plumbeolata (Lead-coloured Pug)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eupithecia plumbeolata (Lead-coloured Pug)
+Tvk = NBNSYS0000005896
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

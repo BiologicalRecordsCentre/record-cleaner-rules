@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.115 Scrobipalpa nitentella (Common Sea Groundling)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Scrobipalpa nitentella (Common Sea Groundling)
+Tvk = NHMSYS0000504146
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

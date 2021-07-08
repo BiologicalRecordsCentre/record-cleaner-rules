@@ -1,0 +1,11 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Moths Flight Period
+ShortName=Lasiommata megera
+Description=Checks date is within known flight period of Lasiommata megera
+ErrorMsg=Date is outside known flight period of Lasiommata megera
+Tvk=NHMSYS0000503020
+StartDate=0401
+EndDate=1031
+LastChanged=20210608
+[EndMetadata]

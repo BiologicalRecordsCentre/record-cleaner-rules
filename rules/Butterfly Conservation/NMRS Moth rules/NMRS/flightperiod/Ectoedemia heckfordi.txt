@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 4.086 Ectoedemia heckfordi (Heckford Pigmy)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Ectoedemia heckfordi (Heckford Pigmy)
+Tvk = NHMSYS0020668187
+StartDate = 0401
+EndDate = 0531
+LastChanged = 20210525
+[EndMetadata]

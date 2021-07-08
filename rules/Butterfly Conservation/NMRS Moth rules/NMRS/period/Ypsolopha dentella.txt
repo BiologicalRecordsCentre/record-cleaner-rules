@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 17.003 Ypsolopha dentella (Honeysuckle Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Ypsolopha dentella (Honeysuckle Moth)
+Tvk = NHMSYS0000504698
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

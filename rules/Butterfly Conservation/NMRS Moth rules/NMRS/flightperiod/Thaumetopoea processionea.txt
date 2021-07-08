@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Thaumetopoea processionea
-Description=Checks date is within known flight period of Thaumetopoea processionea
-ErrorMsg=Date is outside known flight period of Thaumetopoea processionea
-Tvk=NBNSYS0000006108
-DataFieldName=
-StartDate=0601
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 71.001 Thaumetopoea processionea (Oak Processionary)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Thaumetopoea processionea (Oak Processionary)
+Tvk = NBNSYS0000006108
+StartDate = 0721
+EndDate = 0907
+LastChanged = 20210525
 [EndMetadata]
-
-         

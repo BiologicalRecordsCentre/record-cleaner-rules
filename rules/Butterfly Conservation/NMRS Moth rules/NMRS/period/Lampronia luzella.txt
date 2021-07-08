@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 9.002 Lampronia luzella (Wood Bright)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Lampronia luzella (Wood Bright)
+Tvk = NHMSYS0021142173
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 4.099 Ectoedemia occultella (Large Birch Pigmy)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Ectoedemia occultella (Large Birch Pigmy)
+Tvk = NHMSYS0000502275
+StartDate = 0601
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

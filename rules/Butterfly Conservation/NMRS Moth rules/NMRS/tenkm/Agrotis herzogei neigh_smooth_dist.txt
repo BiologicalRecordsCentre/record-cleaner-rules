@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Agrotis herzogei 10km
+Description=Check coordinate against known 10km distribution of Agrotis herzogei
+ErrorMsg=Coordinate outside known range for Agrotis herzogei
+DataFieldName=Species
+DataRecordId=NBNSYS0100001446
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+ST90
+SU00
+SU10
+SY98
+SY99
+SZ08
+SZ09
+SZ19
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

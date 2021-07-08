@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Cyclophora punctaria
-Description=Checks date is within known flight period of Cyclophora punctaria
-ErrorMsg=Date is outside known flight period of Cyclophora punctaria
-Tvk=NBNSYS0000005753
-DataFieldName=
-StartDate=0401
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.036 Cyclophora punctaria (Maiden's Blush)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cyclophora punctaria (Maiden's Blush)
+Tvk = NBNSYS0000005753
+StartDate = 0415
+EndDate = 1007
+LastChanged = 20210525
 [EndMetadata]
-
-         

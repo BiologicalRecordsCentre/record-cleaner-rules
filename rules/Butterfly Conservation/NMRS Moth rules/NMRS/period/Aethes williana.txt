@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.116 Aethes williana (Silver Carrot Conch)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Aethes williana (Silver Carrot Conch)
+Tvk = NHMSYS0000501019
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 20.001 Argyresthia laevigatella (Larch-boring Argent)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Argyresthia laevigatella (Larch-boring Argent)
+Tvk = NHMSYS0021142497
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

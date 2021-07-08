@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.3771 Pammene juniperana (Common Juniper Piercer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Pammene juniperana (Common Juniper Piercer)
+Tvk = NHMSYS0021239333
+StartDate = 0801
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

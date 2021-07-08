@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 4.041 Stigmella sorbi (Barred Rowan Pigmy)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Stigmella sorbi (Barred Rowan Pigmy)
+Tvk = NHMSYS0000504383
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

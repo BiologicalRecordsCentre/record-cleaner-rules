@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 15.072 Phyllonorycter insignitella (Clover Midget)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Phyllonorycter insignitella (Clover Midget)
+Tvk = NHMSYS0000503780
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

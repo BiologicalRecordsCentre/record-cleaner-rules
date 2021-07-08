@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Harpyia milhauseri
-Description=Checks date is within known recording period of Harpyia milhauseri
-ErrorMsg=Date is outside known recording period of Harpyia milhauseri
-Tvk=NBNSYS0000006090
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 71.008 Harpyia milhauseri (Tawny Prominent)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Harpyia milhauseri (Tawny Prominent)
+Tvk = NBNSYS0000006090
+StartDate = 19660611
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

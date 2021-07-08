@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Mesapamea secalis
-Description=Checks date is within known flight period of Mesapamea secalis
-ErrorMsg=Date is outside known flight period of Mesapamea secalis
-Tvk=NBNSYS0000006442
-DataFieldName=
-StartDate=0601
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.169 Mesapamea secalis (Common Rustic)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Mesapamea secalis (Common Rustic)
+Tvk = NBNSYS0000006442
+StartDate = 0601
+EndDate = 0930
+LastChanged = 20210525
 [EndMetadata]
-
-         

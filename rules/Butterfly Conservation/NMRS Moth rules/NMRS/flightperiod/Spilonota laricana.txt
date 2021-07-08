@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.225 Spilonota laricana (Larch-bud Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Spilonota laricana (Larch-bud Moth)
+Tvk = NBNSYS0100005572
+StartDate = 0601
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

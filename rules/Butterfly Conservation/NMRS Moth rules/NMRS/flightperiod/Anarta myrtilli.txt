@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Anarta myrtilli
-Description=Checks date is within known flight period of Anarta myrtilli
-ErrorMsg=Date is outside known flight period of Anarta myrtilli
-Tvk=NBNSYS0000006233
-DataFieldName=
-StartDate=0301
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.257 Anarta myrtilli (Beautiful Yellow Underwing)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Anarta myrtilli (Beautiful Yellow Underwing)
+Tvk = NBNSYS0000006233
+StartDate = 0415
+EndDate = 0907
+LastChanged = 20210525
 [EndMetadata]
-
-         

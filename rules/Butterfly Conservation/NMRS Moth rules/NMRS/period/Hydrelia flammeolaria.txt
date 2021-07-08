@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Hydrelia flammeolaria
-Description=Checks date is within known recording period of Hydrelia flammeolaria
-ErrorMsg=Date is outside known recording period of Hydrelia flammeolaria
-Tvk=NBNSYS0000005967
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.114 Hydrelia flammeolaria (Small Yellow Wave)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Hydrelia flammeolaria (Small Yellow Wave)
+Tvk = NBNSYS0000005967
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

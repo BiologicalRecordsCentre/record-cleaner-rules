@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.149 Photedes extrema (Concolorous)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Photedes extrema (Concolorous)
+Tvk = NHMSYS0021144651
+StartDate = 0507
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

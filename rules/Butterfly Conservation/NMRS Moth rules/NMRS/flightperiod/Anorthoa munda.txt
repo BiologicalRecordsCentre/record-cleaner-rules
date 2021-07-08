@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.250 Anorthoa munda (Twin-spotted Quaker)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Anorthoa munda (Twin-spotted Quaker)
+Tvk = NHMSYS0021144798
+StartDate = 0221
+EndDate = 0515
+LastChanged = 20210525
+[EndMetadata]

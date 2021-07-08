@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Leucodonta bicoloria
-Description=Checks date is within known flight period of Leucodonta bicoloria
-ErrorMsg=Date is outside known flight period of Leucodonta bicoloria
-Tvk=NHMSYS0000503044
-DataFieldName=
-StartDate=0401
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 71.019 Leucodonta bicoloria (White Prominent)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Leucodonta bicoloria (White Prominent)
+Tvk = NHMSYS0021144353
+StartDate = 0601
+EndDate = 0731
+LastChanged = 20210525
 [EndMetadata]
-
-         

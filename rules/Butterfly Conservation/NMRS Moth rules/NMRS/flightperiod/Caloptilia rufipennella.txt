@@ -1,0 +1,12 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 15.006 Caloptilia rufipennella (Small Red Slender)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Caloptilia rufipennella (Small Red Slender)
+Tvk = NHMSYS0000501614
+StartDate = 0601
+EndDate = 0621
+ReverseRule = True
+LastChanged = 20210525
+[EndMetadata]

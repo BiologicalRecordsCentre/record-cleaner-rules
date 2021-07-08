@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Crocallis dardoinaria 10km
+Description=Check coordinate against known 10km distribution of Crocallis dardoinaria
+ErrorMsg=Coordinate outside known range for Crocallis dardoinaria
+DataFieldName=Species
+DataRecordId=NHMSYS0020531189
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+SX97
+SX98
+SX99
+SY07
+SY08
+SY09
+SY18
+SY19
+SY48
+SY49
+SY58
+SY59
+SY67
+SY68
+SY69
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

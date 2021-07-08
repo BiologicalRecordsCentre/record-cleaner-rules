@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.325 Agrotis puta puta (Shuttle-shaped Dart)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Agrotis puta puta (Shuttle-shaped Dart)
+Tvk = NHMSYS0021144900
+StartDate = 0415
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

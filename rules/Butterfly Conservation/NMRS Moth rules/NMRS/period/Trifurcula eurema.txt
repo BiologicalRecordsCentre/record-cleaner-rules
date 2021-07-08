@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 4.066 Trifurcula eurema (Field Lotus Pigmy)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Trifurcula eurema (Field Lotus Pigmy)
+Tvk = NHMSYS0000504585
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

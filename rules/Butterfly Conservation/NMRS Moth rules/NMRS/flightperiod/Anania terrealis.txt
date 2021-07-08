@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 63.021 Anania terrealis (Golden-rod Pearl)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Anania terrealis (Golden-rod Pearl)
+Tvk = NHMSYS0021127811
+StartDate = 0521
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

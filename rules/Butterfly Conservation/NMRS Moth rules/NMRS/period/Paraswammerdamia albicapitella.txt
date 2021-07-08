@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 16.019 Paraswammerdamia albicapitella (White-headed Ermine)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Paraswammerdamia albicapitella (White-headed Ermine)
+Tvk = NBNSYS0100004455
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

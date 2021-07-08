@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.126 Aethes fennicana (Angelica Conch)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Aethes fennicana (Angelica Conch)
+Tvk = NHMSYS0021167174
+StartDate = 20060819
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

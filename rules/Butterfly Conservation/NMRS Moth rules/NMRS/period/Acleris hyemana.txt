@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.082 Acleris hyemana (Heath Button)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Acleris hyemana (Heath Button)
+Tvk = NHMSYS0000500931
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

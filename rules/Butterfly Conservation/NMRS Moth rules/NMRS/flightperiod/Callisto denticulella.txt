@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 15.022 Callisto denticulella (Garden Apple Slender)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Callisto denticulella (Garden Apple Slender)
+Tvk = NHMSYS0000501595
+StartDate = 0401
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

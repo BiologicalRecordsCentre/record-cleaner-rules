@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 15.009 Caloptilia robustella (New Oak Slender)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Caloptilia robustella (New Oak Slender)
+Tvk = NHMSYS0000501613
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

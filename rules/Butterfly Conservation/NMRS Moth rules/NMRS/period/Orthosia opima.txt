@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Orthosia opima
-Description=Checks date is within known recording period of Orthosia opima
-ErrorMsg=Date is outside known recording period of Orthosia opima
-Tvk=NHMSYS0000503519
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.248 Orthosia opima (Northern Drab)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Orthosia opima (Northern Drab)
+Tvk = NHMSYS0021144794
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.165 Celypha woodiana (Mistletoe Marble)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Celypha woodiana (Mistletoe Marble)
+Tvk = NHMSYS0000501703
+StartDate = 0701
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

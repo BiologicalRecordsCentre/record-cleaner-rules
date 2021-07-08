@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 11.002 Narycia duplicella (White-speckled Bagworm)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Narycia duplicella (White-speckled Bagworm)
+Tvk = NHMSYS0021142187
+StartDate = 0501
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

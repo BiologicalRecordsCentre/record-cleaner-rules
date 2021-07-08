@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Cossus cossus
-Description=Checks date is within known flight period of Cossus cossus
-ErrorMsg=Date is outside known flight period of Cossus cossus
-Tvk=NBNSYS0000005662
-DataFieldName=
-StartDate=0501
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 50.001 Cossus cossus (Goat Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cossus cossus (Goat Moth)
+Tvk = NBNSYS0000005662
+StartDate = 0515
+EndDate = 0715
+LastChanged = 20210525
 [EndMetadata]
-
-         

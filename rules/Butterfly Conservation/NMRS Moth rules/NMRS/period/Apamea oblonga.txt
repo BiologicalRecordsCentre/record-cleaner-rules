@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Apamea oblonga
-Description=Checks date is within known recording period of Apamea oblonga
-ErrorMsg=Date is outside known recording period of Apamea oblonga
-Tvk=NBNSYS0000006424
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.161 Apamea oblonga (Crescent Striped)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Apamea oblonga (Crescent Striped)
+Tvk = NBNSYS0000006424
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

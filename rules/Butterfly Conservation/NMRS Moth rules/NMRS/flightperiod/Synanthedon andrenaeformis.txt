@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Synanthedon andrenaeformis
-Description=Checks date is within known flight period of Synanthedon andrenaeformis
-ErrorMsg=Date is outside known flight period of Synanthedon andrenaeformis
-Tvk=NBNSYS0000005693
-DataFieldName=
-StartDate=0401
-EndDate=0831
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 52.010 Synanthedon andrenaeformis (Orange-tailed Clearwing)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Synanthedon andrenaeformis (Orange-tailed Clearwing)
+Tvk = NBNSYS0000005693
+StartDate = 0607
+EndDate = 0721
+LastChanged = 20210525
 [EndMetadata]
-
-         

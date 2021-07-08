@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.152 Globia algae (Rush Wainscot)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Globia algae (Rush Wainscot)
+Tvk = NHMSYS0021144657
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

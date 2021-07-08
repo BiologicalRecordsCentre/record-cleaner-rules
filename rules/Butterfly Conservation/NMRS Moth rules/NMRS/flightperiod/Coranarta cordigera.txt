@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.258 Coranarta cordigera (Small Dark Yellow Underwing)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Coranarta cordigera (Small Dark Yellow Underwing)
+Tvk = NHMSYS0021144807
+StartDate = 0415
+EndDate = 0607
+LastChanged = 20210525
+[EndMetadata]

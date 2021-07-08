@@ -1,14 +1,11 @@
 [Metadata]
-TestType=PeriodWithinYear
-Group=Moths Flight Period
-ShortName=Colostygia olivata
-Description=Checks date is within known flight period of Colostygia olivata
-ErrorMsg=Date is outside known flight period of Colostygia olivata
-Tvk=NHMSYS0000501961
-DataFieldName=
-StartDate=0601
-EndDate=0930
-LastChanged=20110328
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.099 Colostygia olivata (Beech-green Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Colostygia olivata (Beech-green Carpet)
+Tvk = NHMSYS0021143999
+StartDate = 0607
+EndDate = 0915
+LastChanged = 20210525
 [EndMetadata]
-
-         

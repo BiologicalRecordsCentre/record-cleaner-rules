@@ -1,13 +1,11 @@
 [Metadata]
-TestType=Period
-Group=Moths Recording Period
-ShortName=Macaria liturata
-Description=Checks date is within known recording period of Macaria liturata
-ErrorMsg=Date is outside known recording period of Macaria liturata
-Tvk=NBNSYS0100003856
-StartDate=17000101
-EndDate=
-LastChanged=20110328
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.214 Macaria liturata (Tawny-barred Angle)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Macaria liturata (Tawny-barred Angle)
+Tvk = NBNSYS0100003856
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
 [EndMetadata]
-
-         

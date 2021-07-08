@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 4.073 Bohemannia auriciliella (Gold-fringed Pigmy)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Bohemannia auriciliella (Gold-fringed Pigmy)
+Tvk = NHMSYS0000501508
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

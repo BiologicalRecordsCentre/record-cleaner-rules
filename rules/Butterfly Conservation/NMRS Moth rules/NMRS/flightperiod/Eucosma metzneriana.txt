@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.274 Eucosma metzneriana (Mugwort Bell)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eucosma metzneriana (Mugwort Bell)
+Tvk = NHMSYS0000502538
+StartDate = 0501
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

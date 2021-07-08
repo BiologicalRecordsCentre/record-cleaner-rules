@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 63.011 Uresiphita gilvata (Yellow-underwing Pearl)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Uresiphita gilvata (Yellow-underwing Pearl)
+Tvk = NHMSYS0000504617
+StartDate = 0801
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

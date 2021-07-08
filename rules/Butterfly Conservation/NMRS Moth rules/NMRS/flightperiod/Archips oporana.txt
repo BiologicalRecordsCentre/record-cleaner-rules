@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.011 Archips oporana (Pine Tortrix)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Archips oporana (Pine Tortrix)
+Tvk = NHMSYS0000501287
+StartDate = 0601
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 62.006 Galleria mellonella (Wax Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Galleria mellonella (Wax Moth)
+Tvk = NHMSYS0000502701
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]
