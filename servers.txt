@@ -1,7 +1,7 @@
 http://data.nbn.org.uk/recordcleaner/rules/BSBI/index.txt#Botanical Society of the British Isles#09/04/2013
 http://data.nbn.org.uk/recordcleaner/rules/BBS/index.txt#British Bryological Society#08/05/2012
 http://data.nbn.org.uk/recordcleaner/rules/BTO/index.txt#British Trust for Ornithology#15/01/2013
-https://raw.githubusercontent.com/BiologicalRecordsCentre/record-cleaner-rules/moth-revisions/rules/Butterfly%20Conservation/index.txt#Butterfly Conservation#08/07/2021
+http://data.nbn.org.uk/recordcleaner/rules/BC/index.txt#Butterfly Conservation#08/07/2021
 http://data.nbn.org.uk/recordcleaner/rules/DF/index.txt#Dipterist Forum#27/04/2015
 http://data.nbn.org.uk/recordcleaner/rules/DRN/index.txt#Dragonfly Recording Scheme#10/05/2012
 http://data.nbn.org.uk/recordcleaner/rules/HRS/index.txt#Hoverfly Recording Scheme#09/04/2013
