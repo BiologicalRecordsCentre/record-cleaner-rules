@@ -3,74 +3,36 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Amara (Celia) infima 10km
 Description=Check coordinate against known 10km distribution of Amara (Celia) infima
-ErrorMsg=Coordinate outside know range for Amara (Celia) infima
+ErrorMsg=Coordinate outside known range for Amara (Celia) infima
 DataFieldName=Species
 DataRecordId=NHMSYS0001716744
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-SP92
-SP93
-SP94
 SS96
 SS97
 ST06
 ST07
 ST16
 ST17
-ST80
-ST90
-SU00
-SU83
-SU84
 SU85
 SU86
 SU87
-SU93
 SU94
 SU95
 SU96
 SU97
-SY88
-SY89
-SY98
-SY99
-SZ08
-SZ09
-SZ47
-SZ48
-SZ49
-SZ57
-SZ58
-SZ59
-SZ68
-SZ69
-TA30
-TA31
-TA40
-TA41
-TF38
-TF39
-TF48
-TF49
 TF51
 TF52
 TF53
-TF58
 TF61
 TF62
 TF63
 TF71
 TF72
 TF73
-TL02
-TL03
-TL04
-TL12
-TL13
-TL14
 TL66
 TL67
 TL68
@@ -86,7 +48,6 @@ TL89
 TL97
 TL98
 TL99
-TQ03
 TQ04
 TQ05
 TQ06
@@ -94,21 +55,5 @@ TQ07
 TQ14
 TQ15
 TQ16
-TQ17
-TQ25
-TQ26
-TQ27
-TQ55
-TQ56
-TQ57
-TQ58
-TQ65
-TQ66
-TQ67
-TQ68
-TQ75
-TQ76
-TQ77
-TQ78
 
 

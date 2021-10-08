@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Paradromius longiceps 10km
 Description=Check coordinate against known 10km distribution of Paradromius longiceps
-ErrorMsg=Coordinate outside know range for Paradromius longiceps
+ErrorMsg=Coordinate outside known range for Paradromius longiceps
 DataFieldName=Species
 DataRecordId=NHMSYS0001719454
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
@@ -58,18 +58,6 @@ TA03
 TA11
 TA12
 TA13
-TF10
-TF20
-TF26
-TF27
-TF28
-TF30
-TF36
-TF37
-TF38
-TF46
-TF47
-TF48
 TF52
 TF53
 TF54
@@ -95,17 +83,6 @@ TG40
 TG41
 TG42
 TG51
-TL07
-TL08
-TL09
-TL17
-TL18
-TL19
-TL27
-TL28
-TL29
-TL38
-TL39
 TL46
 TL47
 TL48
@@ -120,10 +97,6 @@ TL68
 TL75
 TL76
 TL77
-TL78
-TL86
-TL87
-TL88
 TM29
 TM36
 TM37

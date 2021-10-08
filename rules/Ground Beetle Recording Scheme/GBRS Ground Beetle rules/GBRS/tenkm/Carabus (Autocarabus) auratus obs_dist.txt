@@ -3,18 +3,15 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Carabus (Autocarabus) auratus 10km
 Description=Check coordinate against known 10km distribution of Carabus (Autocarabus) auratus
-ErrorMsg=Coordinate outside know range for Carabus (Autocarabus) auratus
+ErrorMsg=Coordinate outside known range for Carabus (Autocarabus) auratus
 DataFieldName=Species
 DataRecordId=NHMSYS0001717504
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
 SU77
-TM11
-TM13
 TM23
-TQ09
 
 

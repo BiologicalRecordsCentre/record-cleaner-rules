@@ -3,73 +3,34 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Curtonotus alpinus 10km
 Description=Check coordinate against known 10km distribution of Curtonotus alpinus
-ErrorMsg=Coordinate outside know range for Curtonotus alpinus
+ErrorMsg=Coordinate outside known range for Curtonotus alpinus
 DataFieldName=Species
 DataRecordId=NHMSYS0001717776
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-NG54
-NG55
-NG56
-NG64
-NG65
-NG66
-NG74
-NG75
-NG76
-NH70
-NH71
-NH72
 NH80
 NH81
-NH82
 NH90
 NH91
-NH92
 NJ00
 NJ01
 NJ10
 NJ11
-NJ20
 NN37
 NN38
 NN39
-NN44
-NN45
-NN46
 NN47
 NN48
 NN49
-NN54
-NN55
-NN56
 NN57
 NN58
 NN59
-NN64
-NN65
-NN66
-NN88
 NN89
-NN98
 NN99
-NO08
 NO09
-NO18
 NO19
-NO28
-NO29
-TQ55
-TQ56
-TQ57
-TQ65
-TQ66
-TQ67
-TQ75
-TQ76
-TQ77
 
 

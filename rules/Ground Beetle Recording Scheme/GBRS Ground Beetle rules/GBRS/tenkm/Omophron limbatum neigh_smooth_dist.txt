@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Omophron limbatum 10km
 Description=Check coordinate against known 10km distribution of Omophron limbatum
-ErrorMsg=Coordinate outside know range for Omophron limbatum
+ErrorMsg=Coordinate outside known range for Omophron limbatum
 DataFieldName=Species
 DataRecordId=NHMSYS0001719291
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 

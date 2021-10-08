@@ -3,42 +3,14 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Agonum (Europhilus) scitulum 10km
 Description=Check coordinate against known 10km distribution of Agonum (Europhilus) scitulum
-ErrorMsg=Coordinate outside know range for Agonum (Europhilus) scitulum
+ErrorMsg=Coordinate outside known range for Agonum (Europhilus) scitulum
 DataFieldName=Species
 DataRecordId=NHMSYS0001716609
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-SE42
-SE50
-SE63
-SE71
-SE74
-SH44
-SH52
-SH54
-SK43
-SK82
-SN62
-SO09
-SO51
-SO82
-ST41
-ST76
-SU97
-SY39
-TL09
-TL48
-TL66
-TQ15
-TQ16
-TQ17
-TQ27
-TQ32
-TQ37
 TQ75
-TQ76
 
 

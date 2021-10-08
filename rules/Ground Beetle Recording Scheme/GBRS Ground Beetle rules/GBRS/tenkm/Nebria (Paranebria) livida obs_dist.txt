@@ -3,32 +3,21 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Nebria (Paranebria) livida 10km
 Description=Check coordinate against known 10km distribution of Nebria (Paranebria) livida
-ErrorMsg=Coordinate outside know range for Nebria (Paranebria) livida
+ErrorMsg=Coordinate outside known range for Nebria (Paranebria) livida
 DataFieldName=Species
 DataRecordId=NHMSYS0001719107
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-NZ62
 NZ71
-NZ81
-SK00
-SK01
-TA02
 TA08
-TA09
 TA15
 TA16
-TA17
-TA18
-TA30
-TA32
 TG14
 TG23
 TG24
-TG33
 TM28
 
 

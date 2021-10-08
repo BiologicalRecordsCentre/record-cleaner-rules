@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Brachinus (Brachynidius) sclopeta 10km
+Description=Check coordinate against known 10km distribution of Brachinus (Brachynidius) sclopeta
+ErrorMsg=Coordinate outside known range for Brachinus (Brachynidius) sclopeta
+DataFieldName=Species
+DataRecordId=NHMSYS0001717368
+LastChanged=20180313
+[EndMetadata]
+
+
+[10km_GB]
+TQ27
+TQ28
+TQ29
+TQ37
+TQ38
+TQ39
+TQ47
+TQ48
+TQ49
+TQ57
+TQ58
+TQ59
+
+

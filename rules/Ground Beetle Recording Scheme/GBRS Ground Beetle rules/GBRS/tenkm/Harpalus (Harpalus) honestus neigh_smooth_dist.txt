@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Harpalus (Harpalus) honestus 10km
 Description=Check coordinate against known 10km distribution of Harpalus (Harpalus) honestus
-ErrorMsg=Coordinate outside know range for Harpalus (Harpalus) honestus
+ErrorMsg=Coordinate outside known range for Harpalus (Harpalus) honestus
 DataFieldName=Species
 DataRecordId=NBNSYS0100003342
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
@@ -17,88 +17,5 @@ NX92
 NY00
 NY01
 NY02
-SP30
-SP31
-SP40
-SP41
-SP50
-SP51
-SP60
-SP61
-SS10
-SS11
-SS20
-SS21
-SS22
-SS30
-SS31
-SS32
-SS83
-SS84
-SS93
-SS94
-ST03
-ST04
-SU10
-SU11
-SU20
-SU21
-SU30
-SU31
-SU38
-SU39
-SU40
-SU41
-SU47
-SU48
-SU49
-SU57
-SU58
-SU59
-SU67
-SU68
-SU69
-SV80
-SV81
-SV90
-SV91
-SW72
-SW73
-SW74
-SW82
-SW83
-SW84
-SW93
-SW94
-SX35
-SX36
-SX44
-SX45
-SX46
-SX54
-SX55
-SX56
-SZ19
-SZ29
-SZ39
-SZ49
-TL46
-TL47
-TL48
-TL56
-TL57
-TL58
-TL66
-TL67
-TL68
-TQ36
-TQ37
-TQ38
-TQ46
-TQ47
-TQ48
-TQ56
-TQ57
-TQ58
 
 

@@ -3,29 +3,14 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Pogonus littoralis 10km
 Description=Check coordinate against known 10km distribution of Pogonus littoralis
-ErrorMsg=Coordinate outside know range for Pogonus littoralis
+ErrorMsg=Coordinate outside known range for Pogonus littoralis
 DataFieldName=Species
 DataRecordId=NBNSYS0000007275
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-SN30
-SN40
-SN50
-SO40
-SO50
-SO60
-SO70
-SS38
-SS39
-SS48
-SS49
-SS58
-SS59
-SS68
-SS69
 ST14
 ST16
 ST24
@@ -34,51 +19,9 @@ ST26
 ST34
 ST35
 ST36
-ST37
-ST38
-ST39
-ST46
-ST47
-ST48
-ST49
-ST56
-ST57
-ST58
-ST59
-ST66
-ST67
-ST68
-ST69
-ST78
-ST79
-SU00
-SU10
-SU20
-SU30
-SU40
 SU70
 SU80
 SU90
-SY48
-SY49
-SY58
-SY59
-SY66
-SY67
-SY68
-SY69
-SY77
-SY78
-SZ08
-SZ09
-SZ19
-SZ28
-SZ29
-SZ38
-SZ39
-SZ47
-SZ48
-SZ49
 SZ57
 SZ58
 SZ59
@@ -88,7 +31,11 @@ SZ79
 SZ89
 SZ99
 TA30
+TA31
+TA32
 TA40
+TA41
+TA42
 TF23
 TF24
 TF25
@@ -146,11 +93,14 @@ TM10
 TM11
 TM12
 TM13
-TM20
 TM21
 TM22
 TM23
 TM33
+TM34
+TM35
+TM44
+TM45
 TQ10
 TQ11
 TQ20
@@ -187,8 +137,6 @@ TR08
 TR09
 TR12
 TR13
-TR15
-TR16
 TR25
 TR26
 TR27

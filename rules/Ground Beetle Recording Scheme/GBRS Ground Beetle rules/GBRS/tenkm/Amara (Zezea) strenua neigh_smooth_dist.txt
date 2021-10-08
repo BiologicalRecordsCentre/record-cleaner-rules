@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Amara (Zezea) strenua 10km
 Description=Check coordinate against known 10km distribution of Amara (Zezea) strenua
-ErrorMsg=Coordinate outside know range for Amara (Zezea) strenua
+ErrorMsg=Coordinate outside known range for Amara (Zezea) strenua
 DataFieldName=Species
 DataRecordId=NHMSYS0001716752
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
@@ -19,14 +19,9 @@ ST25
 ST33
 ST34
 ST35
-ST36
 ST43
 ST44
 ST45
-ST46
-ST54
-ST55
-ST56
 SU30
 SU31
 SU40
@@ -62,41 +57,29 @@ TQ49
 TQ57
 TQ58
 TQ59
-TQ66
 TQ67
 TQ68
 TQ69
 TQ71
 TQ72
 TQ73
-TQ76
 TQ77
 TQ78
 TQ79
 TQ81
 TQ82
 TQ83
-TQ85
-TQ86
 TQ87
 TQ88
 TQ89
 TQ91
 TQ92
 TQ93
-TQ95
-TQ96
 TQ97
 TQ98
 TQ99
 TR01
 TR02
 TR03
-TR05
-TR06
-TR07
-TR08
-TR15
-TR16
 
 

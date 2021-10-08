@@ -3,26 +3,19 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Masoreus wetterhallii 10km
 Description=Check coordinate against known 10km distribution of Masoreus wetterhallii
-ErrorMsg=Coordinate outside know range for Masoreus wetterhallii
+ErrorMsg=Coordinate outside known range for Masoreus wetterhallii
 DataFieldName=Species
 DataRecordId=NBNSYS0000151143
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-SW21
-SW32
-SW33
-SW42
-SW43
 SW52
 SW61
 SW62
 SW71
 SW72
-SW81
-SW82
 SX54
 SX55
 SX63
@@ -31,32 +24,18 @@ SX65
 SX73
 SX74
 SX75
-SY48
-SY49
 SY58
-SY59
 SY66
 SY67
 SY68
-SY69
 SY77
 SY78
-SY97
-SY98
-SY99
-SZ07
-SZ08
-SZ09
-SZ19
 TA30
 TA31
 TA40
 TA41
 TF39
 TF49
-TF53
-TF54
-TF55
 TF63
 TF64
 TF73
@@ -82,6 +61,9 @@ TL89
 TL90
 TL91
 TL92
+TL97
+TL98
+TL99
 TM00
 TM01
 TM02
@@ -91,18 +73,6 @@ TM12
 TM20
 TM21
 TM22
-TQ56
-TQ57
-TQ58
-TQ66
-TQ67
-TQ68
-TQ76
-TQ77
-TQ78
-TQ80
-TQ81
-TQ82
 TQ91
 TQ92
 TQ93

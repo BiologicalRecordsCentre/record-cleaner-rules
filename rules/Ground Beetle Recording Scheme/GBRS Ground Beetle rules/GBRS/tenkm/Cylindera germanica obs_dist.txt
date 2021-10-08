@@ -3,29 +3,17 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Cylindera germanica 10km
 Description=Check coordinate against known 10km distribution of Cylindera germanica
-ErrorMsg=Coordinate outside know range for Cylindera germanica
+ErrorMsg=Coordinate outside known range for Cylindera germanica
 DataFieldName=Species
 DataRecordId=NHMSYS0001717787
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-SN31
 SY28
-SY29
 SY39
 SY49
-SZ07
-SZ29
-SZ38
-SZ39
 SZ47
-SZ48
-SZ57
-SZ58
-SZ59
-TQ57
-TR35
 
 

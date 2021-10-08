@@ -3,59 +3,28 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Drypta dentata 10km
 Description=Check coordinate against known 10km distribution of Drypta dentata
-ErrorMsg=Coordinate outside know range for Drypta dentata
+ErrorMsg=Coordinate outside known range for Drypta dentata
 DataFieldName=Species
 DataRecordId=NBNSYS0000007488
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-ST20
 ST30
 ST40
 ST50
-SU10
-SU20
-SU30
-SU50
-SU60
-SU70
-SY28
-SY29
 SY38
 SY39
 SY48
 SY49
 SY58
 SY59
-SY97
-SY98
-SY99
-SZ07
-SZ08
-SZ09
-SZ19
-SZ28
-SZ29
-SZ38
-SZ39
-SZ47
-SZ48
 SZ57
 SZ58
 SZ59
 SZ68
 SZ69
 SZ79
-TQ66
-TQ67
-TQ68
-TQ76
-TQ77
-TQ78
-TQ86
-TQ87
-TQ88
 
 

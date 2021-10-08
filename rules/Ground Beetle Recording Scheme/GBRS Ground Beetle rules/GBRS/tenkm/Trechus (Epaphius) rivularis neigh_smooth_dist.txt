@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Trechus (Epaphius) rivularis 10km
 Description=Check coordinate against known 10km distribution of Trechus (Epaphius) rivularis
-ErrorMsg=Coordinate outside know range for Trechus (Epaphius) rivularis
+ErrorMsg=Coordinate outside known range for Trechus (Epaphius) rivularis
 DataFieldName=Species
 DataRecordId=NHMSYS0001720409
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
@@ -39,15 +39,6 @@ NY78
 NY86
 NY87
 NY88
-SE43
-SE44
-SE45
-SE53
-SE54
-SE55
-SE63
-SE64
-SE65
 SH63
 SH64
 SH65
@@ -71,21 +62,6 @@ SJ03
 SN89
 SN99
 SO09
-TF10
-TF20
-TF30
-TL07
-TL08
-TL09
-TL17
-TL18
-TL19
-TL27
-TL28
-TL29
-TL37
-TL38
-TL39
 TL46
 TL47
 TL48
@@ -95,14 +71,5 @@ TL58
 TL66
 TL67
 TL68
-TL96
-TL97
-TL98
-TM06
-TM07
-TM08
-TM16
-TM17
-TM18
 
 
