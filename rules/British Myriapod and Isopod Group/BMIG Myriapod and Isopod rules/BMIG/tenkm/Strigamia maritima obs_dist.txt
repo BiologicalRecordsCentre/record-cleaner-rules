@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Strigamia maritima 10km
 Description=Check coordinate against known 10km distribution of Strigamia maritima
-ErrorMsg=Coordinate outside know range for Strigamia maritima
+ErrorMsg=Coordinate outside known range for Strigamia maritima
 DataFieldName=Species
 DataRecordId=NBNSYS0000011405
-LastChanged=20130429
+LastChanged=20180314
 [EndMetadata]
 
 
@@ -28,7 +28,10 @@ HY35
 HY42
 HY50
 HZ27
+NA00
 NC66
+ND49
+NG36
 NG44
 NG46
 NG53
@@ -86,6 +89,7 @@ NU05
 NU21
 NU22
 NU23
+NX09
 NX34
 NX40
 NX44
@@ -99,6 +103,7 @@ NX92
 NX93
 NX96
 NY03
+NZ39
 NZ43
 NZ44
 SC26
@@ -145,11 +150,13 @@ SS32
 SS42
 SS43
 SS44
+SS48
 SS49
 SS58
 SS59
 SS68
 SS84
+SS87
 SS96
 ST06
 ST14
@@ -212,6 +219,7 @@ TM23
 TM33
 TM34
 TM45
+TM59
 TQ20
 TQ57
 TQ81
@@ -222,6 +230,7 @@ TR02
 TR07
 TR16
 TR23
+TR26
 TV59
 
 
