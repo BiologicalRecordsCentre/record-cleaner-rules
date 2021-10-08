@@ -1,19 +1,19 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Locusta migratoria (Ort_202) 10km
-Description=Check coordinate against known 10km distribution of Locusta migratoria (Ort_202)
-ErrorMsg=Coordinate outside know range for Locusta migratoria (Ort_202)
+ShortName=Locusta migratoria 10km
+Description=Check coordinate against known 10km distribution of Locusta migratoria
+ErrorMsg=Coordinate outside known range for Locusta migratoria
 DataFieldName=Species
 DataRecordId=NHMSYS0000377679
-LastChanged=20130430
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-SS96
 SV91
 SW53
 SX45
+TL30
 
 

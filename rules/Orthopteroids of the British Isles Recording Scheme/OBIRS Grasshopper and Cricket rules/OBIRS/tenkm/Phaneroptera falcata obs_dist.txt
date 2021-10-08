@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Phaneroptera falcata 10km
 Description=Check coordinate against known 10km distribution of Phaneroptera falcata
-ErrorMsg=Coordinate outside know range for Phaneroptera falcata
+ErrorMsg=Coordinate outside known range for Phaneroptera falcata
 DataFieldName=Species
 DataRecordId=NHMSYS0019998481
-LastChanged=20130430
+LastChanged=20180313
 [EndMetadata]
 
 

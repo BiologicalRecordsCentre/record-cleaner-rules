@@ -3,25 +3,20 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Chorthippus vagans 10km
 Description=Check coordinate against known 10km distribution of Chorthippus vagans
-ErrorMsg=Coordinate outside know range for Chorthippus vagans
+ErrorMsg=Coordinate outside known range for Chorthippus vagans
 DataFieldName=Species
 DataRecordId=NHMSYS0001387288
-LastChanged=20130430
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
 SU00
-SU01
 SU10
 SU11
 SU20
-SU30
-SY88
-SY89
 SY98
 SY99
-SZ07
 SZ08
 SZ09
 SZ19

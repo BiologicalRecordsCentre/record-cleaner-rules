@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Gryllus bimaculatus 10km
 Description=Check coordinate against known 10km distribution of Gryllus bimaculatus
-ErrorMsg=Coordinate outside know range for Gryllus bimaculatus
+ErrorMsg=Coordinate outside known range for Gryllus bimaculatus
 DataFieldName=Species
 DataRecordId=NHMSYS0000377677
-LastChanged=20130430
+LastChanged=20180313
 [EndMetadata]
 
 
@@ -23,6 +23,7 @@ SU18
 SX05
 SX46
 SX99
+SY79
 SZ57
 TL12
 TL60

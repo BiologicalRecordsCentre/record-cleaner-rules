@@ -3,20 +3,17 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Platycleis albopunctata 10km
 Description=Check coordinate against known 10km distribution of Platycleis albopunctata
-ErrorMsg=Coordinate outside know range for Platycleis albopunctata
+ErrorMsg=Coordinate outside known range for Platycleis albopunctata
 DataFieldName=Species
 DataRecordId=NHMSYS0001387438
-LastChanged=20130430
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-SH12
 SH22
 SH32
-SH33
 SM70
-SM72
 SM80
 SM82
 SN20
@@ -32,13 +29,8 @@ SS48
 SS49
 SS58
 SS78
-ST16
-ST25
-ST35
 SU10
-SU50
 SU60
-SU70
 SV81
 SW32
 SW33
@@ -67,7 +59,7 @@ SX54
 SX63
 SX64
 SX73
-SX74
+SX78
 SX83
 SX84
 SX85
@@ -75,10 +67,12 @@ SX94
 SX95
 SX96
 SX97
+SX98
 SY07
 SY18
 SY28
 SY39
+SY48
 SY49
 SY58
 SY66
@@ -97,12 +91,10 @@ SZ29
 SZ38
 SZ47
 SZ57
-SZ58
 SZ59
 SZ68
 SZ69
 SZ79
-SZ89
 TL03
 TM01
 TM11
@@ -120,13 +112,10 @@ TQ91
 TR01
 TR02
 TR13
-TR16
 TR23
 TR33
 TR34
 TR35
 TR36
-TV59
-TV69
 
 
