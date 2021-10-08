@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Haematopota subcylindrica 10km
 Description=Check coordinate against known 10km distribution of Haematopota subcylindrica
-ErrorMsg=Coordinate outside know range for Haematopota subcylindrica
+ErrorMsg=Coordinate outside known range for Haematopota subcylindrica
 DataFieldName=Species
 DataRecordId=NBNSYS0000042531
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 

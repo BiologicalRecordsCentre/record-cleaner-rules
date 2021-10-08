@@ -3,22 +3,20 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Atrichops crassipes 10km
 Description=Check coordinate against known 10km distribution of Atrichops crassipes
-ErrorMsg=Coordinate outside know range for Atrichops crassipes
+ErrorMsg=Coordinate outside known range for Atrichops crassipes
 DataFieldName=Species
 DataRecordId=NBNSYS0000007860
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-SO41
-SO42
-SU31
-SU66
-SU67
 SU97
 SX87
 TQ01
-TQ62
+TQ31
+TQ32
+TQ41
+TQ42
 
 

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Thereva handlirschi 10km
 Description=Check coordinate against known 10km distribution of Thereva handlirschi
-ErrorMsg=Coordinate outside know range for Thereva handlirschi
+ErrorMsg=Coordinate outside known range for Thereva handlirschi
 DataFieldName=Species
 DataRecordId=NBNSYS0000007929
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 

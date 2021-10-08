@@ -3,63 +3,48 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Ibisia marginata 10km
 Description=Check coordinate against known 10km distribution of Ibisia marginata
-ErrorMsg=Coordinate outside know range for Ibisia marginata
+ErrorMsg=Coordinate outside known range for Ibisia marginata
 DataFieldName=Species
 DataRecordId=NBNSYS0100003576
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
 NY13
 NY21
+NY30
 SD18
 SD19
-SH45
-SH56
-SH64
-SH65
+SH71
 SH72
-SH75
-SH87
+SH76
 SM92
-SN03
 SN60
 SN67
 SN77
 SO32
 SO41
 SO42
-SS51
 SS62
-SS72
-SS73
-SS74
-SS83
-SS92
-SS93
 SU10
-SU30
 SU32
 SU82
 SU93
 SU94
 SX07
-SX16
 SX17
-SX26
-SX27
 SX36
+SX38
 SX47
 SX55
 SX57
 SX67
-SX68
 SX74
 SX76
 SX77
 SX78
-SX88
+SX87
 SZ29
 
 

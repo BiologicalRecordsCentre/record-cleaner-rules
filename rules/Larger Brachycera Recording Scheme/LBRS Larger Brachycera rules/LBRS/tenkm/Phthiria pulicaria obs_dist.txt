@@ -3,34 +3,30 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Phthiria pulicaria 10km
 Description=Check coordinate against known 10km distribution of Phthiria pulicaria
-ErrorMsg=Coordinate outside know range for Phthiria pulicaria
+ErrorMsg=Coordinate outside known range for Phthiria pulicaria
 DataFieldName=Species
 DataRecordId=NBNSYS0000007949
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-NH85
 NH89
 NH95
-NS24
 NS33
-NU14
 NU20
-NX15
+NX40
 SD09
 SD17
-SD21
 SD27
 SH36
-SH46
+SH52
+SH53
 SO87
 SS43
 SS44
 SS49
 SS58
-ST25
 SW75
 SY88
 SZ08
@@ -48,6 +44,5 @@ TL87
 TL88
 TM01
 TM11
-TR35
 
 

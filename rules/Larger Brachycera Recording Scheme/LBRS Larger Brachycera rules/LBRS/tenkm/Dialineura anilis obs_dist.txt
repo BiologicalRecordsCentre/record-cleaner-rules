@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Dialineura anilis 10km
 Description=Check coordinate against known 10km distribution of Dialineura anilis
-ErrorMsg=Coordinate outside know range for Dialineura anilis
+ErrorMsg=Coordinate outside known range for Dialineura anilis
 DataFieldName=Species
 DataRecordId=NBNSYS0000007922
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
@@ -16,15 +16,10 @@ NY96
 SD09
 SD17
 SH36
-SH46
 SH52
 SH53
 SM80
-SN20
-SN31
-SS49
 SS58
 SS78
-SS87
 
 

@@ -3,23 +3,19 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Hybomitra lurida 10km
 Description=Check coordinate against known 10km distribution of Hybomitra lurida
-ErrorMsg=Coordinate outside know range for Hybomitra lurida
+ErrorMsg=Coordinate outside known range for Hybomitra lurida
 DataFieldName=Species
 DataRecordId=NBNSYS0000007883
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-NH52
-NH55
-NH65
 NH80
-NH90
 NH91
-NH95
-NJ02
 NO08
+NX37
+SH33
 SJ43
 
 

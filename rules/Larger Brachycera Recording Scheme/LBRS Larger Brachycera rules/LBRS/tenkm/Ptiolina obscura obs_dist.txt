@@ -3,57 +3,64 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Ptiolina obscura 10km
 Description=Check coordinate against known 10km distribution of Ptiolina obscura
-ErrorMsg=Coordinate outside know range for Ptiolina obscura
+ErrorMsg=Coordinate outside known range for Ptiolina obscura
 DataFieldName=Species
 DataRecordId=NBNSYS0000007854
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
 NH94
-NJ13
 NN94
 NN96
 NS57
 NX37
 NX46
 NY10
-NZ44
 SD38
 SD46
 SD47
 SD48
-SD99
+SD67
 SE50
 SE58
+SH93
 SK17
 SK25
-SN96
 SO11
-SO26
 SO50
-SS20
-SS21
-SS22
-SS41
-SS64
-SS74
+SO71
+SP75
+SP80
+SS50
+ST00
+ST12
+ST14
+ST20
+ST21
+ST30
 ST38
-ST45
+ST41
 ST46
 ST50
 ST52
-ST55
 SU30
+SU50
 SU67
+SU78
+SU84
+SX56
+SX66
+SX79
+SY28
 SY39
-SY59
 SY98
-TL17
+TL11
 TL35
 TQ05
 TQ48
 TQ64
+TQ75
 
 

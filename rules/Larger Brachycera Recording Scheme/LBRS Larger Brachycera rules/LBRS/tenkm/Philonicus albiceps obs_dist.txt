@@ -3,26 +3,18 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Philonicus albiceps 10km
 Description=Check coordinate against known 10km distribution of Philonicus albiceps
-ErrorMsg=Coordinate outside know range for Philonicus albiceps
+ErrorMsg=Coordinate outside known range for Philonicus albiceps
 DataFieldName=Species
 DataRecordId=NBNSYS0000007906
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-NJ02
-NO41
-NO42
-NO52
 NS33
-NT48
-NT67
 NU04
-NU13
+NU14
 NU20
-NU22
-NX15
 NX30
 NX40
 NX95
@@ -30,51 +22,46 @@ NY04
 NY05
 NY14
 NY15
-NZ29
 NZ52
+SC49
 SD09
 SD17
 SD20
 SD21
-SD26
 SD33
 SH32
 SH36
-SH37
+SH45
 SH46
 SH52
+SH53
 SH77
 SJ18
-SM72
+SJ28
 SM80
 SN14
 SN20
 SN24
-SN25
 SN30
 SN31
 SN40
 SN69
-SO87
 SR99
 SS09
 SS43
-SS44
 SS49
 SS58
+SS77
 SS78
 SS79
 SS87
 ST24
-ST25
-SU10
 SU60
-SU79
+SU82
 SV81
 SV91
 SW75
-SW76
-SW93
+SW97
 SX97
 SX98
 SZ08
@@ -85,28 +72,22 @@ SZ79
 TA30
 TA41
 TF48
-TF49
 TF55
-TF64
+TF63
 TF74
 TF84
 TF94
-TG04
 TG33
 TG42
 TG51
 TM01
 TM11
 TM22
+TM45
 TM46
 TM47
 TQ00
-TQ55
 TQ91
 TR01
-TR02
-TR26
-TR35
-TR36
 
 
