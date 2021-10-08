@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Ecdyonurus insignis 10km
 Description=Check coordinate against known 10km distribution of Ecdyonurus insignis
-ErrorMsg=Coordinate outside know range for Ecdyonurus insignis
+ErrorMsg=Coordinate outside known range for Ecdyonurus insignis
 DataFieldName=Species
 DataRecordId=NBNSYS0000010879
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
@@ -136,9 +136,42 @@ NT93
 NT94
 NT95
 NT96
+NY40
+NY41
+NY42
+NY43
+NY44
+NY50
+NY51
+NY52
+NY53
+NY54
+NY60
+NY61
+NY62
+NY63
+NY64
 NY69
 NY79
 NY89
+NZ00
+NZ10
+NZ20
+SD57
+SD58
+SD59
+SD67
+SD68
+SD69
+SD77
+SD78
+SD79
+SE08
+SE09
+SE18
+SE19
+SE28
+SE29
 SJ13
 SJ14
 SJ15
@@ -148,10 +181,26 @@ SJ25
 SJ33
 SJ34
 SJ35
+SN95
+SN96
+SN97
+SO05
+SO06
+SO07
+SO13
+SO14
+SO15
+SO16
+SO17
+SO23
+SO24
+SO25
 SO30
 SO31
 SO32
 SO33
+SO34
+SO35
 SO40
 SO41
 SO42
@@ -160,6 +209,9 @@ SO50
 SO51
 SO52
 SO53
+SS30
+SS31
+SS32
 SS40
 SS41
 SS42
@@ -176,6 +228,18 @@ SS64
 SS72
 SS73
 SS74
+SS80
+SS90
+ST00
+ST06
+ST07
+ST08
+ST16
+ST17
+ST18
+ST26
+ST27
+ST28
 SU30
 SU31
 SU32
@@ -185,6 +249,12 @@ SU42
 SU50
 SU51
 SU52
+SX88
+SX89
+SX98
+SX99
+SY08
+SY09
 TQ21
 TQ22
 TQ23

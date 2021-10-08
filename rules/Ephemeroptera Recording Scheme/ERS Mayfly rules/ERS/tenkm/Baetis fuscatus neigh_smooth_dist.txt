@@ -3,20 +3,37 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Baetis fuscatus 10km
 Description=Check coordinate against known 10km distribution of Baetis fuscatus
-ErrorMsg=Coordinate outside know range for Baetis fuscatus
+ErrorMsg=Coordinate outside known range for Baetis fuscatus
 DataFieldName=Species
 DataRecordId=NHMSYS0000066961
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
 [10km_GB]
+NC95
+NC96
+ND05
+ND06
+ND07
+ND15
+ND16
+ND17
 NN60
 NN61
 NN70
 NN71
 NN80
 NN81
+NO01
+NO02
+NO03
+NO11
+NO12
+NO13
+NO21
+NO22
+NO23
 NS31
 NS32
 NS33
@@ -71,6 +88,15 @@ SE35
 SE36
 SE37
 SE38
+SH96
+SH97
+SH98
+SJ06
+SJ07
+SJ08
+SJ16
+SJ17
+SJ18
 SJ50
 SJ51
 SJ60
@@ -78,7 +104,22 @@ SJ61
 SJ70
 SJ71
 SK90
+SO40
+SO41
+SO42
+SO43
+SO44
+SO50
+SO51
+SO52
+SO53
+SO54
 SO59
+SO60
+SO61
+SO62
+SO63
+SO64
 SO69
 SO79
 SP98
@@ -100,6 +141,13 @@ SU45
 SU53
 SU54
 SU55
+SU56
+SU64
+SU65
+SU66
+SU74
+SU75
+SU76
 SY68
 SY69
 SY78
@@ -112,5 +160,23 @@ TL08
 TL09
 TL18
 TL19
+TQ11
+TQ12
+TQ13
+TQ15
+TQ16
+TQ17
+TQ21
+TQ22
+TQ23
+TQ25
+TQ26
+TQ27
+TQ31
+TQ32
+TQ33
+TQ35
+TQ36
+TQ37
 
 

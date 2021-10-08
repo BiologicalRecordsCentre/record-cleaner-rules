@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Heptagenia longicauda 10km
 Description=Check coordinate against known 10km distribution of Heptagenia longicauda
-ErrorMsg=Coordinate outside know range for Heptagenia longicauda
+ErrorMsg=Coordinate outside known range for Heptagenia longicauda
 DataFieldName=Species
 DataRecordId=NHMSYS0000066972
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 

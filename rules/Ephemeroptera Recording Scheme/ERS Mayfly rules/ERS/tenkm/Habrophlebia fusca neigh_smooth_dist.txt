@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Habrophlebia fusca 10km
 Description=Check coordinate against known 10km distribution of Habrophlebia fusca
-ErrorMsg=Coordinate outside know range for Habrophlebia fusca
+ErrorMsg=Coordinate outside known range for Habrophlebia fusca
 DataFieldName=Species
 DataRecordId=NBNSYS0000010888
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
@@ -44,6 +44,8 @@ NK06
 NK13
 NK14
 NK15
+NN40
+NN50
 NN60
 NN61
 NN70
@@ -343,12 +345,17 @@ SD39
 SD47
 SD48
 SD49
+SD56
 SD57
 SD58
 SD59
+SD66
+SD67
+SD68
 SD75
 SD76
 SD77
+SD78
 SD85
 SD86
 SD87
@@ -837,6 +844,8 @@ SS52
 SS60
 SS61
 SS62
+SS70
+SS71
 SS80
 SS90
 ST00
@@ -977,12 +986,19 @@ SU91
 SU92
 SU93
 SU94
+SX19
+SX28
+SX29
+SX38
 SX39
+SX48
 SX49
+SX58
 SX59
 SX65
 SX66
 SX67
+SX69
 SX75
 SX76
 SX77
@@ -1243,6 +1259,8 @@ TM46
 TM47
 TM48
 TM49
+TM57
+TM58
 TQ00
 TQ01
 TQ02

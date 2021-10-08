@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Caenis pusilla 10km
+Description=Check coordinate against known 10km distribution of Caenis pusilla
+ErrorMsg=Coordinate outside known range for Caenis pusilla
+DataFieldName=Species
+DataRecordId=NHMSYS0000066969
+LastChanged=20180322
+[EndMetadata]
+
+
+[10km_GB]
+SU20
+SU21
+SU22
+SU23
+SU24
+SU30
+SU31
+SU32
+SU33
+SU34
+SU40
+SU41
+SU42
+SU43
+SU44
+
+

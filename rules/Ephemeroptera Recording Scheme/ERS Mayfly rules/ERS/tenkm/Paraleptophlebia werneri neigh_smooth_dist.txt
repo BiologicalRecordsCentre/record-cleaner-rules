@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Paraleptophlebia werneri 10km
 Description=Check coordinate against known 10km distribution of Paraleptophlebia werneri
-ErrorMsg=Coordinate outside know range for Paraleptophlebia werneri
+ErrorMsg=Coordinate outside known range for Paraleptophlebia werneri
 DataFieldName=Species
 DataRecordId=NBNSYS0000010893
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
@@ -44,8 +44,17 @@ SE10
 SE11
 SE20
 SE21
+SK06
+SK07
+SK08
 SK09
+SK16
+SK17
+SK18
 SK19
+SK26
+SK27
+SK28
 SK29
 SO45
 SO46
@@ -68,6 +77,24 @@ SU02
 SU10
 SU11
 SU12
+SU33
+SU34
+SU35
+SU43
+SU44
+SU45
+SU53
+SU54
+SU55
+SU70
+SU71
+SU72
+SU80
+SU81
+SU82
+SU90
+SU91
+SU92
 TL93
 TL94
 TL95

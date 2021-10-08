@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Caenis macrura 10km
 Description=Check coordinate against known 10km distribution of Caenis macrura
-ErrorMsg=Coordinate outside know range for Caenis macrura
+ErrorMsg=Coordinate outside known range for Caenis macrura
 DataFieldName=Species
 DataRecordId=NBNSYS0000010903
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
@@ -20,6 +20,9 @@ ND04
 ND12
 ND13
 ND14
+NJ30
+NJ40
+NJ50
 NN93
 NN94
 NN95
@@ -29,6 +32,12 @@ NO05
 NO13
 NO14
 NO15
+NO38
+NO39
+NO48
+NO49
+NO58
+NO59
 NT74
 NT75
 NT76

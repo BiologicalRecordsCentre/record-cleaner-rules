@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Caenis rivulorum 10km
 Description=Check coordinate against known 10km distribution of Caenis rivulorum
-ErrorMsg=Coordinate outside know range for Caenis rivulorum
+ErrorMsg=Coordinate outside known range for Caenis rivulorum
 DataFieldName=Species
 DataRecordId=NBNSYS0000010904
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
@@ -224,9 +224,12 @@ NJ16
 NJ24
 NJ25
 NJ26
+NJ30
 NJ34
 NJ35
 NJ36
+NJ40
+NJ50
 NJ70
 NJ71
 NJ72
@@ -339,6 +342,7 @@ NO35
 NO36
 NO37
 NO38
+NO39
 NO40
 NO41
 NO42
@@ -348,6 +352,7 @@ NO45
 NO46
 NO47
 NO48
+NO49
 NO50
 NO51
 NO52
@@ -357,6 +362,7 @@ NO55
 NO56
 NO57
 NO58
+NO59
 NO60
 NO61
 NO63
@@ -1299,6 +1305,7 @@ SX19
 SX25
 SX26
 SX27
+SX29
 SX35
 SX36
 SX37
@@ -1474,6 +1481,7 @@ TQ42
 TQ43
 TQ44
 TQ45
+TQ50
 TQ51
 TQ52
 TQ53
