@@ -3,23 +3,56 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Nemoura avicularis 10km
 Description=Check coordinate against known 10km distribution of Nemoura avicularis
-ErrorMsg=Coordinate outside know range for Nemoura avicularis
+ErrorMsg=Coordinate outside known range for Nemoura avicularis
 DataFieldName=Species
 DataRecordId=NBNSYS0000022419
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
 [10km_GB]
+NH21
+NH22
+NH23
+NH31
+NH32
+NH33
+NH41
+NH42
+NH43
 NH80
 NH81
 NH90
 NH91
+NH92
 NJ00
 NJ01
+NJ02
+NJ10
+NJ11
+NJ12
+NJ20
+NJ94
+NJ95
+NJ96
+NK04
+NK05
+NK06
+NK14
+NK15
 NN89
+NN97
+NN98
 NN99
+NO07
+NO08
 NO09
+NO17
+NO18
+NO19
+NO27
+NO28
+NO29
 NS86
 NS87
 NS88
@@ -114,6 +147,8 @@ SD59
 SD60
 SD61
 SD62
+SD64
+SD65
 SD66
 SD67
 SD68
@@ -121,6 +156,8 @@ SD69
 SD70
 SD71
 SD72
+SD74
+SD75
 SD76
 SD77
 SD78
@@ -429,6 +466,8 @@ ST88
 ST96
 ST97
 ST98
+SU00
+SU01
 SU10
 SU11
 SU20
@@ -500,6 +539,7 @@ SY18
 SY19
 SY28
 SY29
+SZ09
 SZ19
 SZ29
 SZ39
@@ -612,6 +652,7 @@ TL71
 TL74
 TL75
 TL76
+TL77
 TL78
 TL79
 TL80

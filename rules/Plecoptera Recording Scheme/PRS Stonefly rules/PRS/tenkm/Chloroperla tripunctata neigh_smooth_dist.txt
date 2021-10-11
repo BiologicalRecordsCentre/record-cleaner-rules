@@ -3,14 +3,67 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Chloroperla tripunctata 10km
 Description=Check coordinate against known 10km distribution of Chloroperla tripunctata
-ErrorMsg=Coordinate outside know range for Chloroperla tripunctata
+ErrorMsg=Coordinate outside known range for Chloroperla tripunctata
 DataFieldName=Species
 DataRecordId=NBNSYS0000022446
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
 [10km_GB]
+NH90
+NH91
+NH92
+NJ00
+NJ01
+NJ02
+NJ10
+NJ11
+NJ12
+NJ20
+NJ30
+NJ40
+NJ50
+NO08
+NO09
+NO18
+NO19
+NO25
+NO26
+NO27
+NO28
+NO29
+NO35
+NO36
+NO37
+NO38
+NO39
+NO45
+NO46
+NO47
+NO48
+NO49
+NO57
+NO58
+NO59
+NS67
+NS68
+NS69
+NS77
+NS78
+NS79
+NS87
+NS88
+NS89
+NT01
+NT02
+NT03
+NT11
+NT12
+NT13
+NT21
+NT22
+NT23
 NX90
 NX91
 NX92
@@ -63,9 +116,11 @@ NY74
 NY76
 NY77
 NY78
+NY80
 NY81
 NY82
 NY83
+NY90
 NY91
 NY92
 NY93
@@ -109,14 +164,24 @@ SD45
 SD53
 SD54
 SD55
+SD56
+SD57
 SD59
 SD60
 SD61
 SD62
+SD64
+SD65
+SD66
+SD67
 SD69
 SD70
 SD71
 SD72
+SD74
+SD75
+SD76
+SD77
 SD79
 SD80
 SD81
@@ -127,6 +192,7 @@ SD85
 SD86
 SD87
 SD88
+SD89
 SD90
 SD91
 SD92
@@ -136,6 +202,7 @@ SD95
 SD96
 SD97
 SD98
+SD99
 SE00
 SE01
 SE02
@@ -165,6 +232,7 @@ SE26
 SE27
 SE28
 SE29
+SE30
 SE59
 SE67
 SE68
@@ -230,10 +298,13 @@ SK24
 SK25
 SK26
 SK27
+SK28
 SK29
 SK35
 SK36
 SK37
+SK38
+SK39
 SM91
 SM92
 SM93
