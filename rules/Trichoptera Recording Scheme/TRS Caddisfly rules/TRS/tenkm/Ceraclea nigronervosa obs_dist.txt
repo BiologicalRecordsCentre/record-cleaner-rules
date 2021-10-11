@@ -3,14 +3,15 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Ceraclea nigronervosa 10km
 Description=Check coordinate against known 10km distribution of Ceraclea nigronervosa
-ErrorMsg=Coordinate outside know range for Ceraclea nigronervosa
+ErrorMsg=Coordinate outside known range for Ceraclea nigronervosa
 DataFieldName=Species
 DataRecordId=NBNSYS0000008520
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
+NC21
 NC23
 ND05
 ND06
@@ -29,6 +30,9 @@ NT73
 NT85
 NX67
 NY44
+NY53
+NZ24
+NZ31
 SD29
 SD39
 SD86
@@ -49,16 +53,19 @@ SE77
 SH61
 SH70
 SH75
+SH93
 SJ14
 SJ24
 SJ34
 SJ41
+SJ51
 SJ54
 SK05
 SK13
 SK23
 SK27
 SK35
+SK52
 SK54
 SN54
 SN66
@@ -69,6 +76,7 @@ SO37
 SO50
 SO51
 SO57
+SP49
 SP84
 SP97
 SS59

@@ -3,16 +3,15 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Setodes punctatus 10km
 Description=Check coordinate against known 10km distribution of Setodes punctatus
-ErrorMsg=Coordinate outside know range for Setodes punctatus
+ErrorMsg=Coordinate outside known range for Setodes punctatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008541
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
 SJ51
 SJ60
-TF63
 
 

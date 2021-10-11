@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Limnephilus fuscicornis 10km
 Description=Check coordinate against known 10km distribution of Limnephilus fuscicornis
-ErrorMsg=Coordinate outside know range for Limnephilus fuscicornis
+ErrorMsg=Coordinate outside known range for Limnephilus fuscicornis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008477
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -15,8 +15,10 @@ NJ81
 NN53
 NO30
 NY62
+NZ08
 NZ22
 NZ33
+NZ42
 SD91
 SD95
 SE14
@@ -47,6 +49,7 @@ SO47
 SP07
 SP17
 SP27
+SP49
 SP59
 SP72
 SP84

@@ -3,14 +3,15 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Diplectrona felix 10km
 Description=Check coordinate against known 10km distribution of Diplectrona felix
-ErrorMsg=Coordinate outside know range for Diplectrona felix
+ErrorMsg=Coordinate outside known range for Diplectrona felix
 DataFieldName=Species
 DataRecordId=NBNSYS0000008422
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
+NG61
 NH04
 NH31
 NM46
@@ -28,9 +29,12 @@ NN53
 NN55
 NN74
 NN95
+NO04
 NO30
 NO41
+NR63
 NR79
+NS09
 NS28
 NS39
 NS49
@@ -51,6 +55,7 @@ NX47
 NX55
 NX56
 NX66
+NX85
 NY01
 NY10
 NY11
@@ -67,7 +72,9 @@ NY70
 NY74
 NY76
 NY86
+NY94
 NY96
+NZ04
 NZ06
 NZ15
 NZ60
@@ -90,6 +97,7 @@ SD48
 SD49
 SD54
 SD55
+SD56
 SD59
 SD64
 SD71
@@ -111,6 +119,7 @@ SE11
 SE14
 SE20
 SE27
+SE58
 SE98
 SE99
 SH22
@@ -120,6 +129,7 @@ SH32
 SH33
 SH34
 SH44
+SH47
 SH48
 SH51
 SH52
@@ -144,10 +154,14 @@ SH74
 SH75
 SH76
 SH77
+SH80
 SH81
+SH82
+SH85
 SH87
 SH91
 SH92
+SH96
 SJ01
 SJ02
 SJ05
@@ -164,6 +178,8 @@ SJ34
 SJ35
 SK05
 SK07
+SK08
+SK09
 SK18
 SK19
 SK25
@@ -176,6 +192,7 @@ SK38
 SK51
 SM70
 SM72
+SM73
 SM80
 SM81
 SM82
@@ -183,6 +200,7 @@ SM83
 SM84
 SM90
 SM93
+SM94
 SN00
 SN01
 SN02
@@ -252,6 +270,7 @@ SS79
 SS89
 ST02
 ST11
+ST20
 ST21
 ST30
 ST40
@@ -259,6 +278,7 @@ ST50
 ST60
 ST70
 ST73
+ST74
 ST82
 SW42
 SW43
@@ -267,6 +287,7 @@ SW64
 SW72
 SW82
 SW84
+SW86
 SX08
 SX17
 SX46
@@ -281,7 +302,6 @@ SY28
 SY29
 SY39
 SY49
-TL89
 TQ22
 TQ54
 TQ64

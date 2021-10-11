@@ -3,27 +3,31 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Molanna albicans 10km
 Description=Check coordinate against known 10km distribution of Molanna albicans
-ErrorMsg=Coordinate outside know range for Molanna albicans
+ErrorMsg=Coordinate outside known range for Molanna albicans
 DataFieldName=Species
 DataRecordId=NBNSYS0000008508
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
+NC35
+NC55
 NC93
 ND27
+NH93
 NJ01
 NO04
 NO21
 NS99
 NY80
+SD79
+SH62
 SH64
 SH75
 SH76
 SH81
 SH95
-SK48
 SN82
 SN89
 SO09

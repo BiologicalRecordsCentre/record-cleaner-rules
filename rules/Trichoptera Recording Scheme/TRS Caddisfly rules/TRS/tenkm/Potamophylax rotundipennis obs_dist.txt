@@ -3,15 +3,16 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Potamophylax rotundipennis 10km
 Description=Check coordinate against known 10km distribution of Potamophylax rotundipennis
-ErrorMsg=Coordinate outside know range for Potamophylax rotundipennis
+ErrorMsg=Coordinate outside known range for Potamophylax rotundipennis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008458
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
 NG88
+NH78
 NH80
 NJ33
 NJ93
@@ -68,6 +69,7 @@ SS41
 SS72
 SS73
 ST31
+ST74
 SU16
 SU20
 SU21

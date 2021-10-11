@@ -3,22 +3,32 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Agraylea sexmaculata 10km
 Description=Check coordinate against known 10km distribution of Agraylea sexmaculata
-ErrorMsg=Coordinate outside know range for Agraylea sexmaculata
+ErrorMsg=Coordinate outside known range for Agraylea sexmaculata
 DataFieldName=Species
 DataRecordId=NBNSYS0000008350
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
+NY30
+NZ01
 NZ27
+NZ31
+NZ41
 SD81
 SD84
 SD86
+SD96
 SE01
 SE05
 SE11
+SE28
+SE64
+SE82
 SH57
+SH75
+SH76
 SH77
 SH96
 SJ18
@@ -30,14 +40,18 @@ SJ53
 SJ59
 SJ69
 SK49
+SK51
 SK52
 SK68
 SK74
 SK92
+SM81
+SN02
 SO00
 SO54
 SO61
 SO81
+SO92
 SP09
 SP25
 SP40
@@ -46,6 +60,7 @@ SP59
 SP84
 SR99
 SS50
+ST47
 SU20
 SU28
 SU37
@@ -60,6 +75,7 @@ SU96
 SU97
 SU98
 SW71
+SX79
 SY88
 SZ19
 SZ79
@@ -73,7 +89,9 @@ TG20
 TL07
 TL10
 TL11
+TL16
 TL17
+TL18
 TL21
 TL24
 TL31
@@ -81,6 +99,7 @@ TL44
 TL56
 TL57
 TM35
+TM38
 TM46
 TQ07
 TQ16

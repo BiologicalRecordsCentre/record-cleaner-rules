@@ -3,29 +3,34 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Neureclipsis bimaculata 10km
 Description=Check coordinate against known 10km distribution of Neureclipsis bimaculata
-ErrorMsg=Coordinate outside know range for Neureclipsis bimaculata
+ErrorMsg=Coordinate outside known range for Neureclipsis bimaculata
 DataFieldName=Species
 DataRecordId=NBNSYS0000008405
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
+NB33
 NC01
 NC12
 NC14
 NC21
 NC24
 NC46
+NC53
+NC55
 NC63
 NC80
 ND14
 NG88
+NH22
 NH45
 NH90
 NJ40
 NM67
 NM95
+NN24
 NN40
 NN50
 NN52
@@ -33,6 +38,7 @@ NN60
 NN95
 NO08
 NO14
+NS18
 NS59
 NS87
 NX35
@@ -48,11 +54,13 @@ NY55
 SD28
 SD38
 SE55
+SE64
 SH56
 SH62
 SH63
 SJ72
 SK06
+SK43
 SK52
 SO54
 SP25
@@ -75,12 +83,12 @@ SP98
 SU09
 SU19
 SU29
-SU39
 SU49
 SU67
 SU70
 SU77
 SU88
+SX79
 TF10
 TG20
 TG31
@@ -88,17 +96,24 @@ TL05
 TL07
 TL08
 TL09
+TL10
 TL13
 TL15
+TL16
+TL17
+TL18
 TL19
+TL37
 TL69
 TL72
 TL80
 TL94
+TM03
 TQ05
 TQ07
 TQ08
 TQ27
+TQ41
 TQ54
 TQ60
 TQ64

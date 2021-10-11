@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Oxyethira falcata 10km
 Description=Check coordinate against known 10km distribution of Oxyethira falcata
-ErrorMsg=Coordinate outside know range for Oxyethira falcata
+ErrorMsg=Coordinate outside known range for Oxyethira falcata
 DataFieldName=Species
 DataRecordId=NBNSYS0000008367
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -33,6 +33,15 @@ NH32
 NH40
 NH41
 NH42
+NJ00
+NJ01
+NJ02
+NJ10
+NJ11
+NJ12
+NJ20
+NJ21
+NJ22
 NM84
 NM85
 NM86
@@ -63,6 +72,22 @@ NY52
 NY60
 NY61
 NY62
+NY82
+NY83
+NY84
+NY92
+NY93
+NY94
+NY95
+NY96
+NZ02
+NZ03
+NZ04
+NZ05
+NZ06
+NZ14
+NZ15
+NZ16
 SC16
 SC17
 SC26
@@ -170,6 +195,16 @@ SH98
 SJ03
 SJ04
 SJ05
+SJ13
+SJ14
+SJ15
+SJ23
+SJ24
+SJ25
+SJ33
+SJ34
+SJ35
+SK30
 SK40
 SK41
 SK42
@@ -232,9 +267,25 @@ SN88
 SN90
 SN91
 SN92
+SN95
 SN96
 SN97
 SN98
+SO05
+SO06
+SO07
+SP38
+SP39
+SP48
+SP49
+SP58
+SP59
+SP81
+SP82
+SP83
+SP91
+SP92
+SP93
 SS38
 SS39
 SS48
@@ -248,9 +299,18 @@ SS79
 ST60
 ST70
 ST80
+SU02
+SU03
+SU04
+SU12
+SU13
+SU14
 SU15
 SU16
 SU17
+SU22
+SU23
+SU24
 SU25
 SU26
 SU27
@@ -285,5 +345,8 @@ SY78
 SY79
 SY88
 SY89
+TL01
+TL02
+TL03
 
 

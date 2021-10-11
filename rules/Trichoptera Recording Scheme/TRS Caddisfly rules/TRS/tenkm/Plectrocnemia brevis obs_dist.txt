@@ -3,22 +3,18 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Plectrocnemia brevis 10km
 Description=Check coordinate against known 10km distribution of Plectrocnemia brevis
-ErrorMsg=Coordinate outside know range for Plectrocnemia brevis
+ErrorMsg=Coordinate outside known range for Plectrocnemia brevis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008406
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
-NO04
-NO33
-NT32
 NZ28
 SD50
-SD83
 SE27
-SE89
+SE58
 SE92
 SJ17
 SJ18
@@ -37,9 +33,10 @@ SJ57
 SK94
 SS89
 ST17
+ST30
 ST50
-SX58
 SY18
 SY28
+SY29
 
 

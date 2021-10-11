@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Ceraclea albimacula 10km
 Description=Check coordinate against known 10km distribution of Ceraclea albimacula
-ErrorMsg=Coordinate outside know range for Ceraclea albimacula
+ErrorMsg=Coordinate outside known range for Ceraclea albimacula
 DataFieldName=Species
 DataRecordId=NBNSYS0000008516
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -14,6 +14,7 @@ LastChanged=20130502
 HY21
 NC01
 NC12
+ND06
 NG30
 NN95
 NX76
@@ -22,6 +23,7 @@ NY53
 SD38
 SD39
 SE55
+SH75
 SJ35
 SJ41
 SJ60
@@ -58,11 +60,16 @@ SY88
 SZ19
 TG21
 TG22
+TL07
 TL09
+TL10
+TL15
 TL17
+TL18
 TM03
 TM04
 TQ65
+TR15
 TR16
 
 

@@ -3,21 +3,24 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Polycentropus kingi 10km
 Description=Check coordinate against known 10km distribution of Polycentropus kingi
-ErrorMsg=Coordinate outside know range for Polycentropus kingi
+ErrorMsg=Coordinate outside known range for Polycentropus kingi
 DataFieldName=Species
 DataRecordId=NBNSYS0000008411
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
 NB10
 NB22
+NB23
+NB55
 NC12
 NC34
 NC40
 NC46
 NC55
+NC56
 NC63
 NC66
 ND01
@@ -26,6 +29,7 @@ ND05
 ND06
 ND13
 ND16
+NG74
 NG88
 NG94
 NH15
@@ -41,15 +45,22 @@ NH85
 NJ01
 NJ35
 NM98
+NN15
 NN17
+NN24
 NN30
 NN31
+NN34
 NN72
 NN75
 NN79
 NN82
 NO10
 NO20
+NR35
+NR57
+NR68
+NR92
 NT00
 NT08
 NT53
@@ -78,10 +89,17 @@ NY30
 NY55
 NY68
 NY70
+NY76
 NY80
+NY82
 NY89
 NY91
 NY92
+NY94
+NZ01
+NZ02
+NZ11
+NZ21
 NZ80
 SC26
 SC27
@@ -98,6 +116,7 @@ SD88
 SD90
 SD91
 SD93
+SD96
 SE00
 SE02
 SE05
@@ -129,10 +148,12 @@ SH65
 SH66
 SH71
 SH72
+SH74
 SH75
 SH80
 SH81
 SH82
+SH83
 SH85
 SH91
 SH95
@@ -151,6 +172,7 @@ SK84
 SK90
 SK92
 SK93
+SN02
 SN13
 SN53
 SN62
@@ -158,6 +180,7 @@ SN66
 SN67
 SN74
 SN76
+SN77
 SN81
 SN84
 SN88
@@ -248,6 +271,11 @@ TL89
 TL98
 TM28
 TQ04
+TQ22
+TQ31
+TQ32
+TQ41
+TQ42
 TQ64
 TQ74
 TR04

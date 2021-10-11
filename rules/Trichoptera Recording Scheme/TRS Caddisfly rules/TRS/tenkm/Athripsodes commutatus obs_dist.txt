@@ -3,16 +3,17 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Athripsodes commutatus 10km
 Description=Check coordinate against known 10km distribution of Athripsodes commutatus
-ErrorMsg=Coordinate outside know range for Athripsodes commutatus
+ErrorMsg=Coordinate outside known range for Athripsodes commutatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008515
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
 NC12
 NC24
+NC64
 NC71
 NC75
 NJ16
@@ -20,11 +21,12 @@ NN30
 NO08
 NO24
 NO55
+NO66
+NR35
 NX47
 NY70
 SE98
 SJ40
-SJ57
 SJ95
 SK05
 SS90

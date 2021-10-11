@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Beraeodes minutus 10km
 Description=Check coordinate against known 10km distribution of Beraeodes minutus
-ErrorMsg=Coordinate outside know range for Beraeodes minutus
+ErrorMsg=Coordinate outside known range for Beraeodes minutus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008503
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -24,9 +24,14 @@ NY21
 NY28
 NY51
 NY62
+NY96
 NZ28
+NZ40
 NZ41
+SD38
 SD58
+SD86
+SD96
 SE74
 SE75
 SE76
@@ -178,6 +183,8 @@ TQ01
 TQ03
 TQ12
 TQ33
+TQ41
+TQ42
 TQ53
 
 

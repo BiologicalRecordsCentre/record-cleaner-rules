@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Glossosoma conforme 10km
 Description=Check coordinate against known 10km distribution of Glossosoma conforme
-ErrorMsg=Coordinate outside know range for Glossosoma conforme
+ErrorMsg=Coordinate outside known range for Glossosoma conforme
 DataFieldName=Species
 DataRecordId=NBNSYS0000008344
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -14,7 +14,11 @@ LastChanged=20130502
 ND13
 NH80
 NH81
+NH90
+NJ05
+NJ12
 NM47
+NN18
 NN52
 NN65
 NN70
@@ -28,6 +32,7 @@ NO18
 NO25
 NO27
 NO30
+NO36
 NO41
 NO49
 NO55
@@ -61,6 +66,9 @@ NY76
 NY86
 NY92
 NY94
+NZ03
+NZ04
+NZ16
 NZ18
 SD18
 SD19
@@ -71,8 +79,10 @@ SD45
 SD47
 SD49
 SD65
+SD69
 SD70
 SD74
+SD77
 SD84
 SD97
 SE01
@@ -87,6 +97,7 @@ SE16
 SE18
 SE27
 SE53
+SE58
 SH34
 SH67
 SH72
@@ -117,10 +128,12 @@ SO39
 SO49
 SO54
 SO57
+SP49
 SS73
 SS79
 SS89
 ST02
+ST20
 SU32
 SU74
 SX06

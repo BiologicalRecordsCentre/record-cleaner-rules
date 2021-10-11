@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Limnephilus pati 10km
 Description=Check coordinate against known 10km distribution of Limnephilus pati
-ErrorMsg=Coordinate outside know range for Limnephilus pati
+ErrorMsg=Coordinate outside known range for Limnephilus pati
 DataFieldName=Species
 DataRecordId=NBNSYS0000008487
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 

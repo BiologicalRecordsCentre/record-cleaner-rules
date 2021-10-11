@@ -3,16 +3,17 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Tinodes maclachlani 10km
 Description=Check coordinate against known 10km distribution of Tinodes maclachlani
-ErrorMsg=Coordinate outside know range for Tinodes maclachlani
+ErrorMsg=Coordinate outside known range for Tinodes maclachlani
 DataFieldName=Species
 DataRecordId=NBNSYS0000008391
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
 NA00
 NF19
+NL58
 NN30
 NN95
 NT95
@@ -27,27 +28,35 @@ NY96
 NZ26
 SC16
 SC49
+SD46
 SD48
+SD49
 SD64
 SD71
 SE01
 SH12
 SH22
 SH23
+SH28
 SH32
 SH57
 SH66
 SH81
+SH86
 SJ18
 SJ24
+SJ26
 SJ28
 SJ38
 SJ96
 SK18
+SK27
 SK36
+SK41
 SK51
 SK92
 SM70
+SM72
 SM80
 SM81
 SM83
@@ -66,6 +75,7 @@ SS21
 SS22
 SS74
 ST06
+ST20
 SX19
 SY18
 SY28

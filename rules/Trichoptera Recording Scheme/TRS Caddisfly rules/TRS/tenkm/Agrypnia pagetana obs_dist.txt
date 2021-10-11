@@ -3,15 +3,15 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Agrypnia pagetana 10km
 Description=Check coordinate against known 10km distribution of Agrypnia pagetana
-ErrorMsg=Coordinate outside know range for Agrypnia pagetana
+ErrorMsg=Coordinate outside known range for Agrypnia pagetana
 DataFieldName=Species
 DataRecordId=NBNSYS0000008425
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
-NH51
+NH80
 NJ40
 NN96
 NO49
@@ -21,8 +21,12 @@ NS76
 NT52
 NY30
 NY60
+SD38
 SD50
+SE28
+SE42
 SE50
+SE64
 SE71
 SE81
 SJ43
@@ -45,6 +49,8 @@ SK53
 SK58
 SK61
 SK63
+SK71
+SK73
 SK74
 SK79
 SK96
@@ -57,9 +63,12 @@ SP28
 SP29
 SP37
 SP38
+SP49
 SP59
 SP69
 SP77
+SP86
+ST39
 SW75
 TA32
 TF10
@@ -70,8 +79,13 @@ TF62
 TG30
 TG31
 TG32
+TG42
 TL07
 TL09
+TL10
+TL17
+TL18
+TL26
 TL28
 TL38
 TL39
@@ -81,8 +95,10 @@ TL51
 TL52
 TL56
 TL57
+TL68
 TL78
 TL93
+TM03
 TM46
 TQ60
 TQ81

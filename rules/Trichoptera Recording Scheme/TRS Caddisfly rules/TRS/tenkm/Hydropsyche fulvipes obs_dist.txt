@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Hydropsyche fulvipes 10km
 Description=Check coordinate against known 10km distribution of Hydropsyche fulvipes
-ErrorMsg=Coordinate outside know range for Hydropsyche fulvipes
+ErrorMsg=Coordinate outside known range for Hydropsyche fulvipes
 DataFieldName=Species
 DataRecordId=NBNSYS0000008417
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -52,7 +52,6 @@ SJ35
 SJ37
 SJ57
 SJ67
-SK05
 SK06
 SK15
 SK41
@@ -94,7 +93,6 @@ SY18
 SY28
 SY29
 SY39
-TF00
 TF19
 TF37
 TF46

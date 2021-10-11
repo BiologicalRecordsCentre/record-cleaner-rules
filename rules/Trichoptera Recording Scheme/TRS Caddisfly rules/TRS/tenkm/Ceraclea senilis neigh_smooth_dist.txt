@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Ceraclea senilis 10km
 Description=Check coordinate against known 10km distribution of Ceraclea senilis
-ErrorMsg=Coordinate outside know range for Ceraclea senilis
+ErrorMsg=Coordinate outside known range for Ceraclea senilis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008521
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -23,21 +23,17 @@ NX38
 NX46
 NX47
 NX48
-NY77
-NY78
-NY79
-NY87
-NY88
-NY89
-NY97
-NY98
-NY99
 SD20
 SD21
 SD30
 SD31
+SD32
 SD40
 SD41
+SD42
+SD50
+SD51
+SD52
 SE25
 SE26
 SE27
@@ -74,10 +70,15 @@ SE82
 SE83
 SE84
 SJ29
+SJ36
+SJ37
+SJ38
 SJ39
+SJ46
 SJ47
 SJ48
 SJ49
+SJ56
 SJ57
 SJ58
 SJ59
@@ -86,19 +87,12 @@ SJ68
 SJ69
 SJ90
 SJ91
-SJ95
-SJ96
-SJ97
 SK00
 SK01
 SK02
-SK05
-SK06
-SK07
 SK10
 SK11
 SK12
-SK15
 SK16
 SK17
 SK18
@@ -127,6 +121,7 @@ SK52
 SK53
 SK54
 SK55
+SK58
 SK59
 SK60
 SK61
@@ -134,12 +129,14 @@ SK62
 SK63
 SK64
 SK65
+SK68
 SK69
 SK70
 SK71
 SK72
 SK73
 SK74
+SK78
 SK79
 SK82
 SK83
@@ -214,6 +211,9 @@ SP96
 SP97
 SP98
 SP99
+SS60
+SS70
+SS80
 SU23
 SU24
 SU25
@@ -244,6 +244,12 @@ SU86
 SU94
 SU95
 SU96
+SX68
+SX69
+SX78
+SX79
+SX88
+SX89
 SY97
 SY98
 SY99
@@ -296,6 +302,8 @@ TG32
 TG40
 TG41
 TG42
+TG50
+TG51
 TL00
 TL01
 TL04
@@ -320,6 +328,7 @@ TL26
 TL27
 TL28
 TL29
+TL35
 TL36
 TL37
 TL38
@@ -371,6 +380,7 @@ TM38
 TM39
 TM48
 TM49
+TM59
 TQ04
 TQ05
 TQ06

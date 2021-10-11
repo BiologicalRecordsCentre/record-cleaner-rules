@@ -3,26 +3,30 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Plectrocnemia geniculata 10km
 Description=Check coordinate against known 10km distribution of Plectrocnemia geniculata
-ErrorMsg=Coordinate outside know range for Plectrocnemia geniculata
+ErrorMsg=Coordinate outside known range for Plectrocnemia geniculata
 DataFieldName=Species
 DataRecordId=NBNSYS0000008408
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
 NA00
 NA10
+NB55
 NC01
+NC56
 ND12
 ND13
 NF09
 NF19
 NG20
+NG42
 NH15
 NH25
 NH31
 NH80
+NJ01
 NJ12
 NJ20
 NJ31
@@ -34,7 +38,9 @@ NM46
 NM86
 NN05
 NN15
+NN25
 NN30
+NN31
 NN40
 NN52
 NN69
@@ -43,10 +49,12 @@ NN84
 NO08
 NO19
 NO28
+NO36
 NO59
 NO79
 NO88
 NO89
+NR83
 NR93
 NS28
 NS39
@@ -76,11 +84,14 @@ NY10
 NY11
 NY20
 NY21
+NY30
+NY40
 NY51
 NY55
 NY70
 NY71
 NY73
+NZ09
 NZ28
 NZ35
 NZ80
@@ -147,11 +158,13 @@ SJ17
 SJ18
 SJ24
 SJ25
+SJ26
 SJ27
 SJ34
 SJ35
 SK05
 SK06
+SK08
 SK25
 SK36
 SK40
@@ -163,6 +176,7 @@ SK83
 SK89
 SK92
 SK93
+SM94
 SN12
 SN62
 SN66
@@ -172,6 +186,7 @@ SN74
 SN75
 SN76
 SN77
+SN83
 SN84
 SN85
 SN86
@@ -202,6 +217,8 @@ SS21
 SS73
 SS74
 SS79
+ST20
+ST30
 ST50
 ST64
 SU10

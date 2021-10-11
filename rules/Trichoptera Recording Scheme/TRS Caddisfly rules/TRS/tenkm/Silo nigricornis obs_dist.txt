@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Silo nigricornis 10km
 Description=Check coordinate against known 10km distribution of Silo nigricornis
-ErrorMsg=Coordinate outside know range for Silo nigricornis
+ErrorMsg=Coordinate outside known range for Silo nigricornis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008499
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -23,6 +23,7 @@ SD86
 SE02
 SE05
 SE18
+SE34
 SE59
 SE68
 SE87
@@ -42,6 +43,7 @@ SK24
 SK26
 SK41
 SK50
+SK51
 SK55
 SK90
 SK91
@@ -51,6 +53,7 @@ SN13
 SN42
 SN76
 SN82
+SN83
 SN88
 SO35
 SO37
@@ -174,7 +177,11 @@ TM19
 TM34
 TQ09
 TQ11
+TQ31
+TQ32
+TQ41
 TQ43
+TR15
 TR24
 TR25
 TR34

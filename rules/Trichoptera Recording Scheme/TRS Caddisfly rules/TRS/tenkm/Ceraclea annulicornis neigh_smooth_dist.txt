@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Ceraclea annulicornis 10km
 Description=Check coordinate against known 10km distribution of Ceraclea annulicornis
-ErrorMsg=Coordinate outside know range for Ceraclea annulicornis
+ErrorMsg=Coordinate outside known range for Ceraclea annulicornis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008517
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -419,8 +419,18 @@ SS52
 SS60
 SS61
 SS62
+SS70
+SS80
+ST06
+ST07
+ST08
 ST10
+ST16
+ST17
+ST18
 ST20
+ST26
+ST27
 ST28
 ST29
 ST30
@@ -430,6 +440,8 @@ ST48
 ST49
 ST59
 ST69
+SU00
+SU10
 SU18
 SU19
 SU20
@@ -455,6 +467,7 @@ SU54
 SU55
 SU56
 SU57
+SU58
 SU64
 SU65
 SU66
@@ -483,12 +496,23 @@ SX39
 SX47
 SX48
 SX49
+SX68
+SX69
+SX78
+SX79
+SX88
+SX89
 SY18
 SY19
 SY28
 SY29
 SY38
 SY39
+SZ08
+SZ09
+SZ19
+SZ28
+SZ29
 TL05
 TL06
 TL07
