@@ -1,5 +1,6 @@
 #! /bin/bash
 
+rm ../../zip/BC/*
 cd BC_IDifficulty
 zip -r ../../../zip/BC/BC_IDifficulty.zip BC_IDifficulty.txt
 cd ../"BC Butterfly rules"
