@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Melitaea cinxia 10km
+Description=Check coordinate against known 10km distribution of Melitaea cinxia
+ErrorMsg=Coordinate outside known range for Melitaea cinxia
+DataFieldName=Species
+DataRecordId=NHMSYS0000503191
+LastChanged=20210901
+[EndMetadata]
+
+
+[10km_GB]
+ST36
+ST81
+SU01
+SU02
+SU60
+SU65
+SU74
+SU84
+SU85
+SX95
+SZ28
+SZ29
+SZ38
+SZ39
+SZ47
+SZ48
+SZ49
+SZ57
+SZ58
+SZ59
+SZ68
+TQ01
+TQ36
+
+
+[10km_Ireland]
+
+

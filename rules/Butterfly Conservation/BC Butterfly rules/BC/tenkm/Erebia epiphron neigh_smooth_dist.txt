@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
-Group=Butterfly 10km distribution
+Group=Species Range
 ShortName=Erebia epiphron 10km
 Description=Check coordinate against known 10km distribution of Erebia epiphron
 ErrorMsg=Coordinate outside known range for Erebia epiphron
 DataFieldName=Species
 DataRecordId=NHMSYS0000519788
-LastChanged=20150518
+LastChanged=20210901
 [EndMetadata]
 
 
@@ -15,16 +15,11 @@ NH20
 NH30
 NH40
 NH50
-NH70
-NH71
-NH80
-NH81
-NH90
-NH91
 NM82
 NM83
 NM84
 NM85
+NM91
 NM92
 NM93
 NM94
@@ -106,14 +101,11 @@ NN76
 NN77
 NN78
 NN79
-NN83
 NN84
 NN85
 NN86
 NN87
 NN88
-NN89
-NN99
 NO06
 NO07
 NO08
@@ -151,8 +143,11 @@ NY51
 NY52
 SD09
 SD19
+SD28
 SD29
+SD38
 SD39
+SD48
 SD49
 SD59
 

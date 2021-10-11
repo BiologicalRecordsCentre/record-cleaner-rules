@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
-Group=Butterfly 10km distribution
+Group=Species Range
 ShortName=Satyrium pruni 10km
 Description=Check coordinate against known 10km distribution of Satyrium pruni
 ErrorMsg=Coordinate outside known range for Satyrium pruni
 DataFieldName=Species
 DataRecordId=NHMSYS0000504084
-LastChanged=20150518
+LastChanged=20210901
 [EndMetadata]
 
 
@@ -36,7 +36,6 @@ SP63
 SP64
 SP65
 SP66
-SP67
 SP70
 SP71
 SP72
@@ -44,7 +43,6 @@ SP73
 SP74
 SP75
 SP76
-SP77
 SP80
 SP81
 SP82
@@ -114,6 +112,9 @@ TQ22
 TQ30
 TQ31
 TQ32
+TQ40
+TQ41
+TQ42
 
 
 [10km_Ireland]

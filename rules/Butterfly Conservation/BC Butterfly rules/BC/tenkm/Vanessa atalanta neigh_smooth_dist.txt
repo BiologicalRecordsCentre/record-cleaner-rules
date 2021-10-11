@@ -1,16 +1,17 @@
 [Metadata]
 TestType=WithoutPolygon
-Group=Butterfly 10km distribution
+Group=Species Range
 ShortName=Vanessa atalanta 10km
 Description=Check coordinate against known 10km distribution of Vanessa atalanta
 ErrorMsg=Coordinate outside known range for Vanessa atalanta
 DataFieldName=Species
 DataRecordId=NHMSYS0000504624
-LastChanged=20150518
+LastChanged=20210901
 [EndMetadata]
 
 
 [10km_GB]
+HP30
 HP40
 HP41
 HP50
@@ -64,7 +65,6 @@ HU67
 HU68
 HU69
 HU77
-HX62
 HY10
 HY20
 HY21
@@ -102,30 +102,27 @@ HZ26
 HZ27
 NA00
 NA10
+NA81
 NA90
+NA91
+NA92
+NA93
 NB00
 NB01
 NB02
 NB03
 NB10
-NB11
-NB12
 NB13
 NB14
-NB20
-NB21
-NB22
 NB23
 NB24
 NB25
 NB30
-NB31
 NB32
 NB33
 NB34
 NB35
 NB40
-NB41
 NB42
 NB43
 NB44
@@ -181,7 +178,6 @@ NC55
 NC56
 NC60
 NC61
-NC62
 NC63
 NC64
 NC65
@@ -287,7 +283,6 @@ NG23
 NG24
 NG25
 NG26
-NG29
 NG30
 NG31
 NG32
@@ -297,6 +292,7 @@ NG35
 NG36
 NG37
 NG38
+NG39
 NG40
 NG41
 NG42
@@ -305,6 +301,7 @@ NG44
 NG45
 NG46
 NG47
+NG49
 NG50
 NG51
 NG52
@@ -541,6 +538,7 @@ NL93
 NL94
 NM04
 NM05
+NM10
 NM14
 NM15
 NM16
@@ -2878,7 +2876,6 @@ TV79
 
 
 [10km_Ireland]
-C10
 C20
 C21
 C22
@@ -2936,13 +2933,9 @@ D31
 D32
 D40
 D41
-G74
-G75
-G76
+G83
 G84
 G85
-G86
-G87
 G92
 G93
 G94
@@ -2959,6 +2952,7 @@ H06
 H07
 H08
 H09
+H11
 H12
 H13
 H14
@@ -2997,6 +2991,7 @@ H46
 H47
 H48
 H49
+H51
 H52
 H53
 H54
@@ -3005,6 +3000,8 @@ H56
 H57
 H58
 H59
+H61
+H62
 H63
 H64
 H65
@@ -3012,7 +3009,6 @@ H66
 H67
 H68
 H69
-H70
 H71
 H72
 H73
@@ -3099,4 +3095,5 @@ J65
 J66
 J67
 J68
-O19
+
+

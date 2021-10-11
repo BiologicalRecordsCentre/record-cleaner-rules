@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
-Group=Butterfly 10km distribution
+Group=Species Range
 ShortName=Coenonympha pamphilus 10km
 Description=Check coordinate against known 10km distribution of Coenonympha pamphilus
 ErrorMsg=Coordinate outside known range for Coenonympha pamphilus
 DataFieldName=Species
 DataRecordId=NHMSYS0000519083
-LastChanged=20150518
+LastChanged=20210901
 [EndMetadata]
 
 
@@ -36,24 +36,30 @@ NC12
 NC13
 NC14
 NC15
+NC16
 NC20
 NC21
 NC22
 NC23
 NC24
 NC25
+NC26
+NC27
 NC30
 NC31
 NC32
 NC33
 NC34
 NC35
+NC36
+NC37
 NC40
 NC41
 NC42
 NC43
 NC44
 NC45
+NC46
 NC50
 NC51
 NC52
@@ -101,16 +107,16 @@ ND14
 ND15
 ND16
 ND17
-ND18
 ND23
 ND24
 ND25
 ND26
 ND27
-ND28
+ND33
+ND34
+ND35
 ND36
 ND37
-ND38
 NF60
 NF61
 NF66
@@ -392,6 +398,7 @@ NL69
 NL79
 NM04
 NM05
+NM10
 NM14
 NM15
 NM16
@@ -2725,12 +2732,8 @@ TV79
 
 
 [10km_Ireland]
-C31
-C32
-C33
-C41
-C42
-C43
+C30
+C40
 C50
 C51
 C52
@@ -2777,23 +2780,16 @@ D31
 D32
 D40
 D41
-G74
-G75
-G76
+G83
 G84
 G85
 G86
-G87
-G91
 G92
 G93
 G94
 G95
 G96
 G97
-G98
-G99
-H01
 H02
 H03
 H04
@@ -2829,6 +2825,7 @@ H36
 H37
 H38
 H39
+H41
 H42
 H43
 H44
@@ -2836,6 +2833,7 @@ H45
 H46
 H47
 H48
+H49
 H52
 H53
 H54
@@ -2860,6 +2858,7 @@ H76
 H77
 H78
 H79
+H80
 H81
 H82
 H83
@@ -2869,6 +2868,7 @@ H86
 H87
 H88
 H89
+H90
 H91
 H92
 H93
@@ -2876,6 +2876,7 @@ H94
 H95
 H96
 H97
+H98
 H99
 J00
 J01
@@ -2885,6 +2886,7 @@ J04
 J05
 J06
 J07
+J08
 J09
 J10
 J11
@@ -2933,6 +2935,5 @@ J65
 J66
 J67
 J68
-O19
 
 

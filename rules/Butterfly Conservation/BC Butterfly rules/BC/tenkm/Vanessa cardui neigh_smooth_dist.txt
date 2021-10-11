@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
-Group=Butterfly 10km distribution
+Group=Species Range
 ShortName=Vanessa cardui 10km
 Description=Check coordinate against known 10km distribution of Vanessa cardui
 ErrorMsg=Coordinate outside known range for Vanessa cardui
 DataFieldName=Species
 DataRecordId=NBNSYS0100005950
-LastChanged=20150518
+LastChanged=20210901
 [EndMetadata]
 
 
@@ -21,6 +21,7 @@ HP61
 HP62
 HT93
 HT94
+HU06
 HU14
 HU15
 HU16
@@ -64,7 +65,6 @@ HU67
 HU68
 HU69
 HU77
-HX62
 HY10
 HY20
 HY21
@@ -128,7 +128,6 @@ NB32
 NB33
 NB34
 NB35
-NB40
 NB41
 NB42
 NB43
@@ -310,7 +309,6 @@ NG44
 NG45
 NG46
 NG47
-NG49
 NG50
 NG51
 NG52
@@ -547,6 +545,7 @@ NL93
 NL94
 NM04
 NM05
+NM10
 NM14
 NM15
 NM16
@@ -2886,7 +2885,6 @@ TV79
 
 
 [10km_Ireland]
-C10
 C20
 C21
 C22
@@ -2944,21 +2942,16 @@ D31
 D32
 D40
 D41
-G74
-G75
-G76
+G83
 G84
 G85
 G86
-G87
 G92
 G93
 G94
 G95
 G96
 G97
-G98
-G99
 H02
 H03
 H04
@@ -3020,7 +3013,6 @@ H66
 H67
 H68
 H69
-H70
 H71
 H72
 H73
@@ -3108,3 +3100,5 @@ J66
 J67
 J68
 O19
+
+

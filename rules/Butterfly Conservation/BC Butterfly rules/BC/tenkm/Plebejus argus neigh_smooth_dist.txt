@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
-Group=Butterfly 10km distribution
+Group=Species Range
 ShortName=Plebejus argus 10km
 Description=Check coordinate against known 10km distribution of Plebejus argus
 ErrorMsg=Coordinate outside known range for Plebejus argus
 DataFieldName=Species
 DataRecordId=NBNSYS0000005539
-LastChanged=20150518
+LastChanged=20210901
 [EndMetadata]
 
 
@@ -50,23 +50,15 @@ SJ08
 SJ17
 SJ18
 SJ19
-SJ24
-SJ25
-SJ26
 SJ27
 SJ28
 SJ29
-SJ34
-SJ35
-SJ36
 SJ37
 SJ38
 SJ39
 SJ42
 SJ43
 SJ44
-SJ45
-SJ46
 SJ52
 SJ53
 SJ54
@@ -86,12 +78,18 @@ SK67
 SK68
 SK69
 SM70
+SM71
 SM80
+SM81
 SM90
+SM91
 SN00
+SN01
+SN10
 SR89
 SR99
 SS09
+SS19
 SS90
 ST00
 ST10
@@ -219,6 +217,9 @@ SX16
 SX17
 SX18
 SX19
+SX27
+SX28
+SX29
 SX54
 SX63
 SX64
@@ -242,7 +243,12 @@ SY08
 SY09
 SY18
 SY19
+SY38
+SY39
+SY48
+SY49
 SY58
+SY59
 SY66
 SY67
 SY68
@@ -269,6 +275,7 @@ SZ48
 SZ49
 SZ58
 SZ59
+SZ68
 SZ69
 SZ79
 TF15
@@ -303,6 +310,9 @@ TG32
 TG33
 TG41
 TG42
+TM03
+TM04
+TM05
 TM13
 TM14
 TM15
@@ -339,7 +349,6 @@ TQ17
 TQ21
 TQ22
 TQ23
-TQ24
 TQ25
 TQ26
 TQ27
@@ -355,9 +364,6 @@ TQ51
 TQ52
 TQ53
 TQ54
-TQ61
-TQ62
-TQ63
 
 
 [10km_Ireland]

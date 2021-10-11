@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
-Group=Butterfly 10km distribution
+Group=Species Range
 ShortName=Pieris napi 10km
 Description=Check coordinate against known 10km distribution of Pieris napi
 ErrorMsg=Coordinate outside known range for Pieris napi
 DataFieldName=Species
 DataRecordId=NHMSYS0000516630
-LastChanged=20150518
+LastChanged=20210901
 [EndMetadata]
 
 
@@ -248,7 +248,6 @@ NG44
 NG45
 NG46
 NG47
-NG49
 NG50
 NG51
 NG52
@@ -2004,6 +2003,7 @@ SR99
 SS09
 SS10
 SS11
+SS14
 SS19
 SS20
 SS21
@@ -2876,15 +2876,11 @@ D31
 D32
 D40
 D41
-G74
-G75
-G76
 G83
 G84
 G85
 G86
 G87
-G91
 G92
 G93
 G94
@@ -2942,7 +2938,6 @@ H46
 H47
 H48
 H49
-H50
 H51
 H52
 H53
@@ -3047,6 +3042,5 @@ J65
 J66
 J67
 J68
-O19
 
 
