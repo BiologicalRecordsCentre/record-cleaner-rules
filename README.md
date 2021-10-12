@@ -63,4 +63,4 @@ The top level index is then accessible at http://localhost:8080/servers.txt
 You can configure Record Cleaner to use your local rule server by
 editing `C:\Program Files (x86)\NBNRecordCleaner\NBNRecordCleaner.exe.config`
 In that file, replace `http://data.nbn.org.uk/recordcleaner/rules/servers.txt`
-with `https://localhost:8080/servers.txt`
+with `http://localhost:8080/servers.txt`
