@@ -1,22 +1,16 @@
 [Metadata]
 TestType=WithoutPolygon
-Group=Butterfly 10km distribution
+Group=Species Range
 ShortName=Pyronia tithonus 10km
 Description=Check coordinate against known 10km distribution of Pyronia tithonus
 ErrorMsg=Coordinate outside known range for Pyronia tithonus
 DataFieldName=Species
 DataRecordId=NHMSYS0000522857
-LastChanged=20150518
+LastChanged=20210901
 [EndMetadata]
 
 
 [10km_GB]
-NU03
-NU04
-NU05
-NU13
-NU14
-NU23
 NX84
 NX90
 NX91
@@ -29,12 +23,14 @@ NY02
 NY03
 NY04
 NY05
+NY06
 NY10
 NY11
 NY12
 NY13
 NY14
 NY15
+NY16
 NY20
 NY21
 NY22
@@ -42,6 +38,7 @@ NY23
 NY24
 NY25
 NY26
+NY27
 NY30
 NY31
 NY32
@@ -53,15 +50,19 @@ NY37
 NY38
 NY40
 NY41
+NY42
+NY43
 NY44
 NY45
 NY46
 NY47
 NY48
 NY50
+NY51
 NY52
 NY53
 NY54
+NY55
 NY56
 NY57
 NY58
@@ -70,6 +71,10 @@ NY61
 NY62
 NY63
 NY64
+NY65
+NY66
+NY67
+NY68
 NY70
 NY71
 NY72
@@ -77,6 +82,9 @@ NY73
 NY74
 NY80
 NY81
+NY82
+NY83
+NY90
 NY91
 NY92
 NY93
@@ -91,24 +99,17 @@ NZ11
 NZ12
 NZ13
 NZ14
-NZ15
 NZ20
 NZ21
 NZ22
-NZ23
-NZ24
-NZ25
 NZ30
 NZ31
 NZ32
 NZ33
-NZ34
-NZ35
 NZ40
 NZ41
 NZ42
 NZ43
-NZ44
 NZ50
 NZ51
 NZ52
@@ -206,6 +207,7 @@ SD95
 SD96
 SD97
 SD98
+SD99
 SE00
 SE01
 SE02
@@ -1130,6 +1132,10 @@ SU96
 SU97
 SU98
 SU99
+SV80
+SV81
+SV90
+SV91
 SW21
 SW32
 SW33

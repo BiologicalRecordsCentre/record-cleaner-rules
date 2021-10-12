@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
-Group=Butterfly 10km distribution
+Group=Species Range
 ShortName=Carterocephalus palaemon 10km
 Description=Check coordinate against known 10km distribution of Carterocephalus palaemon
 ErrorMsg=Coordinate outside known range for Carterocephalus palaemon
 DataFieldName=Species
 DataRecordId=NHMSYS0000501644
-LastChanged=20150518
+LastChanged=20210901
 [EndMetadata]
 
 
@@ -16,7 +16,6 @@ NG90
 NH00
 NH10
 NH20
-NH30
 NM45
 NM46
 NM47
@@ -25,6 +24,7 @@ NM55
 NM56
 NM57
 NM59
+NM63
 NM64
 NM65
 NM66
@@ -38,6 +38,7 @@ NM76
 NM77
 NM78
 NM79
+NM81
 NM82
 NM83
 NM84

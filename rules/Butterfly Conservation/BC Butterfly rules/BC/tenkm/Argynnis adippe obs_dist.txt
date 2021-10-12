@@ -1,0 +1,49 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Argynnis adippe 10km
+Description=Check coordinate against known 10km distribution of Argynnis adippe
+ErrorMsg=Coordinate outside known range for Argynnis adippe
+DataFieldName=Species
+DataRecordId=NHMSYS0021143558
+LastChanged=20210901
+[EndMetadata]
+
+
+[10km_GB]
+NY30
+SD37
+SD38
+SD39
+SD47
+SD48
+SD49
+SD56
+SD57
+SO00
+SO46
+SO65
+SO73
+SO74
+SS21
+SS41
+SS64
+SS74
+SS87
+SS97
+SX46
+SX47
+SX56
+SX57
+SX64
+SX66
+SX67
+SX76
+SX77
+SX78
+SY19
+
+
+[10km_Ireland]
+
+

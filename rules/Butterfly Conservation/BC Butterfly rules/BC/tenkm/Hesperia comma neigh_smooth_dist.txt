@@ -1,36 +1,39 @@
 [Metadata]
 TestType=WithoutPolygon
-Group=Butterfly 10km distribution
+Group=Species Range
 ShortName=Hesperia comma 10km
 Description=Check coordinate against known 10km distribution of Hesperia comma
 ErrorMsg=Coordinate outside known range for Hesperia comma
 DataFieldName=Species
 DataRecordId=NHMSYS0000502853
-LastChanged=20150518
+LastChanged=20210901
 [EndMetadata]
 
 
 [10km_GB]
+SP40
+SP41
 SP50
+SP51
 SP60
 SP61
 SP70
 SP71
 SP80
 SP81
+SP82
 SP90
 SP91
+SP92
 ST70
 ST71
 ST72
 ST80
 ST81
 ST82
-ST83
 ST90
 ST91
 ST92
-ST93
 SU00
 SU01
 SU02
@@ -42,16 +45,19 @@ SU12
 SU13
 SU14
 SU15
+SU16
 SU21
 SU22
 SU23
 SU24
 SU25
+SU26
 SU31
 SU32
 SU33
 SU34
 SU35
+SU36
 SU41
 SU42
 SU43
@@ -89,9 +95,6 @@ SU81
 SU82
 SU83
 SU84
-SU85
-SU86
-SU87
 SU88
 SU89
 SU90
@@ -101,12 +104,14 @@ SU93
 SU94
 SU95
 SU96
-SU97
 SU98
 SU99
 SZ59
 SZ69
 SZ79
+TL00
+TL01
+TL02
 TQ00
 TQ01
 TQ02
@@ -114,7 +119,6 @@ TQ03
 TQ04
 TQ05
 TQ06
-TQ07
 TQ10
 TQ11
 TQ12
@@ -138,21 +142,17 @@ TQ36
 TQ40
 TQ41
 TQ42
-TQ43
 TQ44
 TQ45
 TQ46
 TQ50
 TQ51
 TQ52
-TQ53
 TQ55
 TQ56
 TQ57
 TQ60
 TQ61
-TQ62
-TQ63
 TQ65
 TQ66
 TQ67

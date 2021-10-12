@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
-Group=Butterfly 10km distribution
+Group=Species Range
 ShortName=Anthocharis cardamines 10km
 Description=Check coordinate against known 10km distribution of Anthocharis cardamines
 ErrorMsg=Coordinate outside known range for Anthocharis cardamines
 DataFieldName=Species
 DataRecordId=NHMSYS0000516186
-LastChanged=20150518
+LastChanged=20210901
 [EndMetadata]
 
 
@@ -17,9 +17,16 @@ NB22
 NB30
 NB31
 NB32
+NB33
+NB34
 NB40
 NB41
 NB42
+NB43
+NB44
+NB52
+NB53
+NB54
 NB90
 NB91
 NC00
@@ -49,6 +56,7 @@ NC37
 NC40
 NC41
 NC42
+NC44
 NC45
 NC46
 NC50
@@ -63,6 +71,8 @@ NC61
 NC62
 NC63
 NC64
+NC65
+NC66
 NC70
 NC71
 NC72
@@ -80,12 +90,29 @@ NC91
 NC92
 NC95
 NC96
+ND01
+ND02
+ND03
+ND04
 ND05
 ND06
 ND07
+ND12
+ND13
+ND14
 ND15
 ND16
 ND17
+ND23
+ND24
+ND25
+ND26
+ND27
+ND35
+ND36
+ND37
+NF60
+NF70
 NG13
 NG14
 NG15
@@ -112,6 +139,7 @@ NG51
 NG52
 NG53
 NG54
+NG55
 NG60
 NG61
 NG62
@@ -319,14 +347,22 @@ NJ92
 NJ93
 NJ94
 NJ95
-NJ96
 NK02
 NK03
+NK04
+NK05
 NK13
+NL58
+NL59
+NL68
+NL69
+NL79
 NL93
 NL94
 NM04
 NM05
+NM14
+NM15
 NM21
 NM22
 NM23
@@ -586,6 +622,7 @@ NR24
 NR25
 NR26
 NR27
+NR33
 NR34
 NR35
 NR36
@@ -2653,9 +2690,9 @@ TV79
 
 
 [10km_Ireland]
-C10
 C20
 C21
+C22
 C30
 C31
 C32
@@ -2710,9 +2747,7 @@ D31
 D32
 D40
 D41
-G74
-G75
-G76
+G83
 G84
 G85
 G86
@@ -2723,6 +2758,8 @@ G94
 G95
 G96
 G97
+G98
+G99
 H02
 H03
 H04
@@ -2770,7 +2807,6 @@ H46
 H47
 H48
 H49
-H50
 H51
 H52
 H53
@@ -2789,6 +2825,7 @@ H66
 H67
 H68
 H69
+H70
 H71
 H72
 H73

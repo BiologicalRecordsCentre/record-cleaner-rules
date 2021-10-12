@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
-Group=Butterfly 10km distribution
+Group=Species Range
 ShortName=Polyommatus icarus 10km
 Description=Check coordinate against known 10km distribution of Polyommatus icarus
 ErrorMsg=Coordinate outside known range for Polyommatus icarus
 DataFieldName=Species
 DataRecordId=NHMSYS0000516660
-LastChanged=20150518
+LastChanged=20210901
 [EndMetadata]
 
 
@@ -24,6 +24,8 @@ HY40
 HY41
 HY42
 HY43
+HY44
+HY45
 HY50
 HY51
 HY52
@@ -71,7 +73,6 @@ NB43
 NB44
 NB45
 NB46
-NB52
 NB53
 NB54
 NB55
@@ -2004,6 +2005,7 @@ SR99
 SS09
 SS10
 SS11
+SS14
 SS19
 SS20
 SS21
@@ -2818,7 +2820,6 @@ TV79
 
 
 [10km_Ireland]
-C50
 C51
 C52
 C53
@@ -2864,13 +2865,6 @@ D31
 D32
 D40
 D41
-G74
-G75
-G76
-G84
-G85
-G86
-G87
 G92
 G93
 G94
@@ -2894,12 +2888,15 @@ H22
 H23
 H24
 H25
+H26
+H27
 H31
 H32
 H33
 H34
 H35
 H36
+H37
 H41
 H42
 H43
@@ -2908,12 +2905,17 @@ H45
 H46
 H47
 H48
+H51
+H52
+H53
 H54
 H55
 H56
 H57
 H58
-H59
+H63
+H64
+H65
 H66
 H67
 H68
@@ -2926,6 +2928,7 @@ H76
 H77
 H78
 H79
+H80
 H81
 H82
 H83
