@@ -54,11 +54,13 @@ from the root directory.
 ## Testing rule files
 You can serve the zip files locally by building and starting a docker container
 from the root directory of the repository:
-`docker build --tag rc-rules-server .`
-`docker run -d -p 8080:80 --name rc-rules rc-rules-server`
+```
+docker build --tag rc-rules-server .
+docker run -d -p 8080:80 --name rc-rules rc-rules-server
+```
 The top level index is then accessible at http://localhost:8080/servers.txt
 
 You can configure Record Cleaner to use your local rule server by
 editing `C:\Program Files (x86)\NBNRecordCleaner\NBNRecordCleaner.exe.config`
-In that file, replace http://data.nbn.org.uk/recordcleaner/rules/servers.txt
-with https://localhost:8080/record-cleaner/servers.txt
+In that file, replace `http://data.nbn.org.uk/recordcleaner/rules/servers.txt`
+with `https://localhost:8080/servers.txt`
