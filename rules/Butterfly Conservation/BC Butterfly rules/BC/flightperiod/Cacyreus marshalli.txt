@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Cacyreus marshalli
 Description=Checks date is within known flight period of Cacyreus marshalli
 ErrorMsg=Date is outside known flight period of Cacyreus marshalli

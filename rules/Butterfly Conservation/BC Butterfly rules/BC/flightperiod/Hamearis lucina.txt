@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Hamearis lucina
 Description=Checks date is within known flight period of Hamearis lucina
 ErrorMsg=Date is outside known flight period of Hamearis lucina

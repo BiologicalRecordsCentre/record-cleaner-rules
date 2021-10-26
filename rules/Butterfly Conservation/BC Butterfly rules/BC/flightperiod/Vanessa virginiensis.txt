@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Vanessa virginiensis
 Description=Checks date is within known flight period of Vanessa virginiensis
 ErrorMsg=Date is outside known flight period of Vanessa virginiensis

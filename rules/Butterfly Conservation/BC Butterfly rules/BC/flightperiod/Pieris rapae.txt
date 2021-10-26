@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Pieris rapae
 Description=Checks date is within known flight period of Pieris rapae
 ErrorMsg=Date is outside known flight period of Pieris rapae

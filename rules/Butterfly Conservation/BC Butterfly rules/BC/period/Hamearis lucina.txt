@@ -1,6 +1,6 @@
 [Metadata]
 TestType=Period
-Group=Moths Recording Period
+Group=Recording Period
 ShortName=Hamearis lucina
 Description=Checks date is within known recording period of Hamearis lucina
 ErrorMsg=Date is outside known recording period of Hamearis lucina

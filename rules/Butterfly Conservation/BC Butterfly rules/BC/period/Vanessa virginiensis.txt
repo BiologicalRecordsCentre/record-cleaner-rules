@@ -1,6 +1,6 @@
 [Metadata]
 TestType=Period
-Group=Moths Recording Period
+Group=Recording Period
 ShortName=Vanessa virginiensis
 Description=Checks date is within known recording period of Vanessa virginiensis
 ErrorMsg=Date is outside known recording period of Vanessa virginiensis

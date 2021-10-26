@@ -1,6 +1,6 @@
 [Metadata]
 TestType=Period
-Group=Moths Recording Period
+Group=Recording Period
 ShortName=Aglais io
 Description=Checks date is within known recording period of Aglais io
 ErrorMsg=Date is outside known recording period of Aglais io

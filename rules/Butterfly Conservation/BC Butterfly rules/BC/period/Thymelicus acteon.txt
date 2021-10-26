@@ -1,6 +1,6 @@
 [Metadata]
 TestType=Period
-Group=Moths Recording Period
+Group=Recording Period
 ShortName=Thymelicus acteon
 Description=Checks date is within known recording period of Thymelicus acteon
 ErrorMsg=Date is outside known recording period of Thymelicus acteon

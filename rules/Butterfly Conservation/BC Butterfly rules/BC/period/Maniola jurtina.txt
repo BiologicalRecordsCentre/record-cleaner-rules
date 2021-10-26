@@ -1,6 +1,6 @@
 [Metadata]
 TestType=Period
-Group=Moths Recording Period
+Group=Recording Period
 ShortName=Maniola jurtina
 Description=Checks date is within known recording period of Maniola jurtina
 ErrorMsg=Date is outside known recording period of Maniola jurtina

@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Aphantopus hyperantus
 Description=Checks date is within known flight period of Aphantopus hyperantus
 ErrorMsg=Date is outside known flight period of Aphantopus hyperantus

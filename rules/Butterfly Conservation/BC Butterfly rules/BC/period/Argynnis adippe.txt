@@ -1,6 +1,6 @@
 [Metadata]
 TestType=Period
-Group=Moths Recording Period
+Group=Recording Period
 ShortName=Argynnis adippe
 Description=Checks date is within known recording period of Argynnis adippe
 ErrorMsg=Date is outside known recording period of Argynnis adippe

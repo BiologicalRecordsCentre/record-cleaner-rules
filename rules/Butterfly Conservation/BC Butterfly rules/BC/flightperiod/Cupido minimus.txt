@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Cupido minimus
 Description=Checks date is within known flight period of Cupido minimus
 ErrorMsg=Date is outside known flight period of Cupido minimus

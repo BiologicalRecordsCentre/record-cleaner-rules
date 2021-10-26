@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Erebia epiphron
 Description=Checks date is within known flight period of Erebia epiphron
 ErrorMsg=Date is outside known flight period of Erebia epiphron

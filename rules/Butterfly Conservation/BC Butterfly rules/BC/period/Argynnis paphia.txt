@@ -1,6 +1,6 @@
 [Metadata]
 TestType=Period
-Group=Moths Recording Period
+Group=Recording Period
 ShortName=Argynnis paphia
 Description=Checks date is within known recording period of Argynnis paphia
 ErrorMsg=Date is outside known recording period of Argynnis paphia

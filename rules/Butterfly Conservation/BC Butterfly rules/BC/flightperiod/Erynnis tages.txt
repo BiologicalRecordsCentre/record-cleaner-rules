@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Erynnis tages
 Description=Checks date is within known flight period of Erynnis tages
 ErrorMsg=Date is outside known flight period of Erynnis tages

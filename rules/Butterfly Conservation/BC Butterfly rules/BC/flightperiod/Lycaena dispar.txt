@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Lycaena dispar
 Description=Checks date is within known flight period of Lycaena dispar
 ErrorMsg=Date is outside known flight period of Lycaena dispar

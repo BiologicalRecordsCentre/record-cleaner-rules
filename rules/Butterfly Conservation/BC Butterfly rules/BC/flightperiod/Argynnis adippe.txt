@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Argynnis adippe
 Description=Checks date is within known flight period of Argynnis adippe
 ErrorMsg=Date is outside known flight period of Argynnis adippe

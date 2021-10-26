@@ -1,6 +1,6 @@
 [Metadata]
 TestType=Period
-Group=Moths Recording Period
+Group=Recording Period
 ShortName=Anthocharis cardamines
 Description=Checks date is within known recording period of Anthocharis cardamines
 ErrorMsg=Date is outside known recording period of Anthocharis cardamines

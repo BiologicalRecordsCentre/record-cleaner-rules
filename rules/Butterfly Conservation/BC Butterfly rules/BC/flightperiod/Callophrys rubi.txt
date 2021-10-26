@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Callophrys rubi
 Description=Checks date is within known flight period of Callophrys rubi
 ErrorMsg=Date is outside known flight period of Callophrys rubi

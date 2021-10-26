@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Aricia agestis
 Description=Checks date is within known flight period of Aricia agestis
 ErrorMsg=Date is outside known flight period of Aricia agestis

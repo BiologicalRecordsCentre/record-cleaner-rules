@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Erebia aethiops
 Description=Checks date is within known flight period of Erebia aethiops
 ErrorMsg=Date is outside known flight period of Erebia aethiops

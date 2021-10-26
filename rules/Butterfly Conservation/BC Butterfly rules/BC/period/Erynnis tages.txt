@@ -1,6 +1,6 @@
 [Metadata]
 TestType=Period
-Group=Moths Recording Period
+Group=Recording Period
 ShortName=Erynnis tages
 Description=Checks date is within known recording period of Erynnis tages
 ErrorMsg=Date is outside known recording period of Erynnis tages

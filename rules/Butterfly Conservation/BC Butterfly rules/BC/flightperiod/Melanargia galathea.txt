@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Melanargia galathea
 Description=Checks date is within known flight period of Melanargia galathea
 ErrorMsg=Date is outside known flight period of Melanargia galathea

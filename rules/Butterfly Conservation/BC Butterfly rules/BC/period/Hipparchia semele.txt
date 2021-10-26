@@ -1,6 +1,6 @@
 [Metadata]
 TestType=Period
-Group=Moths Recording Period
+Group=Recording Period
 ShortName=Hipparchia semele
 Description=Checks date is within known recording period of Hipparchia semele
 ErrorMsg=Date is outside known recording period of Hipparchia semele

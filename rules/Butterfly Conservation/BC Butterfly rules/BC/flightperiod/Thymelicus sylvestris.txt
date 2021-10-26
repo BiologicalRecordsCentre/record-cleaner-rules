@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Thymelicus sylvestris
 Description=Checks date is within known flight period of Thymelicus sylvestris
 ErrorMsg=Date is outside known flight period of Thymelicus sylvestris

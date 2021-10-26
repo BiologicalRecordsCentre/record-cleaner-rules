@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Colias alfacariensis
 Description=Checks date is within known flight period of Colias alfacariensis
 ErrorMsg=Date is outside known flight period of Colias alfacariensis

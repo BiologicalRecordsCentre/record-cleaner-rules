@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Satyrium w-album
 Description=Checks date is within known flight period of Satyrium w-album
 ErrorMsg=Date is outside known flight period of Satyrium w-album

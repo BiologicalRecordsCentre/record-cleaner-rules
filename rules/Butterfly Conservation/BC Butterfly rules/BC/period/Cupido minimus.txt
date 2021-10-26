@@ -1,6 +1,6 @@
 [Metadata]
 TestType=Period
-Group=Moths Recording Period
+Group=Recording Period
 ShortName=Cupido minimus
 Description=Checks date is within known recording period of Cupido minimus
 ErrorMsg=Date is outside known recording period of Cupido minimus

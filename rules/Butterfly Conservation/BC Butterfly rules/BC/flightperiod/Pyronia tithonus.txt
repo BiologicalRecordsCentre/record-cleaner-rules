@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Pyronia tithonus
 Description=Checks date is within known flight period of Pyronia tithonus
 ErrorMsg=Date is outside known flight period of Pyronia tithonus

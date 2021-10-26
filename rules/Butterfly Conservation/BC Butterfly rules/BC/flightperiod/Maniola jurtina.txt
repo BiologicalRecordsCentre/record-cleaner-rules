@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Maniola jurtina
 Description=Checks date is within known flight period of Maniola jurtina
 ErrorMsg=Date is outside known flight period of Maniola jurtina

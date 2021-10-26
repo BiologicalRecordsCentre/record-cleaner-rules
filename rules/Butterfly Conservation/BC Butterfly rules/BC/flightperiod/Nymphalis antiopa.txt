@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Nymphalis antiopa
 Description=Checks date is within known flight period of Nymphalis antiopa
 ErrorMsg=Date is outside known flight period of Nymphalis antiopa

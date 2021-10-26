@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Pyrgus malvae
 Description=Checks date is within known flight period of Pyrgus malvae
 ErrorMsg=Date is outside known flight period of Pyrgus malvae

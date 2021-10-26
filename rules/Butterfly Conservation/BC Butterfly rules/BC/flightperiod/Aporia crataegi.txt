@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Aporia crataegi
 Description=Checks date is within known flight period of Aporia crataegi
 ErrorMsg=Date is outside known flight period of Aporia crataegi

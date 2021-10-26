@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Coenonympha tullia
 Description=Checks date is within known flight period of Coenonympha tullia
 ErrorMsg=Date is outside known flight period of Coenonympha tullia

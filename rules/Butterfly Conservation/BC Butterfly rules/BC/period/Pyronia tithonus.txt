@@ -1,6 +1,6 @@
 [Metadata]
 TestType=Period
-Group=Moths Recording Period
+Group=Recording Period
 ShortName=Pyronia tithonus
 Description=Checks date is within known recording period of Pyronia tithonus
 ErrorMsg=Date is outside known recording period of Pyronia tithonus

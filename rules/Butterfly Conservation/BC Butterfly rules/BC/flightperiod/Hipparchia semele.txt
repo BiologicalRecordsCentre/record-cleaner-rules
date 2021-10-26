@@ -1,6 +1,6 @@
 [Metadata]
 TestType=PeriodWithinYear
-Group=Moths Flight Period
+Group=Flight Period
 ShortName=Hipparchia semele
 Description=Checks date is within known flight period of Hipparchia semele
 ErrorMsg=Date is outside known flight period of Hipparchia semele

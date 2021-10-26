@@ -1,6 +1,6 @@
 [Metadata]
 TestType=Period
-Group=Moths Recording Period
+Group=Recording Period
 ShortName=Lampides boeticus
 Description=Checks date is within known recording period of Lampides boeticus
 ErrorMsg=Date is outside known recording period of Lampides boeticus
