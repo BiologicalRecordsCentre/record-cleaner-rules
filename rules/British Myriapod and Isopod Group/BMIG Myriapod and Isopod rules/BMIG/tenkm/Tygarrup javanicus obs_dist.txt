@@ -3,18 +3,15 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Tygarrup javanicus 10km
 Description=Check coordinate against known 10km distribution of Tygarrup javanicus
-ErrorMsg=Coordinate outside known range for Tygarrup javanicus
+ErrorMsg=Coordinate outside know range for Tygarrup javanicus
 DataFieldName=Species
 DataRecordId=NBNSYS0000011421
-LastChanged=20180314
+LastChanged=20130429
 [EndMetadata]
 
 
 [10km_GB]
-NS56
 ST04
-SU57
 SX05
-TQ05
 
 

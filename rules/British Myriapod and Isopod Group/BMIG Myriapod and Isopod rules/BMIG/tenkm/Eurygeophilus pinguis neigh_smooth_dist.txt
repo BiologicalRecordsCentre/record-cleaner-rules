@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Eurygeophilus pinguis 10km
 Description=Check coordinate against known 10km distribution of Eurygeophilus pinguis
-ErrorMsg=Coordinate outside known range for Eurygeophilus pinguis
+ErrorMsg=Coordinate outside know range for Eurygeophilus pinguis
 DataFieldName=Species
 DataRecordId=NHMSYS0020108917
-LastChanged=20180314
+LastChanged=20130429
 [EndMetadata]
 
 
@@ -30,21 +30,11 @@ SS72
 SS73
 SS74
 SS75
-SW32
-SW33
-SW42
-SW43
-SW44
-SW52
-SW53
-SW54
-SW72
-SW73
-SW74
-SW82
-SW83
-SW84
-SW93
-SW94
+SY58
+SY66
+SY67
+SY68
+SY77
+SY78
 
 

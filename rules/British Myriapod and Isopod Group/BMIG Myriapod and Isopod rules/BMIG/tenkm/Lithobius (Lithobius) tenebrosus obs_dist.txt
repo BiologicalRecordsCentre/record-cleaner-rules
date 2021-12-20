@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Lithobius (Lithobius) tenebrosus 10km
 Description=Check coordinate against known 10km distribution of Lithobius (Lithobius) tenebrosus
-ErrorMsg=Coordinate outside known range for Lithobius (Lithobius) tenebrosus
+ErrorMsg=Coordinate outside know range for Lithobius (Lithobius) tenebrosus
 DataFieldName=Species
 DataRecordId=NHMSYS0020500677
-LastChanged=20180314
+LastChanged=20130429
 [EndMetadata]
 
 

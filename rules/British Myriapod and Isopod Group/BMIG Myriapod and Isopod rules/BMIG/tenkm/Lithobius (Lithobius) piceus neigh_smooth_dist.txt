@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Lithobius (Lithobius) piceus 10km
 Description=Check coordinate against known 10km distribution of Lithobius (Lithobius) piceus
-ErrorMsg=Coordinate outside known range for Lithobius (Lithobius) piceus
+ErrorMsg=Coordinate outside know range for Lithobius (Lithobius) piceus
 DataFieldName=Species
 DataRecordId=NHMSYS0020500675
-LastChanged=20180314
+LastChanged=20130429
 [EndMetadata]
 
 
@@ -46,15 +46,9 @@ SU91
 SU92
 SU93
 SU94
-SW62
-SW63
-SW64
-SW72
-SW73
-SW74
-SW82
-SW83
-SW84
+SZ79
+SZ89
+SZ99
 TQ00
 TQ01
 TQ02
@@ -62,21 +56,18 @@ TQ03
 TQ04
 TQ05
 TQ06
-TQ07
 TQ11
 TQ12
 TQ13
 TQ14
 TQ15
 TQ16
-TQ17
 TQ21
 TQ22
 TQ23
 TQ24
 TQ25
 TQ26
-TQ27
 TQ31
 TQ32
 TQ33

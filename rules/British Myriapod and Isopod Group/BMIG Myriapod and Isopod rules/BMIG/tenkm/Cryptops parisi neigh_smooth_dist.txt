@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Cryptops parisi 10km
 Description=Check coordinate against known 10km distribution of Cryptops parisi
-ErrorMsg=Coordinate outside known range for Cryptops parisi
+ErrorMsg=Coordinate outside know range for Cryptops parisi
 DataFieldName=Species
 DataRecordId=NHMSYS0000570555
-LastChanged=20180314
+LastChanged=20130429
 [EndMetadata]
 
 
@@ -113,16 +113,12 @@ SO59
 SO60
 SO61
 SO62
-SO63
-SO64
-SO65
 SO66
 SO67
 SO68
 SO70
 SO71
 SO72
-SO73
 SO74
 SO75
 SO76
@@ -184,8 +180,6 @@ SP86
 SP94
 SP95
 SP96
-SP97
-SP98
 SS39
 SS42
 SS43
@@ -316,9 +310,6 @@ SU59
 SU67
 SU68
 SU69
-SU91
-SU92
-SU93
 SX14
 SX15
 SX16
@@ -329,9 +320,13 @@ SX36
 SX44
 SX45
 SX46
+SX47
+SX48
 SX54
 SX55
 SX56
+SX57
+SX58
 SX63
 SX64
 SX65
@@ -367,7 +362,6 @@ SY29
 SY49
 SY58
 SY59
-SY66
 SY67
 SY68
 SY69
@@ -385,10 +379,8 @@ SZ39
 SZ47
 SZ48
 SZ49
-SZ57
 SZ58
 SZ59
-SZ68
 TF72
 TF73
 TF74
@@ -401,13 +393,9 @@ TF94
 TL04
 TL05
 TL06
-TL07
-TL08
 TL14
 TL15
 TL16
-TL17
-TL18
 TL36
 TL37
 TL38
@@ -429,16 +417,12 @@ TM03
 TM11
 TM12
 TM13
-TQ01
-TQ02
-TQ03
 TQ06
 TQ07
 TQ08
 TQ10
 TQ11
 TQ12
-TQ13
 TQ14
 TQ15
 TQ16

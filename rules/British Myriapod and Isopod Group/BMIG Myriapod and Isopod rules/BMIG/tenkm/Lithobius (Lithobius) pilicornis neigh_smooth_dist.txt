@@ -3,23 +3,14 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Lithobius (Lithobius) pilicornis 10km
 Description=Check coordinate against known 10km distribution of Lithobius (Lithobius) pilicornis
-ErrorMsg=Coordinate outside known range for Lithobius (Lithobius) pilicornis
+ErrorMsg=Coordinate outside know range for Lithobius (Lithobius) pilicornis
 DataFieldName=Species
 DataRecordId=NHMSYS0020500676
-LastChanged=20180314
+LastChanged=20130429
 [EndMetadata]
 
 
 [10km_GB]
-NT16
-NT17
-NT18
-NT26
-NT27
-NT28
-NT36
-NT37
-NT38
 SE20
 SE30
 SE40
@@ -191,9 +182,6 @@ SY48
 SY49
 SY58
 SY59
-SZ19
-SZ28
-SZ29
 SZ38
 SZ39
 SZ47

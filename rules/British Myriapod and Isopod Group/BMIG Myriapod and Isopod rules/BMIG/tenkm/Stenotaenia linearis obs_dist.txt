@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Stenotaenia linearis 10km
 Description=Check coordinate against known 10km distribution of Stenotaenia linearis
-ErrorMsg=Coordinate outside known range for Stenotaenia linearis
+ErrorMsg=Coordinate outside know range for Stenotaenia linearis
 DataFieldName=Species
 DataRecordId=NHMSYS0020500696
-LastChanged=20180314
+LastChanged=20130429
 [EndMetadata]
 
 
@@ -23,8 +23,6 @@ SU68
 SU77
 SU79
 SU99
-SW72
-TQ15
 TQ17
 TQ25
 TQ26

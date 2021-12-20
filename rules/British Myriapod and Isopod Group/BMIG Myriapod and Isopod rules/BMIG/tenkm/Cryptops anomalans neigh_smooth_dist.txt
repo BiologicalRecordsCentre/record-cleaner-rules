@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Cryptops anomalans 10km
 Description=Check coordinate against known 10km distribution of Cryptops anomalans
-ErrorMsg=Coordinate outside known range for Cryptops anomalans
+ErrorMsg=Coordinate outside know range for Cryptops anomalans
 DataFieldName=Species
 DataRecordId=NBNSYS0000011398
-LastChanged=20180314
+LastChanged=20130429
 [EndMetadata]
 
 
@@ -14,28 +14,16 @@ LastChanged=20180314
 SE20
 SE30
 SE40
-SJ24
-SJ25
-SJ26
-SJ34
-SJ35
-SJ36
-SJ44
-SJ45
-SJ46
 SJ90
 SJ91
 SK00
 SK01
 SK10
 SK11
-SK27
 SK28
 SK29
-SK37
 SK38
 SK39
-SK47
 SK48
 SK49
 SK50
@@ -57,7 +45,6 @@ SN97
 SO05
 SO06
 SO07
-SO10
 SO15
 SO16
 SO17
@@ -160,16 +147,12 @@ ST08
 ST16
 ST17
 ST18
-ST19
 ST26
 ST27
 ST28
-ST29
 ST35
 ST36
 ST37
-ST38
-ST39
 ST43
 ST44
 ST45
@@ -190,25 +173,17 @@ ST66
 ST67
 ST68
 ST69
-ST76
 ST77
 ST78
 ST79
-SU23
-SU24
-SU25
 SU30
 SU31
 SU32
 SU33
-SU34
-SU35
 SU40
 SU41
 SU42
 SU43
-SU44
-SU45
 SU48
 SU49
 SU50
@@ -221,12 +196,6 @@ SU60
 SU61
 SU68
 SU69
-SU83
-SU84
-SU85
-SU93
-SU94
-SU95
 SU97
 SU98
 SU99
@@ -267,8 +236,6 @@ SZ07
 SZ08
 SZ09
 SZ19
-SZ47
-SZ48
 SZ49
 SZ57
 SZ58
@@ -296,7 +263,6 @@ TM58
 TM59
 TQ00
 TQ01
-TQ03
 TQ04
 TQ05
 TQ06

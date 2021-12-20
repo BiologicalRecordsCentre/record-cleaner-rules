@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Lithobius (Lithobius) forficatus 10km
 Description=Check coordinate against known 10km distribution of Lithobius (Lithobius) forficatus
-ErrorMsg=Coordinate outside known range for Lithobius (Lithobius) forficatus
+ErrorMsg=Coordinate outside know range for Lithobius (Lithobius) forficatus
 DataFieldName=Species
 DataRecordId=NHMSYS0020500668
-LastChanged=20180314
+LastChanged=20130429
 [EndMetadata]
 
 
@@ -1032,9 +1032,6 @@ NY62
 NY63
 NY64
 NY65
-NY66
-NY67
-NY68
 NY69
 NY70
 NY71
@@ -1042,18 +1039,12 @@ NY72
 NY73
 NY74
 NY75
-NY76
-NY77
-NY78
-NY79
 NY80
 NY81
 NY82
 NY83
 NY84
 NY85
-NY86
-NY87
 NY88
 NY89
 NY90
@@ -1062,8 +1053,6 @@ NY92
 NY93
 NY94
 NY95
-NY96
-NY97
 NY98
 NY99
 NZ00
@@ -1104,7 +1093,6 @@ NZ34
 NZ35
 NZ36
 NZ37
-NZ38
 NZ39
 NZ40
 NZ41
@@ -1555,7 +1543,6 @@ SK61
 SK62
 SK63
 SK64
-SK65
 SK66
 SK67
 SK68
@@ -1565,7 +1552,6 @@ SK71
 SK72
 SK73
 SK74
-SK75
 SK76
 SK77
 SK78
