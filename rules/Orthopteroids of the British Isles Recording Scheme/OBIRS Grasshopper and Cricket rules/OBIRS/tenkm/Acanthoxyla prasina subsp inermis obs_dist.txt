@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Acanthoxyla prasina subsp. inermis 10km
+Description=Check coordinate against known 10km distribution of Acanthoxyla prasina subsp. inermis
+ErrorMsg=Coordinate outside known range for Acanthoxyla prasina subsp. inermis
+DataFieldName=Species
+DataRecordId=NHMSYS0001387234
+LastChanged=20180313
+[EndMetadata]
+
+
+[10km_GB]
+SU71
+SW33
+SW42
+SW43
+SW53
+SW61
+SW62
+SW64
+SW72
+SW73
+SW74
+SW75
+SW83
+SW84
+SW86
+SW87
+SW93
+SW94
+SW95
+SW97
+SW98
+SX04
+SX05
+SX06
+SX07
+SX08
+SX15
+SX17
+SX45
+SX55
+TQ11
+
+
