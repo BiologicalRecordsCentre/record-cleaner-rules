@@ -4,6 +4,7 @@ These scripts, written in the R language, compile csv files in to NBN
 Verification Rule file format
 
 ## CSV File formats
+Examples of the file formats can be found in the templates folder.
 ### Species
 A file named `species.csv` shall list species data in 3 columns, one row per
 species. The first row must contain the headings as
