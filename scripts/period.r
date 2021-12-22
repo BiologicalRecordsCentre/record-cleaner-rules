@@ -94,7 +94,12 @@ period_rules = function(
 			end = format(end_date,"%Y%m%d")
 		}
 		
-		# Extract species name
+		# If both strt and end are NA then skip to next row.
+	  if(is.na(strt) && is.na(end)){
+	    next
+	  }
+	  
+	  # Extract species name
 		tvk = periods$TVK[i]
 		spp_info = species[species$TVK == periods$TVK[i],]
 		name = spp_info$NAME
