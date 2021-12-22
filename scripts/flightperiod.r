@@ -127,7 +127,7 @@ write_flightperiod = function(
 		paste("StartDate=", ifelse(is.na(strt), "", strt), sep=""),
 		paste("EndDate=", ifelse(is.na(end), "", end), sep=""),
 		paste("LastChanged=", format(Sys.Date(), "%Y%m%d"), sep=""),
-		"[EndMetadata]\n\n"
+		"[EndMetadata]"
 	)
 
 	# Write information to file
