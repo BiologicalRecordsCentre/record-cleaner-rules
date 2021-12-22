@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Hydroptila valesiaca 10km
+Description=Check coordinate against known 10km distribution of Hydroptila valesiaca
+ErrorMsg=Coordinate outside know range for Hydroptila valesiaca
+DataFieldName=Species
+DataRecordId=NBNSYS0000008364
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NM84
+NT52
+NX64
+NY60
+
+

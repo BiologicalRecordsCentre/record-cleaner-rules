@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.309 Actebia fennica (Eversmann's Rustic)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Actebia fennica (Eversmann's Rustic)
+Tvk = NBNSYS0000006186
+StartDate = 18500801
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

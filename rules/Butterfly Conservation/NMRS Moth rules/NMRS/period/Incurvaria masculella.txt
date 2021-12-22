@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 8.002 Incurvaria masculella (Feathered Leaf-cutter)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Incurvaria masculella (Feathered Leaf-cutter)
+Tvk = NHMSYS0021142172
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

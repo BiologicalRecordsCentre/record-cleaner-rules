@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Cymindis (Cymindis) macularis 10km
+Description=Check coordinate against known 10km distribution of Cymindis (Cymindis) macularis
+ErrorMsg=Coordinate outside know range for Cymindis (Cymindis) macularis
+DataFieldName=Species
+DataRecordId=NHMSYS0001717794
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+TL66
+TL67
+TL68
+TL76
+TL77
+TL78
+TL79
+TL86
+TL87
+TL88
+TL89
+TL97
+TL98
+TL99
+
+

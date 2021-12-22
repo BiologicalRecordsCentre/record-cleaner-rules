@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.228 Antitype chi (Grey Chi)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Antitype chi (Grey Chi)
+Tvk = NBNSYS0000006347
+StartDate = 0715
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

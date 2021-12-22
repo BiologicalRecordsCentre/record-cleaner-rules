@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 28.029 Trachypepla contritella
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Trachypepla contritella
+Tvk = NHMSYS0021238032
+StartDate = 20120704
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

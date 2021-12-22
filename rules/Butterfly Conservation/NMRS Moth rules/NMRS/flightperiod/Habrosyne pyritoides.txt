@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 65.009 Habrosyne pyritoides (Buff Arches)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Habrosyne pyritoides (Buff Arches)
+Tvk = NBNSYS0000005725
+StartDate = 0501
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

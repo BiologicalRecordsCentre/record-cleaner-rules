@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.157 Eupithecia dodoneata (Oak-tree Pug)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eupithecia dodoneata (Oak-tree Pug)
+Tvk = NHMSYS0021144087
+StartDate = 0315
+EndDate = 0721
+LastChanged = 20210525
+[EndMetadata]

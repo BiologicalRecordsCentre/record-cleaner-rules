@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.087 Dysgonia algira (Passenger)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Dysgonia algira (Passenger)
+Tvk = NBNSYS0000006565
+StartDate = 0801
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 71.006 Furcula bicuspis (Alder Kitten)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Furcula bicuspis (Alder Kitten)
+Tvk = NBNSYS0000006082
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

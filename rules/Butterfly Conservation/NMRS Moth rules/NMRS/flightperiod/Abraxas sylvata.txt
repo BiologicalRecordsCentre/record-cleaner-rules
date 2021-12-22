@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.206 Abraxas sylvata (Clouded Magpie)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Abraxas sylvata (Clouded Magpie)
+Tvk = NBNSYS0000005976
+StartDate = 0507
+EndDate = 0921
+LastChanged = 20210525
+[EndMetadata]

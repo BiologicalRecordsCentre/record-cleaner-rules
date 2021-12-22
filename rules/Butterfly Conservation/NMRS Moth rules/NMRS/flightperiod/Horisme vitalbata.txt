@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.126 Horisme vitalbata (Small Waved Umber)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Horisme vitalbata (Small Waved Umber)
+Tvk = NHMSYS0021144043
+StartDate = 0401
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

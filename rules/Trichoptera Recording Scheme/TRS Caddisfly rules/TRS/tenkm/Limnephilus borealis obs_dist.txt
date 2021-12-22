@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Limnephilus borealis 10km
+Description=Check coordinate against known 10km distribution of Limnephilus borealis
+ErrorMsg=Coordinate outside know range for Limnephilus borealis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008470
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NC12
+NC22
+NG96
+NH31
+NJ01
+NN34
+NN35
+NN36
+NN45
+NN51
+NN55
+NN75
+NN77
+NN96
+SH38
+SK51
+SP69
+SU32
+SU53
+TQ53
+
+

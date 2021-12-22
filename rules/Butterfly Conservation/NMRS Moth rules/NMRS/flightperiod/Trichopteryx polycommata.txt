@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.201 Trichopteryx polycommata (Barred Tooth-striped)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Trichopteryx polycommata (Barred Tooth-striped)
+Tvk = NHMSYS0021144154
+StartDate = 0221
+EndDate = 0521
+LastChanged = 20210525
+[EndMetadata]

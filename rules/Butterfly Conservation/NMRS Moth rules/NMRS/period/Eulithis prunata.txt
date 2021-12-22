@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.089 Eulithis prunata (Phoenix)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eulithis prunata (Phoenix)
+Tvk = NBNSYS0000005834
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.073 Heliothis maritima (Shoulder-striped Clover)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Heliothis maritima (Shoulder-striped Clover)
+Tvk = NBNSYS0000006508
+StartDate = 0607
+EndDate = 0715
+LastChanged = 20210525
+[EndMetadata]

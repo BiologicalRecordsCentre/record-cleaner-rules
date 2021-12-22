@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.034 Dichelia histrionana (Spruce Tortrix)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Dichelia histrionana (Spruce Tortrix)
+Tvk = NHMSYS0021143029
+StartDate = 0521
+EndDate = 0821
+LastChanged = 20210525
+[EndMetadata]

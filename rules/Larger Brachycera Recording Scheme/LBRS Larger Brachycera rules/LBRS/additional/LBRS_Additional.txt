@@ -1,0 +1,36 @@
+[Metadata]
+TestType=AncillarySpecies
+Group=Additional Verification
+ShortName=Check for larger Brachycera species that require additional verification
+Description=Check for larger Brachycera species where additional verification is required
+ErrorMsg=Records for this larger Brachycera species requires additional verification
+ReverseRule=True
+LastChanged=201300705
+[EndMetadata]
+
+[INI]
+1=This is a rare species
+2=Records for this species must always be verified (very rare, taxonomic uncertainty)
+
+[Data]
+NBNSYS0000007848,2
+NBNSYS0100004993,2
+NBNSYS0000007854,2
+NBNSYS0000148975,2
+NBNSYS0000007888,2
+NBNSYS0000007845,2
+NBNSYS0000007803,2
+NBNSYS0000007810,2
+NBNSYS0000007812,2
+NBNSYS0000007839,2
+NBNSYS0100005964,2
+NBNSYS0000007903,2
+NBNSYS0100004212,2
+NBNSYS0000007913,2
+NBNSYS0100002378,2
+NBNSYS0000033213,2
+NHMSYS0020734197,2
+NHMSYS0020734206,2
+NHMSYS0020734199,2
+NHMSYS0020734200,2
+

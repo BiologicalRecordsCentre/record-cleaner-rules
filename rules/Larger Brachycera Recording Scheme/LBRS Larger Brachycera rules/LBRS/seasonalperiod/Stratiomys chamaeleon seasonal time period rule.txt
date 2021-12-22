@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Stratiomys chamaeleon seasonal check
+Description=Check date of record against known seasonal limit of Stratiomys chamaeleon
+Tvk=NBNSYS0000007839
+ErrorMsg=Date outside known seasonal limit for Stratiomys chamaeleon
+StartDate=0601
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

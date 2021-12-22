@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.027 Acompsia schmidtiellus (Marjoram Crest)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Acompsia schmidtiellus (Marjoram Crest)
+Tvk = NBNSYS0100001410
+StartDate = 0701
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Rhyzobius litura temporal check
+Description=Check date of record against known temporal limit of Rhyzobius litura
+Tvk=NHMSYS0020153336
+ErrorMsg=Date outside known temporal limit for Rhyzobius litura
+StartDate=18000101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

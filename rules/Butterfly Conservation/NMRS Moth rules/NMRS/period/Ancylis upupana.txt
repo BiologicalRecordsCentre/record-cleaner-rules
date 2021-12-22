@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.206 Ancylis upupana (Dark Roller)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Ancylis upupana (Dark Roller)
+Tvk = NHMSYS0000501236
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

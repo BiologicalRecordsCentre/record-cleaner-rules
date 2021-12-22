@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Leptocerus interruptus temporal check
+Description=Check date of record against known temporal limit of Leptocerus interruptus
+Tvk=NHMSYS0020442420
+ErrorMsg=Date outside known temporal limit for Leptocerus interruptus
+StartDate=18300101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

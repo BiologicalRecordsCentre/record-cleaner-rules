@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Euphydryas aurinia
+Description=Checks date is within known recording period of Euphydryas aurinia
+ErrorMsg=Date is outside known recording period of Euphydryas aurinia
+Tvk=NHMSYS0000516340
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

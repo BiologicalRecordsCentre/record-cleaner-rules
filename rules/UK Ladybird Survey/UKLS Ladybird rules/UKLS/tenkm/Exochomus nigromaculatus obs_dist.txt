@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Exochomus nigromaculatus 10km
+Description=Check coordinate against known 10km distribution of Exochomus nigromaculatus
+ErrorMsg=Coordinate outside know range for Exochomus nigromaculatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008311
+LastChanged=20130430
+[EndMetadata]
+
+
+[10km_GB]
+SK69
+ST57
+SU97
+
+

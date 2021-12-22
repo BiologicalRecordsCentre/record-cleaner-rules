@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 4.034 Stigmella tityrella (Small Beech Pigmy)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Stigmella tityrella (Small Beech Pigmy)
+Tvk = NHMSYS0000504391
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

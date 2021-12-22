@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Dioctria cothurnata 10km
+Description=Check coordinate against known 10km distribution of Dioctria cothurnata
+ErrorMsg=Coordinate outside know range for Dioctria cothurnata
+DataFieldName=Species
+DataRecordId=NBNSYS0000007916
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+NH33
+NY15
+NY25
+NY35
+NY36
+NY45
+NY53
+NY62
+SD38
+SJ34
+SO42
+SO50
+ST51
+SU20
+SU30
+SU95
+SY59
+
+

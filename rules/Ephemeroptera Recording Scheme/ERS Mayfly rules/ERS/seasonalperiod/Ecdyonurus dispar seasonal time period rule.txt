@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Ecdyonurus dispar seasonal check
+Description=Check date of record against known seasonal limit of Ecdyonurus dispar
+Tvk=NBNSYS0000010878
+ErrorMsg=Date outside known seasonal limit for Ecdyonurus dispar
+StartDate=0601
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

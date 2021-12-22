@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Eupithecia extensaria 10km
+Description=Check coordinate against known 10km distribution of Eupithecia extensaria
+ErrorMsg=Coordinate outside known range for Eupithecia extensaria
+DataFieldName=Species
+DataRecordId=NHMSYS0000520043
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+TF44
+TF45
+TF46
+TF54
+TF55
+TF56
+TF63
+TF64
+TF73
+TF74
+TF83
+TF84
+TF93
+TF94
+TG03
+TG04
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

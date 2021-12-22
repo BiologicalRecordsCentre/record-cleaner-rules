@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.121 Gortyna flavago (Frosted Orange)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Gortyna flavago (Frosted Orange)
+Tvk = NHMSYS0021144610
+StartDate = 0807
+EndDate = 1021
+LastChanged = 20210525
+[EndMetadata]

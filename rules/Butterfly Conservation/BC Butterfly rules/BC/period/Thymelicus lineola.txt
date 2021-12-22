@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Thymelicus lineola
+Description=Checks date is within known recording period of Thymelicus lineola
+ErrorMsg=Date is outside known recording period of Thymelicus lineola
+Tvk=NHMSYS0000504514
+StartDate=18890101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.314 Euxoa nigricans (Garden Dart)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Euxoa nigricans (Garden Dart)
+Tvk = NHMSYS0000502656
+StartDate = 0601
+EndDate = 1007
+LastChanged = 20210525
+[EndMetadata]

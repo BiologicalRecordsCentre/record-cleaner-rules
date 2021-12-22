@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.088 Spodoptera cilium (Dark Mottled Willow)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Spodoptera cilium (Dark Mottled Willow)
+Tvk = NHMSYS0021144566
+StartDate = 0915
+EndDate = 1107
+LastChanged = 20210525
+[EndMetadata]

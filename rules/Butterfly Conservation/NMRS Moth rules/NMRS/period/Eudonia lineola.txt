@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 63.071 Eudonia lineola (White-line Grey)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eudonia lineola (White-line Grey)
+Tvk = NHMSYS0000502555
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

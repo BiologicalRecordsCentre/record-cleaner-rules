@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.010 Lymantria monacha (Black Arches)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Lymantria monacha (Black Arches)
+Tvk = NBNSYS0000006119
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.157 Apamea anceps (Large Nutmeg)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Apamea anceps (Large Nutmeg)
+Tvk = NHMSYS0021144667
+StartDate = 0501
+EndDate = 1121
+LastChanged = 20210525
+[EndMetadata]

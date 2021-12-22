@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 28.019 Esperia sulphurella (Sulphur Tubic)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Esperia sulphurella (Sulphur Tubic)
+Tvk = NHMSYS0000502500
+StartDate = 0315
+EndDate = 0715
+LastChanged = 20210525
+[EndMetadata]

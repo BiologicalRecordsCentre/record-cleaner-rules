@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Catephia alchymista 10km
+Description=Check coordinate against known 10km distribution of Catephia alchymista
+ErrorMsg=Coordinate outside known range for Catephia alchymista
+DataFieldName=Species
+DataRecordId=NHMSYS0021144456
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+TQ27
+TQ28
+TQ29
+TQ37
+TQ38
+TQ39
+TQ47
+TQ48
+TQ49
+TQ60
+TQ61
+TQ70
+TQ71
+TQ80
+TQ81
+TV69
+TV79
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

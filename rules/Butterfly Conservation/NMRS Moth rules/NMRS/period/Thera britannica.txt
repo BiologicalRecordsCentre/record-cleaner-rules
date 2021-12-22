@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.079 Thera britannica (Spruce Carpet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Thera britannica (Spruce Carpet)
+Tvk = NHMSYS0000504489
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

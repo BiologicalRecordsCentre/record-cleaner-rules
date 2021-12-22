@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.080 Thera vetustata (Fir Carpet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Thera vetustata (Fir Carpet)
+Tvk = NHMSYS0021143974
+StartDate = 20061017
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

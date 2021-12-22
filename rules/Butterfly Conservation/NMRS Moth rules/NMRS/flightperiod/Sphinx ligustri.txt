@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 69.006 Sphinx ligustri (Privet Hawk-moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Sphinx ligustri (Privet Hawk-moth)
+Tvk = NHMSYS0021143835
+StartDate = 0507
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.160 Eupithecia tripunctaria (White-spotted Pug)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eupithecia tripunctaria (White-spotted Pug)
+Tvk = NHMSYS0000502622
+StartDate = 0401
+EndDate = 1007
+LastChanged = 20210525
+[EndMetadata]

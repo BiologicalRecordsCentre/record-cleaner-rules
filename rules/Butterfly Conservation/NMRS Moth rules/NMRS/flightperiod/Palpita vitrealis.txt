@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 63.048 Palpita vitrealis (Olive-tree Pearl)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Palpita vitrealis (Olive-tree Pearl)
+Tvk = MM0001Z100HTMPQ1
+StartDate = 0601
+EndDate = 1231
+LastChanged = 20210525
+[EndMetadata]

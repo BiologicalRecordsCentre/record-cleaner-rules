@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Bembidion (Bembidion) humerale seasonal check
+Description=Check date of record against known seasonal limit of Bembidion (Bembidion) humerale
+Tvk=NBNSYS0100001928
+ErrorMsg=Date outside known seasonal limit for Bembidion (Bembidion) humerale
+StartDate=0401
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

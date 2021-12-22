@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.203 Lithophane furcifera (Conformist)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Lithophane furcifera (Conformist)
+Tvk = NBNSYS0000006331
+StartDate = 18591001
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

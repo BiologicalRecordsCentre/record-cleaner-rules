@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Odontomyia argentata seasonal check
+Description=Check date of record against known seasonal limit of Odontomyia argentata
+Tvk=NBNSYS0000007834
+ErrorMsg=Date outside known seasonal limit for Odontomyia argentata
+StartDate=0401
+EndDate=0630
+LastChanged=20130528
+[EndMetadata]
+

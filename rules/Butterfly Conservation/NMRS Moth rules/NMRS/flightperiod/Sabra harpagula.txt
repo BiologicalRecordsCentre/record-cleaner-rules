@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 65.006 Sabra harpagula (Scarce Hook-tip)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Sabra harpagula (Scarce Hook-tip)
+Tvk = NBNSYS0000005722
+StartDate = 0521
+EndDate = 0715
+LastChanged = 20210525
+[EndMetadata]

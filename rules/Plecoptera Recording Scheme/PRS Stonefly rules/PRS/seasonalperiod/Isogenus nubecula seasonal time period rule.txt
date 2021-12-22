@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Isogenus nubecula seasonal check
+Description=Check date of record against known seasonal limit of Isogenus nubecula
+Tvk=NBNSYS0000022438
+ErrorMsg=Date outside known seasonal limit for Isogenus nubecula
+StartDate=0301
+EndDate=0430
+LastChanged=20130528
+[EndMetadata]
+

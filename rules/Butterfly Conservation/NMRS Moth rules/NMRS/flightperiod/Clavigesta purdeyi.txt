@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.304 Clavigesta purdeyi (Pine Leaf-mining Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Clavigesta purdeyi (Pine Leaf-mining Moth)
+Tvk = NHMSYS0000501302
+StartDate = 0621
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

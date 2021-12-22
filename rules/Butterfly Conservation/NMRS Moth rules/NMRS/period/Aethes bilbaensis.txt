@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.125 Aethes bilbaensis (Samphire Conch)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Aethes bilbaensis (Samphire Conch)
+Tvk = NHMSYS0021143138
+StartDate = 20080701
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

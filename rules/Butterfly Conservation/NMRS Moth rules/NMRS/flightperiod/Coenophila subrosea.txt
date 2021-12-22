@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.364 Coenophila subrosea (Rosy Marsh Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Coenophila subrosea (Rosy Marsh Moth)
+Tvk = NHMSYS0000501811
+StartDate = 0721
+EndDate = 0907
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 63.007 Pyrausta purpuralis (Common Purple & Gold)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pyrausta purpuralis (Common Purple & Gold)
+Tvk = NHMSYS0000504008
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

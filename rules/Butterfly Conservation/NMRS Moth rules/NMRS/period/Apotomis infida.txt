@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.147 Apotomis infida (Rannoch Marble)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Apotomis infida (Rannoch Marble)
+Tvk = NHMSYS0000501154
+StartDate = 19190101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

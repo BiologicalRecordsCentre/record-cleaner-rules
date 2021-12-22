@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 7.004 Nemophora fasciella (Horehound Long-horn)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Nemophora fasciella (Horehound Long-horn)
+Tvk = NHMSYS0000503359
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

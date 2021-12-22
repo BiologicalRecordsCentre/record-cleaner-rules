@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 65.002 Watsonalla binaria (Oak Hook-tip)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Watsonalla binaria (Oak Hook-tip)
+Tvk = NBNSYS0100005987
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

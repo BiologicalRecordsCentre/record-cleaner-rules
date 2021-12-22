@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.281 Aleucis distinctata (Sloe Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Aleucis distinctata (Sloe Carpet)
+Tvk = NHMSYS0021144272
+StartDate = 0321
+EndDate = 0515
+LastChanged = 20210525
+[EndMetadata]

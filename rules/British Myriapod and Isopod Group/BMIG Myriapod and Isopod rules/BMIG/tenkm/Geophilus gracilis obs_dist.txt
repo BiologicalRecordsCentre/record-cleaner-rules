@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Geophilus gracilis 10km
+Description=Check coordinate against known 10km distribution of Geophilus gracilis
+ErrorMsg=Coordinate outside know range for Geophilus gracilis
+DataFieldName=Species
+DataRecordId=NBNSYS0000147735
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+NM71
+NN07
+SD09
+SS48
+SS59
+ST17
+SU60
+SV80
+SV81
+SV91
+SW53
+SX25
+SX35
+SX46
+SX54
+SX55
+SX64
+SX74
+SX85
+SX98
+SY08
+SY29
+SY58
+TG04
+
+

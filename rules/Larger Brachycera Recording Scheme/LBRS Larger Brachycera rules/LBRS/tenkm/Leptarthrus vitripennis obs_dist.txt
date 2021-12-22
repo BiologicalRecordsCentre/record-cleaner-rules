@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Leptarthrus vitripennis 10km
+Description=Check coordinate against known 10km distribution of Leptarthrus vitripennis
+ErrorMsg=Coordinate outside know range for Leptarthrus vitripennis
+DataFieldName=Species
+DataRecordId=NBNSYS0100003706
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+SU89
+TQ04
+TQ14
+TQ15
+TQ25
+
+

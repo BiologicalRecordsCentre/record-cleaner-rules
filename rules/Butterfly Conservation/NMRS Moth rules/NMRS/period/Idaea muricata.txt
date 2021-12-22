@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.002 Idaea muricata (Purple-bordered Gold)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Idaea muricata (Purple-bordered Gold)
+Tvk = NBNSYS0000005771
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

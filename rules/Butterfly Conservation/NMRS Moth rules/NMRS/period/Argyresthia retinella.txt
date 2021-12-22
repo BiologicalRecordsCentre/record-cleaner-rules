@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 20.016 Argyresthia retinella (Netted Argent)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Argyresthia retinella (Netted Argent)
+Tvk = NHMSYS0000501385
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.293 Mythimna impura (Smoky Wainscot)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Mythimna impura (Smoky Wainscot)
+Tvk = NHMSYS0021144862
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

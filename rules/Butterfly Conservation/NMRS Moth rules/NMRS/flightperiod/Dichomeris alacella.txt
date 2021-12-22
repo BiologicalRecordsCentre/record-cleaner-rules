@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.025 Dichomeris alacella (Lichen Crest)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Dichomeris alacella (Lichen Crest)
+Tvk = NBNSYS0100002796
+StartDate = 0701
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

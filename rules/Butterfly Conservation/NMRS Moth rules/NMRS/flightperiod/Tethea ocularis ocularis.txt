@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 65.010 Tethea ocularis ocularis (Figure of Eighty)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Tethea ocularis ocularis (Figure of Eighty)
+Tvk = NHMSYS0021143792
+StartDate = 0421
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

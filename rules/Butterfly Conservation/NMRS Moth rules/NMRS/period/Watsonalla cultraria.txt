@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 65.003 Watsonalla cultraria (Barred Hook-tip)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Watsonalla cultraria (Barred Hook-tip)
+Tvk = NBNSYS0100005988
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

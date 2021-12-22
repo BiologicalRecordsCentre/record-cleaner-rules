@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Euborellia annulipes temporal check
+Description=Check date of record against known temporal limit of Euborellia annulipes
+Tvk=NHMSYS0001387304
+ErrorMsg=Date outside known temporal limit for Euborellia annulipes
+StartDate=18000101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

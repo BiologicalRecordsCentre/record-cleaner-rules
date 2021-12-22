@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.245 Orthosia cruda (Small Quaker)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Orthosia cruda (Small Quaker)
+Tvk = NHMSYS0021144790
+StartDate = 0201
+EndDate = 0531
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.183 Cirrhia gilvago (Dusky-lemon Sallow)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Cirrhia gilvago (Dusky-lemon Sallow)
+Tvk = NHMSYS0021144705
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Flight Period
+ShortName=Thymelicus lineola
+Description=Checks date is within known flight period of Thymelicus lineola
+ErrorMsg=Date is outside known flight period of Thymelicus lineola
+Tvk=NHMSYS0000504514
+StartDate=0601
+EndDate=0930
+LastChanged=20210608
+[EndMetadata]

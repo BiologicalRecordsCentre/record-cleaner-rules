@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 1.002 Micropterix mansuetella (Black-headed Gold)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Micropterix mansuetella (Black-headed Gold)
+Tvk = NHMSYS0021142327
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

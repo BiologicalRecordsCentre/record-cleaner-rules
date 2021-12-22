@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.221 Parastichtis suspecta (Suspected)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Parastichtis suspecta (Suspected)
+Tvk = NHMSYS0021144754
+StartDate = 0601
+EndDate = 0915
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.156 Eupithecia abbreviata (Brindled Pug)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eupithecia abbreviata (Brindled Pug)
+Tvk = NBNSYS0000005940
+StartDate = 0201
+EndDate = 0630
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Hydroptila martini temporal check
+Description=Check date of record against known temporal limit of Hydroptila martini
+Tvk=NBNSYS0000008356
+ErrorMsg=Date outside known temporal limit for Hydroptila martini
+StartDate=19800101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

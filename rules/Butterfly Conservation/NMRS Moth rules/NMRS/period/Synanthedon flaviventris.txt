@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 52.009 Synanthedon flaviventris (Sallow Clearwing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Synanthedon flaviventris (Sallow Clearwing)
+Tvk = NBNSYS0000005692
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

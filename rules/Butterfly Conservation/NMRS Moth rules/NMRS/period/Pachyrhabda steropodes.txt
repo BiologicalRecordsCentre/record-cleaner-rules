@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 42.001 Pachyrhabda steropodes (Dorset Signal)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pachyrhabda steropodes (Dorset Signal)
+Tvk = NHMSYS0021142875
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

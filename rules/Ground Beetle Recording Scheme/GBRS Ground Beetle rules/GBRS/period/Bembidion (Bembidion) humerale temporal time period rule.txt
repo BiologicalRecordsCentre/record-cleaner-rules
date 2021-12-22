@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Bembidion (Bembidion) humerale temporal check
+Description=Check date of record against known temporal limit of Bembidion (Bembidion) humerale
+Tvk=NBNSYS0100001928
+ErrorMsg=Date outside known temporal limit for Bembidion (Bembidion) humerale
+StartDate=19760101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

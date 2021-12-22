@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Ophyiulus pilosus temporal check
+Description=Check date of record against known temporal limit of Ophyiulus pilosus
+Tvk=NBNSYS0000011382
+ErrorMsg=Date outside known temporal limit for Ophyiulus pilosus
+StartDate=19420101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

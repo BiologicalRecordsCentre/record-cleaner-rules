@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.327 Cydia microgrammana (Rest-harrow Piercer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cydia microgrammana (Rest-harrow Piercer)
+Tvk = NBNSYS0100002708
+StartDate = 0521
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

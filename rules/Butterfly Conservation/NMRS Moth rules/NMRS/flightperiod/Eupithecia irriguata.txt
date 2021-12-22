@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.170 Eupithecia irriguata (Marbled Pug)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eupithecia irriguata (Marbled Pug)
+Tvk = NHMSYS0021144100
+StartDate = 0321
+EndDate = 0607
+LastChanged = 20210525
+[EndMetadata]

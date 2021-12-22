@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Xylomya maculata 10km
+Description=Check coordinate against known 10km distribution of Xylomya maculata
+ErrorMsg=Coordinate outside know range for Xylomya maculata
+DataFieldName=Species
+DataRecordId=NBNSYS0100006018
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+SU30
+SU96
+TF10
+TQ08
+TQ49
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.187 Endothenia oblongana (Downland Marble)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Endothenia oblongana (Downland Marble)
+Tvk = NHMSYS0000502365
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

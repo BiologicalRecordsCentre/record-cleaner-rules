@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Nopoiulus kochii temporal check
+Description=Check date of record against known temporal limit of Nopoiulus kochii
+Tvk=NBNSYS0000011379
+ErrorMsg=Date outside known temporal limit for Nopoiulus kochii
+StartDate=19880401
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

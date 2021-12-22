@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Oxidus gracilis 10km
+Description=Check coordinate against known 10km distribution of Oxidus gracilis
+ErrorMsg=Coordinate outside know range for Oxidus gracilis
+DataFieldName=Species
+DataRecordId=NBNSYS0000011363
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+NT27
+NZ24
+SE23
+SK33
+SN58
+SP00
+SP50
+SS69
+SU57
+SX05
+TQ17
+
+

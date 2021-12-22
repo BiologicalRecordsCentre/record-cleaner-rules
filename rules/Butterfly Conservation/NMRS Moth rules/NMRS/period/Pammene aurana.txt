@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.379 Pammene aurana (Orange-spot Piercer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pammene aurana (Orange-spot Piercer)
+Tvk = NBNSYS0100004398
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

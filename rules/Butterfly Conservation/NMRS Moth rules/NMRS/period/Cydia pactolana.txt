@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.336 Cydia pactolana (Scarce Spruce Piercer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Cydia pactolana (Scarce Spruce Piercer)
+Tvk = NHMSYS0000502068
+StartDate = 19650101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

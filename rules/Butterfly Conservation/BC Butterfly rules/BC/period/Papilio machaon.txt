@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Papilio machaon
+Description=Checks date is within known recording period of Papilio machaon
+ErrorMsg=Date is outside known recording period of Papilio machaon
+Tvk=NBNSYS0000005514
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

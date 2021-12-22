@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Tabanus miki 10km
+Description=Check coordinate against known 10km distribution of Tabanus miki
+ErrorMsg=Coordinate outside know range for Tabanus miki
+DataFieldName=Species
+DataRecordId=NBNSYS0000007892
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+SO30
+SS59
+SU20
+SU51
+SU61
+TL97
+TQ07
+TQ25
+TQ53
+
+

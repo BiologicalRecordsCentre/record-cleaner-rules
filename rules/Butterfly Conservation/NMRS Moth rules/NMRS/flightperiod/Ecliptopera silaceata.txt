@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.094 Ecliptopera silaceata (Small Phoenix)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Ecliptopera silaceata (Small Phoenix)
+Tvk = NHMSYS0021143991
+StartDate = 0415
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

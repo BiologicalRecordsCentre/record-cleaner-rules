@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 43.009 Scythris empetrella (Ling Owlet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Scythris empetrella (Ling Owlet)
+Tvk = NHMSYS0000504162
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

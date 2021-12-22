@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.190 Endothenia ustulana (Bugle Marble)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Endothenia ustulana (Bugle Marble)
+Tvk = NHMSYS0000502369
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

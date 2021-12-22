@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.031 Tyria jacobaeae (Cinnabar)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Tyria jacobaeae (Cinnabar)
+Tvk = NBNSYS0000006155
+StartDate = 0415
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

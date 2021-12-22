@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Oxycera analis 10km
+Description=Check coordinate against known 10km distribution of Oxycera analis
+ErrorMsg=Coordinate outside know range for Oxycera analis
+DataFieldName=Species
+DataRecordId=NBNSYS0000007808
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+SO60
+SO91
+SP63
+SP74
+SP79
+ST40
+SU72
+SY59
+TF71
+TL35
+TL66
+TR13
+
+

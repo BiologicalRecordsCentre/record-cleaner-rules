@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Notiophilus germinyi temporal check
+Description=Check date of record against known temporal limit of Notiophilus germinyi
+Tvk=NBNSYS0000007161
+ErrorMsg=Date outside known temporal limit for Notiophilus germinyi
+StartDate=19080101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

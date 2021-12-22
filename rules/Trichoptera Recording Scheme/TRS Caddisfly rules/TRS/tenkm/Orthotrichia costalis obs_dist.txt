@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Orthotrichia costalis 10km
+Description=Check coordinate against known 10km distribution of Orthotrichia costalis
+ErrorMsg=Coordinate outside know range for Orthotrichia costalis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008378
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+SD54
+SD55
+SJ67
+SK48
+SO54
+SP31
+SP41
+SP49
+SP83
+SP84
+TL13
+TQ28
+
+

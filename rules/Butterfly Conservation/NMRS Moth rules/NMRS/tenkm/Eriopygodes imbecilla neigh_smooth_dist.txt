@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Eriopygodes imbecilla 10km
+Description=Check coordinate against known 10km distribution of Eriopygodes imbecilla
+ErrorMsg=Coordinate outside known range for Eriopygodes imbecilla
+DataFieldName=Species
+DataRecordId=NBNSYS0000006268
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+SO10
+SO11
+SO12
+SO13
+SO14
+SO20
+SO21
+SO22
+SO23
+SO24
+SO30
+SO31
+SO32
+SO33
+SO34
+SO41
+SO42
+SO43
+ST19
+ST29
+ST39
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

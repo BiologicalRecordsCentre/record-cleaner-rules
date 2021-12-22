@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Haematopota sp. A seasonal check
+Description=Check date of record against known seasonal limit of Haematopota sp. A
+Tvk=NHMSYS0020734199
+ErrorMsg=Date outside known seasonal limit for Haematopota sp. A
+StartDate=0801
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

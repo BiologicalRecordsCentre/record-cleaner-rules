@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.268 Hypomecis punctinalis (Pale Oak Beauty)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hypomecis punctinalis (Pale Oak Beauty)
+Tvk = MM0001Z100758RH1
+StartDate = 0421
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

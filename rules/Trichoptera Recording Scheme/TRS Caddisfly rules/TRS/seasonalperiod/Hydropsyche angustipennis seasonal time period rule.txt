@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Hydropsyche angustipennis seasonal check
+Description=Check date of record against known seasonal limit of Hydropsyche angustipennis
+Tvk=NBNSYS0000008413
+ErrorMsg=Date outside known seasonal limit for Hydropsyche angustipennis
+StartDate=0501
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

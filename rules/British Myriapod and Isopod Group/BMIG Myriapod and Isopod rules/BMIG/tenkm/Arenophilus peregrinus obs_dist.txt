@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Arenophilus peregrinus 10km
+Description=Check coordinate against known 10km distribution of Arenophilus peregrinus
+ErrorMsg=Coordinate outside know range for Arenophilus peregrinus
+DataFieldName=Species
+DataRecordId=MM0001Z1ZT0011ZZ
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+SV81
+SW42
+SW73
+
+

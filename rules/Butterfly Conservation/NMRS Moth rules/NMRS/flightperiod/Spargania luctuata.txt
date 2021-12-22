@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.073 Spargania luctuata (White-banded Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Spargania luctuata (White-banded Carpet)
+Tvk = NHMSYS0021143955
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

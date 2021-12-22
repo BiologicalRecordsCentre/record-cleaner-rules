@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.168 Celypha doubledayana (Scarce Fen Marble)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Celypha doubledayana (Scarce Fen Marble)
+Tvk = NBNSYS0100002224
+StartDate = 0701
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

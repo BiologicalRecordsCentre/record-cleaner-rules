@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 12.040 Monopis imella (Felt Clothes Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Monopis imella (Felt Clothes Moth)
+Tvk = NHMSYS0021142398
+StartDate = 0501
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

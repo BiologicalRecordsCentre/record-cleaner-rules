@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 38.032 Elachista apicipunctella (Pearled Dwarf)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Elachista apicipunctella (Pearled Dwarf)
+Tvk = NHMSYS0000502295
+StartDate = 0407
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

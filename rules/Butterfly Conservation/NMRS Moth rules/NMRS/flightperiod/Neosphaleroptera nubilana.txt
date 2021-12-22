@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.042 Neosphaleroptera nubilana (Deep Brown Shade)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Neosphaleroptera nubilana (Deep Brown Shade)
+Tvk = NHMSYS0021143039
+StartDate = 0621
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

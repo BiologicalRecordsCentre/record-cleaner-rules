@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Protonemura montana seasonal check
+Description=Check date of record against known seasonal limit of Protonemura montana
+Tvk=NBNSYS0000022426
+ErrorMsg=Date outside known seasonal limit for Protonemura montana
+StartDate=0801
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

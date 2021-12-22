@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.059 Tortrix viridana (Green Oak Tortrix)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Tortrix viridana (Green Oak Tortrix)
+Tvk = NHMSYS0021143070
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.067 Phytometra viridaria (Small Purple-barred)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Phytometra viridaria (Small Purple-barred)
+Tvk = NBNSYS0000006574
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

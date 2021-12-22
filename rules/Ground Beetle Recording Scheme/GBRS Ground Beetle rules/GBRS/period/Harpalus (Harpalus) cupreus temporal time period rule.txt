@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Harpalus (Harpalus) cupreus temporal check
+Description=Check date of record against known temporal limit of Harpalus (Harpalus) cupreus
+Tvk=NBNSYS0100003339
+ErrorMsg=Date outside known temporal limit for Harpalus (Harpalus) cupreus
+StartDate=
+EndDate=19141213
+LastChanged=20130528
+[EndMetadata]
+

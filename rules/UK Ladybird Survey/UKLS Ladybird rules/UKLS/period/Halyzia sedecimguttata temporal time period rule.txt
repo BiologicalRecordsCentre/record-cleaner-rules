@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Halyzia sedecimguttata temporal check
+Description=Check date of record against known temporal limit of Halyzia sedecimguttata
+Tvk=NBNSYS0000008332
+ErrorMsg=Date outside known temporal limit for Halyzia sedecimguttata
+StartDate=18000101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

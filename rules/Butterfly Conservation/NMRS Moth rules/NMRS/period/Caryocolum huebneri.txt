@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.139 Caryocolum huebneri (Hedge Groundling)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Caryocolum huebneri (Hedge Groundling)
+Tvk = NHMSYS0000501650
+StartDate = 17000101
+EndDate = 18991231
+LastChanged = 20210521
+[EndMetadata]

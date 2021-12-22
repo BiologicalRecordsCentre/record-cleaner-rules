@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Glyphotaelius pellucidus temporal check
+Description=Check date of record against known temporal limit of Glyphotaelius pellucidus
+Tvk=NBNSYS0000008463
+ErrorMsg=Date outside known temporal limit for Glyphotaelius pellucidus
+StartDate=18360101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

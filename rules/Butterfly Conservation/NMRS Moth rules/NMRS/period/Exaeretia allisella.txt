@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 32.006 Exaeretia allisella (Mugwort Flat-body)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Exaeretia allisella (Mugwort Flat-body)
+Tvk = NHMSYS0000502672
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

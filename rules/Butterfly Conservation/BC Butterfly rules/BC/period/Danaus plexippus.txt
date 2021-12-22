@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Danaus plexippus
+Description=Checks date is within known recording period of Danaus plexippus
+ErrorMsg=Date is outside known recording period of Danaus plexippus
+Tvk=NHMSYS0000502090
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

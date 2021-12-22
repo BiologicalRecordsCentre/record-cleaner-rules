@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.295 Mythimna vitellina (Delicate)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Mythimna vitellina (Delicate)
+Tvk = NHMSYS0021144863
+StartDate = 0501
+EndDate = 1115
+LastChanged = 20210525
+[EndMetadata]

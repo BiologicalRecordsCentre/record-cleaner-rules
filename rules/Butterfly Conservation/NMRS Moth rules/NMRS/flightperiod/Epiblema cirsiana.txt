@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.286 Epiblema cirsiana (Knapweed Bell)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Epiblema cirsiana (Knapweed Bell)
+Tvk = NHMSYS0000502403
+StartDate = 0501
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

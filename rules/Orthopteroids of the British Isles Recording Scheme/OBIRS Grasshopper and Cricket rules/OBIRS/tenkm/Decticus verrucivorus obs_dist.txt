@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Decticus verrucivorus 10km
+Description=Check coordinate against known 10km distribution of Decticus verrucivorus
+ErrorMsg=Coordinate outside know range for Decticus verrucivorus
+DataFieldName=Species
+DataRecordId=NBNSYS0000006818
+LastChanged=20130430
+[EndMetadata]
+
+
+[10km_GB]
+SU06
+SU30
+SY98
+SY99
+SZ19
+SZ57
+TL02
+TQ21
+TQ30
+TQ41
+TQ50
+TQ76
+TR24
+TR34
+TR35
+
+

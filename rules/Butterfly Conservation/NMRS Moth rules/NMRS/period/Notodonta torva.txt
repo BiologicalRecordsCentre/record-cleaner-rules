@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 71.014 Notodonta torva (Large Dark Prominent)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Notodonta torva (Large Dark Prominent)
+Tvk = NHMSYS0021144347
+StartDate = 18820101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

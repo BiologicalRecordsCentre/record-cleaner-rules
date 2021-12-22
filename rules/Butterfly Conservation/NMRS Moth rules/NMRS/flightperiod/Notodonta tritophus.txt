@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 71.015 Notodonta tritophus (Three-humped Prominent)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Notodonta tritophus (Three-humped Prominent)
+Tvk = NBNSYS0100004290
+StartDate = 0715
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

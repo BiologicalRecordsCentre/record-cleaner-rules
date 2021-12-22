@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.079 Oxypteryx wilkella (Painted Neb)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Oxypteryx wilkella (Painted Neb)
+Tvk = NHMSYS0021297319
+StartDate = 0601
+EndDate = 0907
+LastChanged = 20210525
+[EndMetadata]

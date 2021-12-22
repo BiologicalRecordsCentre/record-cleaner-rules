@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Panchlora nivea temporal check
+Description=Check date of record against known temporal limit of Panchlora nivea
+Tvk=NBNSYS0100004408
+ErrorMsg=Date outside known temporal limit for Panchlora nivea
+StartDate=19240101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

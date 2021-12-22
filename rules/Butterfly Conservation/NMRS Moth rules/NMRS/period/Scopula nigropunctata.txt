@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.020 Scopula nigropunctata (Sub-angled Wave)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Scopula nigropunctata (Sub-angled Wave)
+Tvk = NBNSYS0000005757
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

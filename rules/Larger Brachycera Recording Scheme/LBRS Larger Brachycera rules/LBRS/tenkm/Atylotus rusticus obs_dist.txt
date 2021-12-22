@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Atylotus rusticus 10km
+Description=Check coordinate against known 10km distribution of Atylotus rusticus
+ErrorMsg=Coordinate outside know range for Atylotus rusticus
+DataFieldName=Species
+DataRecordId=NBNSYS0000007878
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+SP51
+SU60
+SU67
+TQ60
+TQ97
+
+

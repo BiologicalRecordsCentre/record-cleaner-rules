@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.232 Ennomos autumnaria (Large Thorn)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Ennomos autumnaria (Large Thorn)
+Tvk = NBNSYS0000006002
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

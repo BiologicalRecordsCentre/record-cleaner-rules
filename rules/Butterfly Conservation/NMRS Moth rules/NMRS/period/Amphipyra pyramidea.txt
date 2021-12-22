@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.062 Amphipyra pyramidea (Copper Underwing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Amphipyra pyramidea (Copper Underwing)
+Tvk = NBNSYS0000006392
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

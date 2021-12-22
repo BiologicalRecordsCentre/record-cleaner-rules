@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.007 Periclepsis cinctana (Dover Tortrix)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Periclepsis cinctana (Dover Tortrix)
+Tvk = NHMSYS0021142992
+StartDate = 0701
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

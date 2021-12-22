@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Rhadicoleptus alpestris 10km
+Description=Check coordinate against known 10km distribution of Rhadicoleptus alpestris
+ErrorMsg=Coordinate outside know range for Rhadicoleptus alpestris
+DataFieldName=Species
+DataRecordId=NBNSYS0000008497
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NX34
+NX36
+NY25
+NY89
+SD44
+SD86
+SE01
+SE10
+SE11
+SH62
+SJ13
+SJ69
+SK02
+SK19
+SN31
+SN66
+SN69
+SN75
+SN87
+SO16
+SO28
+
+

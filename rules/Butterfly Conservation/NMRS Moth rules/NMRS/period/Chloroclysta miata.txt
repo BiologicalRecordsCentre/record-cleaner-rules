@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.096 Chloroclysta miata (Autumn Green Carpet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Chloroclysta miata (Autumn Green Carpet)
+Tvk = NBNSYS0000005841
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

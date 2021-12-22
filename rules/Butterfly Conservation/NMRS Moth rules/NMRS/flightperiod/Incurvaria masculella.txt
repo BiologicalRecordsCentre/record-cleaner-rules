@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 8.002 Incurvaria masculella (Feathered Leaf-cutter)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Incurvaria masculella (Feathered Leaf-cutter)
+Tvk = NHMSYS0021142172
+StartDate = 0401
+EndDate = 0630
+LastChanged = 20210525
+[EndMetadata]

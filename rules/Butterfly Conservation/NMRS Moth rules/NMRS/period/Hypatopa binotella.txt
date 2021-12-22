@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 41.006 Hypatopa binotella (Spotted Dowd)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Hypatopa binotella (Spotted Dowd)
+Tvk = NHMSYS0021142873
+StartDate = 20080101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

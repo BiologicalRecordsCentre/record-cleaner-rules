@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.062 Epirrhoe rivata (Wood Carpet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Epirrhoe rivata (Wood Carpet)
+Tvk = NHMSYS0021143938
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

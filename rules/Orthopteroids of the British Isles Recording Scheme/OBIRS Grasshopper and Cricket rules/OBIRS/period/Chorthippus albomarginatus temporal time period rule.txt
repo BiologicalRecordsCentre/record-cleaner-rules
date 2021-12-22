@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Chorthippus albomarginatus temporal check
+Description=Check date of record against known temporal limit of Chorthippus albomarginatus
+Tvk=NHMSYS0001387286
+ErrorMsg=Date outside known temporal limit for Chorthippus albomarginatus
+StartDate=18000101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

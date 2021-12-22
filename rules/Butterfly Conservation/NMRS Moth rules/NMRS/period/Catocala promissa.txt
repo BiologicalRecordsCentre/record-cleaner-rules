@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.082 Catocala promissa (Light Crimson Underwing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Catocala promissa (Light Crimson Underwing)
+Tvk = NHMSYS0021144450
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

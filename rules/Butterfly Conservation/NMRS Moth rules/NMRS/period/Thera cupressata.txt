@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.083 Thera cupressata (Cypress Carpet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Thera cupressata (Cypress Carpet)
+Tvk = NHMSYS0021143981
+StartDate = 19840101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

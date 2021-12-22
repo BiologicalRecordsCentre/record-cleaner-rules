@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Harmonia axyridis temporal check
+Description=Check date of record against known temporal limit of Harmonia axyridis
+Tvk=NHMSYS0000712592
+ErrorMsg=Date outside known temporal limit for Harmonia axyridis
+StartDate=20040101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

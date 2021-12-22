@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 52.007 Synanthedon culiciformis (Large Red-belted Clearwing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Synanthedon culiciformis (Large Red-belted Clearwing)
+Tvk = NBNSYS0000005696
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

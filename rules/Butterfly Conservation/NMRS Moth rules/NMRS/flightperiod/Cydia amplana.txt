@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.343 Cydia amplana (Vagrant Piercer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cydia amplana (Vagrant Piercer)
+Tvk = NHMSYS0021143359
+StartDate = 0701
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

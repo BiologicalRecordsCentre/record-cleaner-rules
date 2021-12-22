@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.011 Archips oporana (Pine Tortrix)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Archips oporana (Pine Tortrix)
+Tvk = NHMSYS0000501287
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

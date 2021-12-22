@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Stosatea italica 10km
+Description=Check coordinate against known 10km distribution of Stosatea italica
+ErrorMsg=Coordinate outside know range for Stosatea italica
+DataFieldName=Species
+DataRecordId=NBNSYS0000011362
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+SJ41
+SO60
+ST47
+ST57
+TL53
+TL93
+TM02
+TQ25
+TQ26
+TQ76
+TR03
+TR06
+TR13
+TR14
+TR15
+TR23
+TR24
+TR33
+TR34
+TR35
+
+

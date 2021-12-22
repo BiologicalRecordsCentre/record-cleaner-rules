@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 2.001 Dyseriocrania subpurpurella (Common Oak Purple)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Dyseriocrania subpurpurella (Common Oak Purple)
+Tvk = NHMSYS0021142333
+StartDate = 0315
+EndDate = 0615
+LastChanged = 20210525
+[EndMetadata]

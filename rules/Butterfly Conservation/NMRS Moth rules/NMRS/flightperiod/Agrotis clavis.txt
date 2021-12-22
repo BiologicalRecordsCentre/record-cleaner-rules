@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.320 Agrotis clavis (Heart and Club)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Agrotis clavis (Heart and Club)
+Tvk = NBNSYS0000006174
+StartDate = 0515
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

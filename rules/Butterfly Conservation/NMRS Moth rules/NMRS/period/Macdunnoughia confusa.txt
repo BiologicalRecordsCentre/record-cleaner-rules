@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.010 Macdunnoughia confusa (Dewick's Plusia)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Macdunnoughia confusa (Dewick's Plusia)
+Tvk = NBNSYS0000006541
+StartDate = 19000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

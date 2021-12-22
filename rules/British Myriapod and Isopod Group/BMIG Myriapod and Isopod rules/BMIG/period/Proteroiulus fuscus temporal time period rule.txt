@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Proteroiulus fuscus temporal check
+Description=Check date of record against known temporal limit of Proteroiulus fuscus
+Tvk=NBNSYS0000011380
+ErrorMsg=Date outside known temporal limit for Proteroiulus fuscus
+StartDate=19010101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.211 Macaria notata (Peacock Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Macaria notata (Peacock Moth)
+Tvk = NBNSYS0100003857
+StartDate = 0415
+EndDate = 0915
+LastChanged = 20210525
+[EndMetadata]

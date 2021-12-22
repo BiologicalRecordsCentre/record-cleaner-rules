@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Vanessa virginiensis
+Description=Checks date is within known recording period of Vanessa virginiensis
+ErrorMsg=Date is outside known recording period of Vanessa virginiensis
+Tvk=NHMSYS0000504626
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Nanogona polydesmoides temporal check
+Description=Check date of record against known temporal limit of Nanogona polydesmoides
+Tvk=NHMSYS0020108477
+ErrorMsg=Date outside known temporal limit for Nanogona polydesmoides
+StartDate=18140101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

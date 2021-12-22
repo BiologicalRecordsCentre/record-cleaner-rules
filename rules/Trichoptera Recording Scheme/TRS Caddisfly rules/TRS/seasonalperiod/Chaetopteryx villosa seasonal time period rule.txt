@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Chaetopteryx villosa seasonal check
+Description=Check date of record against known seasonal limit of Chaetopteryx villosa
+Tvk=NHMSYS0020704776
+ErrorMsg=Date outside known seasonal limit for Chaetopteryx villosa
+StartDate=0901
+EndDate=1231
+LastChanged=20130528
+[EndMetadata]
+

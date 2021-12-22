@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Beraea pullata temporal check
+Description=Check date of record against known temporal limit of Beraea pullata
+Tvk=NBNSYS0000008502
+ErrorMsg=Date outside known temporal limit for Beraea pullata
+StartDate=18350101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

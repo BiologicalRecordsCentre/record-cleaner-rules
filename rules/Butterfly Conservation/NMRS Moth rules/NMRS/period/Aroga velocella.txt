@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.094 Aroga velocella (Dusky Groundling)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Aroga velocella (Dusky Groundling)
+Tvk = NHMSYS0000501403
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

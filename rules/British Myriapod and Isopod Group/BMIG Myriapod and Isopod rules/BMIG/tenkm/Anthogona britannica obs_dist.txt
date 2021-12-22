@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Anthogona britannica 10km
+Description=Check coordinate against known 10km distribution of Anthogona britannica
+ErrorMsg=Coordinate outside know range for Anthogona britannica
+DataFieldName=Species
+DataRecordId=NHMSYS0000356226
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+SX84
+SX85
+SX95
+
+

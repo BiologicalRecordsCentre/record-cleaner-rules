@@ -1,0 +1,12 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.096 Chloroclysta miata (Autumn Green Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Chloroclysta miata (Autumn Green Carpet)
+Tvk = NBNSYS0000005841
+StartDate = 0701
+EndDate = 0731
+ReverseRule = True
+LastChanged = 20210525
+[EndMetadata]

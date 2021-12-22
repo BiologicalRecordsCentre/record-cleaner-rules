@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.353 Xestia baja (Dotted Clay)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Xestia baja (Dotted Clay)
+Tvk = NHMSYS0021144934
+StartDate = 0621
+EndDate = 0921
+LastChanged = 20210525
+[EndMetadata]

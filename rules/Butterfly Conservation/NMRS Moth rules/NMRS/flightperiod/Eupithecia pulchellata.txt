@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.151 Eupithecia pulchellata (Foxglove Pug)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eupithecia pulchellata (Foxglove Pug)
+Tvk = NHMSYS0000550501
+StartDate = 0415
+EndDate = 0907
+LastChanged = 20210525
+[EndMetadata]

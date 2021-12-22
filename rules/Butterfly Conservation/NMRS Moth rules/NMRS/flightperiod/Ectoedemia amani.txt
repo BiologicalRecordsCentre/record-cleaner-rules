@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 4.081 Ectoedemia amani (Elm-bark Pigmy)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Ectoedemia amani (Elm-bark Pigmy)
+Tvk = NBNSYS0100002912
+StartDate = 0701
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

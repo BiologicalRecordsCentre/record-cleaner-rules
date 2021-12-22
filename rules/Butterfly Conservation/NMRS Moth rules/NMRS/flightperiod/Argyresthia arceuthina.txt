@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 20.004 Argyresthia arceuthina (Bronze Argent)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Argyresthia arceuthina (Bronze Argent)
+Tvk = NHMSYS0000501360
+StartDate = 0401
+EndDate = 0630
+LastChanged = 20210525
+[EndMetadata]

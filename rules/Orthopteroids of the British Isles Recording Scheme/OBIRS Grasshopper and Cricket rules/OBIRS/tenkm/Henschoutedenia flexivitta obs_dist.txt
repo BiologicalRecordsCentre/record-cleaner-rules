@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Henschoutedenia flexivitta 10km
+Description=Check coordinate against known 10km distribution of Henschoutedenia flexivitta
+ErrorMsg=Coordinate outside know range for Henschoutedenia flexivitta
+DataFieldName=Species
+DataRecordId=NBNSYS0100003439
+LastChanged=20130430
+[EndMetadata]
+
+
+[10km_GB]
+SS99
+
+

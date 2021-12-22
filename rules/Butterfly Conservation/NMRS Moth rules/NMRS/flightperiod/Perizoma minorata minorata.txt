@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.135 Perizoma minorata minorata (Heath Rivulet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Perizoma minorata minorata (Heath Rivulet)
+Tvk = NHMSYS0021144054
+StartDate = 0607
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

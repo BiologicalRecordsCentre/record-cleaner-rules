@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.140 Archanara neurica (White-mantled Wainscot)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Archanara neurica (White-mantled Wainscot)
+Tvk = NHMSYS0021144637
+StartDate = 0701
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

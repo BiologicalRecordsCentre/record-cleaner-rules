@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 15.025 Parornix betulae (Brown Birch Slender)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Parornix betulae (Brown Birch Slender)
+Tvk = NHMSYS0000503643
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

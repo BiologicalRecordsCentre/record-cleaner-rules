@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.174 Oligia latruncula (Tawny Marbled Minor)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Oligia latruncula (Tawny Marbled Minor)
+Tvk = NHMSYS0021144690
+StartDate = 0501
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

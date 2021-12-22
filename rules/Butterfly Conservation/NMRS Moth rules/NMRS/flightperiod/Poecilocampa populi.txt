@@ -1,0 +1,12 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 66.001 Poecilocampa populi (December Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Poecilocampa populi (December Moth)
+Tvk = NBNSYS0000005700
+StartDate = 0121
+EndDate = 1001
+ReverseRule = True
+LastChanged = 20210525
+[EndMetadata]

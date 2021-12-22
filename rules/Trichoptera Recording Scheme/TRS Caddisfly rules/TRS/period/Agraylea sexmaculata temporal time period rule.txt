@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Agraylea sexmaculata temporal check
+Description=Check date of record against known temporal limit of Agraylea sexmaculata
+Tvk=NBNSYS0000008350
+ErrorMsg=Date outside known temporal limit for Agraylea sexmaculata
+StartDate=18600101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.062 Amphipyra pyramidea (Copper Underwing)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Amphipyra pyramidea (Copper Underwing)
+Tvk = NBNSYS0000006392
+StartDate = 0701
+EndDate = 1021
+LastChanged = 20210525
+[EndMetadata]

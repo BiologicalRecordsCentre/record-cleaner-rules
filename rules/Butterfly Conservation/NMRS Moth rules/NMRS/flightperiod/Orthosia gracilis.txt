@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.247 Orthosia gracilis (Powdered Quaker)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Orthosia gracilis (Powdered Quaker)
+Tvk = NHMSYS0021144793
+StartDate = 0307
+EndDate = 0607
+LastChanged = 20210525
+[EndMetadata]

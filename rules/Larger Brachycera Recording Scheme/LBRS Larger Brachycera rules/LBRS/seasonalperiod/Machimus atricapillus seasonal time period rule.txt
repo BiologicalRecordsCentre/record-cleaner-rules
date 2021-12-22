@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Machimus atricapillus seasonal check
+Description=Check date of record against known seasonal limit of Machimus atricapillus
+Tvk=NBNSYS0000007901
+ErrorMsg=Date outside known seasonal limit for Machimus atricapillus
+StartDate=0501
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

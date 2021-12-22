@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Zonocerus variegatus temporal check
+Description=Check date of record against known temporal limit of Zonocerus variegatus
+Tvk=NHMSYS0020978452
+ErrorMsg=Date outside known temporal limit for Zonocerus variegatus
+StartDate=19320101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

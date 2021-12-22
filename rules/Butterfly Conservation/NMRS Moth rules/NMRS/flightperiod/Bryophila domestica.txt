@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.084 Bryophila domestica (Marbled Beauty)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Bryophila domestica (Marbled Beauty)
+Tvk = NHMSYS0021126913
+StartDate = 0601
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

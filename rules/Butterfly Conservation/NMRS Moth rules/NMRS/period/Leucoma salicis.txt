@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.009 Leucoma salicis (White Satin)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Leucoma salicis (White Satin)
+Tvk = NBNSYS0000006117
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Allogamus auricollis seasonal check
+Description=Check date of record against known seasonal limit of Allogamus auricollis
+Tvk=NBNSYS0000008444
+ErrorMsg=Date outside known seasonal limit for Allogamus auricollis
+StartDate=0701
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.355 Grapholita lathyrana (Greenweed Piercer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Grapholita lathyrana (Greenweed Piercer)
+Tvk = NHMSYS0021143371
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

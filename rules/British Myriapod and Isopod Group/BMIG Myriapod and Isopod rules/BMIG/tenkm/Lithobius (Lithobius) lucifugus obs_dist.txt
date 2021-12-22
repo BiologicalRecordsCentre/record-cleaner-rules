@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Lithobius (Lithobius) lucifugus 10km
+Description=Check coordinate against known 10km distribution of Lithobius (Lithobius) lucifugus
+ErrorMsg=Coordinate outside know range for Lithobius (Lithobius) lucifugus
+DataFieldName=Species
+DataRecordId=NHMSYS0020500670
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+NM73
+NR86
+NT17
+
+

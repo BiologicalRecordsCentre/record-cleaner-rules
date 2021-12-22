@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 50.003 Phragmataecia castaneae (Reed Leopard)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Phragmataecia castaneae (Reed Leopard)
+Tvk = NHMSYS0000503737
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

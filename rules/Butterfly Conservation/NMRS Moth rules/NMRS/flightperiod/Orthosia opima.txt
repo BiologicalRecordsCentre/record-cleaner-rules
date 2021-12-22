@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.248 Orthosia opima (Northern Drab)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Orthosia opima (Northern Drab)
+Tvk = NHMSYS0021144794
+StartDate = 0315
+EndDate = 0607
+LastChanged = 20210525
+[EndMetadata]

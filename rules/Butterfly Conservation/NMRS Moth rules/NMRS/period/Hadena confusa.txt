@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.283 Hadena confusa (Marbled Coronet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Hadena confusa (Marbled Coronet)
+Tvk = NBNSYS0000006264
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Archanara neurica 10km
+Description=Check coordinate against known 10km distribution of Archanara neurica
+ErrorMsg=Coordinate outside known range for Archanara neurica
+DataFieldName=Species
+DataRecordId=NHMSYS0021144637
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+TG40
+TG50
+TM13
+TM14
+TM15
+TM16
+TM23
+TM24
+TM25
+TM26
+TM33
+TM34
+TM35
+TM36
+TM37
+TM38
+TM44
+TM45
+TM46
+TM47
+TM48
+TM49
+TM57
+TM58
+TM59
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

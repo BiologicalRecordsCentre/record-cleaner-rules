@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.138 Longalatedes elymi (Lyme Grass)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Longalatedes elymi (Lyme Grass)
+Tvk = NHMSYS0021144634
+StartDate = 0515
+EndDate = 0907
+LastChanged = 20210525
+[EndMetadata]

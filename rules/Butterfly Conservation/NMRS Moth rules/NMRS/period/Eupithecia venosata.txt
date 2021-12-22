@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.155 Eupithecia venosata (Netted Pug)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eupithecia venosata (Netted Pug)
+Tvk = NBNSYS0000005906
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

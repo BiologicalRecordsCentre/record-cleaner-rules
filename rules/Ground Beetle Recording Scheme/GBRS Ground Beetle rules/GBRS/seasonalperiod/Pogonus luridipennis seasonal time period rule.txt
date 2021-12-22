@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Pogonus luridipennis seasonal check
+Description=Check date of record against known seasonal limit of Pogonus luridipennis
+Tvk=NBNSYS0000007276
+ErrorMsg=Date outside known seasonal limit for Pogonus luridipennis
+StartDate=0301
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

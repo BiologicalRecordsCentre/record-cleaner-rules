@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.178 Eupithecia extensaria (Scarce Pug)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eupithecia extensaria (Scarce Pug)
+Tvk = NHMSYS0000520043
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

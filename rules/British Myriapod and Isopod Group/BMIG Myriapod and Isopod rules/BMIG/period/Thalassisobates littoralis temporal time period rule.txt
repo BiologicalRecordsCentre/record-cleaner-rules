@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Thalassisobates littoralis temporal check
+Description=Check date of record against known temporal limit of Thalassisobates littoralis
+Tvk=NBNSYS0000011374
+ErrorMsg=Date outside known temporal limit for Thalassisobates littoralis
+StartDate=19160101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

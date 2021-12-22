@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.187 Agrochola litura (Brown-spot Pinion)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Agrochola litura (Brown-spot Pinion)
+Tvk = NBNSYS0000006361
+StartDate = 0807
+EndDate = 1115
+LastChanged = 20210525
+[EndMetadata]

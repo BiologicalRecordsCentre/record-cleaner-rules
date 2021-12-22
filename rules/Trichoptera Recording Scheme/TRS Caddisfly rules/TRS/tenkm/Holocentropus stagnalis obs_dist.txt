@@ -1,0 +1,54 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Holocentropus stagnalis 10km
+Description=Check coordinate against known 10km distribution of Holocentropus stagnalis
+ErrorMsg=Coordinate outside know range for Holocentropus stagnalis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008404
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+ND27
+NH55
+NJ01
+NN51
+NT16
+NT58
+NX56
+NX66
+NX68
+NZ33
+SD21
+SE65
+SH38
+SJ28
+SJ37
+SJ38
+SJ47
+SJ56
+SJ64
+SN69
+SO34
+SP49
+ST35
+ST48
+SU77
+SZ49
+TF10
+TF48
+TL07
+TL86
+TL94
+TL99
+TM03
+TM07
+TQ27
+TQ53
+TQ54
+TQ77
+TQ87
+
+

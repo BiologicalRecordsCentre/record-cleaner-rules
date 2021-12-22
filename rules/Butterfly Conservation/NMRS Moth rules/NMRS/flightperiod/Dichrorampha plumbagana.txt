@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.322 Dichrorampha plumbagana (Silver-lined Drill)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Dichrorampha plumbagana (Silver-lined Drill)
+Tvk = NHMSYS0000502166
+StartDate = 0421
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

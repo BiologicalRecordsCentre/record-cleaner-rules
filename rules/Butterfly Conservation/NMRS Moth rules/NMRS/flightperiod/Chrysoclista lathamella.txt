@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 39.006 Chrysoclista lathamella
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Chrysoclista lathamella
+Tvk = NBNSYS0100002419
+StartDate = 0601
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

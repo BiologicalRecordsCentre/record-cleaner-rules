@@ -1,0 +1,11 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Flight Period
+ShortName=Thymelicus acteon
+Description=Checks date is within known flight period of Thymelicus acteon
+ErrorMsg=Date is outside known flight period of Thymelicus acteon
+Tvk=NHMSYS0000504513
+StartDate=0501
+EndDate=1031
+LastChanged=20210608
+[EndMetadata]

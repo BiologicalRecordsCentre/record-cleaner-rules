@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 10.005 Coptotriche gaunacella (Grey Carl)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Coptotriche gaunacella (Grey Carl)
+Tvk = NHMSYS0021142182
+StartDate = 17000101
+EndDate = 19021231
+LastChanged = 20210521
+[EndMetadata]

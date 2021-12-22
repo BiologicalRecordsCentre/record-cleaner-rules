@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.058 Costaconvexa polygrammata (Many-lined)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Costaconvexa polygrammata (Many-lined)
+Tvk = NBNSYS0000005819
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

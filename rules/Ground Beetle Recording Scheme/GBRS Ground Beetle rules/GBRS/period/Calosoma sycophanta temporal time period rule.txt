@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Calosoma sycophanta temporal check
+Description=Check date of record against known temporal limit of Calosoma sycophanta
+Tvk=NBNSYS0000007144
+ErrorMsg=Date outside known temporal limit for Calosoma sycophanta
+StartDate=
+EndDate=19971213
+LastChanged=20130528
+[EndMetadata]
+

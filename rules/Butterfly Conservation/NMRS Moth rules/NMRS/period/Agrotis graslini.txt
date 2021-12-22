@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.318 Agrotis graslini (Woods's Dart)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Agrotis graslini (Woods's Dart)
+Tvk = NHMSYS0021144893
+StartDate = 20010801
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

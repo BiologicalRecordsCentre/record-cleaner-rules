@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Mastophyllum scabricolle 10km
+Description=Check coordinate against known 10km distribution of Mastophyllum scabricolle
+ErrorMsg=Coordinate outside know range for Mastophyllum scabricolle
+DataFieldName=Species
+DataRecordId=NHMSYS0020978428
+LastChanged=20130430
+[EndMetadata]
+
+
+[10km_GB]
+SN90
+SO00
+ST17
+
+

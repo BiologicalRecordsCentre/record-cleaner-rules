@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 38.012 Elachista obliquella (Wood Dwarf)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Elachista obliquella (Wood Dwarf)
+Tvk = NBNSYS0100002933
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

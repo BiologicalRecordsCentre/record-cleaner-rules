@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.266 Alcis jubata (Dotted Carpet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Alcis jubata (Dotted Carpet)
+Tvk = NBNSYS0000006034
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

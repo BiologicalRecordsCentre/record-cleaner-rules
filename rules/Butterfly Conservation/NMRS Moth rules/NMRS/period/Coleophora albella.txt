@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 37.004 Coleophora albella (Viviparous Case-bearer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Coleophora albella (Viviparous Case-bearer)
+Tvk = NBNSYS0000026071
+StartDate = 17000101
+EndDate = 19851231
+LastChanged = 20210521
+[EndMetadata]

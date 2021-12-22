@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.029 Callimorpha dominula (Scarlet Tiger)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Callimorpha dominula (Scarlet Tiger)
+Tvk = NBNSYS0000006154
+StartDate = 0515
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.086 Minucia lunaris (Lunar Double-stripe)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Minucia lunaris (Lunar Double-stripe)
+Tvk = NHMSYS0021144457
+StartDate = 0507
+EndDate = 0607
+LastChanged = 20210525
+[EndMetadata]

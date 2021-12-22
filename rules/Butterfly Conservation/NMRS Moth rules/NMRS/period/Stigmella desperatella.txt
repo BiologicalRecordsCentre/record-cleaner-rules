@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 4.029 Stigmella desperatella (Scarce Apple Pigmy)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Stigmella desperatella (Scarce Apple Pigmy)
+Tvk = NHMSYS0000504347
+StartDate = 17000101
+EndDate = 18991231
+LastChanged = 20210521
+[EndMetadata]

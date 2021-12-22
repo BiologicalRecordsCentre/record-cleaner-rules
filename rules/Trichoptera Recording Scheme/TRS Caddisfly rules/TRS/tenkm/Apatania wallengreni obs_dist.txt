@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Apatania wallengreni 10km
+Description=Check coordinate against known 10km distribution of Apatania wallengreni
+ErrorMsg=Coordinate outside know range for Apatania wallengreni
+DataFieldName=Species
+DataRecordId=NBNSYS0000008441
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+ND03
+ND04
+ND05
+ND06
+ND14
+ND15
+ND34
+NH80
+NN30
+NN45
+NN55
+NN62
+NN63
+NO15
+NO18
+NO89
+NS39
+NT11
+NT22
+NY30
+NY31
+NY42
+SD39
+SD49
+SH66
+SH76
+SH93
+SN82
+
+

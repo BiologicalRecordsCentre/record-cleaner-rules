@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Holocentropus dubius temporal check
+Description=Check date of record against known temporal limit of Holocentropus dubius
+Tvk=NBNSYS0000008402
+ErrorMsg=Date outside known temporal limit for Holocentropus dubius
+StartDate=18610101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

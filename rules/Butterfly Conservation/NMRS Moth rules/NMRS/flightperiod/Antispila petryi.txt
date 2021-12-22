@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 6.002 Antispila petryi (Yellow-spot Lift)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Antispila petryi (Yellow-spot Lift)
+Tvk = NHMSYS0000501270
+StartDate = 0601
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

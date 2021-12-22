@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 71.018 Pheosia gnoma (Lesser Swallow Prominent)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Pheosia gnoma (Lesser Swallow Prominent)
+Tvk = NHMSYS0021144351
+StartDate = 0401
+EndDate = 0915
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.055 Metzneria aestivella (Carline Neb)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Metzneria aestivella (Carline Neb)
+Tvk = NHMSYS0000503221
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

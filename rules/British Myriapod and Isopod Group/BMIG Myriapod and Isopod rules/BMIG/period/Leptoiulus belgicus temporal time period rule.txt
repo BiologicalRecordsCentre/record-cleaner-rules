@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Leptoiulus belgicus temporal check
+Description=Check date of record against known temporal limit of Leptoiulus belgicus
+Tvk=NBNSYS0000011383
+ErrorMsg=Date outside known temporal limit for Leptoiulus belgicus
+StartDate=19220101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

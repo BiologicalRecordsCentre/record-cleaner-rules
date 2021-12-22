@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.290 Pseudocoremia suavis (Common Forest Looper)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pseudocoremia suavis (Common Forest Looper)
+Tvk = NHMSYS0020531231
+StartDate = 20070415
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

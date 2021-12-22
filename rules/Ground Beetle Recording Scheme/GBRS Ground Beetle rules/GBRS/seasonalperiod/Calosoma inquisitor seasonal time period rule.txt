@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Calosoma inquisitor seasonal check
+Description=Check date of record against known seasonal limit of Calosoma inquisitor
+Tvk=NBNSYS0000007143
+ErrorMsg=Date outside known seasonal limit for Calosoma inquisitor
+StartDate=0401
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

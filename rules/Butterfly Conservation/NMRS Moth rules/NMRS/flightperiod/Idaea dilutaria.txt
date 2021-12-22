@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.005 Idaea dilutaria (Silky Wave)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Idaea dilutaria (Silky Wave)
+Tvk = NHMSYS0021143845
+StartDate = 0607
+EndDate = 0721
+LastChanged = 20210525
+[EndMetadata]

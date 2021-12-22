@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.265 Alcis repandata muraria (Mottled Beauty)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Alcis repandata muraria (Mottled Beauty)
+Tvk = NHMSYS0021144242
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

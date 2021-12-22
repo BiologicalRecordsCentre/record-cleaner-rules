@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Oxycera pygmaea seasonal check
+Description=Check date of record against known seasonal limit of Oxycera pygmaea
+Tvk=NBNSYS0000007815
+ErrorMsg=Date outside known seasonal limit for Oxycera pygmaea
+StartDate=0501
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

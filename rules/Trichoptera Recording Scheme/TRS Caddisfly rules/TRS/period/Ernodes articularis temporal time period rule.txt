@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Ernodes articularis temporal check
+Description=Check date of record against known temporal limit of Ernodes articularis
+Tvk=NBNSYS0000008504
+ErrorMsg=Date outside known temporal limit for Ernodes articularis
+StartDate=19000101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

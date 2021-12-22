@@ -1,0 +1,51 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Dyschirius (Dyschirius) obscurus 10km
+Description=Check coordinate against known 10km distribution of Dyschirius (Dyschirius) obscurus
+ErrorMsg=Coordinate outside know range for Dyschirius (Dyschirius) obscurus
+DataFieldName=Species
+DataRecordId=NHMSYS0001718013
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+TG03
+TG04
+TG13
+TG14
+TG23
+TG24
+TG33
+TM17
+TM18
+TM19
+TM27
+TM28
+TM29
+TM37
+TM38
+TM39
+TQ64
+TQ65
+TQ66
+TQ74
+TQ75
+TQ76
+TQ80
+TQ81
+TQ82
+TQ84
+TQ85
+TQ86
+TQ91
+TQ92
+TQ93
+TR01
+TR02
+TR03
+TR12
+TR13
+
+

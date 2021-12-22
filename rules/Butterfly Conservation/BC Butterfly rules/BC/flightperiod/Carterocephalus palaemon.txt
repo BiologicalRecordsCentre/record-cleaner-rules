@@ -1,0 +1,11 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Flight Period
+ShortName=Carterocephalus palaemon
+Description=Checks date is within known flight period of Carterocephalus palaemon
+ErrorMsg=Date is outside known flight period of Carterocephalus palaemon
+Tvk=NHMSYS0000501644
+StartDate=0501
+EndDate=0731
+LastChanged=20210608
+[EndMetadata]

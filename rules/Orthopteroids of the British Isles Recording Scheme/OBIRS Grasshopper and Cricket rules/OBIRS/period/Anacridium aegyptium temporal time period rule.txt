@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Anacridium aegyptium temporal check
+Description=Check date of record against known temporal limit of Anacridium aegyptium
+Tvk=NHMSYS0000377674
+ErrorMsg=Date outside known temporal limit for Anacridium aegyptium
+StartDate=19340101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.065 Monochroa cytisella (Bracken Neb)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Monochroa cytisella (Bracken Neb)
+Tvk = NBNSYS0000026233
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

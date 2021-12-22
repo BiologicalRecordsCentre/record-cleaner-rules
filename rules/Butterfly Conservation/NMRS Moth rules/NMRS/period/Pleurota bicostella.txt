@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 28.025 Pleurota bicostella (Light Streak)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pleurota bicostella (Light Streak)
+Tvk = NHMSYS0000503873
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

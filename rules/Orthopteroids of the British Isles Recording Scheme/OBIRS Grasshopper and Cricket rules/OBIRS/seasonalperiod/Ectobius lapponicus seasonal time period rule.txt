@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Ectobius lapponicus seasonal check
+Description=Check date of record against known seasonal limit of Ectobius lapponicus
+Tvk=NHMSYS0001387299
+ErrorMsg=Date outside known seasonal limit for Ectobius lapponicus
+StartDate=0401
+EndDate=1130
+LastChanged=20130528
+[EndMetadata]
+

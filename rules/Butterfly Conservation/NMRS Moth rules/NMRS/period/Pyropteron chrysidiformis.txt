@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 52.015 Pyropteron chrysidiformis (Fiery Clearwing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pyropteron chrysidiformis (Fiery Clearwing)
+Tvk = NHMSYS0000504018
+StartDate = 18360101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

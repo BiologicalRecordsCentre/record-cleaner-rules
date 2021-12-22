@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 63.114 Elophila nymphaeata (Brown China-mark)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Elophila nymphaeata (Brown China-mark)
+Tvk = NHMSYS0000502346
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

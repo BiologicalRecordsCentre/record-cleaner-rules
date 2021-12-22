@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.328 Axylia putris (Flame)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Axylia putris (Flame)
+Tvk = NBNSYS0000006184
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

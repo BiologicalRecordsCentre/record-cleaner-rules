@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.272 Papestra biren (Glaucous Shears)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Papestra biren (Glaucous Shears)
+Tvk = NBNSYS0000006253
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

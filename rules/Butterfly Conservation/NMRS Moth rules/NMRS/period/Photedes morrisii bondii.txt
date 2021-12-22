@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.148 Photedes morrisii bondii (Bond's Wainscot)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Photedes morrisii bondii (Bond's Wainscot)
+Tvk = NHMSYS0021144650
+StartDate = 17000101
+EndDate = 19731231
+LastChanged = 20210521
+[EndMetadata]

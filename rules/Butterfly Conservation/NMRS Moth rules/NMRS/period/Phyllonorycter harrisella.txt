@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 15.034 Phyllonorycter harrisella (White Oak Midget)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Phyllonorycter harrisella (White Oak Midget)
+Tvk = NHMSYS0000503778
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

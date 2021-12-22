@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.318 Dichrorampha vancouverana (Gold-fringed Drill)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Dichrorampha vancouverana (Gold-fringed Drill)
+Tvk = NHMSYS0020977497
+StartDate = 0601
+EndDate = 0807
+LastChanged = 20210525
+[EndMetadata]

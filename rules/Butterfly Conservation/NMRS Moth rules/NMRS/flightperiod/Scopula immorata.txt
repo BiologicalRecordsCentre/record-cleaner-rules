@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.019 Scopula immorata (Lewes Wave)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Scopula immorata (Lewes Wave)
+Tvk = NBNSYS0000005756
+StartDate = 0607
+EndDate = 0715
+LastChanged = 20210525
+[EndMetadata]

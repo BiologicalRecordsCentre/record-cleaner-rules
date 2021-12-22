@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Nebria (Nebria) salina temporal check
+Description=Check date of record against known temporal limit of Nebria (Nebria) salina
+Tvk=NHMSYS0001719105
+ErrorMsg=Date outside known temporal limit for Nebria (Nebria) salina
+StartDate=19220101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

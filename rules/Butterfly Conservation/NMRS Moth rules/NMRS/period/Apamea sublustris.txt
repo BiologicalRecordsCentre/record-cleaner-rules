@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.164 Apamea sublustris (Reddish Light Arches)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Apamea sublustris (Reddish Light Arches)
+Tvk = NBNSYS0000006419
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 52.005 Synanthedon scoliaeformis (Welsh Clearwing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Synanthedon scoliaeformis (Welsh Clearwing)
+Tvk = NBNSYS0000005691
+StartDate = 18540101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

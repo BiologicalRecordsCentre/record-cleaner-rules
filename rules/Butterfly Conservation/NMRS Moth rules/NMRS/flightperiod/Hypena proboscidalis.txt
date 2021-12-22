@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.003 Hypena proboscidalis (Snout)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hypena proboscidalis (Snout)
+Tvk = NBNSYS0000006581
+StartDate = 0515
+EndDate = 1107
+LastChanged = 20210525
+[EndMetadata]

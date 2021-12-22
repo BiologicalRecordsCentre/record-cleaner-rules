@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.268 Lacanobia splendens (Splendid Brocade)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Lacanobia splendens (Splendid Brocade)
+Tvk = NHMSYS0001703672
+StartDate = 20010705
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

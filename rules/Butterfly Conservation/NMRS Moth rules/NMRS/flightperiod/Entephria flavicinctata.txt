@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.071 Entephria flavicinctata (Yellow-ringed Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Entephria flavicinctata (Yellow-ringed Carpet)
+Tvk = NHMSYS0000519698
+StartDate = 0507
+EndDate = 1021
+LastChanged = 20210525
+[EndMetadata]

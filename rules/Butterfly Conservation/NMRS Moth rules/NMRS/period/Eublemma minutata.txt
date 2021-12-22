@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.071 Eublemma minutata (Scarce Marbled)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eublemma minutata (Scarce Marbled)
+Tvk = NBNSYS0000006515
+StartDate = 18720106
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

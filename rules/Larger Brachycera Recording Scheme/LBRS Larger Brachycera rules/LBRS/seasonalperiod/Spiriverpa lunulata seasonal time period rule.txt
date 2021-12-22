@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Spiriverpa lunulata seasonal check
+Description=Check date of record against known seasonal limit of Spiriverpa lunulata
+Tvk=NBNSYS0000189495
+ErrorMsg=Date outside known seasonal limit for Spiriverpa lunulata
+StartDate=0501
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

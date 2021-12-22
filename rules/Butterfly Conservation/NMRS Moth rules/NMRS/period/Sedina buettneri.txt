@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.135 Sedina buettneri (Blair's Wainscot)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Sedina buettneri (Blair's Wainscot)
+Tvk = NBNSYS0000006481
+StartDate = 19450901
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

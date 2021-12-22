@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Stenobothrus stigmaticus seasonal check
+Description=Check date of record against known seasonal limit of Stenobothrus stigmaticus
+Tvk=NBNSYS0000006836
+ErrorMsg=Date outside known seasonal limit for Stenobothrus stigmaticus
+StartDate=0501
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

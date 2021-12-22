@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 53.002 Heterogenea asella (Triangle)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Heterogenea asella (Triangle)
+Tvk = NHMSYS0021143413
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.168 Eupithecia nanata (Narrow-winged Pug)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eupithecia nanata (Narrow-winged Pug)
+Tvk = NHMSYS0021144098
+StartDate = 0401
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

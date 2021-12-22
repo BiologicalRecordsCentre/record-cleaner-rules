@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Rhyacophila munda seasonal check
+Description=Check date of record against known seasonal limit of Rhyacophila munda
+Tvk=NBNSYS0000008340
+ErrorMsg=Date outside known seasonal limit for Rhyacophila munda
+StartDate=0501
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.092 Eulithis mellinata (Spinach)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eulithis mellinata (Spinach)
+Tvk = NBNSYS0000005837
+StartDate = 0601
+EndDate = 0915
+LastChanged = 20210525
+[EndMetadata]

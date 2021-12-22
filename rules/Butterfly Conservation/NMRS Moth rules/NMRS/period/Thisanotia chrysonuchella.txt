@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 63.107 Thisanotia chrysonuchella (Powdered Grass-veneer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Thisanotia chrysonuchella (Powdered Grass-veneer)
+Tvk = NHMSYS0000504504
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

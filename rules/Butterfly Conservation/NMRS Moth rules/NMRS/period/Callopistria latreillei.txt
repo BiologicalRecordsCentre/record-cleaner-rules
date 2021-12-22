@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.081 Callopistria latreillei (Latreille's Latin)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Callopistria latreillei (Latreille's Latin)
+Tvk = NBNSYS0000006405
+StartDate = 20061027
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

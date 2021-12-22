@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 14.012 Bucculatrix bechsteinella (Hawthorn Bent-wing)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Bucculatrix bechsteinella (Hawthorn Bent-wing)
+Tvk = NBNSYS0100002131
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

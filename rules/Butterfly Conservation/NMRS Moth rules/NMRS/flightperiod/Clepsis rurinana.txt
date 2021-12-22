@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.036 Clepsis rurinana (Pale Tortrix)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Clepsis rurinana (Pale Tortrix)
+Tvk = NHMSYS0000501314
+StartDate = 0601
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Brachyiulus lusitanus temporal check
+Description=Check date of record against known temporal limit of Brachyiulus lusitanus
+Tvk=NHMSYS0020977697
+ErrorMsg=Date outside known temporal limit for Brachyiulus lusitanus
+StartDate=20090417
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

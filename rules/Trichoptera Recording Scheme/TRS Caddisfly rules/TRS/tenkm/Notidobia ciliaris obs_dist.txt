@@ -1,0 +1,56 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Notidobia ciliaris 10km
+Description=Check coordinate against known 10km distribution of Notidobia ciliaris
+ErrorMsg=Coordinate outside know range for Notidobia ciliaris
+DataFieldName=Species
+DataRecordId=NBNSYS0000008505
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NS54
+NY10
+NY56
+SH64
+SJ33
+SJ43
+SJ54
+SO49
+SP10
+SP30
+SP42
+SP45
+SU13
+SU32
+SU34
+SU42
+SU50
+SU51
+SU53
+SU61
+SU66
+SU67
+SU94
+TF70
+TF71
+TG21
+TL03
+TL13
+TL56
+TL57
+TL62
+TL72
+TL84
+TL88
+TL93
+TL96
+TM03
+TM13
+TM24
+TQ11
+TQ21
+
+

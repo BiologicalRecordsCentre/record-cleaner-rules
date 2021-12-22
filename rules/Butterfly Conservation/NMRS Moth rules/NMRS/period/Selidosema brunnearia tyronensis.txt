@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.262 Selidosema brunnearia tyronensis (Bordered Grey)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Selidosema brunnearia tyronensis (Bordered Grey)
+Tvk = NHMSYS0021144237
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

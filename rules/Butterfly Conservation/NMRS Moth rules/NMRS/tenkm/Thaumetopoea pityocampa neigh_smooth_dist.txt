@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Thaumetopoea pityocampa 10km
+Description=Check coordinate against known 10km distribution of Thaumetopoea pityocampa
+ErrorMsg=Coordinate outside known range for Thaumetopoea pityocampa
+DataFieldName=Species
+DataRecordId=NHMSYS0021144336
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+TM33
+TM34
+TM35
+TM44
+TM45
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

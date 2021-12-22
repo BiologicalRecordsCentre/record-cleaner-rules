@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.070 Larentia clavaria (Mallow)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Larentia clavaria (Mallow)
+Tvk = NBNSYS0000005825
+StartDate = 0815
+EndDate = 1115
+LastChanged = 20210525
+[EndMetadata]

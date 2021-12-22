@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.099 Phalonidia gilvicomana (Wall-lettuce Conch)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Phalonidia gilvicomana (Wall-lettuce Conch)
+Tvk = NHMSYS0000503706
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

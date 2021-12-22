@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.007 Hypena crassalis (Beautiful Snout)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Hypena crassalis (Beautiful Snout)
+Tvk = NBNSYS0000006580
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

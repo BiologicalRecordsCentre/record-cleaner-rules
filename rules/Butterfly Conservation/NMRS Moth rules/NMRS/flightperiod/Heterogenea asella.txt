@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 53.002 Heterogenea asella (Triangle)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Heterogenea asella (Triangle)
+Tvk = NHMSYS0021143413
+StartDate = 0615
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

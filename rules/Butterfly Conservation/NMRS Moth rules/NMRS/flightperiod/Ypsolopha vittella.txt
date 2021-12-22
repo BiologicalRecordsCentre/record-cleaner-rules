@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 17.013 Ypsolopha vittella (Elm Smudge)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Ypsolopha vittella (Elm Smudge)
+Tvk = NHMSYS0000504709
+StartDate = 0701
+EndDate = 1015
+LastChanged = 20210525
+[EndMetadata]

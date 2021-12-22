@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.167 Apamea exulis (Northern Arches or Exile)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Apamea exulis (Northern Arches or Exile)
+Tvk = NHMSYS0021144677
+StartDate = 0615
+EndDate = 0915
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 32.036 Depressaria radiella (Parsnip Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Depressaria radiella (Parsnip Moth)
+Tvk = NHMSYS0021126889
+StartDate = 0701
+EndDate = 0721
+ReverseRule = True
+LastChanged = 20210525
+[EndMetadata]

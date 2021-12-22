@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 37.048 Coleophora mayrella (Meadow Case-bearer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Coleophora mayrella (Meadow Case-bearer)
+Tvk = NHMSYS0021142837
+StartDate = 0601
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.052 Cucullia umbratica (Shark)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cucullia umbratica (Shark)
+Tvk = NBNSYS0000006309
+StartDate = 0421
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

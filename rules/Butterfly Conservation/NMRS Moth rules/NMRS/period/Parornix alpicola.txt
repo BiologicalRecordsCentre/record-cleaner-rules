@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 15.031 Parornix alpicola (Alpine Slender)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Parornix alpicola (Alpine Slender)
+Tvk = NHMSYS0021142429
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

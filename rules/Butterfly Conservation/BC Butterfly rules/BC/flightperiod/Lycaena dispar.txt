@@ -1,0 +1,11 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Flight Period
+ShortName=Lycaena dispar
+Description=Checks date is within known flight period of Lycaena dispar
+ErrorMsg=Date is outside known flight period of Lycaena dispar
+Tvk=NHMSYS0000516450
+StartDate=0701
+EndDate=0831
+LastChanged=20210608
+[EndMetadata]

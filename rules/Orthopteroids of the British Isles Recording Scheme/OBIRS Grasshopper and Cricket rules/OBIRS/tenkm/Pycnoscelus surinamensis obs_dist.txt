@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Pycnoscelus surinamensis 10km
+Description=Check coordinate against known 10km distribution of Pycnoscelus surinamensis
+ErrorMsg=Coordinate outside know range for Pycnoscelus surinamensis
+DataFieldName=Species
+DataRecordId=NBNSYS0000006855
+LastChanged=20130430
+[EndMetadata]
+
+
+[10km_GB]
+NT27
+SD47
+SE11
+SE13
+SJ39
+SP50
+ST17
+SX05
+TL71
+
+

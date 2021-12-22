@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 4.064 Trifurcula headleyella (Self-heal Pigmy)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Trifurcula headleyella (Self-heal Pigmy)
+Tvk = NBNSYS0100005899
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

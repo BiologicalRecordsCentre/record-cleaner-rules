@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Trichostegia minor temporal check
+Description=Check date of record against known temporal limit of Trichostegia minor
+Tvk=NBNSYS0000008432
+ErrorMsg=Date outside known temporal limit for Trichostegia minor
+StartDate=18300101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.122 Rheumaptera cervinalis (Scarce Tissue)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Rheumaptera cervinalis (Scarce Tissue)
+Tvk = NHMSYS0021144038
+StartDate = 0321
+EndDate = 0615
+LastChanged = 20210525
+[EndMetadata]

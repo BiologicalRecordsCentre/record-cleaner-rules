@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.075 Heliothis nubigera (Eastern Bordered Straw)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Heliothis nubigera (Eastern Bordered Straw)
+Tvk = NHMSYS0021144541
+StartDate = 0215
+EndDate = 1231
+LastChanged = 20210525
+[EndMetadata]

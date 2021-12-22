@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 65.015 Polyploca ridens (Frosted Green)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Polyploca ridens (Frosted Green)
+Tvk = NBNSYS0000005733
+StartDate = 0321
+EndDate = 0521
+LastChanged = 20210525
+[EndMetadata]

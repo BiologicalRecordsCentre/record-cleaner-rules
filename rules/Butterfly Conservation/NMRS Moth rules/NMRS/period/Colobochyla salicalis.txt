@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.068 Colobochyla salicalis (Lesser Belle)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Colobochyla salicalis (Lesser Belle)
+Tvk = NHMSYS0021144439
+StartDate = 19320101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

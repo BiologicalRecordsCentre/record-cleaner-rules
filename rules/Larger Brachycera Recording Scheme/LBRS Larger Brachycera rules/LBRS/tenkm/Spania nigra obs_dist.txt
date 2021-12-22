@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Spania nigra 10km
+Description=Check coordinate against known 10km distribution of Spania nigra
+ErrorMsg=Coordinate outside know range for Spania nigra
+DataFieldName=Species
+DataRecordId=NBNSYS0000007855
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+NH80
+NH81
+NH95
+NJ01
+NJ11
+NJ12
+NY81
+NY83
+SD86
+SJ22
+SK58
+SS41
+ST85
+SU30
+SX68
+SX87
+TF71
+TG24
+TL09
+TL25
+TL66
+TQ31
+TR13
+TR23
+
+

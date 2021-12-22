@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Ogcodes pallipes seasonal check
+Description=Check date of record against known seasonal limit of Ogcodes pallipes
+Tvk=NBNSYS0000007940
+ErrorMsg=Date outside known seasonal limit for Ogcodes pallipes
+StartDate=0501
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

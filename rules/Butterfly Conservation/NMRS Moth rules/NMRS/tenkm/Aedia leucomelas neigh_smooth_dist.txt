@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Aedia leucomelas 10km
+Description=Check coordinate against known 10km distribution of Aedia leucomelas
+ErrorMsg=Coordinate outside known range for Aedia leucomelas
+DataFieldName=Species
+DataRecordId=NHMSYS0020531219
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+SZ28
+SZ29
+SZ38
+SZ39
+SZ47
+SZ48
+SZ49
+TL90
+TL91
+TL92
+TM00
+TM01
+TM02
+TM10
+TM11
+TM12
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.043 Acronicta auricoma (Scarce Dagger)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Acronicta auricoma (Scarce Dagger)
+Tvk = NHMSYS0021144508
+StartDate = 0501
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

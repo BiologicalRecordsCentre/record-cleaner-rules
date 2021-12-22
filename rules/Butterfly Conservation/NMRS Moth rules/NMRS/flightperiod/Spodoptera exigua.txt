@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.087 Spodoptera exigua (Small Mottled Willow)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Spodoptera exigua (Small Mottled Willow)
+Tvk = NHMSYS0021144565
+StartDate = 0201
+EndDate = 1231
+LastChanged = 20210525
+[EndMetadata]

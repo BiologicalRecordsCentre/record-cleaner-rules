@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 7.008 Adela croesella (Small Barred Long-horn)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Adela croesella (Small Barred Long-horn)
+Tvk = NHMSYS0000500990
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

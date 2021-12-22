@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 45.022 Cnaemidophorus rhododactyla (Rose Plume.)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cnaemidophorus rhododactyla (Rose Plume.)
+Tvk = NHMSYS0021142921
+StartDate = 0621
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

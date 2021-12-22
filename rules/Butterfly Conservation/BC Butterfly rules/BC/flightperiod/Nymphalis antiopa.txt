@@ -1,0 +1,11 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Flight Period
+ShortName=Nymphalis antiopa
+Description=Checks date is within known flight period of Nymphalis antiopa
+ErrorMsg=Date is outside known flight period of Nymphalis antiopa
+Tvk=NHMSYS0000516570
+StartDate=0101
+EndDate=1231
+LastChanged=20210608
+[EndMetadata]

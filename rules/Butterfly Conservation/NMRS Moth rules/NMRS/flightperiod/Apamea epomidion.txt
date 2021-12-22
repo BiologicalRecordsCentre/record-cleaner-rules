@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.155 Apamea epomidion (Clouded Brindle)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Apamea epomidion (Clouded Brindle)
+Tvk = NBNSYS0000006426
+StartDate = 0507
+EndDate = 0807
+LastChanged = 20210525
+[EndMetadata]

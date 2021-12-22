@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.100 Colostygia pectinataria (Green Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Colostygia pectinataria (Green Carpet)
+Tvk = NBNSYS0000005856
+StartDate = 0415
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

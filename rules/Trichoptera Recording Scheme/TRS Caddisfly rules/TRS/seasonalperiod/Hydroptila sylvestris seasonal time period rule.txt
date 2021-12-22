@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Hydroptila sylvestris seasonal check
+Description=Check date of record against known seasonal limit of Hydroptila sylvestris
+Tvk=NBNSYS0000008361
+ErrorMsg=Date outside known seasonal limit for Hydroptila sylvestris
+StartDate=0501
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

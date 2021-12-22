@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.241 Crocallis elinguaria (Scalloped Oak)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Crocallis elinguaria (Scalloped Oak)
+Tvk = NBNSYS0000006012
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

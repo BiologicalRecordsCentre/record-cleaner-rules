@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.079 Catocala electa (Rosy Underwing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Catocala electa (Rosy Underwing)
+Tvk = NBNSYS0000006558
+StartDate = 18750101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.229 Trigonophora flammea (Flame Brocade)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Trigonophora flammea (Flame Brocade)
+Tvk = NBNSYS0000006344
+StartDate = 0921
+EndDate = 1115
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.035 Simyra albovenosa (Reed Dagger)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Simyra albovenosa (Reed Dagger)
+Tvk = NBNSYS0000006385
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

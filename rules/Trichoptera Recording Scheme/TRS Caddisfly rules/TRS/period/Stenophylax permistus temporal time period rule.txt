@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Stenophylax permistus temporal check
+Description=Check date of record against known temporal limit of Stenophylax permistus
+Tvk=NBNSYS0000008459
+ErrorMsg=Date outside known temporal limit for Stenophylax permistus
+StartDate=18360101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

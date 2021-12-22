@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.210 Stegania trimaculata (Dorset Cream Wave)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Stegania trimaculata (Dorset Cream Wave)
+Tvk = NHMSYS0000504304
+StartDate = 19780613
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

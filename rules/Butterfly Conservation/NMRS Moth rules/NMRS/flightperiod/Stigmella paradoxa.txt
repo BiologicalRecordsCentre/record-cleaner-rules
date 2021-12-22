@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 4.020 Stigmella paradoxa (Scarce Thorn Pigmy)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Stigmella paradoxa (Scarce Thorn Pigmy)
+Tvk = NHMSYS0000504369
+StartDate = 0421
+EndDate = 0531
+LastChanged = 20210525
+[EndMetadata]

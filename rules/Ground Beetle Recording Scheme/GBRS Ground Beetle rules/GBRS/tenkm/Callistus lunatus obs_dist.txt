@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Callistus lunatus 10km
+Description=Check coordinate against known 10km distribution of Callistus lunatus
+ErrorMsg=Coordinate outside know range for Callistus lunatus
+DataFieldName=Species
+DataRecordId=NHMSYS0001717463
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+SU58
+TQ15
+TQ25
+TQ35
+TQ55
+TQ56
+TR04
+TR24
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 4.057 Stigmella suberivora (Holm-oak Pigmy)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Stigmella suberivora (Holm-oak Pigmy)
+Tvk = NHMSYS0000504388
+StartDate = 0401
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

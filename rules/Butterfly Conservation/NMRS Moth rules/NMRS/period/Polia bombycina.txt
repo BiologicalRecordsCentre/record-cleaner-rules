@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.259 Polia bombycina (Pale Shining Brown)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Polia bombycina (Pale Shining Brown)
+Tvk = NBNSYS0000006239
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

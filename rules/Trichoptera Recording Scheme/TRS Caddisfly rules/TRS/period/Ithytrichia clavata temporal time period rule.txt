@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Ithytrichia clavata temporal check
+Description=Check date of record against known temporal limit of Ithytrichia clavata
+Tvk=NBNSYS0000008375
+ErrorMsg=Date outside known temporal limit for Ithytrichia clavata
+StartDate=19390101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

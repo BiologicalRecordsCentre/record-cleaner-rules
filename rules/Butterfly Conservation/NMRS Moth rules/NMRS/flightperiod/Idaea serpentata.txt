@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.001 Idaea serpentata (Ochraceous Wave)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Idaea serpentata (Ochraceous Wave)
+Tvk = NBNSYS0000005770
+StartDate = 0701
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

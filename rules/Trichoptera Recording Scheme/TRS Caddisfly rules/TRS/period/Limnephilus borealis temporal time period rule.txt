@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Limnephilus borealis temporal check
+Description=Check date of record against known temporal limit of Limnephilus borealis
+Tvk=NBNSYS0000008470
+ErrorMsg=Date outside known temporal limit for Limnephilus borealis
+StartDate=18690101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

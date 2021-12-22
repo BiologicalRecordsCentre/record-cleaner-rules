@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Oxyethira tristella seasonal check
+Description=Check date of record against known seasonal limit of Oxyethira tristella
+Tvk=NBNSYS0000008373
+ErrorMsg=Date outside known seasonal limit for Oxyethira tristella
+StartDate=0501
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

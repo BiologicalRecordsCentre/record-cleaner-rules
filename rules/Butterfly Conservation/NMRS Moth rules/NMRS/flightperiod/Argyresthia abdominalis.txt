@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 20.008 Argyresthia abdominalis (Downland Argent)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Argyresthia abdominalis (Downland Argent)
+Tvk = NHMSYS0000501358
+StartDate = 0701
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

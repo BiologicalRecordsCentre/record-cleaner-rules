@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.285 Hadena caesia (Grey)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Hadena caesia (Grey)
+Tvk = NHMSYS0000520318
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

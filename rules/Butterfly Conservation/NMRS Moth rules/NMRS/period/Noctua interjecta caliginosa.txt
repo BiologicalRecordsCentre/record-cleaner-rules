@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.346 Noctua interjecta caliginosa (Least Yellow Underwing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Noctua interjecta caliginosa (Least Yellow Underwing)
+Tvk = NHMSYS0021144925
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

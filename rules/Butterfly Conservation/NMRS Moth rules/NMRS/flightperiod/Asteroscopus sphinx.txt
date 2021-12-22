@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.065 Asteroscopus sphinx (Sprawler)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Asteroscopus sphinx (Sprawler)
+Tvk = NHMSYS0000501413
+StartDate = 1001
+EndDate = 1207
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.096 Chionodes fumatella (Downland Groundling)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Chionodes fumatella (Downland Groundling)
+Tvk = NHMSYS0000501754
+StartDate = 0621
+EndDate = 0907
+LastChanged = 20210525
+[EndMetadata]

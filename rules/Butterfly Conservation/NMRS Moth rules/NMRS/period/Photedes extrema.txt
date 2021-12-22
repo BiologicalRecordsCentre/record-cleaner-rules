@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.149 Photedes extrema (Concolorous)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Photedes extrema (Concolorous)
+Tvk = NHMSYS0021144651
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

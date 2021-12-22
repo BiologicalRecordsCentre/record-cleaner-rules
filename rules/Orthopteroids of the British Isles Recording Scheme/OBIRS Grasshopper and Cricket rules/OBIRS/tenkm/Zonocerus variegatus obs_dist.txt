@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Zonocerus variegatus 10km
+Description=Check coordinate against known 10km distribution of Zonocerus variegatus
+ErrorMsg=Coordinate outside know range for Zonocerus variegatus
+DataFieldName=Species
+DataRecordId=NHMSYS0020978452
+LastChanged=20130430
+[EndMetadata]
+
+
+[10km_GB]
+ST17
+
+

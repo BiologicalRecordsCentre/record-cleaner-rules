@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.081 Thera obeliscata (Grey Pine Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Thera obeliscata (Grey Pine Carpet)
+Tvk = NHMSYS0021143975
+StartDate = 0401
+EndDate = 1130
+LastChanged = 20210525
+[EndMetadata]

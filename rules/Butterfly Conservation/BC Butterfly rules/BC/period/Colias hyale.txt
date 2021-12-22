@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Colias hyale
+Description=Checks date is within known recording period of Colias hyale
+ErrorMsg=Date is outside known recording period of Colias hyale
+Tvk=NHMSYS0000501954
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Oxycera leonina 10km
+Description=Check coordinate against known 10km distribution of Oxycera leonina
+ErrorMsg=Coordinate outside know range for Oxycera leonina
+DataFieldName=Species
+DataRecordId=NBNSYS0000007812
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+TF71
+TL89
+
+

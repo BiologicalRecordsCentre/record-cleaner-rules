@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 16.014 Pseudoswammerdamia combinella (Copper-tipped Ermine)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pseudoswammerdamia combinella (Copper-tipped Ermine)
+Tvk = NHMSYS0000503952
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.057 Pechipogo plumigeralis (Plumed Fan-foot)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Pechipogo plumigeralis (Plumed Fan-foot)
+Tvk = NHMSYS0021144430
+StartDate = 0615
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

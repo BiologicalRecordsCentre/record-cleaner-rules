@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 37.069 Coleophora caespititiella (Buff Rush Case-bearer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Coleophora caespititiella (Buff Rush Case-bearer)
+Tvk = NHMSYS0000501845
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

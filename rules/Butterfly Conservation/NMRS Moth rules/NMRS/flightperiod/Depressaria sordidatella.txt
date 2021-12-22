@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 32.043 Depressaria sordidatella (Chervil Flat-body)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Depressaria sordidatella (Chervil Flat-body)
+Tvk = NHMSYS0000502129
+StartDate = 0701
+EndDate = 0907
+LastChanged = 20210525
+[EndMetadata]

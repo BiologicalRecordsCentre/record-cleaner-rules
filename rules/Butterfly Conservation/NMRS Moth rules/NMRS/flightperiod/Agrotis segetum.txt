@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.319 Agrotis segetum (Turnip Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Agrotis segetum (Turnip Moth)
+Tvk = NHMSYS0021144895
+StartDate = 0415
+EndDate = 1207
+LastChanged = 20210525
+[EndMetadata]

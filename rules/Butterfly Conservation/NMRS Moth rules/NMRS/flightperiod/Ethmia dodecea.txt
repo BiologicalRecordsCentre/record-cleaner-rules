@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 33.001 Ethmia dodecea (Dotted Ermel)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Ethmia dodecea (Dotted Ermel)
+Tvk = NBNSYS0000026222
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

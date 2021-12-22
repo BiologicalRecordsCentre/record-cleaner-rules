@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Bembidion (Trichoplataphus) virens temporal check
+Description=Check date of record against known temporal limit of Bembidion (Trichoplataphus) virens
+Tvk=NHMSYS0001717194
+ErrorMsg=Date outside known temporal limit for Bembidion (Trichoplataphus) virens
+StartDate=18950101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

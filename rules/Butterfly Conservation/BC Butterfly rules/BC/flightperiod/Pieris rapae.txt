@@ -1,0 +1,11 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Flight Period
+ShortName=Pieris rapae
+Description=Checks date is within known flight period of Pieris rapae
+ErrorMsg=Date is outside known flight period of Pieris rapae
+Tvk=NHMSYS0000503832
+StartDate=0301
+EndDate=1031
+LastChanged=20210608
+[EndMetadata]

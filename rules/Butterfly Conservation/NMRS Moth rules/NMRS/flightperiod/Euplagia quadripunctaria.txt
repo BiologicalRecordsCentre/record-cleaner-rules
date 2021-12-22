@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.030 Euplagia quadripunctaria (Jersey Tiger)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Euplagia quadripunctaria (Jersey Tiger)
+Tvk = NBNSYS0000006153
+StartDate = 0701
+EndDate = 0915
+LastChanged = 20210525
+[EndMetadata]

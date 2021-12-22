@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.306 Eriopygodes imbecilla (Silurian)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eriopygodes imbecilla (Silurian)
+Tvk = NBNSYS0000006268
+StartDate = 19720730
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

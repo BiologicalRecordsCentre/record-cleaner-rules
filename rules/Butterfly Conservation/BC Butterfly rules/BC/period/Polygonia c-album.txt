@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Polygonia c-album
+Description=Checks date is within known recording period of Polygonia c-album
+ErrorMsg=Date is outside known recording period of Polygonia c-album
+Tvk=NHMSYS0000503893
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

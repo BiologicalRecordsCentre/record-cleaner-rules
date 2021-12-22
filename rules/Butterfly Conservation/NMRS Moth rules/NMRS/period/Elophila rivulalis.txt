@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 63.1145 Elophila rivulalis (Irish China-mark)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Elophila rivulalis (Irish China-mark)
+Tvk = NHMSYS0021297294
+StartDate = 20170710
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

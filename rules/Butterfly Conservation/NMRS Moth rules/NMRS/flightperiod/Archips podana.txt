@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.013 Archips podana (Large Fruit-tree Tortrix)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Archips podana (Large Fruit-tree Tortrix)
+Tvk = NHMSYS0000501288
+StartDate = 0521
+EndDate = 1015
+LastChanged = 20210525
+[EndMetadata]

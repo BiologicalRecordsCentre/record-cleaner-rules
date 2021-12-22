@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.306 Chlorissa viridata (Small Grass Emerald)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Chlorissa viridata (Small Grass Emerald)
+Tvk = NBNSYS0000005743
+StartDate = 0515
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

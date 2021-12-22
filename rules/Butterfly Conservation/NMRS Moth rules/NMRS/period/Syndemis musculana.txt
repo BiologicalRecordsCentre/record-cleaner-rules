@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.028 Syndemis musculana (Dark-barred Tortrix)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Syndemis musculana (Dark-barred Tortrix)
+Tvk = NHMSYS0021143016
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

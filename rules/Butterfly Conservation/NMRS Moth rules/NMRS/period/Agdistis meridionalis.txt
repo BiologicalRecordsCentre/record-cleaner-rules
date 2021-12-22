@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 45.002 Agdistis meridionalis (Cliff Plume)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Agdistis meridionalis (Cliff Plume)
+Tvk = NBNSYS0100001387
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.002 Abrostola triplasia (Dark Spectacle)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Abrostola triplasia (Dark Spectacle)
+Tvk = NBNSYS0000006555
+StartDate = 0401
+EndDate = 1015
+LastChanged = 20210525
+[EndMetadata]

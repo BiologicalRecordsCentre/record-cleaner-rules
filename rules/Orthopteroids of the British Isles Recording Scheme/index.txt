@@ -1,0 +1,2 @@
+http://data.nbn.org.uk/recordcleaner/rules/OBIRS/OBIRS_IDifficulty.zip#Grasshopper, Crickets and allied Insects ID Difficulty#19/07/2013
+http://data.nbn.org.uk/recordcleaner/rules/OBIRS/OBIRS Grasshopper and Cricket rules.zip#Grasshopper, Crickets and allied Insects range, recording and seasonal periods, and additional rules#19/07/2013

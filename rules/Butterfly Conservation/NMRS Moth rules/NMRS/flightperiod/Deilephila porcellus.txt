@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 69.017 Deilephila porcellus (Small Elephant Hawk-moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Deilephila porcellus (Small Elephant Hawk-moth)
+Tvk = NBNSYS0000006078
+StartDate = 0501
+EndDate = 0807
+LastChanged = 20210525
+[EndMetadata]

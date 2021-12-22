@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Ophonus (Metophonus) puncticeps temporal check
+Description=Check date of record against known temporal limit of Ophonus (Metophonus) puncticeps
+Tvk=NHMSYS0001719329
+ErrorMsg=Date outside known temporal limit for Ophonus (Metophonus) puncticeps
+StartDate=19120101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

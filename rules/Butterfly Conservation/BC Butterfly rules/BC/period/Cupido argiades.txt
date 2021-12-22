@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Cupido argiades
+Description=Checks date is within known recording period of Cupido argiades
+ErrorMsg=Date is outside known recording period of Cupido argiades
+Tvk=NHMSYS0020825929
+StartDate=17000101
+EndDate=
+LastChanged=20210707
+[EndMetadata]
+
+         

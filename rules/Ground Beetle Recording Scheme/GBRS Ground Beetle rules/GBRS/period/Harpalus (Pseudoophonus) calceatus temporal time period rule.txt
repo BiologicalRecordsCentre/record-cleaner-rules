@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Harpalus (Pseudoophonus) calceatus temporal check
+Description=Check date of record against known temporal limit of Harpalus (Pseudoophonus) calceatus
+Tvk=NHMSYS0001718359
+ErrorMsg=Date outside known temporal limit for Harpalus (Pseudoophonus) calceatus
+StartDate=
+EndDate=19571213
+LastChanged=20130528
+[EndMetadata]
+

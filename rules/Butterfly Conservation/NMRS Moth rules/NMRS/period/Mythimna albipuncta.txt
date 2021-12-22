@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.297 Mythimna albipuncta (White-point)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Mythimna albipuncta (White-point)
+Tvk = NHMSYS0021144867
+StartDate = 19850101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Reductoniscus costulatus 10km
+Description=Check coordinate against known 10km distribution of Reductoniscus costulatus
+ErrorMsg=Coordinate outside know range for Reductoniscus costulatus
+DataFieldName=Species
+DataRecordId=NHMSYS0020302570
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+TQ17
+
+

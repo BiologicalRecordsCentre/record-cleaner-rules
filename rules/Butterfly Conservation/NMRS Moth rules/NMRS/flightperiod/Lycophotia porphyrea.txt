@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.338 Lycophotia porphyrea (True Lover's Knot)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Lycophotia porphyrea (True Lover's Knot)
+Tvk = NHMSYS0021144917
+StartDate = 0501
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

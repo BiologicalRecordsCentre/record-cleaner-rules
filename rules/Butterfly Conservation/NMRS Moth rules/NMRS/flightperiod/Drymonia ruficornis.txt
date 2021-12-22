@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 71.011 Drymonia ruficornis (Lunar Marbled Brown)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Drymonia ruficornis (Lunar Marbled Brown)
+Tvk = NHMSYS0000502225
+StartDate = 0321
+EndDate = 0621
+LastChanged = 20210525
+[EndMetadata]

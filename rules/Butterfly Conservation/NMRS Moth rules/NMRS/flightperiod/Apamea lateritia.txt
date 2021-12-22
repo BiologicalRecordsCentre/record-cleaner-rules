@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.166 Apamea lateritia (Scarce Brindle)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Apamea lateritia (Scarce Brindle)
+Tvk = NBNSYS0000006427
+StartDate = 0701
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

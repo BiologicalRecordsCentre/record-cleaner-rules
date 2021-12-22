@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Notodonta tritophus 10km
+Description=Check coordinate against known 10km distribution of Notodonta tritophus
+ErrorMsg=Coordinate outside known range for Notodonta tritophus
+DataFieldName=Species
+DataRecordId=NBNSYS0100004290
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+TM22
+TM23
+TM24
+TM33
+TM34
+TM44
+TQ70
+TQ71
+TQ72
+TQ80
+TQ81
+TQ82
+TQ91
+TQ92
+TQ93
+TQ94
+TR01
+TR02
+TR03
+TR04
+TR12
+TR13
+TR14
+TR23
+TR24
+TR25
+TR26
+TR33
+TR34
+TR35
+TR36
+TR46
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

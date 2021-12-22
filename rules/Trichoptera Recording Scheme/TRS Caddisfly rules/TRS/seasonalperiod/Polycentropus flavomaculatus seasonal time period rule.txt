@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Polycentropus flavomaculatus seasonal check
+Description=Check date of record against known seasonal limit of Polycentropus flavomaculatus
+Tvk=NBNSYS0000008409
+ErrorMsg=Date outside known seasonal limit for Polycentropus flavomaculatus
+StartDate=0501
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

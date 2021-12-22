@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.072 Heliothis viriplaca (Marbled Clover)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Heliothis viriplaca (Marbled Clover)
+Tvk = NBNSYS0000006507
+StartDate = 0515
+EndDate = 0907
+LastChanged = 20210525
+[EndMetadata]

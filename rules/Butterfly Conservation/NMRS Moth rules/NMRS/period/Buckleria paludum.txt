@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 45.029 Buckleria paludum (Sundew Plume)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Buckleria paludum (Sundew Plume)
+Tvk = NBNSYS0000027027
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

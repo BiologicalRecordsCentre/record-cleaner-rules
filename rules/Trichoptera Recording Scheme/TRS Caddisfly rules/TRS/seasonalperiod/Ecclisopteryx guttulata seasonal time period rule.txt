@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Ecclisopteryx guttulata seasonal check
+Description=Check date of record against known seasonal limit of Ecclisopteryx guttulata
+Tvk=NBNSYS0000008443
+ErrorMsg=Date outside known seasonal limit for Ecclisopteryx guttulata
+StartDate=0501
+EndDate=0731
+LastChanged=20130528
+[EndMetadata]
+

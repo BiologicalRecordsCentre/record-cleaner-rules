@@ -1,0 +1,12 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 32.012 Agonopterix atomella (Greenweed Flat-body)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Agonopterix atomella (Greenweed Flat-body)
+Tvk = NHMSYS0021142583
+StartDate = 0421
+EndDate = 0707
+ReverseRule = True
+LastChanged = 20210525
+[EndMetadata]

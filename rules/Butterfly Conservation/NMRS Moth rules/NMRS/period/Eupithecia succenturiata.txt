@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.188 Eupithecia succenturiata (Bordered Pug)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eupithecia succenturiata (Bordered Pug)
+Tvk = NBNSYS0000005927
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

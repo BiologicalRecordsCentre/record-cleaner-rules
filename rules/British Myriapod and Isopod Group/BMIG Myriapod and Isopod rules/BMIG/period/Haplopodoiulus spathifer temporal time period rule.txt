@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Haplopodoiulus spathifer temporal check
+Description=Check date of record against known temporal limit of Haplopodoiulus spathifer
+Tvk=NHMSYS0000356254
+ErrorMsg=Date outside known temporal limit for Haplopodoiulus spathifer
+StartDate=19760330
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

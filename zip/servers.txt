@@ -1,0 +1,29 @@
+http://data.nbn.org.uk/recordcleaner/rules/BSBI/index.txt#Botanical Society of the British Isles#09/04/2013
+http://data.nbn.org.uk/recordcleaner/rules/BBS/index.txt#British Bryological Society#08/05/2012
+http://data.nbn.org.uk/recordcleaner/rules/BTO/index.txt#British Trust for Ornithology#15/01/2013
+http://localhost:8080/BC/index.txt#Butterfly Conservation#11/10/2021
+http://data.nbn.org.uk/recordcleaner/rules/DF/index.txt#Dipterist Forum#27/04/2015
+http://data.nbn.org.uk/recordcleaner/rules/DRN/index.txt#Dragonfly Recording Scheme#10/05/2012
+http://data.nbn.org.uk/recordcleaner/rules/HRS/index.txt#Hoverfly Recording Scheme#09/04/2013
+http://data.nbn.org.uk/recordcleaner/rules/MS/index.txt#Mammal Society#20/08/2012
+http://data.nbn.org.uk/recordcleaner/rules/MBA/index.txt#Marine Biological Association#22/07/2016
+http://data.nbn.org.uk/recordcleaner/rules/NBNT/index.txt#National Biodiversity Network Trust#27/09/2011
+http://data.nbn.org.uk/recordcleaner/rules/SRS/index.txt#Spider Recording Scheme#28/06/2012
+http://data.nbn.org.uk/recordcleaner/rules/UKLS/index.txt#UK Ladybird Survey#12/07/2013
+http://data.nbn.org.uk/recordcleaner/rules/NARRS/index.txt#National Amphibian and Reptile Recording Scheme#03/06/2014
+http://data.nbn.org.uk/recordcleaner/rules/ARS/index.txt#Auchenorrhyncha Recording Scheme for Britain and Ireland#12/07/2013
+http://data.nbn.org.uk/recordcleaner/rules/THRS/index.txt#Terrestrial Heteroptera Recording Scheme#12/10/2015
+http://data.nbn.org.uk/recordcleaner/rules/GBRS/index.txt#Ground Beetle Recording Scheme#12/07/2013
+http://data.nbn.org.uk/recordcleaner/rules/BWARS/index.txt#Bees, Wasps and Ants Recording Society#17/07/2013
+http://data.nbn.org.uk/recordcleaner/rules/BMIG/index.txt#British Myriapod and Isopod Group#17/07/2013
+http://data.nbn.org.uk/recordcleaner/rules/OBIRS/index.txt#Orthopteroids of the British Isles Recording Scheme#19/07/2013
+http://data.nbn.org.uk/recordcleaner/rules/LBRS/index.txt#Larger Brachycera Recording Scheme#19/07/2013
+http://data.nbn.org.uk/recordcleaner/rules/ERS/index.txt#Ephemeroptera Recording Scheme#07/08/2013
+http://data.nbn.org.uk/recordcleaner/rules/TRS/index.txt#Trichoptera Recording Scheme#07/08/2013
+http://data.nbn.org.uk/recordcleaner/rules/PRS/index.txt#Plecoptera Recording Scheme#07/08/2013
+http://data.nbn.org.uk/recordcleaner/rules/AHRS/index.txt#Aquatic Heteroptera Recording Scheme#07/11/2014
+http://data.nbn.org.uk/recordcleaner/rules/GRS/index.txt#Gelechiid Recording Scheme#12/11/2015
+http://data.nbn.org.uk/recordcleaner/rules/PMRS/index.txt#Plume Moth Recording Scheme#07/11/2014
+http://data.nbn.org.uk/recordcleaner/rules/BPS/index.txt#British Phycological Society#07/11/2014
+http://data.nbn.org.uk/recordcleaner/rules/BLS/index.txt#British Lichen Society#07/11/2014
+http://data.nbn.org.uk/recordcleaner/rules/CIG/index.txt#Cladocera Interest Group#25/07/2016

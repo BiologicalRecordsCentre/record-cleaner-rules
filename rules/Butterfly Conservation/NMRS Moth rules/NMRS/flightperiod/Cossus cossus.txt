@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 50.001 Cossus cossus (Goat Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cossus cossus (Goat Moth)
+Tvk = NBNSYS0000005662
+StartDate = 0515
+EndDate = 0715
+LastChanged = 20210525
+[EndMetadata]

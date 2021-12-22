@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.106 Trachea atriplicis (Orache Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Trachea atriplicis (Orache Moth)
+Tvk = NBNSYS0000006400
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

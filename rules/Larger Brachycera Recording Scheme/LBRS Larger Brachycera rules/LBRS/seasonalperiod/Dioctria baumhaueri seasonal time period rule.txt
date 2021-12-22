@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Dioctria baumhaueri seasonal check
+Description=Check date of record against known seasonal limit of Dioctria baumhaueri
+Tvk=NBNSYS0000007915
+ErrorMsg=Date outside known seasonal limit for Dioctria baumhaueri
+StartDate=0501
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

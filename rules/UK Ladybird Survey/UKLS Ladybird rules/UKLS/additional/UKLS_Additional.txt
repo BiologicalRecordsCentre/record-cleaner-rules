@@ -1,0 +1,29 @@
+[Metadata]
+TestType=AncillarySpecies
+Group=Additional Verification Check
+ShortName=Check for ladybird species that require additional verification
+Description=Check for ladybird species where additional verification is required
+ErrorMsg=Records for this ladybird species requires additional verification
+ReverseRule=True
+LastChanged=20130705
+[EndMetadata]
+
+[INI]
+1=This is a rare ladybird species
+2=Records for this ladybird must always be verified (rarity, occasional visitors, new arrivals)
+
+[Data]
+NBNSYS0000008293,1
+NBNSYS0000008304,2
+NBNSYS0000008305,1
+NBNSYS0000008311,2
+NBNSYS0000008323,1
+NBNSYS0000008333,2
+NHMSYS0020151871,1
+NHMSYS0020152260,1
+NHMSYS0020152268,2
+NHMSYS0020153335,1
+NHMSYS0020153337,1
+NHMSYS0020153342,2
+NHMSYS0020153393,1
+NHMSYS0020153400,1

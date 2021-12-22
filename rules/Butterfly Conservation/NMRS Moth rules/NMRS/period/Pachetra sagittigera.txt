@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.262 Pachetra sagittigera (Feathered Ear)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pachetra sagittigera (Feathered Ear)
+Tvk = NHMSYS0000522187
+StartDate = 17000101
+EndDate = 19631231
+LastChanged = 20210521
+[EndMetadata]

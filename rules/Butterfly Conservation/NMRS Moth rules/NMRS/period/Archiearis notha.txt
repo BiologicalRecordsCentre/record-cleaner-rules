@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.204 Archiearis notha (Light Orange Underwing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Archiearis notha (Light Orange Underwing)
+Tvk = NHMSYS0021144157
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

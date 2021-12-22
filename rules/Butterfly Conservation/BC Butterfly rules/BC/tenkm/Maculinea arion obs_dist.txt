@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Maculinea arion 10km
+Description=Check coordinate against known 10km distribution of Maculinea arion
+ErrorMsg=Coordinate outside known range for Maculinea arion
+DataFieldName=Species
+DataRecordId=NHMSYS0000516485
+LastChanged=20210901
+[EndMetadata]
+
+
+[10km_GB]
+SO80
+SO81
+SO90
+ST43
+ST52
+
+
+[10km_Ireland]
+
+

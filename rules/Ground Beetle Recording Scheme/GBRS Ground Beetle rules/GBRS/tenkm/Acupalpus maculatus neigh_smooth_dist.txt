@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Acupalpus maculatus 10km
+Description=Check coordinate against known 10km distribution of Acupalpus maculatus
+ErrorMsg=Coordinate outside know range for Acupalpus maculatus
+DataFieldName=Species
+DataRecordId=NHMSYS0001716498
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+TQ80
+TQ81
+TQ82
+TQ83
+TQ91
+TQ92
+TQ93
+TR01
+TR02
+TR03
+TR12
+TR13
+
+

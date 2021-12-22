@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 63.046 Duponchelia fovealis (Dark Marbled Tabby)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Duponchelia fovealis (Dark Marbled Tabby)
+Tvk = MM0001Z1D7P511Z1
+StartDate = 0201
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

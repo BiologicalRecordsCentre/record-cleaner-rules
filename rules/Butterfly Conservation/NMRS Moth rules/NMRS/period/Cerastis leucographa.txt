@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.337 Cerastis leucographa (White-marked)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Cerastis leucographa (White-marked)
+Tvk = NHMSYS0021144915
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

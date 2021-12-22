@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.090 Eulithis testata (Chevron)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eulithis testata (Chevron)
+Tvk = NBNSYS0000005835
+StartDate = 0621
+EndDate = 1007
+LastChanged = 20210525
+[EndMetadata]

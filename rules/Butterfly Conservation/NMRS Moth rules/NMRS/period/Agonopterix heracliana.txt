@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 32.018 Agonopterix heracliana (Common Flat-body)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Agonopterix heracliana (Common Flat-body)
+Tvk = NHMSYS0000501056
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

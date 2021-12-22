@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.231 Aporophyla lutulenta (Deep-brown Dart)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Aporophyla lutulenta (Deep-brown Dart)
+Tvk = NHMSYS0021144770
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Harpalus (Pseudoophonus) griseus seasonal check
+Description=Check date of record against known seasonal limit of Harpalus (Pseudoophonus) griseus
+Tvk=NHMSYS0001718360
+ErrorMsg=Date outside known seasonal limit for Harpalus (Pseudoophonus) griseus
+StartDate=0501
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

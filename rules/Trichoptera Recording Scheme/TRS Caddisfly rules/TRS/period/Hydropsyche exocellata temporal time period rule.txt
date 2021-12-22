@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Hydropsyche exocellata temporal check
+Description=Check date of record against known temporal limit of Hydropsyche exocellata
+Tvk=NBNSYS0000008416
+ErrorMsg=Date outside known temporal limit for Hydropsyche exocellata
+StartDate=18620101
+EndDate=19031231
+LastChanged=20130528
+[EndMetadata]
+

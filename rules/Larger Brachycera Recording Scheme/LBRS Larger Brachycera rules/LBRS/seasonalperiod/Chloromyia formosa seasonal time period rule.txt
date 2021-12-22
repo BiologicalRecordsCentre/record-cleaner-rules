@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Chloromyia formosa seasonal check
+Description=Check date of record against known seasonal limit of Chloromyia formosa
+Tvk=NBNSYS0000007825
+ErrorMsg=Date outside known seasonal limit for Chloromyia formosa
+StartDate=0501
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

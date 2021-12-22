@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.061 Epirrhoe alternata (Common Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Epirrhoe alternata (Common Carpet)
+Tvk = NHMSYS0000519763
+StartDate = 0401
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Limnephilus ignavus 10km
+Description=Check coordinate against known 10km distribution of Limnephilus ignavus
+ErrorMsg=Coordinate outside know range for Limnephilus ignavus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008481
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+HY21
+HY31
+NC22
+NG30
+NH31
+NH55
+NM39
+NM49
+NN65
+NN68
+NN79
+NN95
+NT70
+NX59
+NX76
+SJ65
+SO57
+SP33
+SP50
+
+

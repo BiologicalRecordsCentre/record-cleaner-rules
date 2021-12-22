@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Beris clavipes seasonal check
+Description=Check date of record against known seasonal limit of Beris clavipes
+Tvk=NBNSYS0000007796
+ErrorMsg=Date outside known seasonal limit for Beris clavipes
+StartDate=0501
+EndDate=0630
+LastChanged=20130528
+[EndMetadata]
+

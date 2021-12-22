@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.365 Eugnorisma glareosa (Autumnal Rustic)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eugnorisma glareosa (Autumnal Rustic)
+Tvk = NHMSYS0000502566
+StartDate = 0801
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.279 Hecatera bicolorata (Broad-barred White)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hecatera bicolorata (Broad-barred White)
+Tvk = NBNSYS0000006255
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

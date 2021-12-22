@@ -1,0 +1,44 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Eucarta virgo 10km
+Description=Check coordinate against known 10km distribution of Eucarta virgo
+ErrorMsg=Coordinate outside known range for Eucarta virgo
+DataFieldName=Species
+DataRecordId=NHMSYS0020758196
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+SO44
+SO45
+SO46
+SO54
+SO55
+SO56
+SO64
+SO65
+SO66
+TG03
+TG04
+TG13
+TG14
+TG23
+TG24
+TM36
+TM37
+TM38
+TM46
+TM47
+TM48
+TM57
+TM58
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

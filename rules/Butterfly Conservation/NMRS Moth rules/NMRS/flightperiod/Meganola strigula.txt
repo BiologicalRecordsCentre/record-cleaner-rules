@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 74.001 Meganola strigula (Small Black Arches)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Meganola strigula (Small Black Arches)
+Tvk = NHMSYS0021144953
+StartDate = 0607
+EndDate = 0721
+LastChanged = 20210525
+[EndMetadata]

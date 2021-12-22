@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.320 Dichrorampha alpinana (Broad-blotch Drill)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Dichrorampha alpinana (Broad-blotch Drill)
+Tvk = NHMSYS0000502160
+StartDate = 0515
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 37.034 Coleophora frischella (White-clover Case-bearer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Coleophora frischella (White-clover Case-bearer)
+Tvk = NHMSYS0000501861
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

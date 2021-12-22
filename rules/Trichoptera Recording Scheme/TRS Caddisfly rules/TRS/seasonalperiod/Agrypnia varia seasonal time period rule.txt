@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Agrypnia varia seasonal check
+Description=Check date of record against known seasonal limit of Agrypnia varia
+Tvk=NHMSYS0020704765
+ErrorMsg=Date outside known seasonal limit for Agrypnia varia
+StartDate=0401
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

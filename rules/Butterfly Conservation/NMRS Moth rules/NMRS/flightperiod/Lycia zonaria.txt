@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.250 Lycia zonaria (Belted Beauty)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Lycia zonaria (Belted Beauty)
+Tvk = NHMSYS0000520883
+StartDate = 0301
+EndDate = 0615
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Metatrichoniscoides celticus temporal check
+Description=Check date of record against known temporal limit of Metatrichoniscoides celticus
+Tvk=NBNSYS0000008548
+ErrorMsg=Date outside known temporal limit for Metatrichoniscoides celticus
+StartDate=19790101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

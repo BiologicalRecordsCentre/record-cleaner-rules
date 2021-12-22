@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 32.003 Luquetia lobella (Sloe Flat-body)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Luquetia lobella (Sloe Flat-body)
+Tvk = NBNSYS0100003818
+StartDate = 0501
+EndDate = 0707
+LastChanged = 20210525
+[EndMetadata]

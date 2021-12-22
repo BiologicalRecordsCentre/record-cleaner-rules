@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 15.077 Phyllonorycter scabiosella (Surrey Midget)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Phyllonorycter scabiosella (Surrey Midget)
+Tvk = NHMSYS0000503807
+StartDate = 0501
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

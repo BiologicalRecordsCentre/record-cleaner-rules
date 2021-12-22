@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Hydroptila simulans 10km
+Description=Check coordinate against known 10km distribution of Hydroptila simulans
+ErrorMsg=Coordinate outside know range for Hydroptila simulans
+DataFieldName=Species
+DataRecordId=NBNSYS0000008359
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NC01
+NN95
+NO08
+SH72
+SJ24
+SO54
+SP84
+SU46
+SY79
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.148 Eupithecia inturbata (Maple Pug)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eupithecia inturbata (Maple Pug)
+Tvk = NHMSYS0021144075
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

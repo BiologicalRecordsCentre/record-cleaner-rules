@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.217 Macaria brunneata (Rannoch Looper)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Macaria brunneata (Rannoch Looper)
+Tvk = NHMSYS0021144169
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

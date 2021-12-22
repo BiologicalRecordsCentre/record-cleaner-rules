@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.005 Hypena obesalis (Paignton Snout)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Hypena obesalis (Paignton Snout)
+Tvk = NHMSYS0021144366
+StartDate = 0915
+EndDate = 1015
+LastChanged = 20210525
+[EndMetadata]

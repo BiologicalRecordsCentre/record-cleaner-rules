@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.221 Cepphis advenaria (Little Thorn)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Cepphis advenaria (Little Thorn)
+Tvk = NHMSYS0000501714
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

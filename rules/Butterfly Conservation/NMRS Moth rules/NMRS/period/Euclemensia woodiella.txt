@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 34.003 Euclemensia woodiella (Yellow-blotch Cosmet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Euclemensia woodiella (Yellow-blotch Cosmet)
+Tvk = NHMSYS0000502524
+StartDate = 18290101
+EndDate = 18291231
+LastChanged = 20210521
+[EndMetadata]

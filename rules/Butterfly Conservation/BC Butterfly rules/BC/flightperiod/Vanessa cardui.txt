@@ -1,0 +1,11 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Flight Period
+ShortName=Vanessa cardui
+Description=Checks date is within known flight period of Vanessa cardui
+ErrorMsg=Date is outside known flight period of Vanessa cardui
+Tvk=NBNSYS0100005950
+StartDate=0201
+EndDate=1130
+LastChanged=20210608
+[EndMetadata]

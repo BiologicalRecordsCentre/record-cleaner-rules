@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Bembidion (Ocydromus) testaceum 10km
+Description=Check coordinate against known 10km distribution of Bembidion (Ocydromus) testaceum
+ErrorMsg=Coordinate outside know range for Bembidion (Ocydromus) testaceum
+DataFieldName=Species
+DataRecordId=NHMSYS0001717175
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+NY56
+NY96
+NZ16
+SE36
+SE98
+SN54
+SN90
+SO85
+ST17
+SU96
+SX86
+SZ38
+SZ68
+TF38
+
+

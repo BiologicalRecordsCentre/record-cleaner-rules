@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 63.046 Duponchelia fovealis (Dark Marbled Tabby)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Duponchelia fovealis (Dark Marbled Tabby)
+Tvk = MM0001Z1D7P511Z1
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Phryganea bipunctata temporal check
+Description=Check date of record against known temporal limit of Phryganea bipunctata
+Tvk=NBNSYS0000008430
+ErrorMsg=Date outside known temporal limit for Phryganea bipunctata
+StartDate=18580101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

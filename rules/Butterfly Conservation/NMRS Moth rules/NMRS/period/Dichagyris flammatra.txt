@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.310 Dichagyris flammatra (Black Collar)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Dichagyris flammatra (Black Collar)
+Tvk = NHMSYS0021144883
+StartDate = 18590101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

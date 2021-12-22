@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Hagenella clathrata 10km
+Description=Check coordinate against known 10km distribution of Hagenella clathrata
+ErrorMsg=Coordinate outside know range for Hagenella clathrata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008428
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NH70
+NH81
+SJ43
+SJ47
+SK02
+SU94
+SU95
+SU96
+
+

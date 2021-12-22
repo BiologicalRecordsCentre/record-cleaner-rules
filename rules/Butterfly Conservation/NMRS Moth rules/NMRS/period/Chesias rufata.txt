@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.196 Chesias rufata (Broom-tip)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Chesias rufata (Broom-tip)
+Tvk = NBNSYS0000005954
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

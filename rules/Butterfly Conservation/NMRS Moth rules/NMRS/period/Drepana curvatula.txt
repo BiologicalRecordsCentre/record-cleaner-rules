@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 65.004 Drepana curvatula (Dusky Hook-tip)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Drepana curvatula (Dusky Hook-tip)
+Tvk = NBNSYS0000005721
+StartDate = 19600813
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

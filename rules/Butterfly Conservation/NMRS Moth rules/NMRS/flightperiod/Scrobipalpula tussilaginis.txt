@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.125 Scrobipalpula tussilaginis (Colt’s-foot Groundling)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Scrobipalpula tussilaginis (Colt’s-foot Groundling)
+Tvk = NHMSYS0000504158
+StartDate = 0601
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

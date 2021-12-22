@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 62.003 Paralipsa gularis (Stored Nut Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Paralipsa gularis (Stored Nut Moth)
+Tvk = NHMSYS0000503603
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

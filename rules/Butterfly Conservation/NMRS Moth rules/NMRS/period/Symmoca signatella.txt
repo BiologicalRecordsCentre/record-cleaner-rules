@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 27.004 Symmoca signatella (Dockland Obscure)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Symmoca signatella (Dockland Obscure)
+Tvk = NHMSYS0000504417
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Athripsodes bilineatus temporal check
+Description=Check date of record against known temporal limit of Athripsodes bilineatus
+Tvk=NBNSYS0000008513
+ErrorMsg=Date outside known temporal limit for Athripsodes bilineatus
+StartDate=18300101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

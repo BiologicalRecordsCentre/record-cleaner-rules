@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.297 Mythimna albipuncta (White-point)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Mythimna albipuncta (White-point)
+Tvk = NHMSYS0021144867
+StartDate = 0415
+EndDate = 1115
+LastChanged = 20210525
+[EndMetadata]

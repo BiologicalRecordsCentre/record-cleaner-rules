@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 38.021 Elachista tengstromi (Small Wood-rush Dwarf)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Elachista tengstromi (Small Wood-rush Dwarf)
+Tvk = NHMSYS0021142278
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

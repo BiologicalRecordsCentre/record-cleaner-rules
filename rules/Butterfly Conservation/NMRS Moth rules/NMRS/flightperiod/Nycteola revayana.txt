@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 74.009 Nycteola revayana (Oak Nycteoline)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Nycteola revayana (Oak Nycteoline)
+Tvk = NBNSYS0000011345
+StartDate = 0201
+EndDate = 1130
+LastChanged = 20210525
+[EndMetadata]

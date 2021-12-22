@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 40.006 Mompha jurassicella (Scarce Mompha)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Mompha jurassicella (Scarce Mompha)
+Tvk = NHMSYS0000503256
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

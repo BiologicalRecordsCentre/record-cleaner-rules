@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 71.004 Cerura erminea (Feline)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Cerura erminea (Feline)
+Tvk = NHMSYS0020500506
+StartDate = 20080607
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

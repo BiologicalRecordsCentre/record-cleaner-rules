@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.059 Zanclognatha zelleralis (Dusky Fan-foot)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Zanclognatha zelleralis (Dusky Fan-foot)
+Tvk = NBNSYS0100006033
+StartDate = 19820721
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

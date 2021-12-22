@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 62.044 Ancylodes pallens (Pale Knot-horn)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Ancylodes pallens (Pale Knot-horn)
+Tvk = MM0001Z1GTI8C1MY
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

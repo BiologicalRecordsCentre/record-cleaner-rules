@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.195 Bactra furfurana (Mottled Marble)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Bactra furfurana (Mottled Marble)
+Tvk = NHMSYS0000501438
+StartDate = 0501
+EndDate = 0907
+LastChanged = 20210525
+[EndMetadata]

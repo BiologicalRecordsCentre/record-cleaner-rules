@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.109 Thalpophila matura (Straw Underwing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Thalpophila matura (Straw Underwing)
+Tvk = NBNSYS0000006399
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.015 Calliteara pudibunda (Pale Tussock)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Calliteara pudibunda (Pale Tussock)
+Tvk = NBNSYS0000006114
+StartDate = 0415
+EndDate = 0707
+LastChanged = 20210525
+[EndMetadata]

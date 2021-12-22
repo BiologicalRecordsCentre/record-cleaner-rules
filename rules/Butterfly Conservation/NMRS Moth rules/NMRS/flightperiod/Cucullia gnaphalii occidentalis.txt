@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.054 Cucullia gnaphalii occidentalis (Cudweed)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cucullia gnaphalii occidentalis (Cudweed)
+Tvk = NHMSYS0021144522
+StartDate = 0521
+EndDate = 0715
+LastChanged = 20210525
+[EndMetadata]

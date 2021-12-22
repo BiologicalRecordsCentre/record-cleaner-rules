@@ -1,0 +1,12 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.255 Agriopis marginaria (Dotted Border)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Agriopis marginaria (Dotted Border)
+Tvk = NHMSYS0021144223
+StartDate = 0515
+EndDate = 1221
+ReverseRule = True
+LastChanged = 20210525
+[EndMetadata]

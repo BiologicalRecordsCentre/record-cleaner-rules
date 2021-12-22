@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 32.042 Depressaria pulcherrimella (Pignut Flat-body)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Depressaria pulcherrimella (Pignut Flat-body)
+Tvk = NBNSYS0100002775
+StartDate = 0621
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

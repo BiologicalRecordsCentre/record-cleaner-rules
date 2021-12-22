@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Porcellio laevis 10km
+Description=Check coordinate against known 10km distribution of Porcellio laevis
+ErrorMsg=Coordinate outside know range for Porcellio laevis
+DataFieldName=Species
+DataRecordId=NHMSYS0020302569
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+NS66
+NY72
+SJ27
+SJ28
+SJ36
+SJ38
+SP50
+SU77
+SX99
+SY66
+SY67
+SY78
+SZ07
+SZ08
+TF72
+TG20
+TL23
+TL45
+TL79
+TM35
+TM59
+TQ21
+TQ40
+TQ48
+TQ76
+TR16
+TR23
+TR26
+TR34
+TR37
+
+

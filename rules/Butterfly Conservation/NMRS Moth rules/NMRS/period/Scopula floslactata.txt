@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.027 Scopula floslactata (Cream Wave)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Scopula floslactata (Cream Wave)
+Tvk = NBNSYS0000005766
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

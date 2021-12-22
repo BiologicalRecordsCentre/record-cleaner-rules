@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.265 Lacanobia contigua (Beautiful Brocade)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Lacanobia contigua (Beautiful Brocade)
+Tvk = NHMSYS0021144816
+StartDate = 0501
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

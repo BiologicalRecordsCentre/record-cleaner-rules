@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Ogcodes pallipes 10km
+Description=Check coordinate against known 10km distribution of Ogcodes pallipes
+ErrorMsg=Coordinate outside know range for Ogcodes pallipes
+DataFieldName=Species
+DataRecordId=NBNSYS0000007940
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+SO80
+ST95
+SU01
+SU04
+SU14
+SU24
+SU42
+SU56
+SU62
+TQ08
+TQ15
+TQ17
+TQ49
+TQ76
+
+

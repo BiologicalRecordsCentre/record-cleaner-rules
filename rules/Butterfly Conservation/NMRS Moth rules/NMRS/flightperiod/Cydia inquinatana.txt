@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.344 Cydia inquinatana (Scarce Maple Piercer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cydia inquinatana (Scarce Maple Piercer)
+Tvk = NHMSYS0021143360
+StartDate = 0521
+EndDate = 0630
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Geophilus pusillifrater temporal check
+Description=Check date of record against known temporal limit of Geophilus pusillifrater
+Tvk=NBNSYS0000011413
+ErrorMsg=Date outside known temporal limit for Geophilus pusillifrater
+StartDate=19610101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

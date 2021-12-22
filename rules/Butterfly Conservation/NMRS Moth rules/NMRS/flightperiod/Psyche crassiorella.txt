@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 11.013 Psyche crassiorella (Scarce Grass Bagworm)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Psyche crassiorella (Scarce Grass Bagworm)
+Tvk = NHMSYS0000503961
+StartDate = 0601
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

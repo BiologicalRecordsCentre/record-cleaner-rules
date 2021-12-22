@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Dyschirius (Dyschiriodes) extensus 10km
+Description=Check coordinate against known 10km distribution of Dyschirius (Dyschiriodes) extensus
+ErrorMsg=Coordinate outside know range for Dyschirius (Dyschiriodes) extensus
+DataFieldName=Species
+DataRecordId=NHMSYS0001718004
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+SH36
+SH37
+SH45
+SH46
+SH47
+SH55
+SH56
+SH57
+TL90
+TL91
+TL92
+TM00
+TM01
+TM02
+TM10
+TM11
+TM12
+TM20
+TM21
+TM22
+TR24
+TR25
+TR26
+TR34
+TR35
+TR36
+TR46
+
+

@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Deltote deceptoria 10km
+Description=Check coordinate against known 10km distribution of Deltote deceptoria
+ErrorMsg=Coordinate outside known range for Deltote deceptoria
+DataFieldName=Species
+DataRecordId=NBNSYS0000006517
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+SU90
+SU91
+SU92
+TQ00
+TQ01
+TQ02
+TQ10
+TQ11
+TQ12
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 12.029 Tinea flavescentella (Plain Clothes Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Tinea flavescentella (Plain Clothes Moth)
+Tvk = NHMSYS0000504531
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Flight Period
+ShortName=Plebejus argus
+Description=Checks date is within known flight period of Plebejus argus
+ErrorMsg=Date is outside known flight period of Plebejus argus
+Tvk=NBNSYS0000005539
+StartDate=0501
+EndDate=0831
+LastChanged=20210608
+[EndMetadata]

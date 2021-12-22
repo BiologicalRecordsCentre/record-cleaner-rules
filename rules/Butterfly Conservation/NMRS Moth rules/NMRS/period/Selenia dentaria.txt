@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.237 Selenia dentaria (Early Thorn)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Selenia dentaria (Early Thorn)
+Tvk = NBNSYS0000006008
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

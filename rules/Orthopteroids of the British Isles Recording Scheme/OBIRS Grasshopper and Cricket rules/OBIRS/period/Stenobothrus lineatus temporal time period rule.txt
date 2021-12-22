@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Stenobothrus lineatus temporal check
+Description=Check date of record against known temporal limit of Stenobothrus lineatus
+Tvk=NBNSYS0000006835
+ErrorMsg=Date outside known temporal limit for Stenobothrus lineatus
+StartDate=18000101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

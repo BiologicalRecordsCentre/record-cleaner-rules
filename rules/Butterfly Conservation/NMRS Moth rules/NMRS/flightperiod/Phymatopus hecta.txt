@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 3.004 Phymatopus hecta (Gold Swift)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Phymatopus hecta (Gold Swift)
+Tvk = NHMSYS0021142347
+StartDate = 0515
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

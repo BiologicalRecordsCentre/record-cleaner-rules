@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 15.042 Phyllonorycter muelleriella (Western Midget)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Phyllonorycter muelleriella (Western Midget)
+Tvk = NHMSYS0000503788
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

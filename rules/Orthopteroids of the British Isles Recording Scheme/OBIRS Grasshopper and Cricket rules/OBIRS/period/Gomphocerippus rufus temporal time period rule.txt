@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Gomphocerippus rufus temporal check
+Description=Check date of record against known temporal limit of Gomphocerippus rufus
+Tvk=NBNSYS0000006840
+ErrorMsg=Date outside known temporal limit for Gomphocerippus rufus
+StartDate=18000101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

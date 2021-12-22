@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Brachyptera risi seasonal check
+Description=Check date of record against known seasonal limit of Brachyptera risi
+Tvk=NBNSYS0000022414
+ErrorMsg=Date outside known seasonal limit for Brachyptera risi
+StartDate=0201
+EndDate=0731
+LastChanged=20130528
+[EndMetadata]
+

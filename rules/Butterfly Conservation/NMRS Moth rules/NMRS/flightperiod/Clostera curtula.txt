@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 71.027 Clostera curtula (Chocolate-tip)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Clostera curtula (Chocolate-tip)
+Tvk = NBNSYS0000006105
+StartDate = 0315
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

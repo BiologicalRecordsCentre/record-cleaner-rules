@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Oxyethira simplex 10km
+Description=Check coordinate against known 10km distribution of Oxyethira simplex
+ErrorMsg=Coordinate outside know range for Oxyethira simplex
+DataFieldName=Species
+DataRecordId=NBNSYS0000008372
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NC12
+NH31
+NH80
+NM95
+NO08
+NY41
+SH48
+SH63
+SH64
+SH72
+SH76
+SN96
+SO54
+SU37
+SU46
+SU53
+
+

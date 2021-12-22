@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 15.019 Acrocercops brongniardella (Brown Oak Slender)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Acrocercops brongniardella (Brown Oak Slender)
+Tvk = NHMSYS0000500964
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

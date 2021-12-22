@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Limnephilus lunatus temporal check
+Description=Check date of record against known temporal limit of Limnephilus lunatus
+Tvk=NBNSYS0000008483
+ErrorMsg=Date outside known temporal limit for Limnephilus lunatus
+StartDate=18360101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

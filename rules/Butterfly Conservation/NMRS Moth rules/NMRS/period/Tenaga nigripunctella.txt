@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 12.002 Tenaga nigripunctella (Black-spot Clothes Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Tenaga nigripunctella (Black-spot Clothes Moth)
+Tvk = NHMSYS0000504471
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

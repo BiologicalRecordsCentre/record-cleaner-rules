@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.002 Isotrias rectifasciana (Hedge Tortrix)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Isotrias rectifasciana (Hedge Tortrix)
+Tvk = NHMSYS0000502961
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

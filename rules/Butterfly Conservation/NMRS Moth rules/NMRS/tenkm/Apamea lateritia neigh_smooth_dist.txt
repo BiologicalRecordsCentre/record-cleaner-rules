@@ -1,0 +1,47 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Apamea lateritia 10km
+Description=Check coordinate against known 10km distribution of Apamea lateritia
+ErrorMsg=Coordinate outside known range for Apamea lateritia
+DataFieldName=Species
+DataRecordId=NBNSYS0000006427
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+HP50
+HP60
+HU58
+HU59
+HU68
+HU69
+HZ16
+HZ17
+HZ26
+HZ27
+TM12
+TM13
+TM14
+TM22
+TM23
+TM24
+TM33
+TM34
+TR02
+TR03
+TR04
+TR12
+TR13
+TR14
+TR23
+TR24
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

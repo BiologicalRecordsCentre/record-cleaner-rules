@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Harpalus (Harpalus) dimidiatus seasonal check
+Description=Check date of record against known seasonal limit of Harpalus (Harpalus) dimidiatus
+Tvk=NBNSYS0100003340
+ErrorMsg=Date outside known seasonal limit for Harpalus (Harpalus) dimidiatus
+StartDate=0401
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

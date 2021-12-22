@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.120 Scrobipalpa artemisiella (Thyme Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Scrobipalpa artemisiella (Thyme Moth)
+Tvk = NHMSYS0000504139
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

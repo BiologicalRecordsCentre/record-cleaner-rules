@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Galgula partita 10km
+Description=Check coordinate against known 10km distribution of Galgula partita
+ErrorMsg=Coordinate outside known range for Galgula partita
+DataFieldName=Species
+DataRecordId=NHMSYS0021144570
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+ST30
+ST31
+ST32
+ST40
+ST41
+ST42
+ST50
+ST51
+ST52
+SW42
+SW43
+SW44
+SW52
+SW53
+SW54
+SW62
+SW63
+SW64
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

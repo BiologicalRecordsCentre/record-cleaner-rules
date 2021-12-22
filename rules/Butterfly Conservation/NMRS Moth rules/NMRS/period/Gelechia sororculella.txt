@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.101 Gelechia sororculella (Dark-striped Groundling)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Gelechia sororculella (Dark-striped Groundling)
+Tvk = NHMSYS0021142742
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Craspedosoma rawlinsii temporal check
+Description=Check date of record against known temporal limit of Craspedosoma rawlinsii
+Tvk=NHMSYS0020108469
+ErrorMsg=Date outside known temporal limit for Craspedosoma rawlinsii
+StartDate=18140101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

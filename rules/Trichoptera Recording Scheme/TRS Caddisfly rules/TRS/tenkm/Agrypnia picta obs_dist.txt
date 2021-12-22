@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Agrypnia picta 10km
+Description=Check coordinate against known 10km distribution of Agrypnia picta
+ErrorMsg=Coordinate outside know range for Agrypnia picta
+DataFieldName=Species
+DataRecordId=NBNSYS0000008426
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+HP61
+NG53
+NG54
+NY22
+SU20
+SU30
+TQ28
+
+

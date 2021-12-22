@@ -1,0 +1,11 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Flight Period
+ShortName=Phengaris arion
+Description=Checks date is within known flight period of Phengaris arion
+ErrorMsg=Date is outside known flight period of Phengaris arion
+Tvk=NHMSYS0000516485
+StartDate=0601
+EndDate=0831
+LastChanged=20210608
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Oxycera leonina seasonal check
+Description=Check date of record against known seasonal limit of Oxycera leonina
+Tvk=NBNSYS0000007812
+ErrorMsg=Date outside known seasonal limit for Oxycera leonina
+StartDate=0601
+EndDate=0731
+LastChanged=20130528
+[EndMetadata]
+

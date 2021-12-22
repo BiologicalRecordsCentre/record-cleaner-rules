@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 11.002 Narycia duplicella (White-speckled Bagworm)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Narycia duplicella (White-speckled Bagworm)
+Tvk = NHMSYS0021142187
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

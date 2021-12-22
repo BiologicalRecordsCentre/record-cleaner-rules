@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 38.009 Elachista dispunctella (White Dwarf)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Elachista dispunctella (White Dwarf)
+Tvk = NHMSYS0021142262
+StartDate = 0501
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

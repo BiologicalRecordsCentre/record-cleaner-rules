@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.004 Idaea rusticata (Least Carpet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Idaea rusticata (Least Carpet)
+Tvk = NHMSYS0021143842
+StartDate = 18310101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

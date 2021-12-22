@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Stigmatogaster souletinus 10km
+Description=Check coordinate against known 10km distribution of Stigmatogaster souletinus
+ErrorMsg=Coordinate outside know range for Stigmatogaster souletinus
+DataFieldName=Species
+DataRecordId=NHMSYS0020500697
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+SW62
+SW63
+SW73
+TQ74
+
+

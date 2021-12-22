@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.061 Schrankia costaestrigalis (Pinion-streaked Snout)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Schrankia costaestrigalis (Pinion-streaked Snout)
+Tvk = NBNSYS0000006586
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

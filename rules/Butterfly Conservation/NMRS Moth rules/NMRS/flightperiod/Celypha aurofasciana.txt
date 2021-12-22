@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.169 Celypha aurofasciana (Moss Marble)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Celypha aurofasciana (Moss Marble)
+Tvk = NBNSYS0100002223
+StartDate = 0601
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

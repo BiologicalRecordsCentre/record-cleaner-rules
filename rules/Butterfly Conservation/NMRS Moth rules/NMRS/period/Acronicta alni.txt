@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.036 Acronicta alni (Alder Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Acronicta alni (Alder Moth)
+Tvk = NBNSYS0000006376
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

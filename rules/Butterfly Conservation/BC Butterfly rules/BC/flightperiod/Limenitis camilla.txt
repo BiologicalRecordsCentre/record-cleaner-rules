@@ -1,0 +1,11 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Flight Period
+ShortName=Limenitis camilla
+Description=Checks date is within known flight period of Limenitis camilla
+ErrorMsg=Date is outside known flight period of Limenitis camilla
+Tvk=NBNSYS0100003750
+StartDate=0601
+EndDate=1031
+LastChanged=20210608
+[EndMetadata]

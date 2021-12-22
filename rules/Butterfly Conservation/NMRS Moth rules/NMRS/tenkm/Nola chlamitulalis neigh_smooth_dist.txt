@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Nola chlamitulalis 10km
+Description=Check coordinate against known 10km distribution of Nola chlamitulalis
+ErrorMsg=Coordinate outside known range for Nola chlamitulalis
+DataFieldName=Species
+DataRecordId=NHMSYS0021144960
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+SY48
+SY49
+SY58
+SY59
+SY67
+SY68
+SY69
+TL30
+TL31
+TL40
+TL41
+TL50
+TL51
+TQ39
+TQ49
+TQ59
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

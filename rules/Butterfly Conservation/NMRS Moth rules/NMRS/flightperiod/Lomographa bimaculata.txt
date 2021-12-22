@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.279 Lomographa bimaculata (White-pinion Spotted)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Lomographa bimaculata (White-pinion Spotted)
+Tvk = NBNSYS0000006049
+StartDate = 0415
+EndDate = 0715
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.005 Epagoge grotiana (Brown-barred Tortrix)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Epagoge grotiana (Brown-barred Tortrix)
+Tvk = NHMSYS0000502388
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

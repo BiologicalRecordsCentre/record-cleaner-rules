@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Ptiolina obscura seasonal check
+Description=Check date of record against known seasonal limit of Ptiolina obscura
+Tvk=NBNSYS0000007854
+ErrorMsg=Date outside known seasonal limit for Ptiolina obscura
+StartDate=0501
+EndDate=0731
+LastChanged=20130528
+[EndMetadata]
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.043 Eilema depressa (Buff Footman)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eilema depressa (Buff Footman)
+Tvk = NBNSYS0100002922
+StartDate = 0601
+EndDate = 1015
+LastChanged = 20210525
+[EndMetadata]

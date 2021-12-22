@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.041 Scotopteryx luridata (July Belle)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Scotopteryx luridata (July Belle)
+Tvk = NHMSYS0000521358
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

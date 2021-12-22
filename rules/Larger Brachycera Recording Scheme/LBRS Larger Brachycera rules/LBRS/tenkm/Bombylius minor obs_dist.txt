@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Bombylius minor 10km
+Description=Check coordinate against known 10km distribution of Bombylius minor
+ErrorMsg=Coordinate outside know range for Bombylius minor
+DataFieldName=Species
+DataRecordId=NBNSYS0000007944
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+SU23
+SY78
+SY88
+SY89
+SY98
+SY99
+SZ08
+SZ09
+
+

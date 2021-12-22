@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 22.005 Prays peregrina (London Ermel)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Prays peregrina (London Ermel)
+Tvk = NHMSYS0021142521
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

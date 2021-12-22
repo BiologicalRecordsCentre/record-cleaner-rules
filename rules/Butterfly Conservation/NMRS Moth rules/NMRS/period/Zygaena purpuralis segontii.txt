@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 54.004 Zygaena purpuralis segontii (Transparent Burnet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Zygaena purpuralis segontii (Transparent Burnet)
+Tvk = NHMSYS0021143424
+StartDate = 17000101
+EndDate = 19621231
+LastChanged = 20210521
+[EndMetadata]

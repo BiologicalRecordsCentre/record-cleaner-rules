@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 69.011 Daphnis nerii (Oleander Hawk-moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Daphnis nerii (Oleander Hawk-moth)
+Tvk = NBNSYS0000006073
+StartDate = 0821
+EndDate = 1121
+LastChanged = 20210525
+[EndMetadata]

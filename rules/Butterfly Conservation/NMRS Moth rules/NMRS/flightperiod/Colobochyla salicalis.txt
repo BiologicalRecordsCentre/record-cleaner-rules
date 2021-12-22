@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 72.068 Colobochyla salicalis (Lesser Belle)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Colobochyla salicalis (Lesser Belle)
+Tvk = NHMSYS0021144439
+StartDate = 0521
+EndDate = 0715
+LastChanged = 20210525
+[EndMetadata]

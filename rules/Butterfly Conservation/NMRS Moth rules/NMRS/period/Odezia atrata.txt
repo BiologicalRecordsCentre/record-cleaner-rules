@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.130 Odezia atrata (Chimney Sweeper)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Odezia atrata (Chimney Sweeper)
+Tvk = NBNSYS0000005961
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

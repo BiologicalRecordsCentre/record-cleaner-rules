@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Psychomyia pusilla temporal check
+Description=Check date of record against known temporal limit of Psychomyia pusilla
+Tvk=NHMSYS0020704831
+ErrorMsg=Date outside known temporal limit for Psychomyia pusilla
+StartDate=18350101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

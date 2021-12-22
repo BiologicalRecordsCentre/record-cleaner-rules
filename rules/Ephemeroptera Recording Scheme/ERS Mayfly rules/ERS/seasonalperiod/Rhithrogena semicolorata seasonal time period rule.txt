@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Rhithrogena semicolorata seasonal check
+Description=Check date of record against known seasonal limit of Rhithrogena semicolorata
+Tvk=NBNSYS0000010887
+ErrorMsg=Date outside known seasonal limit for Rhithrogena semicolorata
+StartDate=0401
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

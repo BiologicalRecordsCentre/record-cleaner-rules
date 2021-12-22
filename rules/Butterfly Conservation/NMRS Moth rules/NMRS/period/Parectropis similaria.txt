@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.273 Parectropis similaria (Brindled White-spot)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Parectropis similaria (Brindled White-spot)
+Tvk = NBNSYS0100004476
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

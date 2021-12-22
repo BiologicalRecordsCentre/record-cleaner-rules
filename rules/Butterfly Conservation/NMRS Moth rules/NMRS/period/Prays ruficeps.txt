@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 22.003 Prays ruficeps (Dark Ash-bud Moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Prays ruficeps (Dark Ash-bud Moth)
+Tvk = NHMSYS0021142520
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

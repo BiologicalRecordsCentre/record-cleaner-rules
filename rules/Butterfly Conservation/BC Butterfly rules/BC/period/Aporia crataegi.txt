@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Aporia crataegi
+Description=Checks date is within known recording period of Aporia crataegi
+ErrorMsg=Date is outside known recording period of Aporia crataegi
+Tvk=NHMSYS0000501147
+StartDate=17000101
+EndDate=19250101
+LastChanged=20110328
+[EndMetadata]
+
+         

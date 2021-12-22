@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.216 Ancylis mitterbacheriana (Red Roller)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Ancylis mitterbacheriana (Red Roller)
+Tvk = NHMSYS0021143238
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

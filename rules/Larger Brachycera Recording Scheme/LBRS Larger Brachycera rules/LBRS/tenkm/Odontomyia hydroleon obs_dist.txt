@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Odontomyia hydroleon 10km
+Description=Check coordinate against known 10km distribution of Odontomyia hydroleon
+ErrorMsg=Coordinate outside know range for Odontomyia hydroleon
+DataFieldName=Species
+DataRecordId=NBNSYS0000007835
+LastChanged=20130501
+[EndMetadata]
+
+
+[10km_GB]
+SE88
+SN24
+
+

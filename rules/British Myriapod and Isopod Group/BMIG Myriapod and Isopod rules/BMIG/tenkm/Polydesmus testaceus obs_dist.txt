@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Polydesmus testaceus 10km
+Description=Check coordinate against known 10km distribution of Polydesmus testaceus
+ErrorMsg=Coordinate outside know range for Polydesmus testaceus
+DataFieldName=Species
+DataRecordId=NHMSYS0020108486
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+ST09
+ST29
+ST38
+SU48
+TM04
+TR13
+TR23
+TR33
+TR34
+
+

@@ -1,0 +1,45 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Bradycellus distinctus 10km
+Description=Check coordinate against known 10km distribution of Bradycellus distinctus
+ErrorMsg=Coordinate outside know range for Bradycellus distinctus
+DataFieldName=Species
+DataRecordId=NBNSYS0000007421
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+SJ46
+SJ48
+SK05
+SK51
+SK67
+SK77
+SP27
+SP31
+SP40
+SP41
+SS14
+SS43
+SS49
+SU16
+SU98
+SW42
+SX95
+SX97
+SZ08
+SZ09
+SZ47
+TG14
+TM47
+TQ48
+TQ75
+TQ91
+TR01
+TR34
+TR35
+TR36
+
+

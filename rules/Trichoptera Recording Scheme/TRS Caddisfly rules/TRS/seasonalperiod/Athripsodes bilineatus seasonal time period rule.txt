@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Athripsodes bilineatus seasonal check
+Description=Check date of record against known seasonal limit of Athripsodes bilineatus
+Tvk=NBNSYS0000008513
+ErrorMsg=Date outside known seasonal limit for Athripsodes bilineatus
+StartDate=0501
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

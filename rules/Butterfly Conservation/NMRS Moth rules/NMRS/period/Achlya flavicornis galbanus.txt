@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 65.016 Achlya flavicornis galbanus (Yellow Horned)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Achlya flavicornis galbanus (Yellow Horned)
+Tvk = NHMSYS0021143802
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

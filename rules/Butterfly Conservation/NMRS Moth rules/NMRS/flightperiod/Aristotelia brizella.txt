@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 35.052 Aristotelia brizella (Thrift Neb)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Aristotelia brizella (Thrift Neb)
+Tvk = NHMSYS0000501399
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Glossosoma boltoni temporal check
+Description=Check date of record against known temporal limit of Glossosoma boltoni
+Tvk=NBNSYS0000008343
+ErrorMsg=Date outside known temporal limit for Glossosoma boltoni
+StartDate=18350101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

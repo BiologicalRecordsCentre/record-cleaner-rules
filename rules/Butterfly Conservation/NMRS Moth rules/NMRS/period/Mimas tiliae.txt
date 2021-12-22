@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 69.001 Mimas tiliae (Lime Hawk-moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Mimas tiliae (Lime Hawk-moth)
+Tvk = NBNSYS0000006067
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

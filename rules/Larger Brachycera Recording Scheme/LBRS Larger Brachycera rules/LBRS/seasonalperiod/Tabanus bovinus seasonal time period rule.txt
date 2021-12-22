@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Tabanus bovinus seasonal check
+Description=Check date of record against known seasonal limit of Tabanus bovinus
+Tvk=NBNSYS0000007888
+ErrorMsg=Date outside known seasonal limit for Tabanus bovinus
+StartDate=0601
+EndDate=0630
+LastChanged=20130528
+[EndMetadata]
+

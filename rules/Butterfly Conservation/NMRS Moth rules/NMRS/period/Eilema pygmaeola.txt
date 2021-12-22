@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.048 Eilema pygmaeola (Pigmy Footman)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eilema pygmaeola (Pigmy Footman)
+Tvk = NBNSYS0000006132
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

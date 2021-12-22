@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 37.015 Coleophora serratella (Common Case-bearer)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Coleophora serratella (Common Case-bearer)
+Tvk = NHMSYS0000501920
+StartDate = 0515
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.334 Diarsia rubi (Small Square-spot)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Diarsia rubi (Small Square-spot)
+Tvk = NBNSYS0000006214
+StartDate = 0501
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

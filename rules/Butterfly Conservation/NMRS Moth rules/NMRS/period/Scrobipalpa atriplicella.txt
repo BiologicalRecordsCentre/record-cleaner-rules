@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.117 Scrobipalpa atriplicella (Goosefoot Groundling)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Scrobipalpa atriplicella (Goosefoot Groundling)
+Tvk = NHMSYS0000504140
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

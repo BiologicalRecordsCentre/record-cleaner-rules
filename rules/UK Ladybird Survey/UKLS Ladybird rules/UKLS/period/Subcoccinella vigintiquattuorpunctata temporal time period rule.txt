@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Subcoccinella vigintiquattuorpunctata temporal check
+Description=Check date of record against known temporal limit of Subcoccinella vigintiquattuorpunctata
+Tvk=NBNSYS0000008289
+ErrorMsg=Date outside known temporal limit for Subcoccinella vigintiquattuorpunctata
+StartDate=18000101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

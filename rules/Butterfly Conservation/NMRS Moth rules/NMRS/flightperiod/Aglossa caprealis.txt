@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 62.073 Aglossa caprealis (Small Tabby)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Aglossa caprealis (Small Tabby)
+Tvk = NHMSYS0021143694
+StartDate = 0701
+EndDate = 0915
+LastChanged = 20210525
+[EndMetadata]

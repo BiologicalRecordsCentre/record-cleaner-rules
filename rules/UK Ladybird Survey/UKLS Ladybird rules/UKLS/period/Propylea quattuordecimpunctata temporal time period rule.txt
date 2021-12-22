@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Propylea quattuordecimpunctata temporal check
+Description=Check date of record against known temporal limit of Propylea quattuordecimpunctata
+Tvk=NBNSYS0000008330
+ErrorMsg=Date outside known temporal limit for Propylea quattuordecimpunctata
+StartDate=18000101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

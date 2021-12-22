@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.082 Thera juniperata (Juniper Carpet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Thera juniperata (Juniper Carpet)
+Tvk = NBNSYS0000005851
+StartDate = 0815
+EndDate = 1130
+LastChanged = 20210525
+[EndMetadata]

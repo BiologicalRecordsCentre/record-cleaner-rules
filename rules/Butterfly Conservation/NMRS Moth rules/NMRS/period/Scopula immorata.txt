@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.019 Scopula immorata (Lewes Wave)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Scopula immorata (Lewes Wave)
+Tvk = NBNSYS0000005756
+StartDate = 17000101
+EndDate = 19610622
+LastChanged = 20210521
+[EndMetadata]

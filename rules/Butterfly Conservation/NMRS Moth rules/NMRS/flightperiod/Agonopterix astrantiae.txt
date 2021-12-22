@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 32.033 Agonopterix astrantiae (Sanicle Flat-body)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Agonopterix astrantiae (Sanicle Flat-body)
+Tvk = NHMSYS0000501047
+StartDate = 0701
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

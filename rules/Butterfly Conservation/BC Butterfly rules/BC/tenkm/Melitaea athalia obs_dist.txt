@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Melitaea athalia 10km
+Description=Check coordinate against known 10km distribution of Melitaea athalia
+ErrorMsg=Coordinate outside known range for Melitaea athalia
+DataFieldName=Species
+DataRecordId=NHMSYS0000503190
+LastChanged=20210901
+[EndMetadata]
+
+
+[10km_GB]
+SS84
+SS92
+SS93
+SS94
+SX37
+SX47
+SX48
+SX58
+TL70
+TL80
+TQ08
+TQ78
+TQ88
+TQ89
+TR06
+TR15
+TR16
+
+
+[10km_Ireland]
+
+

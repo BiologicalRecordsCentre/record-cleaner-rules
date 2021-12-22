@@ -1,0 +1,12 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 32.047 Depressaria chaerophylli (Streaked Flat-body)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Depressaria chaerophylli (Streaked Flat-body)
+Tvk = NHMSYS0000502116
+StartDate = 0601
+EndDate = 0721
+ReverseRule = True
+LastChanged = 20210525
+[EndMetadata]

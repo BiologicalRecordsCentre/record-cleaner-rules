@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 20.002 Argyresthia glabratella (Spruce Argent)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Argyresthia glabratella (Spruce Argent)
+Tvk = NHMSYS0000501373
+StartDate = 0501
+EndDate = 0707
+LastChanged = 20210525
+[EndMetadata]

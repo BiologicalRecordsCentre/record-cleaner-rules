@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.175 Pristerognatha penthinana (Balsam Marble)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Pristerognatha penthinana (Balsam Marble)
+Tvk = NHMSYS0000503914
+StartDate = 17000101
+EndDate = 19141231
+LastChanged = 20210521
+[EndMetadata]

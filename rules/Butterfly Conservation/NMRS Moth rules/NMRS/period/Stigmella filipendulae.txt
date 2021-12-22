@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 4.052 Stigmella filipendulae (Dropwort Pigmy)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Stigmella filipendulae (Dropwort Pigmy)
+Tvk = NHMSYS0000504351
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

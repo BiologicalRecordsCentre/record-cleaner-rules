@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 50.002 Zeuzera pyrina (Leopard Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Zeuzera pyrina (Leopard Moth)
+Tvk = NBNSYS0000005661
+StartDate = 0601
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

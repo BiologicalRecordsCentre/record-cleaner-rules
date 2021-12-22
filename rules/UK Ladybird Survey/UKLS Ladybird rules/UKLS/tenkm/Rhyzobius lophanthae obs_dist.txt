@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Rhyzobius lophanthae 10km
+Description=Check coordinate against known 10km distribution of Rhyzobius lophanthae
+ErrorMsg=Coordinate outside know range for Rhyzobius lophanthae
+DataFieldName=Species
+DataRecordId=NHMSYS0020153337
+LastChanged=20130430
+[EndMetadata]
+
+
+[10km_GB]
+TQ06
+TQ26
+TQ27
+TQ40
+
+

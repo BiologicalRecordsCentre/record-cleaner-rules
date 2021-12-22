@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.315 Agrotis bigramma (Great Dart)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Agrotis bigramma (Great Dart)
+Tvk = NHMSYS0021144890
+StartDate = 18740101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

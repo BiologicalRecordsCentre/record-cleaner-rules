@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Marava arachidis 10km
+Description=Check coordinate against known 10km distribution of Marava arachidis
+ErrorMsg=Coordinate outside know range for Marava arachidis
+DataFieldName=Species
+DataRecordId=NHMSYS0001387415
+LastChanged=20130430
+[EndMetadata]
+
+
+[10km_GB]
+SE50
+TQ97
+
+

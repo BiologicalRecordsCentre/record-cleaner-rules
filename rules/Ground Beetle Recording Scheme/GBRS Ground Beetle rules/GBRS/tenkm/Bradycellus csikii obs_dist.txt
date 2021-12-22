@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Bradycellus csikii 10km
+Description=Check coordinate against known 10km distribution of Bradycellus csikii
+ErrorMsg=Coordinate outside know range for Bradycellus csikii
+DataFieldName=Species
+DataRecordId=NHMSYS0001717394
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+SP76
+SP86
+TL48
+TL68
+TL78
+TL79
+TL88
+TM14
+TQ05
+
+

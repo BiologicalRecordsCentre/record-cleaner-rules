@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 7.013 Nematopogon magna (Scarce Long-horn)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Nematopogon magna (Scarce Long-horn)
+Tvk = NBNSYS0100004197
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

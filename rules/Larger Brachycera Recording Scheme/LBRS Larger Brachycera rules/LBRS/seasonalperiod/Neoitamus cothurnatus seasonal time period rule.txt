@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Neoitamus cothurnatus seasonal check
+Description=Check date of record against known seasonal limit of Neoitamus cothurnatus
+Tvk=NBNSYS0000007903
+ErrorMsg=Date outside known seasonal limit for Neoitamus cothurnatus
+StartDate=0601
+EndDate=0731
+LastChanged=20130528
+[EndMetadata]
+

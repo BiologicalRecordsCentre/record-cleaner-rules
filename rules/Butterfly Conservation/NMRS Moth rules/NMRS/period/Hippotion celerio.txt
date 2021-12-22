@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 69.018 Hippotion celerio (Silver-striped Hawk-moth)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Hippotion celerio (Silver-striped Hawk-moth)
+Tvk = NBNSYS0000006079
+StartDate = 17790721
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

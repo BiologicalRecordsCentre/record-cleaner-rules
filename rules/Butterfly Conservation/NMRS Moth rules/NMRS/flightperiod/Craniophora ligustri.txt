@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.047 Craniophora ligustri (Coronet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Craniophora ligustri (Coronet)
+Tvk = NHMSYS0021144514
+StartDate = 0421
+EndDate = 0907
+LastChanged = 20210525
+[EndMetadata]

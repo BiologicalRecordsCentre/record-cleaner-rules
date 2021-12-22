@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Chilocorus bipustulatus temporal check
+Description=Check date of record against known temporal limit of Chilocorus bipustulatus
+Tvk=NBNSYS0000008309
+ErrorMsg=Date outside known temporal limit for Chilocorus bipustulatus
+StartDate=18000101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

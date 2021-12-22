@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 52.006 Synanthedon spheciformis (White-barred Clearwing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Synanthedon spheciformis (White-barred Clearwing)
+Tvk = NHMSYS0021143406
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

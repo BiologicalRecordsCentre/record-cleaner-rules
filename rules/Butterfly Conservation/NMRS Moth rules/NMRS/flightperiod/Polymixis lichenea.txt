@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.235 Polymixis lichenea (Feathered Ranunculus)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Polymixis lichenea (Feathered Ranunculus)
+Tvk = NHMSYS0000520013
+StartDate = 0807
+EndDate = 1130
+LastChanged = 20210525
+[EndMetadata]

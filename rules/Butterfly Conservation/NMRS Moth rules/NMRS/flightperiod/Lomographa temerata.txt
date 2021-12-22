@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.280 Lomographa temerata (Clouded Silver)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Lomographa temerata (Clouded Silver)
+Tvk = NHMSYS0021144269
+StartDate = 0415
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

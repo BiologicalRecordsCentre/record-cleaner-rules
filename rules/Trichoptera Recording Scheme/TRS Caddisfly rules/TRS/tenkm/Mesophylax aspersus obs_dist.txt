@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Mesophylax aspersus 10km
+Description=Check coordinate against known 10km distribution of Mesophylax aspersus
+ErrorMsg=Coordinate outside know range for Mesophylax aspersus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008450
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+NX97
+SK05
+SU42
+SU53
+SY67
+TM14
+
+

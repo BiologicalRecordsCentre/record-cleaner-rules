@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Centroptilum luteolum temporal check
+Description=Check date of record against known temporal limit of Centroptilum luteolum
+Tvk=NHMSYS0000066963
+ErrorMsg=Date outside known temporal limit for Centroptilum luteolum
+StartDate=17760101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

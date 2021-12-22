@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 42.002 Stathmopoda pedella (Alder Signal)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Stathmopoda pedella (Alder Signal)
+Tvk = NHMSYS0000504300
+StartDate = 0601
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

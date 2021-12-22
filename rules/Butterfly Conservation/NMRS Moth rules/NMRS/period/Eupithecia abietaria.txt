@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.149 Eupithecia abietaria (Cloaked Pug)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Eupithecia abietaria (Cloaked Pug)
+Tvk = NBNSYS0000005897
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

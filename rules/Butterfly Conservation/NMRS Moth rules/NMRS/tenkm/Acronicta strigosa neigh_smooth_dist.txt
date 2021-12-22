@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Acronicta strigosa 10km
+Description=Check coordinate against known 10km distribution of Acronicta strigosa
+ErrorMsg=Coordinate outside known range for Acronicta strigosa
+DataFieldName=Species
+DataRecordId=NHMSYS0021144504
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+SU70
+SU80
+SU90
+SZ47
+SZ48
+SZ57
+SZ58
+SZ68
+SZ79
+SZ89
+SZ99
+TQ10
+TQ11
+TQ12
+TQ20
+TQ21
+TQ22
+TQ30
+TQ31
+TQ32
+TQ70
+TQ71
+TQ72
+TQ80
+TQ81
+TQ82
+TQ91
+TQ92
+TQ93
+TR01
+TR02
+TR03
+TR12
+TR13
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

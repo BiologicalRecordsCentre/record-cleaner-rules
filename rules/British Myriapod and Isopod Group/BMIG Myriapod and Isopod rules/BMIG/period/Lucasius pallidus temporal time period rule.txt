@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Lucasius pallidus temporal check
+Description=Check date of record against known temporal limit of Lucasius pallidus
+Tvk=NHMSYS0020977847
+ErrorMsg=Date outside known temporal limit for Lucasius pallidus
+StartDate=20100417
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

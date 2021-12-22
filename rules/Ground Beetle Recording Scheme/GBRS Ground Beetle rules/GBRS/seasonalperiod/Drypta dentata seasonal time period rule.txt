@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Drypta dentata seasonal check
+Description=Check date of record against known seasonal limit of Drypta dentata
+Tvk=NBNSYS0000007488
+ErrorMsg=Date outside known seasonal limit for Drypta dentata
+StartDate=0301
+EndDate=0731
+LastChanged=20130528
+[EndMetadata]
+

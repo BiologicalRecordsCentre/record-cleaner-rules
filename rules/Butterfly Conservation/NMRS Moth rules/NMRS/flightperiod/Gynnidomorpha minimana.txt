@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.106 Gynnidomorpha minimana (Fen Conch)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Gynnidomorpha minimana (Fen Conch)
+Tvk = NBNSYS0100003313
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

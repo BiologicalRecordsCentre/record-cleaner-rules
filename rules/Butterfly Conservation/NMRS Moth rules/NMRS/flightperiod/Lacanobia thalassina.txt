@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.264 Lacanobia thalassina (Pale-shouldered Brocade)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Lacanobia thalassina (Pale-shouldered Brocade)
+Tvk = NBNSYS0000006249
+StartDate = 0415
+EndDate = 0815
+LastChanged = 20210525
+[EndMetadata]

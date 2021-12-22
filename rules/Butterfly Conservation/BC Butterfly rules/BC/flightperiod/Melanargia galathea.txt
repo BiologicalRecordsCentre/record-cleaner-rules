@@ -1,0 +1,11 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Flight Period
+ShortName=Melanargia galathea
+Description=Checks date is within known flight period of Melanargia galathea
+ErrorMsg=Date is outside known flight period of Melanargia galathea
+Tvk=NHMSYS0000522017
+StartDate=0601
+EndDate=0831
+LastChanged=20210608
+[EndMetadata]

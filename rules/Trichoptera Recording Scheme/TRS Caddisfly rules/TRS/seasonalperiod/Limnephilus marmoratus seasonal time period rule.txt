@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Limnephilus marmoratus seasonal check
+Description=Check date of record against known seasonal limit of Limnephilus marmoratus
+Tvk=NBNSYS0000008485
+ErrorMsg=Date outside known seasonal limit for Limnephilus marmoratus
+StartDate=0301
+EndDate=1130
+LastChanged=20130528
+[EndMetadata]
+

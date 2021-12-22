@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Metaiulus pratensis seasonal check
+Description=Check date of record against known seasonal limit of Metaiulus pratensis
+Tvk=NBNSYS0000039488
+ErrorMsg=Date outside known seasonal limit for Metaiulus pratensis
+StartDate=0301
+EndDate=0531
+LastChanged=20130528
+[EndMetadata]
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.021 Spilosoma urticae (Water Ermine)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Spilosoma urticae (Water Ermine)
+Tvk = NBNSYS0000006148
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

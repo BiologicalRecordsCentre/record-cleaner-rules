@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Hydropsyche bulgaromanorum 10km
+Description=Check coordinate against known 10km distribution of Hydropsyche bulgaromanorum
+ErrorMsg=Coordinate outside know range for Hydropsyche bulgaromanorum
+DataFieldName=Species
+DataRecordId=NBNSYS0000008414
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+TQ00
+TQ01
+
+

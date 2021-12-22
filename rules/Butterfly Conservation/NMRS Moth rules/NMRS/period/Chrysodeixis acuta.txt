@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.009 Chrysodeixis acuta (Tunbridge Wells Gem)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Chrysodeixis acuta (Tunbridge Wells Gem)
+Tvk = NHMSYS0021144469
+StartDate = 18700501
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

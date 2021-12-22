@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Oxycera trilineata seasonal check
+Description=Check date of record against known seasonal limit of Oxycera trilineata
+Tvk=NBNSYS0000007818
+ErrorMsg=Date outside known seasonal limit for Oxycera trilineata
+StartDate=0601
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

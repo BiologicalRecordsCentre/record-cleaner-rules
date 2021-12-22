@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.116 Calamia tridens (Burren Green)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Calamia tridens (Burren Green)
+Tvk = NHMSYS0000517533
+StartDate = 19490101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

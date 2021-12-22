@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Electrogena lateralis temporal check
+Description=Check date of record against known temporal limit of Electrogena lateralis
+Tvk=NBNSYS0100002944
+ErrorMsg=Date outside known temporal limit for Electrogena lateralis
+StartDate=18340101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

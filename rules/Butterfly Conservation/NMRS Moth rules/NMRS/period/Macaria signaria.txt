@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.213 Macaria signaria (Dusky Peacock)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Macaria signaria (Dusky Peacock)
+Tvk = NHMSYS0021144167
+StartDate = 19700101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

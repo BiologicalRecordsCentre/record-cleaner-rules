@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.069 Laspeyria flexula (Beautiful Hook-tip)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Laspeyria flexula (Beautiful Hook-tip)
+Tvk = NHMSYS0021144440
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

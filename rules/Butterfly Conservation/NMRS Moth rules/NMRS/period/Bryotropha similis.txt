@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.049 Bryotropha similis (Obscure Neb)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Bryotropha similis (Obscure Neb)
+Tvk = NHMSYS0000501558
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

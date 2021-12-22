@@ -1,0 +1,11 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Flight Period
+ShortName=Pyronia tithonus
+Description=Checks date is within known flight period of Pyronia tithonus
+ErrorMsg=Date is outside known flight period of Pyronia tithonus
+Tvk=NHMSYS0000522857
+StartDate=0601
+EndDate=0930
+LastChanged=20210608
+[EndMetadata]

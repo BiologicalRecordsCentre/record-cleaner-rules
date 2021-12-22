@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Favonius quercus
+Description=Checks date is within known recording period of Favonius quercus
+ErrorMsg=Date is outside known recording period of Favonius quercus
+Tvk=NHMSYS0021002801
+StartDate=17000101
+EndDate=
+LastChanged=20210707
+[EndMetadata]
+
+         

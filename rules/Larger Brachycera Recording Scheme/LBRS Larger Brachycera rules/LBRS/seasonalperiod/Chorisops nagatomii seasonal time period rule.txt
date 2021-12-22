@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Chorisops nagatomii seasonal check
+Description=Check date of record against known seasonal limit of Chorisops nagatomii
+Tvk=NHMSYS0020734178
+ErrorMsg=Date outside known seasonal limit for Chorisops nagatomii
+StartDate=0501
+EndDate=1031
+LastChanged=20130528
+[EndMetadata]
+

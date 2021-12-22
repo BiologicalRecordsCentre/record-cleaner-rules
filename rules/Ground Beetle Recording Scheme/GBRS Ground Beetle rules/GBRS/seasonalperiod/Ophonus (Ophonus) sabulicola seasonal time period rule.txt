@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Ophonus (Ophonus) sabulicola seasonal check
+Description=Check date of record against known seasonal limit of Ophonus (Ophonus) sabulicola
+Tvk=NHMSYS0001719338
+ErrorMsg=Date outside known seasonal limit for Ophonus (Ophonus) sabulicola
+StartDate=0401
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.142 Coenobia rufa (Small Rufous)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Coenobia rufa (Small Rufous)
+Tvk = NBNSYS0000006484
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

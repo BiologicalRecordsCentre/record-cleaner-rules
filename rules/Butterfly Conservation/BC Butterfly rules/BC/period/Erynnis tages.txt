@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Erynnis tages
+Description=Checks date is within known recording period of Erynnis tages
+ErrorMsg=Date is outside known recording period of Erynnis tages
+Tvk=NHMSYS0000550499
+StartDate=17000101
+EndDate=
+LastChanged=20110328
+[EndMetadata]
+
+         

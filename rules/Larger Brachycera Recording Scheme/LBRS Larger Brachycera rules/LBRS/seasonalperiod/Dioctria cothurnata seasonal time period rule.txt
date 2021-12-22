@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Dioctria cothurnata seasonal check
+Description=Check date of record against known seasonal limit of Dioctria cothurnata
+Tvk=NBNSYS0000007916
+ErrorMsg=Date outside known seasonal limit for Dioctria cothurnata
+StartDate=0501
+EndDate=0731
+LastChanged=20130528
+[EndMetadata]
+

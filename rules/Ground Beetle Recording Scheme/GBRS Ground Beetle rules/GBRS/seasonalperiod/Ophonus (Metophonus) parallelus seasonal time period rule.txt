@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Ophonus (Metophonus) parallelus seasonal check
+Description=Check date of record against known seasonal limit of Ophonus (Metophonus) parallelus
+Tvk=NHMSYS0001719328
+ErrorMsg=Date outside known seasonal limit for Ophonus (Metophonus) parallelus
+StartDate=0501
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

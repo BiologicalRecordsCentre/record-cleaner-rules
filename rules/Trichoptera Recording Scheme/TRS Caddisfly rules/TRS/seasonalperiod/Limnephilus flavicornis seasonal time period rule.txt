@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Limnephilus flavicornis seasonal check
+Description=Check date of record against known seasonal limit of Limnephilus flavicornis
+Tvk=NHMSYS0020704807
+ErrorMsg=Date outside known seasonal limit for Limnephilus flavicornis
+StartDate=0401
+EndDate=1130
+LastChanged=20130528
+[EndMetadata]
+

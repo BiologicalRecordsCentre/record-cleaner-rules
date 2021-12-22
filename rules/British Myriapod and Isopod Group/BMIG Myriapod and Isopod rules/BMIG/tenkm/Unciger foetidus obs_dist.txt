@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Unciger foetidus 10km
+Description=Check coordinate against known 10km distribution of Unciger foetidus
+ErrorMsg=Coordinate outside know range for Unciger foetidus
+DataFieldName=Species
+DataRecordId=NBNSYS0000011397
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+TF63
+
+

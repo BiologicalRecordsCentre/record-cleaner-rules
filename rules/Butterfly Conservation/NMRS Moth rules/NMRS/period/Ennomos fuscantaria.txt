@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.235 Ennomos fuscantaria (Dusky Thorn)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Ennomos fuscantaria (Dusky Thorn)
+Tvk = NBNSYS0000006005
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

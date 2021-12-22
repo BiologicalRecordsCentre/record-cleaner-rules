@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.204 Archiearis notha (Light Orange Underwing)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Archiearis notha (Light Orange Underwing)
+Tvk = NHMSYS0021144157
+StartDate = 0315
+EndDate = 0515
+LastChanged = 20210525
+[EndMetadata]

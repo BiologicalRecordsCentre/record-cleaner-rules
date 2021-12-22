@@ -1,0 +1,47 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Thymelicus acteon 10km
+Description=Check coordinate against known 10km distribution of Thymelicus acteon
+ErrorMsg=Coordinate outside known range for Thymelicus acteon
+DataFieldName=Species
+DataRecordId=NHMSYS0000504513
+LastChanged=20210901
+[EndMetadata]
+
+
+[10km_GB]
+ST30
+ST40
+ST50
+ST70
+ST80
+ST90
+SY38
+SY39
+SY48
+SY49
+SY58
+SY59
+SY66
+SY67
+SY68
+SY69
+SY77
+SY78
+SY79
+SY87
+SY88
+SY89
+SY97
+SY98
+SY99
+SZ07
+SZ08
+SZ09
+SZ19
+
+
+[10km_Ireland]
+
+

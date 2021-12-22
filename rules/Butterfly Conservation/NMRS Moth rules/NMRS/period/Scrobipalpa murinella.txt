@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.111 Scrobipalpa murinella (Rock Groundling)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Scrobipalpa murinella (Rock Groundling)
+Tvk = NHMSYS0021142749
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

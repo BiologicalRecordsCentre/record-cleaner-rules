@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Caenis pusilla seasonal check
+Description=Check date of record against known seasonal limit of Caenis pusilla
+Tvk=NHMSYS0000066969
+ErrorMsg=Date outside known seasonal limit for Caenis pusilla
+StartDate=0601
+EndDate=0731
+LastChanged=20130528
+[EndMetadata]
+

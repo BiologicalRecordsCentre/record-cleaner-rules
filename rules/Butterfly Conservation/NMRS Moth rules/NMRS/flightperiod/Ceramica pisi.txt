@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.271 Ceramica pisi (Broom Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Ceramica pisi (Broom Moth)
+Tvk = NBNSYS0000006254
+StartDate = 0421
+EndDate = 0821
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 45.027 Crombrugghia laetus (Scarce Light Plume)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Crombrugghia laetus (Scarce Light Plume)
+Tvk = NBNSYS0000027026
+StartDate = 0501
+EndDate = 1031
+LastChanged = 20210525
+[EndMetadata]

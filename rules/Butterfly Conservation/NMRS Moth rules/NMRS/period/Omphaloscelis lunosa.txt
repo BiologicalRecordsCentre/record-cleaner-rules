@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.193 Omphaloscelis lunosa (Lunar Underwing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Omphaloscelis lunosa (Lunar Underwing)
+Tvk = NBNSYS0000006365
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

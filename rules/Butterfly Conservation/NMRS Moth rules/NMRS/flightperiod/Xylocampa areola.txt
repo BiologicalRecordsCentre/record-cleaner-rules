@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.069 Xylocampa areola (Early Grey)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Xylocampa areola (Early Grey)
+Tvk = NBNSYS0000006336
+StartDate = 0215
+EndDate = 0531
+LastChanged = 20210525
+[EndMetadata]

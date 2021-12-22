@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Trichoniscoides sarsi 10km
+Description=Check coordinate against known 10km distribution of Trichoniscoides sarsi
+ErrorMsg=Coordinate outside know range for Trichoniscoides sarsi
+DataFieldName=Species
+DataRecordId=NBNSYS0000033085
+LastChanged=20130429
+[EndMetadata]
+
+
+[10km_GB]
+SK60
+SK61
+SK70
+SK71
+SO57
+SP59
+TM06
+TM16
+TM25
+TM26
+TM47
+TQ86
+TR04
+TR25
+
+

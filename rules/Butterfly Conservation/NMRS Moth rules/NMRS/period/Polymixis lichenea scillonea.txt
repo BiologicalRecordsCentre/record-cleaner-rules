@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.235 Polymixis lichenea scillonea (Feathered Ranunculus)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Polymixis lichenea scillonea (Feathered Ranunculus)
+Tvk = NHMSYS0021144774
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

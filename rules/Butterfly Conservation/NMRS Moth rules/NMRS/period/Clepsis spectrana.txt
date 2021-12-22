@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.037 Clepsis spectrana (Cyclamen Tortrix)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Clepsis spectrana (Cyclamen Tortrix)
+Tvk = NHMSYS0000501317
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

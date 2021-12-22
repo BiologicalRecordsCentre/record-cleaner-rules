@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Sargus iridatus seasonal check
+Description=Check date of record against known seasonal limit of Sargus iridatus
+Tvk=NBNSYS0000007831
+ErrorMsg=Date outside known seasonal limit for Sargus iridatus
+StartDate=0501
+EndDate=0930
+LastChanged=20130528
+[EndMetadata]
+

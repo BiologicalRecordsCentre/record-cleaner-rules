@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 38.030 Elachista albifrontella (White-headed Dwarf)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Elachista albifrontella (White-headed Dwarf)
+Tvk = NHMSYS0021142288
+StartDate = 0515
+EndDate = 0731
+LastChanged = 20210525
+[EndMetadata]

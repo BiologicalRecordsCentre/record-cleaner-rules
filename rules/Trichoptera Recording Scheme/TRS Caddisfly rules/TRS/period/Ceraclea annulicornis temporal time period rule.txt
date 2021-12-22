@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Ceraclea annulicornis temporal check
+Description=Check date of record against known temporal limit of Ceraclea annulicornis
+Tvk=NBNSYS0000008517
+ErrorMsg=Date outside known temporal limit for Ceraclea annulicornis
+StartDate=18360101
+EndDate=
+LastChanged=20130605
+[EndMetadata]
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Symphoromyia crassicornis seasonal check
+Description=Check date of record against known seasonal limit of Symphoromyia crassicornis
+Tvk=NBNSYS0100020558
+ErrorMsg=Date outside known seasonal limit for Symphoromyia crassicornis
+StartDate=0601
+EndDate=0731
+LastChanged=20130528
+[EndMetadata]
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 71.020 Pterostoma palpina (Pale Prominent)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Pterostoma palpina (Pale Prominent)
+Tvk = NBNSYS0000006097
+StartDate = 0401
+EndDate = 0907
+LastChanged = 20210525
+[EndMetadata]

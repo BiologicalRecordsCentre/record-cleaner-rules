@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 63.077 Chilo phragmitella (Reed Veneer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Chilo phragmitella (Reed Veneer)
+Tvk = NHMSYS0021143753
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 37.057 Coleophora vibicigerella (Essex Case-bearer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Coleophora vibicigerella (Essex Case-bearer)
+Tvk = NHMSYS0000501942
+StartDate = 17000101
+EndDate = 19801231
+LastChanged = 20210521
+[EndMetadata]

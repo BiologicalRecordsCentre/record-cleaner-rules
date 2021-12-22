@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 72.086 Minucia lunaris (Lunar Double-stripe)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Minucia lunaris (Lunar Double-stripe)
+Tvk = NHMSYS0021144457
+StartDate = 18320101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

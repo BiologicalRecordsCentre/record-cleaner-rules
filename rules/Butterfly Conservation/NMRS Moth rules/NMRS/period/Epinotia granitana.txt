@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.236 Epinotia granitana (Scarce Spruce Bell)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Epinotia granitana (Scarce Spruce Bell)
+Tvk = NHMSYS0021143264
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

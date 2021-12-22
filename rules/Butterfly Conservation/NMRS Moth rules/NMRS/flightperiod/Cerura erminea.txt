@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 71.004 Cerura erminea (Feline)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Cerura erminea (Feline)
+Tvk = NHMSYS0020500506
+StartDate = 0401
+EndDate = 0707
+LastChanged = 20210525
+[EndMetadata]

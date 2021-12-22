@@ -1,0 +1,13 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Aglais io
+Description=Checks date is within known recording period of Aglais io
+ErrorMsg=Date is outside known recording period of Aglais io
+Tvk=NHMSYS0021143568
+StartDate=17000101
+EndDate=
+LastChanged=20210707
+[EndMetadata]
+
+         

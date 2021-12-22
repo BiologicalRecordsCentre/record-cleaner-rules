@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 70.141 Gymnoscelis rufifasciata (Double-striped Pug)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Gymnoscelis rufifasciata (Double-striped Pug)
+Tvk = NBNSYS0000005950
+StartDate = 0101
+EndDate = 1231
+LastChanged = 20210525
+[EndMetadata]

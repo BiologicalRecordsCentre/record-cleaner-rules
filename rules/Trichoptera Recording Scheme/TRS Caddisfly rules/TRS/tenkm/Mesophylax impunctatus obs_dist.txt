@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Mesophylax impunctatus 10km
+Description=Check coordinate against known 10km distribution of Mesophylax impunctatus
+ErrorMsg=Coordinate outside know range for Mesophylax impunctatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008451
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+HY21
+HY31
+NG61
+NM67
+NM95
+NN30
+NO10
+NS39
+NT46
+NY30
+SD86
+SP69
+SP89
+
+

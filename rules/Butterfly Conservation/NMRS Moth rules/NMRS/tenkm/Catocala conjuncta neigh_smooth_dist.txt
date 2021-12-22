@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Moths 10km distribution
+ShortName=Catocala conjuncta 10km
+Description=Check coordinate against known 10km distribution of Catocala conjuncta
+ErrorMsg=Coordinate outside known range for Catocala conjuncta
+DataFieldName=Species
+DataRecordId=NHMSYS0001703667
+LastChanged=20200404
+[EndMetadata]
+
+
+[10km_GB]
+TM35
+TM36
+TM37
+TM45
+TM46
+TM47
+TM57
+
+
+[10km_Ireland]
+
+
+[10km_CI]
+
+

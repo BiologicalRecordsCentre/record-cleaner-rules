@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 49.273 Eucosma lacteana (Maritime Bell)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Eucosma lacteana (Maritime Bell)
+Tvk = NBNSYS0100003090
+StartDate = 0701
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 15.008 Caloptilia alchimiella (Yellow-triangle Slender)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Caloptilia alchimiella (Yellow-triangle Slender)
+Tvk = NHMSYS0000501602
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

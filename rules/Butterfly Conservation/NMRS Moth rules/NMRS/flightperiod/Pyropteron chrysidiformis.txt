@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 52.015 Pyropteron chrysidiformis (Fiery Clearwing)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Pyropteron chrysidiformis (Fiery Clearwing)
+Tvk = NHMSYS0000504018
+StartDate = 0521
+EndDate = 0707
+LastChanged = 20210525
+[EndMetadata]

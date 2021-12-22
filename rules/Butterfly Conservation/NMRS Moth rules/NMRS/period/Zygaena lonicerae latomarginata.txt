@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 54.009 Zygaena lonicerae latomarginata (Narrow-bordered Five-spot Burnet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Zygaena lonicerae latomarginata (Narrow-bordered Five-spot Burnet)
+Tvk = NHMSYS0021143441
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

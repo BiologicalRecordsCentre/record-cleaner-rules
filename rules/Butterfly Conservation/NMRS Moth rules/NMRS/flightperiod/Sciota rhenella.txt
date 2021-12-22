@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 62.018 Sciota rhenella (New Poplar Knot-horn)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Sciota rhenella (New Poplar Knot-horn)
+Tvk = NHMSYS0001703764
+StartDate = 0701
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

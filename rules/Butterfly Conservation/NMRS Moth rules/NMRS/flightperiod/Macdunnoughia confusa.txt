@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.010 Macdunnoughia confusa (Dewick's Plusia)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Macdunnoughia confusa (Dewick's Plusia)
+Tvk = NBNSYS0000006541
+StartDate = 0415
+EndDate = 1130
+LastChanged = 20210525
+[EndMetadata]

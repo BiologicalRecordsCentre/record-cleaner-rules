@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 63.122 Donacaula mucronella (Scarce Water-veneer)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Donacaula mucronella (Scarce Water-veneer)
+Tvk = NHMSYS0021143786
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 15.023 Callisto coffeella (Highland Slender)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Callisto coffeella (Highland Slender)
+Tvk = NHMSYS0000501594
+StartDate = 0601
+EndDate = 0630
+LastChanged = 20210525
+[EndMetadata]

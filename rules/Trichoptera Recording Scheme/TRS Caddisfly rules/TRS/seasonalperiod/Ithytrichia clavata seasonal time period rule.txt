@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Ithytrichia clavata seasonal check
+Description=Check date of record against known seasonal limit of Ithytrichia clavata
+Tvk=NBNSYS0000008375
+ErrorMsg=Date outside known seasonal limit for Ithytrichia clavata
+StartDate=0601
+EndDate=0831
+LastChanged=20130528
+[EndMetadata]
+

@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Erotesis baltica 10km
+Description=Check coordinate against known 10km distribution of Erotesis baltica
+ErrorMsg=Coordinate outside know range for Erotesis baltica
+DataFieldName=Species
+DataRecordId=NBNSYS0000008530
+LastChanged=20130502
+[EndMetadata]
+
+
+[10km_GB]
+SE01
+SH48
+SH58
+SU53
+TG30
+TG32
+TG42
+TL57
+
+

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.085 Acleris kochiella (Elm Button)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Acleris kochiella (Elm Button)
+Tvk = NHMSYS0000500932
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

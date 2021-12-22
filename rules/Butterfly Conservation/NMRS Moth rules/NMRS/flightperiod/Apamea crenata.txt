@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.156 Apamea crenata (Clouded-bordered Brindle)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Apamea crenata (Clouded-bordered Brindle)
+Tvk = NBNSYS0000006425
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20210525
+[EndMetadata]

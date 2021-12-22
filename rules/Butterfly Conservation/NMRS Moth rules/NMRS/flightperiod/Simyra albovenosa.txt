@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Moths Flight Period
+ShortName = 73.035 Simyra albovenosa (Reed Dagger)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Simyra albovenosa (Reed Dagger)
+Tvk = NBNSYS0000006385
+StartDate = 0415
+EndDate = 0930
+LastChanged = 20210525
+[EndMetadata]

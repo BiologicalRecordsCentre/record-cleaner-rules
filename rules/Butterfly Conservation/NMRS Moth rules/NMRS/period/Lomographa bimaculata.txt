@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.279 Lomographa bimaculata (White-pinion Spotted)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Lomographa bimaculata (White-pinion Spotted)
+Tvk = NBNSYS0000006049
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

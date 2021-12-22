@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 70.073 Spargania luctuata (White-banded Carpet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Spargania luctuata (White-banded Carpet)
+Tvk = NHMSYS0021143955
+StartDate = 19240602
+EndDate =
+LastChanged = 20210521
+[EndMetadata]

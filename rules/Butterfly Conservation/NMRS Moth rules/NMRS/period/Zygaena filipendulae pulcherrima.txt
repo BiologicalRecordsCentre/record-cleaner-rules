@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 54.008 Zygaena filipendulae pulcherrima (Six-spot Burnet)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Zygaena filipendulae pulcherrima (Six-spot Burnet)
+Tvk = NHMSYS0021143439
+StartDate = 17000101
+EndDate =
+LastChanged = 20210521
+[EndMetadata]
