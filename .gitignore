@@ -1,1 +1,5 @@
 /zip/*/*.zip
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
