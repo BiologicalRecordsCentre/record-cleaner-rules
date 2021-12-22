@@ -77,6 +77,11 @@ species.
 The scripts are written in R. They can be run manually but the aspiration
 is to automate them using Github continuous integration.
 
+Ensure your working directory is set to the scripts folder before starting.
+At an R prompt, `setwd(path/to/scripts)` or, in R Studio, open one of the files 
+and select from the menus, Session > Set Working Directory > To Source File 
+Location
+
 * `schemes.r` holds configuration for each taxonomic group, identifying
 the path to their csv files, and the path for the output rules.
 * `species.r` performs checks on `species.csv` and other scripts should
