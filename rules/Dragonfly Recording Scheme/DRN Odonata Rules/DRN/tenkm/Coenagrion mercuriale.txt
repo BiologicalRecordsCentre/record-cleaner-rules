@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Odonata 10km distribution
+ShortName=Coenagrion mercuriale 10km
+Description=Check coordinate against known distribution of Coenagrion mercuriale
+ErrorMsg=Coordinate is outside known range for Coenagrion mercuriale
+DataFieldName=Species
+DataRecordId=NBNSYS0000005603
+LastChanged=20211222
+[EndMetadata]
+
+[10km_GB]
+SH48
+SN03
+SN12
+SN13
+SP40
+SS48
+SS49
+SS59
+SU10
+SU11
+SU20
+SU30
+SU32
+SU33
+SU40
+SU41
+SU42
+SU49
+SX59
+SX68
+SX69
+SY08
+SY09
+SY88
+SY98
+SZ19
+SZ29
+SZ39
+
+

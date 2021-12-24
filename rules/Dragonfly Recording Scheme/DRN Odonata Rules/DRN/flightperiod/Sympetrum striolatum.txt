@@ -6,9 +6,7 @@ Description=Checks date is within known flight period of Sympetrum striolatum
 ErrorMsg=Date is outside known flight period of Sympetrum striolatum
 Tvk=NBNSYS0000005645
 DataFieldName=
-StartDate=0602
-EndDate=1027
-LastChanged=20120510
+StartDate=0628
+EndDate=1025
+LastChanged=20211222
 [EndMetadata]
- 
-         

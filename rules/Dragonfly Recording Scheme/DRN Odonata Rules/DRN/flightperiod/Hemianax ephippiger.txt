@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Odonata Flight Period
+ShortName=Hemianax ephippiger
+Description=Checks date is within known flight period of Hemianax ephippiger
+ErrorMsg=Date is outside known flight period of Hemianax ephippiger
+Tvk=NBNSYS0000005631
+DataFieldName=
+StartDate=0410
+EndDate=0104
+LastChanged=20211222
+[EndMetadata]

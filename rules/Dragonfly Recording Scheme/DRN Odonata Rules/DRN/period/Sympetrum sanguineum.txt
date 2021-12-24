@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Odonata Recording Period
+ShortName=Sympetrum sanguineum
+Description=Checks date is within known recording period of Sympetrum sanguineum
+ErrorMsg=Date is outside known recording period of Sympetrum sanguineum
+Tvk=NBNSYS0000005650
+StartDate=19650101
+EndDate=
+LastChanged=20211222
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Odonata Recording Period
+ShortName=Calopteryx virgo
+Description=Checks date is within known recording period of Calopteryx virgo
+ErrorMsg=Date is outside known recording period of Calopteryx virgo
+Tvk=NBNSYS0000005616
+StartDate=19650101
+EndDate=
+LastChanged=20211222
+[EndMetadata]

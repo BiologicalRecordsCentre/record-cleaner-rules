@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Odonata Recording Period
+ShortName=Lestes barbarus
+Description=Checks date is within known recording period of Lestes barbarus
+ErrorMsg=Date is outside known recording period of Lestes barbarus
+Tvk=NBNSYS0000005612
+StartDate=20020101
+EndDate=
+LastChanged=20211222
+[EndMetadata]

@@ -6,9 +6,7 @@ Description=Checks date is within known flight period of Brachytron pratense
 ErrorMsg=Date is outside known flight period of Brachytron pratense
 Tvk=NBNSYS0000005622
 DataFieldName=
-StartDate=0428
-EndDate=0721
-LastChanged=20120510
+StartDate=0427
+EndDate=0627
+LastChanged=20211222
 [EndMetadata]
- 
-         

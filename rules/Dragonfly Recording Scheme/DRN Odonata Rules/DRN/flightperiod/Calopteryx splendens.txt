@@ -6,9 +6,7 @@ Description=Checks date is within known flight period of Calopteryx splendens
 ErrorMsg=Date is outside known flight period of Calopteryx splendens
 Tvk=NBNSYS0000005617
 DataFieldName=
-StartDate=0512
-EndDate=0915
-LastChanged=20120510
+StartDate=0506
+EndDate=0823
+LastChanged=20211222
 [EndMetadata]
- 
-         

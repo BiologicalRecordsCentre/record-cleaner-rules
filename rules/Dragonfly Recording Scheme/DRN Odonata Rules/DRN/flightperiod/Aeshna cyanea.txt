@@ -6,9 +6,7 @@ Description=Checks date is within known flight period of Aeshna cyanea
 ErrorMsg=Date is outside known flight period of Aeshna cyanea
 Tvk=NBNSYS0000005626
 DataFieldName=
-StartDate=0609
-EndDate=1029
-LastChanged=20120510
+StartDate=0621
+EndDate=1012
+LastChanged=20211222
 [EndMetadata]
- 
-         

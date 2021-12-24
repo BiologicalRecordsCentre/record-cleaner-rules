@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Odonata Recording Period
+ShortName=Crocothemis servilia
+Description=Checks date is within known recording period of Crocothemis servilia
+ErrorMsg=Date is outside known recording period of Crocothemis servilia
+Tvk=NHMSYS0021123706
+StartDate=
+EndDate=18001231
+LastChanged=20211222
+[EndMetadata]

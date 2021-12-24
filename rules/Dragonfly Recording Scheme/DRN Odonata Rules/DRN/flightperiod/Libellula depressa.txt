@@ -6,9 +6,7 @@ Description=Checks date is within known flight period of Libellula depressa
 ErrorMsg=Date is outside known flight period of Libellula depressa
 Tvk=NBNSYS0000005637
 DataFieldName=
-StartDate=0505
-EndDate=0818
-LastChanged=20120510
+StartDate=0430
+EndDate=0728
+LastChanged=20211222
 [EndMetadata]
- 
-         

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Odonata Recording Period
+ShortName=Crocothemis erythraea
+Description=Checks date is within known recording period of Crocothemis erythraea
+ErrorMsg=Date is outside known recording period of Crocothemis erythraea
+Tvk=NBNSYS0000005643
+StartDate=
+EndDate=18001231
+LastChanged=20211222
+[EndMetadata]

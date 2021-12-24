@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Odonata Recording Period
+ShortName=Coenagrion mercuriale
+Description=Checks date is within known recording period of Coenagrion mercuriale
+ErrorMsg=Date is outside known recording period of Coenagrion mercuriale
+Tvk=NBNSYS0000005603
+StartDate=19490101
+EndDate=
+LastChanged=20211222
+[EndMetadata]

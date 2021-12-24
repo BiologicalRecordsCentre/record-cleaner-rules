@@ -6,9 +6,7 @@ Description=Checks date is within known flight period of Cordulia aenea
 ErrorMsg=Date is outside known flight period of Cordulia aenea
 Tvk=NBNSYS0000005632
 DataFieldName=
-StartDate=0505
-EndDate=0818
-LastChanged=20120510
+StartDate=0427
+EndDate=0718
+LastChanged=20211222
 [EndMetadata]
- 
-         
