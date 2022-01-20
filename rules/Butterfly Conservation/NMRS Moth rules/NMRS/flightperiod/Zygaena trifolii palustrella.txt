@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 54.010 Zygaena trifolii palustrella (Five-spot Burnet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Zygaena trifolii palustrella (Five-spot Burnet)

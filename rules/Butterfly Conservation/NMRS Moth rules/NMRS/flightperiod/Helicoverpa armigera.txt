@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.076 Helicoverpa armigera (Scarce Bordered Straw)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Helicoverpa armigera (Scarce Bordered Straw)

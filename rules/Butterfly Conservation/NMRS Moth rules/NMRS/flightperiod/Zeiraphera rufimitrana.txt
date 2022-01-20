@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.258 Zeiraphera rufimitrana (Red-headed Bell)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Zeiraphera rufimitrana (Red-headed Bell)

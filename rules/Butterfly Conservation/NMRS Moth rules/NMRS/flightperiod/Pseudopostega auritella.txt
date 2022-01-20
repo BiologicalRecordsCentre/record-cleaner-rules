@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 5.003 Pseudopostega auritella (Fen Bent-wing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pseudopostega auritella (Fen Bent-wing)

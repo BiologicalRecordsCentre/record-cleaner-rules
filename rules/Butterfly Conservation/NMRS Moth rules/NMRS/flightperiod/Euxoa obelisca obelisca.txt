@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.312 Euxoa obelisca obelisca (Square-spot Dart)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Euxoa obelisca obelisca (Square-spot Dart)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.307 Peridroma saucia (Pearly Underwing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Peridroma saucia (Pearly Underwing)

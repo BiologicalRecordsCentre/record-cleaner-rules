@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.068 Allophyes oxyacanthae (Green-brindled Crescent)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Allophyes oxyacanthae (Green-brindled Crescent)

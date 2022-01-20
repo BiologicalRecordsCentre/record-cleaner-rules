@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 12.006 Infurcitinea argentimaculella (Silver-barred Clothes Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Infurcitinea argentimaculella (Silver-barred Clothes Moth)

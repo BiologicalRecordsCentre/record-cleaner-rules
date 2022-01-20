@@ -1,9 +1,9 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
-ShortName = 49.140 Cochylis pallidana (Sheep’s-bit Conch)
+Group = Flight Period
+ShortName = 49.140 Cochylis pallidana (Sheepï¿½s-bit Conch)
 Description = Checks date is within known flight period
-ErrorMsg = Date is outside known flight period of Cochylis pallidana (Sheep’s-bit Conch)
+ErrorMsg = Date is outside known flight period of Cochylis pallidana (Sheepï¿½s-bit Conch)
 Tvk = NHMSYS0000501798
 StartDate = 0601
 EndDate = 0630

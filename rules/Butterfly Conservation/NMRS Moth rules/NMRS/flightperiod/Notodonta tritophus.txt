@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 71.015 Notodonta tritophus (Three-humped Prominent)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Notodonta tritophus (Three-humped Prominent)

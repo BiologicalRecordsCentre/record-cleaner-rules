@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.183 Lobesia abscisana (Smoky-barred Marble)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Lobesia abscisana (Smoky-barred Marble)

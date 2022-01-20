@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 12.013 Archinemapogon yildizae (Large Scotch Clothes Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Archinemapogon yildizae (Large Scotch Clothes Moth)

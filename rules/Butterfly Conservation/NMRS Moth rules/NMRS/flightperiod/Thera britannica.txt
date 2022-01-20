@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 70.079 Thera britannica (Spruce Carpet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Thera britannica (Spruce Carpet)

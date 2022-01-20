@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 70.284 Hylaea fasciaria (Barred Red)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Hylaea fasciaria (Barred Red)

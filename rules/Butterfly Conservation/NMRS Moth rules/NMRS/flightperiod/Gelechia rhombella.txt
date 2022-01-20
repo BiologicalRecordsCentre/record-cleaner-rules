@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 35.097 Gelechia rhombella (Apple Groundling)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Gelechia rhombella (Apple Groundling)

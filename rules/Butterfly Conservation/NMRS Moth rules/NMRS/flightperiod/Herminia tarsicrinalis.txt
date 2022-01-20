@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 72.054 Herminia tarsicrinalis (Shaded Fan-foot)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Herminia tarsicrinalis (Shaded Fan-foot)

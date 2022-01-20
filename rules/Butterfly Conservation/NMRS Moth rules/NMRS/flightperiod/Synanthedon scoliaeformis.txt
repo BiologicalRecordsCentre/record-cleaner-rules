@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 52.005 Synanthedon scoliaeformis (Welsh Clearwing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Synanthedon scoliaeformis (Welsh Clearwing)

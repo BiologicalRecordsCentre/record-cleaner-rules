@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 69.008 Hemaris tityus (Narrow-bordered Bee Hawk-moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Hemaris tityus (Narrow-bordered Bee Hawk-moth)

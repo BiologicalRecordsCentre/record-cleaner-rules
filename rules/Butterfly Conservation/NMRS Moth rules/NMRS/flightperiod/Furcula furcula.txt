@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 71.005 Furcula furcula (Sallow Kitten)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Furcula furcula (Sallow Kitten)

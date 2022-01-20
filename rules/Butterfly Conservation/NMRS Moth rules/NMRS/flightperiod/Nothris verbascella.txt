@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 35.015 Nothris verbascella (Clay Sober)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Nothris verbascella (Clay Sober)

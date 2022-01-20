@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 48.007 Choreutis pariana (Apple-leaf Skeletonizer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Choreutis pariana (Apple-leaf Skeletonizer)

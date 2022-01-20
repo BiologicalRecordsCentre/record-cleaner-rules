@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 20.022 Argyresthia bonnetella (Hawthorn Argent)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Argyresthia bonnetella (Hawthorn Argent)

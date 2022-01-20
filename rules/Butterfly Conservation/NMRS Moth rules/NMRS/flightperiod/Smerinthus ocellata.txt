@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 69.002 Smerinthus ocellata (Eyed Hawk-moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Smerinthus ocellata (Eyed Hawk-moth)

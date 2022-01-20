@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 70.048 Xanthorhoe decoloraria (Red Carpet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Xanthorhoe decoloraria (Red Carpet)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.090 Eulia ministrana (Brassy Tortrix)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eulia ministrana (Brassy Tortrix)

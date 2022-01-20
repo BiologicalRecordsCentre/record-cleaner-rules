@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.211 Ancylis myrtillana (Bilberry Roller)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Ancylis myrtillana (Bilberry Roller)

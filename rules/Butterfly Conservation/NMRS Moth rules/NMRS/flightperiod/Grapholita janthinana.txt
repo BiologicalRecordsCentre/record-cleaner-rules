@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.359 Grapholita janthinana (Pale-bordered Piercer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Grapholita janthinana (Pale-bordered Piercer)

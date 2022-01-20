@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 35.018 Hypatima rhomboidella (Square-spot Sober)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Hypatima rhomboidella (Square-spot Sober)

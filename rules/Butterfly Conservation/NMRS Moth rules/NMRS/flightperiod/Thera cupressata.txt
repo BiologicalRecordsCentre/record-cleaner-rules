@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 70.083 Thera cupressata (Cypress Carpet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Thera cupressata (Cypress Carpet)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 32.027 Agonopterix bipunctosa (Twin-spot Flat-body)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Agonopterix bipunctosa (Twin-spot Flat-body)

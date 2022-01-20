@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.263 Pelochrista caecimaculana (Chalk-hill Bell)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pelochrista caecimaculana (Chalk-hill Bell)

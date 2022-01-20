@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.179 Olethreutes arcuella (Arched Marble)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Olethreutes arcuella (Arched Marble)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.173 Oligia strigilis (Marbled Minor)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Oligia strigilis (Marbled Minor)

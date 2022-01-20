@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.330 Ochropleura leucogaster (Radford's Flame Shoulder)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Ochropleura leucogaster (Radford's Flame Shoulder)

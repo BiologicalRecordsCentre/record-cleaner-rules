@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 70.125 Coenocalpe lapidata (Slender-striped Rufous)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Coenocalpe lapidata (Slender-striped Rufous)

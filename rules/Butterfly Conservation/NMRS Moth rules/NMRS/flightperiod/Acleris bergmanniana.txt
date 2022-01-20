@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.063 Acleris bergmanniana (Yellow Rose Button)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acleris bergmanniana (Yellow Rose Button)

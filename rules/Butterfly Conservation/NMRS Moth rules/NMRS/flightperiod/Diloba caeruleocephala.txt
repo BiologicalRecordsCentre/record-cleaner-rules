@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.033 Diloba caeruleocephala (Figure of Eight)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Diloba caeruleocephala (Figure of Eight)

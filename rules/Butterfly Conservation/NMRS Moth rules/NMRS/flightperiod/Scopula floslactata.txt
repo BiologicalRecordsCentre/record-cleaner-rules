@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 70.027 Scopula floslactata (Cream Wave)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Scopula floslactata (Cream Wave)

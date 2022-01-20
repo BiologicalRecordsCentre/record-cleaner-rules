@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 20.009 Argyresthia aurulentella (Gold Juniper Argent)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Argyresthia aurulentella (Gold Juniper Argent)

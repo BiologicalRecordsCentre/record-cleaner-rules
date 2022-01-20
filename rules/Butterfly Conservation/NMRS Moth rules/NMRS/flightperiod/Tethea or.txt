@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 65.011 Tethea or (Poplar Lutestring)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Tethea or (Poplar Lutestring)

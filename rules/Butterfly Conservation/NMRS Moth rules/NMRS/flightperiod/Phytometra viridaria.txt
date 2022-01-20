@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 72.067 Phytometra viridaria (Small Purple-barred)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phytometra viridaria (Small Purple-barred)

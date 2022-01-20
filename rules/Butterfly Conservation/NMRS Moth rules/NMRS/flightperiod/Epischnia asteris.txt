@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 62.031 Epischnia asteris (Samphire Knot-horn)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Epischnia asteris (Samphire Knot-horn)

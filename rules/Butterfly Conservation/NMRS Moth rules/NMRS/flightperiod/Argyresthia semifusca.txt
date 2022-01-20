@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 20.020 Argyresthia semifusca (Brown Rowan Argent)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Argyresthia semifusca (Brown Rowan Argent)

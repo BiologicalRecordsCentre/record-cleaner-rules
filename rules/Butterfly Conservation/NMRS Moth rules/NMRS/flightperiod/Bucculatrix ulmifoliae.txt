@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 14.011 Bucculatrix ulmifoliae (Sapporo Elm Bent-wing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Bucculatrix ulmifoliae (Sapporo Elm Bent-wing)

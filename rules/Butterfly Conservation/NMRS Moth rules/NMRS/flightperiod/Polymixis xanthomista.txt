@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.236 Polymixis xanthomista (Black-banded)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Polymixis xanthomista (Black-banded)

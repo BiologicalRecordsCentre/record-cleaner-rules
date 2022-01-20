@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 72.049 Eilema sororcula (Orange Footman)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eilema sororcula (Orange Footman)

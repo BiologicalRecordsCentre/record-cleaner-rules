@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 35.003 Syncopacma larseniella (White-strap Sober)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Syncopacma larseniella (White-strap Sober)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 12.028 Tinea dubiella (Buff Clothes Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Tinea dubiella (Buff Clothes Moth)

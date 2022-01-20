@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 38.002 Perittia farinella (Dover Dwarf)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Perittia farinella (Dover Dwarf)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 43.002 Scythris grandipennis (Black Owlet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Scythris grandipennis (Black Owlet)

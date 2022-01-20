@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 35.140 Caryocolum kroesmanniella (Scarce Groundling)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Caryocolum kroesmanniella (Scarce Groundling)

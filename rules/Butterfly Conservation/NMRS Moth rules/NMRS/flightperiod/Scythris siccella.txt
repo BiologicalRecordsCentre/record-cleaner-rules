@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 43.010 Scythris siccella (Least Owlet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Scythris siccella (Least Owlet)

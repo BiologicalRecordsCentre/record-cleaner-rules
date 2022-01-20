@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 54.001 Jordanita globulariae (Scarce Forester)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Jordanita globulariae (Scarce Forester)

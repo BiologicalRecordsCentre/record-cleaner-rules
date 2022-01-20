@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 35.092 Mirificarma lentiginosella (Greenweed Groundling)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Mirificarma lentiginosella (Greenweed Groundling)

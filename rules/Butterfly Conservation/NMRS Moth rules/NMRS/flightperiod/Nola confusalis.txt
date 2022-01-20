@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 74.004 Nola confusalis (Least Black Arches)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Nola confusalis (Least Black Arches)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.283 Hadena confusa (Marbled Coronet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Hadena confusa (Marbled Coronet)

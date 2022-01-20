@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 70.265 Alcis repandata sodorensium (Mottled Beauty)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Alcis repandata sodorensium (Mottled Beauty)

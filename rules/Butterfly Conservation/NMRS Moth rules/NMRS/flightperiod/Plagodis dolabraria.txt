@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 70.224 Plagodis dolabraria (Scorched Wing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Plagodis dolabraria (Scorched Wing)

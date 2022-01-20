@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.053 Cucullia chamomillae (Chamomile Shark)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Cucullia chamomillae (Chamomile Shark)

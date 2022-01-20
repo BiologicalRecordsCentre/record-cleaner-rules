@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.104 Athetis hospes (Porter's Rustic)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Athetis hospes (Porter's Rustic)

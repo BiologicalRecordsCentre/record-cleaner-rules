@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 32.002 Semioscopis steinkellneriana (Dawn Flat-body)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Semioscopis steinkellneriana (Dawn Flat-body)

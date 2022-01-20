@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 68.001 Saturnia pavonia (Emperor Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Saturnia pavonia (Emperor Moth)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 32.043 Depressaria sordidatella (Chervil Flat-body)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Depressaria sordidatella (Chervil Flat-body)

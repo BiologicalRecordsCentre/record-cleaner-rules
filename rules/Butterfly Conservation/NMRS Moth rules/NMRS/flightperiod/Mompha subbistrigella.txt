@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 40.008 Mompha subbistrigella (Garden Mompha)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Mompha subbistrigella (Garden Mompha)

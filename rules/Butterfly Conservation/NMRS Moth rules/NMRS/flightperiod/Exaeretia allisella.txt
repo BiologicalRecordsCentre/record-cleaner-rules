@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 32.006 Exaeretia allisella (Mugwort Flat-body)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Exaeretia allisella (Mugwort Flat-body)

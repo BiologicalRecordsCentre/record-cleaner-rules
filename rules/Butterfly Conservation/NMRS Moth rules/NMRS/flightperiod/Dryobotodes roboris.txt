@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.226 Dryobotodes roboris (Southern Brindled Green)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Dryobotodes roboris (Southern Brindled Green)

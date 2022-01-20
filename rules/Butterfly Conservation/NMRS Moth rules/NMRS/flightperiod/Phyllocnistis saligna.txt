@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 15.090 Phyllocnistis saligna (Willow Bent-wing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phyllocnistis saligna (Willow Bent-wing)

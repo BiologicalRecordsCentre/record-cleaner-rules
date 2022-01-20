@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 62.002 Aphomia zelleri (Twin-spot Honey Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Aphomia zelleri (Twin-spot Honey Moth)

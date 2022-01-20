@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 Shortname = 73.12x Amphipoea oculea agg.
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Amphipoea oculea agg.

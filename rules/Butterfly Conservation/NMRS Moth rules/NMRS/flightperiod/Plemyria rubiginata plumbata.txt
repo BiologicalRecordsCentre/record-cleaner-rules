@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 70.084 Plemyria rubiginata plumbata (Blue-bordered Carpet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Plemyria rubiginata plumbata (Blue-bordered Carpet)

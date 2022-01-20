@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 34.013 Sorhagenia lophyrella (Buckthorn Cosmet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Sorhagenia lophyrella (Buckthorn Cosmet)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 15.091 Phyllocnistis ramulicola (New Sallow Bent-wing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phyllocnistis ramulicola (New Sallow Bent-wing)

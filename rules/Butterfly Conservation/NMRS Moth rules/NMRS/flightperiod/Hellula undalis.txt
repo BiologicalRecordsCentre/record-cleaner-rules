@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 63.061 Hellula undalis (Old World Webworm)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Hellula undalis (Old World Webworm)

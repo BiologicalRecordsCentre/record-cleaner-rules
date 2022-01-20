@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.329 Ochropleura plecta (Flame Shoulder)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Ochropleura plecta (Flame Shoulder)

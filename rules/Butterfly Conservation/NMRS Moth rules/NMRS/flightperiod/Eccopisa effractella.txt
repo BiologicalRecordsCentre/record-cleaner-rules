@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 62.046 Eccopisa effractella (Royal Knot-horn)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eccopisa effractella (Royal Knot-horn)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.206 Lithophane leautieri (Blair's Shoulder-knot)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Lithophane leautieri (Blair's Shoulder-knot)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.088 Acleris lipsiana (Northern Button)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acleris lipsiana (Northern Button)

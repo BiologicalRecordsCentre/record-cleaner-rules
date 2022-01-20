@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 30.004 Amphisbatis incongruella (Ling Tubic)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Amphisbatis incongruella (Ling Tubic)

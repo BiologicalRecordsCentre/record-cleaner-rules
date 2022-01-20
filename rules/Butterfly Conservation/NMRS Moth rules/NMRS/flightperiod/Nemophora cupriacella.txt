@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 7.003 Nemophora cupriacella (Coppery Long-horn)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Nemophora cupriacella (Coppery Long-horn)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 21.002 Lyonetia prunifoliella (Striped Bent-wing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Lyonetia prunifoliella (Striped Bent-wing)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 Shortname = 70.01x Epirrita dilutata agg.
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Epirrita dilutata agg.

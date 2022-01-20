@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 70.050 Xanthorhoe biriviata (Balsam Carpet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Xanthorhoe biriviata (Balsam Carpet)

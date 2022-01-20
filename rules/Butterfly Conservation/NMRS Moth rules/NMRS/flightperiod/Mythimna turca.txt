@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.288 Mythimna turca (Double Line)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Mythimna turca (Double Line)

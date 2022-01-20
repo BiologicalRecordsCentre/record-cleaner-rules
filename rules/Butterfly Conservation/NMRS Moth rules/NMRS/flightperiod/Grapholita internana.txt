@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.349 Grapholita internana (Dark Gorse Piercer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Grapholita internana (Dark Gorse Piercer)

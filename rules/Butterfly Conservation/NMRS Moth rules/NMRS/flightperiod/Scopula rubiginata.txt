@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 70.022 Scopula rubiginata (Tawny Wave)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Scopula rubiginata (Tawny Wave)

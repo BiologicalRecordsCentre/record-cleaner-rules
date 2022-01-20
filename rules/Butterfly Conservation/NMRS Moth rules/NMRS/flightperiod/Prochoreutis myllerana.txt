@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 48.002 Prochoreutis myllerana (Small Metal-mark)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Prochoreutis myllerana (Small Metal-mark)

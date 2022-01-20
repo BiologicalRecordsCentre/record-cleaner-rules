@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 35.158 Coleotechnites piceaella (Spruce Groundling)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Coleotechnites piceaella (Spruce Groundling)

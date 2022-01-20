@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.143 Eudemis porphyrana (Apple Marble)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eudemis porphyrana (Apple Marble)

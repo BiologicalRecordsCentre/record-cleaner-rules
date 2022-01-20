@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 28.025 Pleurota bicostella (Light Streak)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pleurota bicostella (Light Streak)
