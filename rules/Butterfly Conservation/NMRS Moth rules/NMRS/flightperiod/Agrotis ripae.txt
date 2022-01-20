@@ -5,7 +5,11 @@ ShortName = 73.323 Agrotis ripae (Sand Dart)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Agrotis ripae (Sand Dart)
 Tvk = NHMSYS0021144897
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0507
 EndDate = 0815
-LastChanged = 20210525
-[EndMetadata]

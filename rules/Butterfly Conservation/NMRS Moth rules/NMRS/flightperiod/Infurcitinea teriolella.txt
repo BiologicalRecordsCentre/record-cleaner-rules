@@ -5,7 +5,11 @@ ShortName = 12.0047 Infurcitinea teriolella (Grey Lichen Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Infurcitinea teriolella (Grey Lichen Moth)
 Tvk = NHMSYS0021166445
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

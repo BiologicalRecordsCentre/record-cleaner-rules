@@ -5,7 +5,11 @@ ShortName = 73.022 Plusia festucae (Gold Spot)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Plusia festucae (Gold Spot)
 Tvk = NBNSYS0000006544
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0507
 EndDate = 1015
-LastChanged = 20210525
-[EndMetadata]

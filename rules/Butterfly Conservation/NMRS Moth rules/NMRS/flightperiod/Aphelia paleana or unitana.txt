@@ -5,7 +5,11 @@ ShortName = 49.03x Aphelia paleana/unitana
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Aphelia paleana/unitana
 Tvk = NHMSYS0020530781
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0831
-LastChanged = 20210527
-[EndMetadata]

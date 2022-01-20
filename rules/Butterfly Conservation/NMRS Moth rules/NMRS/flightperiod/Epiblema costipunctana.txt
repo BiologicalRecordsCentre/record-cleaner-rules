@@ -5,7 +5,11 @@ ShortName = 49.289 Epiblema costipunctana (Ragwort Bell)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Epiblema costipunctana (Ragwort Bell)
 Tvk = NHMSYS0000502405
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

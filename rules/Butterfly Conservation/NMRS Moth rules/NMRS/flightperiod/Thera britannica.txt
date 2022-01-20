@@ -5,7 +5,11 @@ ShortName = 70.079 Thera britannica (Spruce Carpet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Thera britannica (Spruce Carpet)
 Tvk = NHMSYS0000504489
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0321
 EndDate = 1231
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 72.079 Catocala electa (Rosy Underwing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Catocala electa (Rosy Underwing)
 Tvk = NBNSYS0000006558
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0821
 EndDate = 1015
-LastChanged = 20210525
-[EndMetadata]

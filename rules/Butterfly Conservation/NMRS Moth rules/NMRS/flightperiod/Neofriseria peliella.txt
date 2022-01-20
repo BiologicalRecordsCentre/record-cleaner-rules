@@ -5,7 +5,11 @@ ShortName = 35.087 Neofriseria peliella (White-spot Groundling)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Neofriseria peliella (White-spot Groundling)
 Tvk = NHMSYS0000503366
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0615
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

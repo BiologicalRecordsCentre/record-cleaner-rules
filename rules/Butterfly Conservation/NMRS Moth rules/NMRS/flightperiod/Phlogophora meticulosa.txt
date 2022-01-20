@@ -5,7 +5,11 @@ ShortName = 73.113 Phlogophora meticulosa (Angle Shades)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phlogophora meticulosa (Angle Shades)
 Tvk = NBNSYS0000006402
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0101
 EndDate = 1231
-LastChanged = 20210525
-[EndMetadata]

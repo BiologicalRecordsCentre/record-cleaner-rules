@@ -5,7 +5,11 @@ ShortName = 70.061 Epirrhoe alternata obscurata (Common Carpet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Epirrhoe alternata obscurata (Common Carpet)
 Tvk = NHMSYS0021143937
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 0930
-LastChanged = 20210525
-[EndMetadata]

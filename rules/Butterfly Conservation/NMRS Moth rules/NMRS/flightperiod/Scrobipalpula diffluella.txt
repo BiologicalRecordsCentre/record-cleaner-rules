@@ -5,7 +5,11 @@ ShortName = 35.124 Scrobipalpula diffluella (Essex Groundling)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Scrobipalpula diffluella (Essex Groundling)
 Tvk = NHMSYS0000504156
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0621
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

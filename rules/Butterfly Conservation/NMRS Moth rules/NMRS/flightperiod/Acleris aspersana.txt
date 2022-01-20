@@ -5,7 +5,11 @@ ShortName = 49.078 Acleris aspersana (Ginger Button)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acleris aspersana (Ginger Button)
 Tvk = NHMSYS0021143095
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0930
-LastChanged = 20210525
-[EndMetadata]

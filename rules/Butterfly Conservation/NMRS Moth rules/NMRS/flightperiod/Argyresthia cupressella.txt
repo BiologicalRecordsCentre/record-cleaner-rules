@@ -5,7 +5,11 @@ ShortName = 20.007 Argyresthia cupressella (Cypress-tip Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Argyresthia cupressella (Cypress-tip Moth)
 Tvk = NBNSYS0100001643
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0807
-LastChanged = 20210525
-[EndMetadata]

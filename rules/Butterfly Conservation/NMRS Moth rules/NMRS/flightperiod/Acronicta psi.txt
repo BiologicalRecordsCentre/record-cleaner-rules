@@ -5,7 +5,11 @@ ShortName = 73.038 Acronicta psi (Grey Dagger)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acronicta psi (Grey Dagger)
 Tvk = NBNSYS0000006379
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 0915
-LastChanged = 20210525
-[EndMetadata]

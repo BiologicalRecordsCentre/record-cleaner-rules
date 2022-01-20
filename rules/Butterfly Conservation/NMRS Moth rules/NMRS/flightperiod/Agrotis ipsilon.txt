@@ -5,7 +5,11 @@ ShortName = 73.327 Agrotis ipsilon (Dark Sword-grass)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Agrotis ipsilon (Dark Sword-grass)
 Tvk = NBNSYS0000006177
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0201
 EndDate = 1231
-LastChanged = 20210525
-[EndMetadata]

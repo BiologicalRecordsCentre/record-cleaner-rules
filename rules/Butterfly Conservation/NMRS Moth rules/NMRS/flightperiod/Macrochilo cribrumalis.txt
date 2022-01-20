@@ -5,7 +5,11 @@ ShortName = 72.052 Macrochilo cribrumalis (Dotted Fan-foot)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Macrochilo cribrumalis (Dotted Fan-foot)
 Tvk = NHMSYS0000503145
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

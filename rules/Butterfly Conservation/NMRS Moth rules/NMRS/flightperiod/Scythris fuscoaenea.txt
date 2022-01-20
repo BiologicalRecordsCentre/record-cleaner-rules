@@ -5,7 +5,11 @@ ShortName = 43.003 Scythris fuscoaenea (Brassy Owlet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Scythris fuscoaenea (Brassy Owlet)
 Tvk = NHMSYS0000504165
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

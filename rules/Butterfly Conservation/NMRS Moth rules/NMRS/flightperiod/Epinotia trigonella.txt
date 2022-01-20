@@ -5,7 +5,11 @@ ShortName = 49.230 Epinotia trigonella (White-blotch Bell)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Epinotia trigonella (White-blotch Bell)
 Tvk = NHMSYS0000502457
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0801
 EndDate = 0930
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 49.074 Acleris lorquiniana (Marsh Button)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acleris lorquiniana (Marsh Button)
 Tvk = NHMSYS0000500938
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

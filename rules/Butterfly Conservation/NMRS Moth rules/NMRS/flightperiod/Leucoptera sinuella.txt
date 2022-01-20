@@ -5,7 +5,11 @@ ShortName = 21.009 Leucoptera sinuella (Scotch Bent-wing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Leucoptera sinuella (Scotch Bent-wing)
 Tvk = NBNSYS0100003745
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

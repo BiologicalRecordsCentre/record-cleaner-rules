@@ -5,7 +5,11 @@ ShortName = 49.349 Grapholita internana (Dark Gorse Piercer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Grapholita internana (Dark Gorse Piercer)
 Tvk = NBNSYS0100003286
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0401
 EndDate = 0630
-LastChanged = 20210525
-[EndMetadata]

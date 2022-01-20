@@ -5,7 +5,11 @@ ShortName = 62.020 Etiella zinckenella (Legume Knot-horn)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Etiella zinckenella (Legume Knot-horn)
 Tvk = NHMSYS0000502507
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0721
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

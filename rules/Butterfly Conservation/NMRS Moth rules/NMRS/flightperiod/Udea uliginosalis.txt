@@ -5,7 +5,11 @@ ShortName = 63.035 Udea uliginosalis (Mountain Pearl)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Udea uliginosalis (Mountain Pearl)
 Tvk = NBNSYS0000026924
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0615
 EndDate = 0907
-LastChanged = 20210525
-[EndMetadata]

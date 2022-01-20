@@ -5,7 +5,11 @@ ShortName = 49.339 Cydia servillana (Sallow-shoot Piercer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Cydia servillana (Sallow-shoot Piercer)
 Tvk = NHMSYS0000502073
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0630
-LastChanged = 20210525
-[EndMetadata]

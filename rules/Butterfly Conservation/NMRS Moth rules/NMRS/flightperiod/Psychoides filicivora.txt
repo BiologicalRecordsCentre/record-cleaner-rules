@@ -5,7 +5,11 @@ ShortName = 12.048 Psychoides filicivora (Fern Smut)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Psychoides filicivora (Fern Smut)
 Tvk = NHMSYS0000503964
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0201
 EndDate = 1231
-LastChanged = 20210525
-[EndMetadata]

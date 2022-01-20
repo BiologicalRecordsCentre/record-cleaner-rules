@@ -5,7 +5,11 @@ ShortName = 65.012 Tetheella fluctuosa (Satin Lutestring)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Tetheella fluctuosa (Satin Lutestring)
 Tvk = NHMSYS0021143797
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0507
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

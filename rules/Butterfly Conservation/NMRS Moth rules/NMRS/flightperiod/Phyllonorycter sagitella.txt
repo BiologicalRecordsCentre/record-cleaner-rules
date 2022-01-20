@@ -5,8 +5,12 @@ ShortName = 15.088 Phyllonorycter sagitella (Scarce Aspen Midget)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phyllonorycter sagitella (Scarce Aspen Midget)
 Tvk = NHMSYS0000503802
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0930
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

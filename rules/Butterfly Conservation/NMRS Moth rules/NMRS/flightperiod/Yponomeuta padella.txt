@@ -5,7 +5,11 @@ ShortName = 16.002 Yponomeuta padella (Orchard Ermine)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Yponomeuta padella (Orchard Ermine)
 Tvk = NHMSYS0000504688
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0515
 EndDate = 0915
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 20.010 Argyresthia ivella (Gold-four Argent)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Argyresthia ivella (Gold-four Argent)
 Tvk = NHMSYS0000501378
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

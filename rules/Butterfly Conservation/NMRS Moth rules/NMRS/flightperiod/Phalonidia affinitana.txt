@@ -5,7 +5,11 @@ ShortName = 49.103 Phalonidia affinitana (Large Saltmarsh Conch)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phalonidia affinitana (Large Saltmarsh Conch)
 Tvk = NHMSYS0000503704
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0521
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

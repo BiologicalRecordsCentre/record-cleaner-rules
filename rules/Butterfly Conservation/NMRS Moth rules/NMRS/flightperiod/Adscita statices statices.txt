@@ -5,7 +5,11 @@ ShortName = 54.002 Adscita statices statices (Forester)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Adscita statices statices (Forester)
 Tvk = NHMSYS0021143418
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0507
 EndDate = 0807
-LastChanged = 20210525
-[EndMetadata]

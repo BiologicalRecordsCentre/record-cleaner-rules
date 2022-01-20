@@ -5,7 +5,11 @@ ShortName = 74.008 Pseudoips prasinana (Green Silver-lines)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pseudoips prasinana (Green Silver-lines)
 Tvk = NHMSYS0000517403
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0815
-LastChanged = 20210525
-[EndMetadata]

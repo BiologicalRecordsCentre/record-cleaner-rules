@@ -5,7 +5,11 @@ ShortName = 35.083 Xystophora pulveratella (Scotch Groundling)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Xystophora pulveratella (Scotch Groundling)
 Tvk = NHMSYS0000504676
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0630
-LastChanged = 20210525
-[EndMetadata]

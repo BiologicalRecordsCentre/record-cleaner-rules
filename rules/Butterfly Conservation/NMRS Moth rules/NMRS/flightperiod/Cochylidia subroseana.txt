@@ -5,7 +5,11 @@ ShortName = 49.130 Cochylidia subroseana (Dingy Roseate Conch)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Cochylidia subroseana (Dingy Roseate Conch)
 Tvk = NHMSYS0000501342
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 70.034 Cyclophora ruficiliaria (Jersey Mocha)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Cyclophora ruficiliaria (Jersey Mocha)
 Tvk = NHMSYS0020758190
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 0921
-LastChanged = 20210525
-[EndMetadata]

@@ -5,8 +5,12 @@ ShortName = 73.202 Lithophane ornitopus lactipennis (Grey Shoulder-knot)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Lithophane ornitopus lactipennis (Grey Shoulder-knot)
 Tvk = NHMSYS0021144727
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0531
 EndDate = 0915
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

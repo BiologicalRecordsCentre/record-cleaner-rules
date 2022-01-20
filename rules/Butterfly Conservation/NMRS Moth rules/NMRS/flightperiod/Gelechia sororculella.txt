@@ -5,7 +5,11 @@ ShortName = 35.101 Gelechia sororculella (Dark-striped Groundling)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Gelechia sororculella (Dark-striped Groundling)
 Tvk = NHMSYS0021142742
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0621
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

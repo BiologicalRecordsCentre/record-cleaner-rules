@@ -5,8 +5,12 @@ ShortName = 70.247 Phigalia pilosaria (Pale Brindled Beauty)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phigalia pilosaria (Pale Brindled Beauty)
 Tvk = NHMSYS0021144213
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0430
 EndDate = 1031
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

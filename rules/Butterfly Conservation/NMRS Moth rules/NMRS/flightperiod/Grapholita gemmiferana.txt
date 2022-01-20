@@ -5,7 +5,11 @@ ShortName = 49.353 Grapholita gemmiferana (Isle of Wight Piercer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Grapholita gemmiferana (Isle of Wight Piercer)
 Tvk = NHMSYS0021143369
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0521
 EndDate = 0630
-LastChanged = 20210525
-[EndMetadata]

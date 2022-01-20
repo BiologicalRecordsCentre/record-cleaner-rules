@@ -5,7 +5,11 @@ ShortName = 49.084 Acleris notana (Rusty Birch Button)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acleris notana (Rusty Birch Button)
 Tvk = NHMSYS0000500940
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0101
 EndDate = 1231
-LastChanged = 20210525
-[EndMetadata]

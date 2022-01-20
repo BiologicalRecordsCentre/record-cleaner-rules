@@ -5,7 +5,11 @@ ShortName = 49.092 Phtheochroa inopiana (Plain Conch)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phtheochroa inopiana (Plain Conch)
 Tvk = NBNSYS0100004588
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

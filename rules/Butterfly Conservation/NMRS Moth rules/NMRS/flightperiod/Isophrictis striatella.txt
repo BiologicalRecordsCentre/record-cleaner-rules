@@ -5,7 +5,11 @@ ShortName = 35.053 Isophrictis striatella (White-border Neb)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Isophrictis striatella (White-border Neb)
 Tvk = NHMSYS0021142691
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 73.063 Amphipyra berbera svenssoni (Svensson's Copper Underwing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Amphipyra berbera svenssoni (Svensson's Copper Underwing)
 Tvk = NHMSYS0021144529
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 1015
-LastChanged = 20210525
-[EndMetadata]

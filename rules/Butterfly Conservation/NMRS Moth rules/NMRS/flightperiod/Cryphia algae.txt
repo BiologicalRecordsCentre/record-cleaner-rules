@@ -5,7 +5,11 @@ ShortName = 73.082 Cryphia algae (Tree-lichen Beauty)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Cryphia algae (Tree-lichen Beauty)
 Tvk = NBNSYS0000006387
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0621
 EndDate = 0915
-LastChanged = 20210525
-[EndMetadata]

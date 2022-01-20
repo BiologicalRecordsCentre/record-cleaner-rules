@@ -5,7 +5,11 @@ ShortName = 62.057 Phycitodes maritima (Chalk Knot-horn)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phycitodes maritima (Chalk Knot-horn)
 Tvk = NHMSYS0000503748
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0907
-LastChanged = 20210525
-[EndMetadata]

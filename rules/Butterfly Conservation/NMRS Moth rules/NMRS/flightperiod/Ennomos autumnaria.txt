@@ -5,7 +5,11 @@ ShortName = 70.232 Ennomos autumnaria (Large Thorn)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Ennomos autumnaria (Large Thorn)
 Tvk = NBNSYS0000006002
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0801
 EndDate = 1007
-LastChanged = 20210525
-[EndMetadata]

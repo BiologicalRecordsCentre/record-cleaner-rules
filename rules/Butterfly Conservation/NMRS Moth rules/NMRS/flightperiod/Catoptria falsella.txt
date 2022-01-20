@@ -5,7 +5,11 @@ ShortName = 63.102 Catoptria falsella (Chequered Grass-veneer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Catoptria falsella (Chequered Grass-veneer)
 Tvk = NHMSYS0021143771
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0621
 EndDate = 0930
-LastChanged = 20210525
-[EndMetadata]

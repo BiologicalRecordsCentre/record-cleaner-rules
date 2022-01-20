@@ -5,7 +5,11 @@ ShortName = 32.002 Semioscopis steinkellneriana (Dawn Flat-body)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Semioscopis steinkellneriana (Dawn Flat-body)
 Tvk = NHMSYS0021142577
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0321
 EndDate = 0531
-LastChanged = 20210525
-[EndMetadata]

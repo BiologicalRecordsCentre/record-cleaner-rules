@@ -5,7 +5,11 @@ ShortName = 49.229 Epinotia caprana (Large Sallow Bell)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Epinotia caprana (Large Sallow Bell)
 Tvk = NHMSYS0000502431
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0721
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

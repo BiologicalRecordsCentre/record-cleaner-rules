@@ -5,7 +5,11 @@ ShortName = 70.016 Idaea aversata (Riband Wave)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Idaea aversata (Riband Wave)
 Tvk = NBNSYS0000005786
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 73.224 Griposia aprilina (Merveille du Jour)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Griposia aprilina (Merveille du Jour)
 Tvk = NBNSYS0000147940
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0901
 EndDate = 1121
-LastChanged = 20210525
-[EndMetadata]

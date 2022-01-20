@@ -5,7 +5,11 @@ ShortName = 70.252 Biston betularia (Peppered Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Biston betularia (Peppered Moth)
 Tvk = NBNSYS0000006022
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 0907
-LastChanged = 20210525
-[EndMetadata]

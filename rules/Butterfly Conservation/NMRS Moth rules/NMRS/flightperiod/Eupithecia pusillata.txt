@@ -5,7 +5,11 @@ ShortName = 70.158 Eupithecia pusillata (Juniper Pug)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eupithecia pusillata (Juniper Pug)
 Tvk = NHMSYS0021144088
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0515
 EndDate = 1015
-LastChanged = 20210525
-[EndMetadata]

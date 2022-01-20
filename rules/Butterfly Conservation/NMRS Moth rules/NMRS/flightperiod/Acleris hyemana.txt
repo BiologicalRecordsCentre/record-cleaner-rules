@@ -5,8 +5,12 @@ ShortName = 49.082 Acleris hyemana (Heath Button)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acleris hyemana (Heath Button)
 Tvk = NHMSYS0000500931
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0731
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

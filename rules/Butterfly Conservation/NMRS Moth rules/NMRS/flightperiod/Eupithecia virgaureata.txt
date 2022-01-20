@@ -5,7 +5,11 @@ ShortName = 70.161 Eupithecia virgaureata (Golden-rod Pug)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eupithecia virgaureata (Golden-rod Pug)
 Tvk = NBNSYS0000005939
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0401
 EndDate = 1007
-LastChanged = 20210525
-[EndMetadata]

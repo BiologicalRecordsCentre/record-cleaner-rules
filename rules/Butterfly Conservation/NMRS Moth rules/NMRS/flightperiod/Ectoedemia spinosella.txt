@@ -5,7 +5,11 @@ ShortName = 4.098 Ectoedemia spinosella (Blackthorn Pigmy)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Ectoedemia spinosella (Blackthorn Pigmy)
 Tvk = NHMSYS0000502278
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0630
-LastChanged = 20210525
-[EndMetadata]

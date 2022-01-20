@@ -5,7 +5,11 @@ ShortName = 38.044 Elachista eleochariella (Small Bog Dwarf)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Elachista eleochariella (Small Bog Dwarf)
 Tvk = NHMSYS0021142305
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0807
-LastChanged = 20210525
-[EndMetadata]

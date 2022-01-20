@@ -5,7 +5,11 @@ ShortName = 9.005 Lampronia flavimitrella (Bramble Bright)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Lampronia flavimitrella (Bramble Bright)
 Tvk = NHMSYS0021142176
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0630
-LastChanged = 20210525
-[EndMetadata]

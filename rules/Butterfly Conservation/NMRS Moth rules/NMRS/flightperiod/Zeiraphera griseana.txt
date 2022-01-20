@@ -5,7 +5,11 @@ ShortName = 49.257 Zeiraphera griseana (Larch Tortrix)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Zeiraphera griseana (Larch Tortrix)
 Tvk = NHMSYS0021143278
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0930
-LastChanged = 20210525
-[EndMetadata]

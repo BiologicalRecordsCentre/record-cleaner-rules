@@ -5,7 +5,11 @@ ShortName = 4.069 Trifurcula beirnei (Greenweed Pigmy)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Trifurcula beirnei (Greenweed Pigmy)
 Tvk = NBNSYS0100005898
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0801
 EndDate = 0930
-LastChanged = 20210525
-[EndMetadata]

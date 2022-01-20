@@ -5,7 +5,11 @@ ShortName = 19.007 Glyphipterix simpliciella (Cocksfoot Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Glyphipterix simpliciella (Cocksfoot Moth)
 Tvk = NHMSYS0000502739
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0707
-LastChanged = 20210525
-[EndMetadata]

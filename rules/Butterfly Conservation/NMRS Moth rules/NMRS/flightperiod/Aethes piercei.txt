@@ -5,7 +5,11 @@ ShortName = 49.115 Aethes piercei (Devil�s-bit Conch)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Aethes piercei (Devil�s-bit Conch)
 Tvk = NHMSYS0000501014
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

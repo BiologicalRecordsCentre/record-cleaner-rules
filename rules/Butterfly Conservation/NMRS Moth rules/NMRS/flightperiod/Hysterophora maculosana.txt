@@ -5,7 +5,11 @@ ShortName = 49.096 Hysterophora maculosana (Bluebell Conch)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Hysterophora maculosana (Bluebell Conch)
 Tvk = NHMSYS0000502925
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0421
 EndDate = 0630
-LastChanged = 20210525
-[EndMetadata]

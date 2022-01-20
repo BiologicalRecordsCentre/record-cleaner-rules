@@ -5,7 +5,11 @@ ShortName = 35.010 Aproaerema anthyllidella (Vetch Sober)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Aproaerema anthyllidella (Vetch Sober)
 Tvk = NHMSYS0021142621
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0421
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

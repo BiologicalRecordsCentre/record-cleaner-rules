@@ -5,7 +5,11 @@ ShortName = 62.033 Acrobasis tumidana (Scarce Oak Knot-horn)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acrobasis tumidana (Scarce Oak Knot-horn)
 Tvk = NHMSYS0021143651
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0621
 EndDate = 0915
-LastChanged = 20210525
-[EndMetadata]

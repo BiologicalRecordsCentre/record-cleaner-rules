@@ -5,7 +5,11 @@ ShortName = 73.188 Agrochola helvola (Flounced Chestnut)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Agrochola helvola (Flounced Chestnut)
 Tvk = NBNSYS0000006360
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0807
 EndDate = 1115
-LastChanged = 20210525
-[EndMetadata]

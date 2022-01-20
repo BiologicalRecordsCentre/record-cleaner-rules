@@ -5,7 +5,11 @@ ShortName = 11.003 Dahlica triquetrella (Narrow Lichen Bagworm)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Dahlica triquetrella (Narrow Lichen Bagworm)
 Tvk = NHMSYS0021142190
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0301
 EndDate = 0430
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 38.006 Elachista collitella (Pembroke Dwarf)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Elachista collitella (Pembroke Dwarf)
 Tvk = NHMSYS0021142258
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0515
 EndDate = 0621
-LastChanged = 20210525
-[EndMetadata]

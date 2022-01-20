@@ -5,7 +5,11 @@ ShortName = 49.150 Apotomis betuletana (Birch Marble)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Apotomis betuletana (Birch Marble)
 Tvk = NHMSYS0000501152
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0930
-LastChanged = 20210525
-[EndMetadata]

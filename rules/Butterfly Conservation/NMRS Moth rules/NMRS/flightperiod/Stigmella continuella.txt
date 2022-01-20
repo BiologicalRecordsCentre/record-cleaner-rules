@@ -5,7 +5,11 @@ ShortName = 4.044 Stigmella continuella (Double-barred Pigmy)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Stigmella continuella (Double-barred Pigmy)
 Tvk = NHMSYS0000504345
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

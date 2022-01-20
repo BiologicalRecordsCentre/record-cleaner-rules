@@ -5,7 +5,11 @@ ShortName = 72.049 Eilema sororcula (Orange Footman)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eilema sororcula (Orange Footman)
 Tvk = NBNSYS0000006129
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 0807
-LastChanged = 20210525
-[EndMetadata]

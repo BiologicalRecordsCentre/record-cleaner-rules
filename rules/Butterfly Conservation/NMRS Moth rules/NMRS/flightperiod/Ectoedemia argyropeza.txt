@@ -5,7 +5,11 @@ ShortName = 4.085 Ectoedemia argyropeza (Virgin Pigmy)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Ectoedemia argyropeza (Virgin Pigmy)
 Tvk = NHMSYS0000502267
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0630
-LastChanged = 20210525
-[EndMetadata]

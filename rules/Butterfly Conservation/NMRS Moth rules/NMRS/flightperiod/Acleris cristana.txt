@@ -5,8 +5,12 @@ ShortName = 49.076 Acleris cristana (Tufted Button)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acleris cristana (Tufted Button)
 Tvk = NHMSYS0021143093
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0630
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

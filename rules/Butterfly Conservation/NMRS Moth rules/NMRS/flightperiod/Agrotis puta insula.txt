@@ -5,7 +5,11 @@ ShortName = 73.325 Agrotis puta insula (Shuttle-shaped Dart)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Agrotis puta insula (Shuttle-shaped Dart)
 Tvk = NHMSYS0021144901
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

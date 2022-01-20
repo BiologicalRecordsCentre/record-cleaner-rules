@@ -5,7 +5,11 @@ ShortName = 15.046 Phyllonorycter blancardella (Brown Apple Midget)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phyllonorycter blancardella (Brown Apple Midget)
 Tvk = NHMSYS0000503761
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0301
 EndDate = 1015
-LastChanged = 20210525
-[EndMetadata]

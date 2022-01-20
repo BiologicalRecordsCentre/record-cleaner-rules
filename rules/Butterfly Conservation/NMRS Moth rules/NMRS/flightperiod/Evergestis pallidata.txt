@@ -5,7 +5,11 @@ ShortName = 63.060 Evergestis pallidata (Chequered Pearl)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Evergestis pallidata (Chequered Pearl)
 Tvk = NHMSYS0000502670
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0621
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 49.381 Strophedra weirana (Little Beech Piercer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Strophedra weirana (Little Beech Piercer)
 Tvk = NHMSYS0000504406
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

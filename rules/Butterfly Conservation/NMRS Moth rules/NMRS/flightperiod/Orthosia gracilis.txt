@@ -5,7 +5,11 @@ ShortName = 73.247 Orthosia gracilis (Powdered Quaker)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Orthosia gracilis (Powdered Quaker)
 Tvk = NHMSYS0021144793
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0307
 EndDate = 0607
-LastChanged = 20210525
-[EndMetadata]

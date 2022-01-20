@@ -5,7 +5,11 @@ ShortName = 73.114 Euplexia lucipara (Small Angle Shades)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Euplexia lucipara (Small Angle Shades)
 Tvk = NBNSYS0000006401
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 1007
-LastChanged = 20210525
-[EndMetadata]

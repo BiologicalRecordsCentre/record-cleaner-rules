@@ -5,7 +5,11 @@ ShortName = 21.001 Lyonetia clerkella (Apple Leaf-miner)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Lyonetia clerkella (Apple Leaf-miner)
 Tvk = NHMSYS0000503134
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0101
 EndDate = 1231
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 66.007 Lasiocampa quercus callunae (Northern Eggar)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Lasiocampa quercus callunae (Northern Eggar)
 Tvk = NHMSYS0021143819
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0515
 EndDate = 0915
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 49.258 Zeiraphera rufimitrana (Red-headed Bell)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Zeiraphera rufimitrana (Red-headed Bell)
 Tvk = NHMSYS0000504716
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

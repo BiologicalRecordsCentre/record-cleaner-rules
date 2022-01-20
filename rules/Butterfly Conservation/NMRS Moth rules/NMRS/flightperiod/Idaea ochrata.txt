@@ -5,7 +5,11 @@ ShortName = 70.003 Idaea ochrata (Bright Wave)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Idaea ochrata (Bright Wave)
 Tvk = NHMSYS0000520553
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0607
 EndDate = 0721
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 70.172 Eupithecia distinctaria (Thyme Pug)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eupithecia distinctaria (Thyme Pug)
 Tvk = NHMSYS0000520033
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0521
 EndDate = 0821
-LastChanged = 20210525
-[EndMetadata]

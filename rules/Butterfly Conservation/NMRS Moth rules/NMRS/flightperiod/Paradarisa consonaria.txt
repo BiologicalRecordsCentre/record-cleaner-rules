@@ -5,7 +5,11 @@ ShortName = 70.272 Paradarisa consonaria (Square Spot)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Paradarisa consonaria (Square Spot)
 Tvk = NHMSYS0021144257
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0321
 EndDate = 0715
-LastChanged = 20210525
-[EndMetadata]

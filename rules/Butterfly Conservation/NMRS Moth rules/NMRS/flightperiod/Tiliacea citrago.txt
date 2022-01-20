@@ -5,7 +5,11 @@ ShortName = 73.179 Tiliacea citrago (Orange Sallow)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Tiliacea citrago (Orange Sallow)
 Tvk = NHMSYS0021144698
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0807
 EndDate = 1107
-LastChanged = 20210525
-[EndMetadata]

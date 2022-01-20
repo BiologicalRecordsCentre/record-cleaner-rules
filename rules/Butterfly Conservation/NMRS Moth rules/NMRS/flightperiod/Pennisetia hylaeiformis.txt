@@ -5,7 +5,11 @@ ShortName = 52.001 Pennisetia hylaeiformis (Raspberry Clearwing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pennisetia hylaeiformis (Raspberry Clearwing)
 Tvk = NHMSYS0020695694
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0707
 EndDate = 0815
-LastChanged = 20210525
-[EndMetadata]

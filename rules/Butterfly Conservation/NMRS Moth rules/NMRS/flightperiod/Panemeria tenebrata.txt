@@ -5,7 +5,11 @@ ShortName = 73.048 Panemeria tenebrata (Small Yellow Underwing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Panemeria tenebrata (Small Yellow Underwing)
 Tvk = NBNSYS0000006503
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 0630
-LastChanged = 20210525
-[EndMetadata]

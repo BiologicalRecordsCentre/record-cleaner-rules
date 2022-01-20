@@ -5,8 +5,12 @@ ShortName = 14.005 Bucculatrix humiliella (Highland Bent-wing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Bucculatrix humiliella (Highland Bent-wing)
 Tvk = MM0001Z1003R8501
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0721
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

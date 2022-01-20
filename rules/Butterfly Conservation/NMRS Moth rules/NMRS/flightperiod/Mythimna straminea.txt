@@ -5,7 +5,11 @@ ShortName = 73.294 Mythimna straminea (Southern Wainscot)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Mythimna straminea (Southern Wainscot)
 Tvk = NBNSYS0000006290
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0915
-LastChanged = 20210525
-[EndMetadata]

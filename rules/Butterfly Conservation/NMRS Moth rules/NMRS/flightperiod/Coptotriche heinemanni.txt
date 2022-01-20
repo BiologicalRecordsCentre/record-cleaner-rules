@@ -5,7 +5,11 @@ ShortName = 10.004 Coptotriche heinemanni (Kent Carl)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Coptotriche heinemanni (Kent Carl)
 Tvk = NHMSYS0021142181
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0801
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

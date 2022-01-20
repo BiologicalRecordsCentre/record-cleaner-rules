@@ -5,7 +5,11 @@ ShortName = 73.321 Agrotis herzogi (Spalding's Dart)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Agrotis herzogi (Spalding's Dart)
 Tvk = NBNSYS0100001446
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 1121
 EndDate = 1215
-LastChanged = 20210525
-[EndMetadata]

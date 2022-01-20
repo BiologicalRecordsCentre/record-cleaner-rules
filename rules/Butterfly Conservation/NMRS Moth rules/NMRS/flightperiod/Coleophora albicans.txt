@@ -5,7 +5,11 @@ ShortName = 37.101 Coleophora albicans (Wormwood Case-bearer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Coleophora albicans (Wormwood Case-bearer)
 Tvk = NHMSYS0021142239
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

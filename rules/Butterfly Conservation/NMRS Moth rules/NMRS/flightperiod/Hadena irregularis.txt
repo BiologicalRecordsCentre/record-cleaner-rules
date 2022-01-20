@@ -5,7 +5,11 @@ ShortName = 73.287 Hadena irregularis (Viper's Bugloss)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Hadena irregularis (Viper's Bugloss)
 Tvk = NBNSYS0000006261
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0521
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

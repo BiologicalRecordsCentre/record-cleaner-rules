@@ -5,7 +5,11 @@ ShortName = 43.009 Scythris empetrella (Ling Owlet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Scythris empetrella (Ling Owlet)
 Tvk = NHMSYS0000504162
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

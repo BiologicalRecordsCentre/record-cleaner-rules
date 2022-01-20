@@ -5,7 +5,11 @@ ShortName = 74.004 Nola confusalis (Least Black Arches)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Nola confusalis (Least Black Arches)
 Tvk = NHMSYS0000503395
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0401
 EndDate = 0715
-LastChanged = 20210525
-[EndMetadata]

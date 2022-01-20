@@ -5,7 +5,11 @@ ShortName = 3.002 Korscheltellus lupulina (Common Swift)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Korscheltellus lupulina (Common Swift)
 Tvk = NHMSYS0021142343
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

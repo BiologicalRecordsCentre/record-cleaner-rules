@@ -5,7 +5,11 @@ ShortName = 35.086 Athrips tetrapunctella (Northern Groundling)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Athrips tetrapunctella (Northern Groundling)
 Tvk = NHMSYS0000501425
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0707
-LastChanged = 20210525
-[EndMetadata]

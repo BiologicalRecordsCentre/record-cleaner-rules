@@ -5,7 +5,11 @@ ShortName = 15.073 Phyllonorycter lautella (Fiery Oak Midget)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phyllonorycter lautella (Fiery Oak Midget)
 Tvk = NHMSYS0000503784
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0930
-LastChanged = 20210525
-[EndMetadata]

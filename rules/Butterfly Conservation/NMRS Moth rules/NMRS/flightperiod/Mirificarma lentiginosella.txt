@@ -5,7 +5,11 @@ ShortName = 35.092 Mirificarma lentiginosella (Greenweed Groundling)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Mirificarma lentiginosella (Greenweed Groundling)
 Tvk = NHMSYS0000503246
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0801
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

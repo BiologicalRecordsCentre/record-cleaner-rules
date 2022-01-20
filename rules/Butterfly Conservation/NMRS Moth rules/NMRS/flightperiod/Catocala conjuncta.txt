@@ -5,7 +5,11 @@ ShortName = 72.077 Catocala conjuncta (Minsmere Crimson Underwing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Catocala conjuncta (Minsmere Crimson Underwing)
 Tvk = NHMSYS0001703667
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0721
 EndDate = 0930
-LastChanged = 20210525
-[EndMetadata]

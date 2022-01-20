@@ -5,7 +5,11 @@ ShortName = 73.095 Caradrina clavipalpis (Pale Mottled Willow)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Caradrina clavipalpis (Pale Mottled Willow)
 Tvk = NBNSYS0000006494
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0321
 EndDate = 1115
-LastChanged = 20210525
-[EndMetadata]

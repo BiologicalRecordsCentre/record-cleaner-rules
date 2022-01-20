@@ -5,7 +5,11 @@ ShortName = 15.001 Parectopa ononidis (Clover Slender)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Parectopa ononidis (Clover Slender)
 Tvk = NHMSYS0000503630
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

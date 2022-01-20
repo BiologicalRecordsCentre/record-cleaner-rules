@@ -5,7 +5,11 @@ ShortName = 63.080 Chrysoteuchia culmella (Garden Grass-veneer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Chrysoteuchia culmella (Garden Grass-veneer)
 Tvk = NHMSYS0000501786
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

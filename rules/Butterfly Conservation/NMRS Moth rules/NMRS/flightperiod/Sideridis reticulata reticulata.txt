@@ -5,7 +5,11 @@ ShortName = 73.277 Sideridis reticulata reticulata (Bordered Gothic)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Sideridis reticulata reticulata (Bordered Gothic)
 Tvk = NHMSYS0021144833
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

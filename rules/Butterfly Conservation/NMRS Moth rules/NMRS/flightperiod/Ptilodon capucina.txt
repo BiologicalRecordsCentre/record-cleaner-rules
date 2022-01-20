@@ -5,7 +5,11 @@ ShortName = 71.021 Ptilodon capucina (Coxcomb Prominent)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Ptilodon capucina (Coxcomb Prominent)
 Tvk = NBNSYS0000006094
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 0915
-LastChanged = 20210525
-[EndMetadata]

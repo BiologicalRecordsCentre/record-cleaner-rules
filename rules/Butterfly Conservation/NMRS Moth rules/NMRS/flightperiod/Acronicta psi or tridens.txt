@@ -5,7 +5,11 @@ Shortname = 73.03x Acronicta psi/tridens
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acronicta psi/tridens
 Tvk = NHMSYS0001703742
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 0915
-LastChanged = 20210527
-[EndMetadata]

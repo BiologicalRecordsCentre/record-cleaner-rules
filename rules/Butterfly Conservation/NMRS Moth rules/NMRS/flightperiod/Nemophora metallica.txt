@@ -5,7 +5,11 @@ ShortName = 7.002 Nemophora metallica (Brassy Long-horn)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Nemophora metallica (Brassy Long-horn)
 Tvk = NHMSYS0000503360
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0807
-LastChanged = 20210525
-[EndMetadata]

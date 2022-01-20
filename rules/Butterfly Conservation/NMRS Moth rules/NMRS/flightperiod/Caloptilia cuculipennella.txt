@@ -5,8 +5,12 @@ ShortName = 15.002 Caloptilia cuculipennella (Feathered Slender)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Caloptilia cuculipennella (Feathered Slender)
 Tvk = NHMSYS0000501605
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0831
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

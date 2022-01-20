@@ -5,7 +5,11 @@ ShortName = 72.024 Phragmatobia fuliginosa (Ruby Tiger)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phragmatobia fuliginosa (Ruby Tiger)
 Tvk = NBNSYS0000006150
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0401
 EndDate = 1007
-LastChanged = 20210525
-[EndMetadata]

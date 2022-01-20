@@ -5,7 +5,11 @@ ShortName = 37.057 Coleophora vibicigerella (Essex Case-bearer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Coleophora vibicigerella (Essex Case-bearer)
 Tvk = NHMSYS0000501942
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0621
 EndDate = 0707
-LastChanged = 20210525
-[EndMetadata]

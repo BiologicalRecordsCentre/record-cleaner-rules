@@ -5,7 +5,11 @@ ShortName = 35.056 Metzneria lappella (Burdock Neb)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Metzneria lappella (Burdock Neb)
 Tvk = NHMSYS0000503224
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0807
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 62.044 Ancylodes pallens (Pale Knot-horn)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Ancylodes pallens (Pale Knot-horn)
 Tvk = MM0001Z1GTI8C1MY
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0101
 EndDate = 0131
-LastChanged = 20210525
-[EndMetadata]

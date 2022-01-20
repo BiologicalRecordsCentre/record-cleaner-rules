@@ -5,7 +5,11 @@ ShortName = 63.047 Spoladea recurvalis (Maize Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Spoladea recurvalis (Maize Moth)
 Tvk = NHMSYS0000504286
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 1231
-LastChanged = 20210525
-[EndMetadata]

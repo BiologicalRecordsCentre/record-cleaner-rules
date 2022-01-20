@@ -5,7 +5,11 @@ ShortName = 37.005 Coleophora lutipennella (Common Oak Case-bearer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Coleophora lutipennella (Common Oak Case-bearer)
 Tvk = NHMSYS0000501894
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0515
 EndDate = 0815
-LastChanged = 20210525
-[EndMetadata]

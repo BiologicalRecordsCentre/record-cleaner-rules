@@ -5,7 +5,11 @@ ShortName = 70.196 Chesias rufata scotica (Broom-tip)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Chesias rufata scotica (Broom-tip)
 Tvk = NHMSYS0021144146
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0401
 EndDate = 0821
-LastChanged = 20210525
-[EndMetadata]

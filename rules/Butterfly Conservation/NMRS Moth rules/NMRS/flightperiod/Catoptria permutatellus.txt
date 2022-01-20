@@ -5,7 +5,11 @@ ShortName = 63.096 Catoptria permutatellus (Scotch Grass-veneer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Catoptria permutatellus (Scotch Grass-veneer)
 Tvk = NHMSYS0021143768
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0621
 EndDate = 0915
-LastChanged = 20210525
-[EndMetadata]

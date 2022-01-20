@@ -5,7 +5,11 @@ ShortName = 73.328 Axylia putris (Flame)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Axylia putris (Flame)
 Tvk = NBNSYS0000006184
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0930
-LastChanged = 20210525
-[EndMetadata]

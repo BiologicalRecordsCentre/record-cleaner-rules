@@ -5,7 +5,11 @@ ShortName = 49.375 Pammene regiana (Regal Piercer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pammene regiana (Regal Piercer)
 Tvk = NHMSYS0000503564
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

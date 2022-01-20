@@ -5,7 +5,11 @@ ShortName = 1.002 Micropterix mansuetella (Black-headed Gold)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Micropterix mansuetella (Black-headed Gold)
 Tvk = NHMSYS0021142327
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0401
 EndDate = 0630
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 70.043 Scotopteryx bipunctaria cretata (Chalk Carpet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Scotopteryx bipunctaria cretata (Chalk Carpet)
 Tvk = NHMSYS0021143908
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0607
 EndDate = 0907
-LastChanged = 20210525
-[EndMetadata]

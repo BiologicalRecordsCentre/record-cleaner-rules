@@ -5,7 +5,11 @@ Shortname = 54.00x Zygaena lonicerae/trifolii
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Zygaena lonicerae/trifolii
 Tvk = NHMSYS0020083546
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0821
-LastChanged = 20210527
-[EndMetadata]

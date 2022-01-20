@@ -5,8 +5,12 @@ ShortName = 73.198 Conistra erythrocephala (Red-headed Chestnut)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Conistra erythrocephala (Red-headed Chestnut)
 Tvk = NHMSYS0021144721
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 1015
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

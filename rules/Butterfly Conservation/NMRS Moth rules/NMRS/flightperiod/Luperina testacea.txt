@@ -5,7 +5,11 @@ ShortName = 73.131 Luperina testacea (Flounced Rustic)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Luperina testacea (Flounced Rustic)
 Tvk = NHMSYS0021144621
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

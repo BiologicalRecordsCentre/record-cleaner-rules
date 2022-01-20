@@ -5,7 +5,11 @@ ShortName = 49.0381 Epichoristodes acerbella (African Carnation Tortrix)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Epichoristodes acerbella (African Carnation Tortrix)
 Tvk = NHMSYS0000502426
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0726
 EndDate = 0726
-LastChanged = 20210525
-[EndMetadata]

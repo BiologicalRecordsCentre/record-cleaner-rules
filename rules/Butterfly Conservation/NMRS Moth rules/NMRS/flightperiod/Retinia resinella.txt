@@ -5,7 +5,11 @@ ShortName = 49.301 Retinia resinella (Pine Resin-gall Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Retinia resinella (Pine Resin-gall Moth)
 Tvk = MM0001Z100QKZ9J1
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0630
-LastChanged = 20210525
-[EndMetadata]

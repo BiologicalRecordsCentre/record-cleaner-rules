@@ -5,7 +5,11 @@ ShortName = 62.068 Cadra calidella (Dried Fruit Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Cadra calidella (Dried Fruit Moth)
 Tvk = NHMSYS0021143685
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

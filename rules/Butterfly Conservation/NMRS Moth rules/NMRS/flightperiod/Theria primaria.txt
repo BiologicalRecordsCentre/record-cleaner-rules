@@ -5,8 +5,12 @@ ShortName = 70.282 Theria primaria (Early Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Theria primaria (Early Moth)
 Tvk = NBNSYS0000006052
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0421
 EndDate = 1221
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

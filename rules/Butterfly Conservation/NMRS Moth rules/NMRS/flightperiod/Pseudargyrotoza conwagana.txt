@@ -5,7 +5,11 @@ ShortName = 49.091 Pseudargyrotoza conwagana (Yellow-spot Tortrix)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pseudargyrotoza conwagana (Yellow-spot Tortrix)
 Tvk = NHMSYS0000503935
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0421
 EndDate = 1207
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 49.045 Eana osseana (Dotted Shade)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eana osseana (Dotted Shade)
 Tvk = NHMSYS0000502247
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

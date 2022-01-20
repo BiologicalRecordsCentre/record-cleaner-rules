@@ -5,7 +5,11 @@ ShortName = 70.045 Scotopteryx chenopodiata (Shaded Broad-bar)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Scotopteryx chenopodiata (Shaded Broad-bar)
 Tvk = NBNSYS0000005807
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0921
-LastChanged = 20210525
-[EndMetadata]

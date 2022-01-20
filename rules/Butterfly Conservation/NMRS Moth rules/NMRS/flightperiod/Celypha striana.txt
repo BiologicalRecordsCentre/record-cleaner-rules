@@ -5,7 +5,11 @@ ShortName = 49.161 Celypha striana (Barred Marble)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Celypha striana (Barred Marble)
 Tvk = NHMSYS0021143171
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0930
-LastChanged = 20210525
-[EndMetadata]

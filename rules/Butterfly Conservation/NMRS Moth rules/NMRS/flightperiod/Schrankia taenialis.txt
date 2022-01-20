@@ -5,7 +5,11 @@ ShortName = 72.062 Schrankia taenialis (White-line Snout)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Schrankia taenialis (White-line Snout)
 Tvk = NHMSYS0021144432
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0607
 EndDate = 1007
-LastChanged = 20210525
-[EndMetadata]

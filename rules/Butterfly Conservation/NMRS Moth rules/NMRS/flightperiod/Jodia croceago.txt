@@ -5,8 +5,12 @@ ShortName = 73.199 Jodia croceago (Orange Upperwing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Jodia croceago (Orange Upperwing)
 Tvk = NHMSYS0021144722
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0515
 EndDate = 1001
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

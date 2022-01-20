@@ -5,7 +5,11 @@ ShortName = 73.066 Brachionycha nubeculosa (Rannoch Sprawler)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Brachionycha nubeculosa (Rannoch Sprawler)
 Tvk = NBNSYS0000006321
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0307
 EndDate = 0507
-LastChanged = 20210525
-[EndMetadata]

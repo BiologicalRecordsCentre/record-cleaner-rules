@@ -5,7 +5,11 @@ ShortName = 73.356 Xestia agathina hebridicola (Heath Rustic)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Xestia agathina hebridicola (Heath Rustic)
 Tvk = NHMSYS0021144938
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0721
 EndDate = 1015
-LastChanged = 20210525
-[EndMetadata]

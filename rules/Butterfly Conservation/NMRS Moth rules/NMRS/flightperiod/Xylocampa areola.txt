@@ -5,7 +5,11 @@ ShortName = 73.069 Xylocampa areola (Early Grey)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Xylocampa areola (Early Grey)
 Tvk = NBNSYS0000006336
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0215
 EndDate = 0531
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 70.191 Carsia sororiata (Manchester Treble-bar)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Carsia sororiata (Manchester Treble-bar)
 Tvk = NHMSYS0000517633
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0921
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 73.068 Allophyes oxyacanthae (Green-brindled Crescent)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Allophyes oxyacanthae (Green-brindled Crescent)
 Tvk = NBNSYS0000006338
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0821
 EndDate = 1130
-LastChanged = 20210525
-[EndMetadata]

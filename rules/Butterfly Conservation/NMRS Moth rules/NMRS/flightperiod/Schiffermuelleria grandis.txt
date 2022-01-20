@@ -5,7 +5,11 @@ ShortName = 28.003 Schiffermuelleria grandis (Silver-streaked Tubic)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Schiffermuelleria grandis (Silver-streaked Tubic)
 Tvk = NHMSYS0021142538
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0630
-LastChanged = 20210525
-[EndMetadata]

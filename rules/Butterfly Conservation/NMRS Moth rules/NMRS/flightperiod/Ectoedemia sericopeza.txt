@@ -5,7 +5,11 @@ ShortName = 4.074 Ectoedemia sericopeza (Norway-maple Pigmy)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Ectoedemia sericopeza (Norway-maple Pigmy)
 Tvk = NBNSYS0100002916
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0421
 EndDate = 0907
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 73.203 Lithophane furcifera (Conformist)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Lithophane furcifera (Conformist)
 Tvk = NBNSYS0000006331
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0531
 EndDate = 0901
-LastChanged = 20210525
-[EndMetadata]

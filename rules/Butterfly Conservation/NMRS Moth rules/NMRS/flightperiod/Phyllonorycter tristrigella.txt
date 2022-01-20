@@ -5,7 +5,11 @@ ShortName = 15.078 Phyllonorycter tristrigella (Elm Midget)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phyllonorycter tristrigella (Elm Midget)
 Tvk = NHMSYS0000503817
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0930
-LastChanged = 20210525
-[EndMetadata]

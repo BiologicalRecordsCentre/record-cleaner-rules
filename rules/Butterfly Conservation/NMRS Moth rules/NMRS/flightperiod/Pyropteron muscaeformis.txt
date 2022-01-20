@@ -5,7 +5,11 @@ ShortName = 52.016 Pyropteron muscaeformis (Thrift Clearwing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pyropteron muscaeformis (Thrift Clearwing)
 Tvk = NHMSYS0021143410
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0521
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

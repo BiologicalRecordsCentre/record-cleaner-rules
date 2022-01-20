@@ -5,7 +5,11 @@ ShortName = 39.004 Dystebenna stephensi (Oak Cosmet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Dystebenna stephensi (Oak Cosmet)
 Tvk = NHMSYS0000502243
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0621
 EndDate = 0930
-LastChanged = 20210525
-[EndMetadata]

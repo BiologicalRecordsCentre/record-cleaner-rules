@@ -5,7 +5,11 @@ ShortName = 70.250 Lycia zonaria zonaria (Belted Beauty)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Lycia zonaria zonaria (Belted Beauty)
 Tvk = NHMSYS0021144217
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0301
 EndDate = 0615
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 11.004 Dahlica inconspicuella (Lesser Lichen Bagworm)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Dahlica inconspicuella (Lesser Lichen Bagworm)
 Tvk = NHMSYS0000502085
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0301
 EndDate = 0531
-LastChanged = 20210525
-[EndMetadata]

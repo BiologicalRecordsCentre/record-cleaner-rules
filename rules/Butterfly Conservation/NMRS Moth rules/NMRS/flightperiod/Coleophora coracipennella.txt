@@ -5,7 +5,11 @@ ShortName = 37.014 Coleophora coracipennella (Blackthorn Case-bearer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Coleophora coracipennella (Blackthorn Case-bearer)
 Tvk = NHMSYS0000501851
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0815
-LastChanged = 20210525
-[EndMetadata]

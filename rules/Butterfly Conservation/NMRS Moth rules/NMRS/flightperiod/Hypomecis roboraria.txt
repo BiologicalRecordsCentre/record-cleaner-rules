@@ -5,7 +5,11 @@ ShortName = 70.267 Hypomecis roboraria (Great Oak Beauty)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Hypomecis roboraria (Great Oak Beauty)
 Tvk = NHMSYS0021144245
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0507
 EndDate = 0815
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ Shortname = 73.16x Mesapamea secalis agg.
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Mesapamea secalis agg.
 Tvk = NBNSYS0000006441
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0930
-LastChanged = 20220117
-[EndMetadata]

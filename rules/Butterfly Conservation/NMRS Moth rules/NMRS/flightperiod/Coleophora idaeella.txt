@@ -5,7 +5,11 @@ ShortName = 37.023 Coleophora idaeella (Scotch Case-bearer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Coleophora idaeella (Scotch Case-bearer)
 Tvk = NHMSYS0000501878
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

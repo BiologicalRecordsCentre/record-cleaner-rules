@@ -5,7 +5,11 @@ ShortName = 32.033 Agonopterix astrantiae (Sanicle Flat-body)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Agonopterix astrantiae (Sanicle Flat-body)
 Tvk = NHMSYS0000501047
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

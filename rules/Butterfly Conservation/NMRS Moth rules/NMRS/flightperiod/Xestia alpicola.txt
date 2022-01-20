@@ -5,7 +5,11 @@ ShortName = 73.363 Xestia alpicola (Northern Dart)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Xestia alpicola (Northern Dart)
 Tvk = NHMSYS0000523349
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0621
 EndDate = 0815
-LastChanged = 20210525
-[EndMetadata]

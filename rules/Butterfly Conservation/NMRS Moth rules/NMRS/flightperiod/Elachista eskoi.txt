@@ -5,7 +5,11 @@ ShortName = 38.027 Elachista eskoi (Highland Dwarf)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Elachista eskoi (Highland Dwarf)
 Tvk = NBNSYS0100002929
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0521
 EndDate = 0707
-LastChanged = 20210525
-[EndMetadata]

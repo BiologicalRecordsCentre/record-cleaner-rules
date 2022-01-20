@@ -5,7 +5,11 @@ ShortName = 63.010 Pyrausta aerealis (Large Straw-barred Pearl)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pyrausta aerealis (Large Straw-barred Pearl)
 Tvk = NHMSYS0021143707
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0630
-LastChanged = 20210525
-[EndMetadata]

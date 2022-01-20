@@ -5,7 +5,11 @@ ShortName = 15.0862 Phyllonorycter pastorella (Royal Midget)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phyllonorycter pastorella (Royal Midget)
 Tvk = NHMSYS0021128165
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0101
 EndDate = 1231
-LastChanged = 20210525
-[EndMetadata]

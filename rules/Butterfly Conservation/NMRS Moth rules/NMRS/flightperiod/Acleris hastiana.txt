@@ -5,8 +5,12 @@ ShortName = 49.080 Acleris hastiana (Sallow Button)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acleris hastiana (Sallow Button)
 Tvk = NHMSYS0000500930
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0531
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

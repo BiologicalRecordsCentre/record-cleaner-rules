@@ -5,7 +5,11 @@ ShortName = 73.080 Callopistria juventina (Latin)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Callopistria juventina (Latin)
 Tvk = NBNSYS0000006404
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0815
-LastChanged = 20210525
-[EndMetadata]

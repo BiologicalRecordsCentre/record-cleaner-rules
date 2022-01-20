@@ -5,7 +5,11 @@ ShortName = 12.045 Opogona omoscopa (Eastern Detritus Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Opogona omoscopa (Eastern Detritus Moth)
 Tvk = NHMSYS0020530789
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0821
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

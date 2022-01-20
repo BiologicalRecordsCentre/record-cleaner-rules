@@ -5,7 +5,11 @@ ShortName = 43.008 Scythris inspersella (Norfolk Owlet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Scythris inspersella (Norfolk Owlet)
 Tvk = NHMSYS0021142883
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

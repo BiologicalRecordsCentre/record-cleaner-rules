@@ -5,7 +5,11 @@ ShortName = 70.273 Parectropis similaria (Brindled White-spot)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Parectropis similaria (Brindled White-spot)
 Tvk = NBNSYS0100004476
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0721
-LastChanged = 20210525
-[EndMetadata]

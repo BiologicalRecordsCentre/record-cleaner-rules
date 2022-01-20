@@ -5,7 +5,11 @@ ShortName = 73.041 Acronicta strigosa (Marsh Dagger)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acronicta strigosa (Marsh Dagger)
 Tvk = NHMSYS0021144504
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

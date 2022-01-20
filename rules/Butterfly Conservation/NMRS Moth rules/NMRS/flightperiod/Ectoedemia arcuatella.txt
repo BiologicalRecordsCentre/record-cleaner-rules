@@ -5,7 +5,11 @@ ShortName = 4.096 Ectoedemia arcuatella (Strawberry Pigmy)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Ectoedemia arcuatella (Strawberry Pigmy)
 Tvk = NHMSYS0000502265
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

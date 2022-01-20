@@ -5,8 +5,12 @@ ShortName = 49.087 Acleris literana (Lichen Button)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acleris literana (Lichen Button)
 Tvk = NHMSYS0000500936
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0715
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

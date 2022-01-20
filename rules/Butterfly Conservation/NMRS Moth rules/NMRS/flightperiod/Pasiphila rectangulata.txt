@@ -5,7 +5,11 @@ ShortName = 70.144 Pasiphila rectangulata (Green Pug)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pasiphila rectangulata (Green Pug)
 Tvk = NBNSYS0100004490
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0507
 EndDate = 0821
-LastChanged = 20210525
-[EndMetadata]

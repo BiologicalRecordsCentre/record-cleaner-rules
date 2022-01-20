@@ -5,7 +5,11 @@ ShortName = 32.025 Agonopterix nanatella (Carline Flat-body)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Agonopterix nanatella (Carline Flat-body)
 Tvk = NHMSYS0000501062
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

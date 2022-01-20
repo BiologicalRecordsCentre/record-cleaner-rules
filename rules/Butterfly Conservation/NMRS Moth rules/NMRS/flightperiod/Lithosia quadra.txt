@@ -5,7 +5,11 @@ ShortName = 72.041 Lithosia quadra (Four-spotted Footman)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Lithosia quadra (Four-spotted Footman)
 Tvk = NBNSYS0000006137
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0615
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

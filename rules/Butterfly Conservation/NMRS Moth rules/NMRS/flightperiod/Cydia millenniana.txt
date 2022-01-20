@@ -5,7 +5,11 @@ ShortName = 49.337 Cydia millenniana (Breckland Piercer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Cydia millenniana (Breckland Piercer)
 Tvk = NHMSYS0020470265
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0630
-LastChanged = 20210525
-[EndMetadata]

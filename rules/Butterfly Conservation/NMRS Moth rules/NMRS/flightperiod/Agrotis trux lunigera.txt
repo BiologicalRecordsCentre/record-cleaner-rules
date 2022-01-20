@@ -5,7 +5,11 @@ ShortName = 73.324 Agrotis trux lunigera (Crescent Dart)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Agrotis trux lunigera (Crescent Dart)
 Tvk = NHMSYS0021144899
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 1015
-LastChanged = 20210525
-[EndMetadata]

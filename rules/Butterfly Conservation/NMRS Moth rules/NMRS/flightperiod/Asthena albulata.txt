@@ -5,7 +5,11 @@ ShortName = 70.111 Asthena albulata (Small White Wave)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Asthena albulata (Small White Wave)
 Tvk = NBNSYS0000005966
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 0915
-LastChanged = 20210525
-[EndMetadata]

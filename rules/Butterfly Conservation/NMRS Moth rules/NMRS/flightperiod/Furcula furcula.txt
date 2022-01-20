@@ -5,7 +5,11 @@ ShortName = 71.005 Furcula furcula (Sallow Kitten)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Furcula furcula (Sallow Kitten)
 Tvk = NBNSYS0000006083
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

@@ -5,8 +5,12 @@ ShortName = 73.197 Conistra rubiginea (Dotted Chestnut)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Conistra rubiginea (Dotted Chestnut)
 Tvk = NHMSYS0021144720
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0521
 EndDate = 0921
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

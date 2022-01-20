@@ -5,8 +5,12 @@ ShortName = 21.002 Lyonetia prunifoliella (Striped Bent-wing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Lyonetia prunifoliella (Striped Bent-wing)
 Tvk = NHMSYS0000503135
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0731
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

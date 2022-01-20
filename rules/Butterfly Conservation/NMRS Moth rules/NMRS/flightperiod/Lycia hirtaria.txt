@@ -5,7 +5,11 @@ ShortName = 70.248 Lycia hirtaria (Brindled Beauty)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Lycia hirtaria (Brindled Beauty)
 Tvk = NBNSYS0000006018
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0215
 EndDate = 0607
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 70.270 Ectropis crepuscularia (Engrailed)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Ectropis crepuscularia (Engrailed)
 Tvk = NHMSYS0021144249
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0215
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

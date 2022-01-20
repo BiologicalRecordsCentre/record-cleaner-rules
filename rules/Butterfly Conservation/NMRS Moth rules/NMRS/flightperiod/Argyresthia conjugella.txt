@@ -5,7 +5,11 @@ ShortName = 20.019 Argyresthia conjugella (Apple-fruit Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Argyresthia conjugella (Apple-fruit Moth)
 Tvk = NHMSYS0000501364
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0907
-LastChanged = 20210525
-[EndMetadata]

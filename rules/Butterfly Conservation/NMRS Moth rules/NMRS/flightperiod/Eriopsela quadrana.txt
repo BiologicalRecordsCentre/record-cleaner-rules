@@ -5,7 +5,11 @@ ShortName = 49.218 Eriopsela quadrana (Four-spot Bell)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eriopsela quadrana (Four-spot Bell)
 Tvk = NHMSYS0021143241
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0421
 EndDate = 0607
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 62.024 Rhodophaea formosa (Beautiful Knot-horn)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Rhodophaea formosa (Beautiful Knot-horn)
 Tvk = NHMSYS0021143641
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0521
 EndDate = 0930
-LastChanged = 20210525
-[EndMetadata]

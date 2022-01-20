@@ -5,7 +5,11 @@ ShortName = 49.060 Aleimma loeflingiana (Yellow Oak Button)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Aleimma loeflingiana (Yellow Oak Button)
 Tvk = NHMSYS0000501191
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0521
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

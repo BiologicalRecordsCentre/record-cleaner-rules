@@ -5,7 +5,11 @@ ShortName = 63.049 Hodebertia testalis (Tropical Pearl)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Hodebertia testalis (Tropical Pearl)
 Tvk = NHMSYS0021143735
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 1001
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

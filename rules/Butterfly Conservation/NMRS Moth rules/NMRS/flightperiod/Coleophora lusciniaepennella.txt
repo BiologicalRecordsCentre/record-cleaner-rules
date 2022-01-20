@@ -5,7 +5,11 @@ ShortName = 37.022 Coleophora lusciniaepennella (Osier Case-bearer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Coleophora lusciniaepennella (Osier Case-bearer)
 Tvk = NBNSYS0100002527
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

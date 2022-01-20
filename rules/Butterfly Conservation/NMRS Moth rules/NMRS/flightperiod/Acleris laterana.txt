@@ -5,7 +5,11 @@ ShortName = 49.066 Acleris laterana (Dark-triangle Button)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acleris laterana (Dark-triangle Button)
 Tvk = NHMSYS0000500933
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0621
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

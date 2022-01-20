@@ -5,7 +5,11 @@ ShortName = 73.046 Subacronicta megacephala (Poplar Grey)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Subacronicta megacephala (Poplar Grey)
 Tvk = NHMSYS0021144513
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 65.005 Drepana falcataria (Pebble Hook-tip)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Drepana falcataria (Pebble Hook-tip)
 Tvk = NBNSYS0000005720
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

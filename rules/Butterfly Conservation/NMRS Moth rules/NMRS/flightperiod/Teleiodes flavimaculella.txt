@@ -5,7 +5,11 @@ ShortName = 35.144 Teleiodes flavimaculella (Chestnut Groundling)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Teleiodes flavimaculella (Chestnut Groundling)
 Tvk = NHMSYS0000504462
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

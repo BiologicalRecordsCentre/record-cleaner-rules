@@ -5,7 +5,11 @@ ShortName = 35.017 Neofaculta ericetella (Heather Sober)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Neofaculta ericetella (Heather Sober)
 Tvk = NHMSYS0021142637
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 0807
-LastChanged = 20210525
-[EndMetadata]

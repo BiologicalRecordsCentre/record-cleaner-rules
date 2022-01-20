@@ -5,7 +5,11 @@ ShortName = 70.203 Archiearis parthenias (Orange Underwing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Archiearis parthenias (Orange Underwing)
 Tvk = NBNSYS0000005734
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0301
 EndDate = 0515
-LastChanged = 20210525
-[EndMetadata]

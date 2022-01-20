@@ -5,7 +5,11 @@ ShortName = 66.011 Phyllodesma ilicifolia (Small Lappet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phyllodesma ilicifolia (Small Lappet)
 Tvk = NBNSYS0000005713
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0421
 EndDate = 0531
-LastChanged = 20210525
-[EndMetadata]

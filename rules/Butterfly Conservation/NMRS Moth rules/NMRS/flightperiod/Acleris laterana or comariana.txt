@@ -5,7 +5,11 @@ Shortname = 49.06x Acleris laterana/comariana
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acleris laterana/comariana
 Tvk = NHMSYS0001703643
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 1130
-LastChanged = 20210527
-[EndMetadata]

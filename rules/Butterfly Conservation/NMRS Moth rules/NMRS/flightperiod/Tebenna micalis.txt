@@ -5,7 +5,11 @@ ShortName = 48.005 Tebenna micalis (Vagrant Metal-mark)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Tebenna micalis (Vagrant Metal-mark)
 Tvk = NHMSYS0000504455
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

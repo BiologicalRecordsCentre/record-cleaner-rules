@@ -5,7 +5,11 @@ ShortName = 73.262 Pachetra sagittigera sagittigera (Feathered Ear)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pachetra sagittigera sagittigera (Feathered Ear)
 Tvk = NHMSYS0021144810
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0515
 EndDate = 0621
-LastChanged = 20210525
-[EndMetadata]

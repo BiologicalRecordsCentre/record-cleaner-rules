@@ -5,7 +5,11 @@ ShortName = 49.100 Phalonidia curvistrigana (Golden-rod Conch)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phalonidia curvistrigana (Golden-rod Conch)
 Tvk = NHMSYS0000503705
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

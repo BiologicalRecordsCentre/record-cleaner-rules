@@ -5,7 +5,11 @@ ShortName = 49.246 Epinotia pygmaeana (Dingy Spruce Bell)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Epinotia pygmaeana (Dingy Spruce Bell)
 Tvk = NHMSYS0021143267
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0321
 EndDate = 0607
-LastChanged = 20210525
-[EndMetadata]

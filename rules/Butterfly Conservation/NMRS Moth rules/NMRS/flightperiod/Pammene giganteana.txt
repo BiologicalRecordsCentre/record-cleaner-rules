@@ -5,7 +5,11 @@ ShortName = 49.362 Pammene giganteana (Early Oak Piercer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pammene giganteana (Early Oak Piercer)
 Tvk = NHMSYS0000503556
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0321
 EndDate = 0531
-LastChanged = 20210525
-[EndMetadata]

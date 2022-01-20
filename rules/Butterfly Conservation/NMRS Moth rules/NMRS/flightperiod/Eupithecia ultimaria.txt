@@ -5,7 +5,11 @@ ShortName = 70.152 Eupithecia ultimaria (Channel Islands Pug)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eupithecia ultimaria (Channel Islands Pug)
 Tvk = NBNSYS0000033137
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 1021
-LastChanged = 20210525
-[EndMetadata]

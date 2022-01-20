@@ -5,7 +5,11 @@ ShortName = 35.066 Monochroa tenebrella (Common Plain Neb)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Monochroa tenebrella (Common Plain Neb)
 Tvk = NHMSYS0021142707
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0521
 EndDate = 0807
-LastChanged = 20210525
-[EndMetadata]

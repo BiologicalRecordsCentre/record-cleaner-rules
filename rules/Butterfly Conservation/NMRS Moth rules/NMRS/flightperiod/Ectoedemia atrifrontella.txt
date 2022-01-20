@@ -5,7 +5,11 @@ ShortName = 4.079 Ectoedemia atrifrontella (Oak-bark Pigmy)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Ectoedemia atrifrontella (Oak-bark Pigmy)
 Tvk = NHMSYS0000502269
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

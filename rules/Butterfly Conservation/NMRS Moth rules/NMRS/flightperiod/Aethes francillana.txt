@@ -5,7 +5,11 @@ ShortName = 49.124 Aethes francillana (Long-barred Yellow Conch)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Aethes francillana (Long-barred Yellow Conch)
 Tvk = NHMSYS0000501010
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0930
-LastChanged = 20210525
-[EndMetadata]

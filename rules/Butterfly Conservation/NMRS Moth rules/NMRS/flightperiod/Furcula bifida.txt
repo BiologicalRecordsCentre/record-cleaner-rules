@@ -5,7 +5,11 @@ ShortName = 71.007 Furcula bifida (Poplar Kitten)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Furcula bifida (Poplar Kitten)
 Tvk = NBNSYS0000006084
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

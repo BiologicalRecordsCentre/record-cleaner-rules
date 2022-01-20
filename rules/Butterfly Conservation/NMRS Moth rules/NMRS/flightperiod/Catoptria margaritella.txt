@@ -5,7 +5,11 @@ ShortName = 63.100 Catoptria margaritella (Pearl-band Grass Veneer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Catoptria margaritella (Pearl-band Grass Veneer)
 Tvk = NHMSYS0021143770
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0907
-LastChanged = 20210525
-[EndMetadata]

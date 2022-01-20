@@ -5,7 +5,11 @@ ShortName = 70.180 Eupithecia expallidata (Bleached Pug)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eupithecia expallidata (Bleached Pug)
 Tvk = NBNSYS0000005921
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0515
 EndDate = 0907
-LastChanged = 20210525
-[EndMetadata]

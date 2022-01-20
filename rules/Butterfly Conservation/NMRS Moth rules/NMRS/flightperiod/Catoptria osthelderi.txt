@@ -5,7 +5,11 @@ ShortName = 63.097 Catoptria osthelderi (False Scotch Grass-veneer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Catoptria osthelderi (False Scotch Grass-veneer)
 Tvk = NHMSYS0000501679
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

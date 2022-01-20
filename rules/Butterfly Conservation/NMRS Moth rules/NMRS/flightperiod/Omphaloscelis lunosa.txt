@@ -5,7 +5,11 @@ ShortName = 73.193 Omphaloscelis lunosa (Lunar Underwing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Omphaloscelis lunosa (Lunar Underwing)
 Tvk = NBNSYS0000006365
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0815
 EndDate = 1115
-LastChanged = 20210525
-[EndMetadata]

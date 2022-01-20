@@ -5,7 +5,11 @@ ShortName = 73.235 Polymixis lichenea lichenea (Feathered Ranunculus)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Polymixis lichenea lichenea (Feathered Ranunculus)
 Tvk = NHMSYS0021144773
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0807
 EndDate = 1130
-LastChanged = 20210525
-[EndMetadata]

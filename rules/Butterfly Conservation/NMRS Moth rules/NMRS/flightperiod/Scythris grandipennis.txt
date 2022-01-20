@@ -5,7 +5,11 @@ ShortName = 43.002 Scythris grandipennis (Black Owlet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Scythris grandipennis (Black Owlet)
 Tvk = NHMSYS0000504166
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0521
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

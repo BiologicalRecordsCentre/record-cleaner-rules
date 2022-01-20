@@ -5,7 +5,11 @@ ShortName = 48.002 Prochoreutis myllerana (Small Metal-mark)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Prochoreutis myllerana (Small Metal-mark)
 Tvk = NBNSYS0100004871
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

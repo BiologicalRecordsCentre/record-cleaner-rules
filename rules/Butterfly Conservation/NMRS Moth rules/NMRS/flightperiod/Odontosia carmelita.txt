@@ -5,7 +5,11 @@ ShortName = 71.023 Odontosia carmelita (Scarce Prominent)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Odontosia carmelita (Scarce Prominent)
 Tvk = NHMSYS0021144357
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0321
 EndDate = 0531
-LastChanged = 20210525
-[EndMetadata]

@@ -5,8 +5,12 @@ ShortName = 40.011 Mompha langiella (Clouded Mompha)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Mompha langiella (Clouded Mompha)
 Tvk = NHMSYS0000503258
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0515
 EndDate = 0715
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

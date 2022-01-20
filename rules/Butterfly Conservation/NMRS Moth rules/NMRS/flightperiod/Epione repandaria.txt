@@ -5,7 +5,11 @@ ShortName = 70.227 Epione repandaria (Bordered Beauty)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Epione repandaria (Bordered Beauty)
 Tvk = NBNSYS0000005998
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0607
 EndDate = 1015
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 73.092 Caradrina morpheus (Mottled Rustic)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Caradrina morpheus (Mottled Rustic)
 Tvk = NBNSYS0000006492
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

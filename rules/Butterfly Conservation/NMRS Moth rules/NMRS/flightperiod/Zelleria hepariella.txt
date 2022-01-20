@@ -5,8 +5,12 @@ ShortName = 16.010 Zelleria hepariella (Brown Ash Ermine)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Zelleria hepariella (Brown Ash Ermine)
 Tvk = NHMSYS0000504718
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0630
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

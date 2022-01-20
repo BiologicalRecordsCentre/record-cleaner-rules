@@ -5,7 +5,11 @@ ShortName = 73.009 Chrysodeixis acuta (Tunbridge Wells Gem)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Chrysodeixis acuta (Tunbridge Wells Gem)
 Tvk = NHMSYS0021144469
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0921
 EndDate = 1215
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 49.055 Cnephasia communana (May Shade)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Cnephasia communana (May Shade)
 Tvk = NHMSYS0000501329
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

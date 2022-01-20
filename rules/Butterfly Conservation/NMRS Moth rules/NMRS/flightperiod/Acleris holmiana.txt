@@ -5,7 +5,11 @@ ShortName = 49.061 Acleris holmiana (White-triangle Button)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acleris holmiana (White-triangle Button)
 Tvk = NBNSYS0100001407
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

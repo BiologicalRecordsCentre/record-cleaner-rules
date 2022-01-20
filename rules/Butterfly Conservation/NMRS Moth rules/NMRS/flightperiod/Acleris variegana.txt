@@ -5,7 +5,11 @@ ShortName = 49.077 Acleris variegana (Garden Rose Tortrix)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acleris variegana (Garden Rose Tortrix)
 Tvk = NHMSYS0021143094
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 1121
-LastChanged = 20210525
-[EndMetadata]

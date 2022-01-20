@@ -5,7 +5,11 @@ ShortName = 2.008 Eriocrania sangii (Large Birch Purple)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eriocrania sangii (Large Birch Purple)
 Tvk = NHMSYS0000502486
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0301
 EndDate = 0430
-LastChanged = 20210525
-[EndMetadata]

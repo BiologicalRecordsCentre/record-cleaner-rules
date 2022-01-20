@@ -5,7 +5,11 @@ ShortName = 73.123 Hydraecia micacea (Rosy Rustic)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Hydraecia micacea (Rosy Rustic)
 Tvk = NBNSYS0000006466
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 1115
-LastChanged = 20210525
-[EndMetadata]

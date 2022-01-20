@@ -5,7 +5,11 @@ ShortName = 49.219 Thiodia citrana (Lemon Bell)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Thiodia citrana (Lemon Bell)
 Tvk = NHMSYS0021143243
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

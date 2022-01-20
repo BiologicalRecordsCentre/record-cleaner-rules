@@ -5,7 +5,11 @@ ShortName = 63.030 Paratalanta hyalinalis (Translucent Pearl)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Paratalanta hyalinalis (Translucent Pearl)
 Tvk = NBNSYS0100004459
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0915
-LastChanged = 20210525
-[EndMetadata]

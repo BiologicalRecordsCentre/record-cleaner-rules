@@ -5,7 +5,11 @@ ShortName = 43.007 Scythris limbella (Goosefoot Owlet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Scythris limbella (Goosefoot Owlet)
 Tvk = NHMSYS0000504168
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0930
-LastChanged = 20210525
-[EndMetadata]

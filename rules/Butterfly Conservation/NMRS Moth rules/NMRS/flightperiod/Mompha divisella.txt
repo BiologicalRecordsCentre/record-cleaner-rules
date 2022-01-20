@@ -5,8 +5,12 @@ ShortName = 40.005 Mompha divisella (Neat Mompha)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Mompha divisella (Neat Mompha)
 Tvk = NHMSYS0000503252
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0731
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

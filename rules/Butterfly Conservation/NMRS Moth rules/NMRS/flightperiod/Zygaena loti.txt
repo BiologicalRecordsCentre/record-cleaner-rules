@@ -5,7 +5,11 @@ ShortName = 54.005 Zygaena loti (Slender Scotch Burnet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Zygaena loti (Slender Scotch Burnet)
 Tvk = NHMSYS0000520668
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0715
-LastChanged = 20210525
-[EndMetadata]

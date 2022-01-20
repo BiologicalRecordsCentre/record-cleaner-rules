@@ -5,7 +5,11 @@ ShortName = 49.382 Strophedra nitidana (Little Oak Piercer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Strophedra nitidana (Little Oak Piercer)
 Tvk = NHMSYS0000504405
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0807
-LastChanged = 20210525
-[EndMetadata]

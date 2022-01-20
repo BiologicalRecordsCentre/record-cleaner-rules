@@ -5,7 +5,11 @@ ShortName = 73.359 Xestia c-nigrum (Setaceous Hebrew Character)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Xestia c-nigrum (Setaceous Hebrew Character)
 Tvk = NBNSYS0000006217
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 1115
-LastChanged = 20210525
-[EndMetadata]

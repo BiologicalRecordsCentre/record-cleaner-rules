@@ -5,8 +5,12 @@ ShortName = 32.005 Exaeretia ciniflonella (Scotch Flat-body)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Exaeretia ciniflonella (Scotch Flat-body)
 Tvk = NHMSYS0000502673
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0630
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

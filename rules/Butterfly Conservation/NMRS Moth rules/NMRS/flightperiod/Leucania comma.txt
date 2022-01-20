@@ -5,7 +5,11 @@ ShortName = 73.301 Leucania comma (Shoulder-striped Wainscot)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Leucania comma (Shoulder-striped Wainscot)
 Tvk = NBNSYS0000150498
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

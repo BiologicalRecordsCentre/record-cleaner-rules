@@ -5,8 +5,12 @@ ShortName = 70.095 Chloroclysta siterata (Red-Green Carpet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Chloroclysta siterata (Red-Green Carpet)
 Tvk = NBNSYS0000005840
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0731
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

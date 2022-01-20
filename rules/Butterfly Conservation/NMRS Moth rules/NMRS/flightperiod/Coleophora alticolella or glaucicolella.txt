@@ -5,7 +5,11 @@ Shortname = 37.07x Coleophora alticolella/glaucicolella
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Coleophora alticolella/glaucicolella
 Tvk = NHMSYS0001703650
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0831
-LastChanged = 20210527
-[EndMetadata]

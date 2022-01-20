@@ -5,7 +5,11 @@ ShortName = 73.058 Cucullia verbasci (Mullein)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Cucullia verbasci (Mullein)
 Tvk = NBNSYS0000006314
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0321
 EndDate = 0707
-LastChanged = 20210525
-[EndMetadata]

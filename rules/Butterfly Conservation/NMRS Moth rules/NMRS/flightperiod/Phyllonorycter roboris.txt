@@ -5,7 +5,11 @@ ShortName = 15.035 Phyllonorycter roboris (Gold-bent Midget)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phyllonorycter roboris (Gold-bent Midget)
 Tvk = NHMSYS0000503801
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0630
-LastChanged = 20210525
-[EndMetadata]

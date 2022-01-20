@@ -5,7 +5,11 @@ ShortName = 12.029 Tinea flavescentella (Plain Clothes Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Tinea flavescentella (Plain Clothes Moth)
 Tvk = NHMSYS0000504531
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0201
 EndDate = 1130
-LastChanged = 20210525
-[EndMetadata]

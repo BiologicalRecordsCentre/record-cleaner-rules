@@ -5,7 +5,11 @@ ShortName = 21.003 Leucoptera lotella (Little Bent-wing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Leucoptera lotella (Little Bent-wing)
 Tvk = NHMSYS0021142514
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 15.069 Phyllonorycter anderidae (Small Birch Midget)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phyllonorycter anderidae (Small Birch Midget)
 Tvk = NHMSYS0000503759
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0930
-LastChanged = 20210525
-[EndMetadata]

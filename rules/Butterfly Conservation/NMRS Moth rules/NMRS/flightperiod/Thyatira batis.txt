@@ -5,7 +5,11 @@ ShortName = 65.008 Thyatira batis (Peach Blossom)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Thyatira batis (Peach Blossom)
 Tvk = NBNSYS0000005724
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 0915
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 70.112 Euchoeca nebulata (Dingy Shell)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Euchoeca nebulata (Dingy Shell)
 Tvk = NBNSYS0000005965
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0907
-LastChanged = 20210525
-[EndMetadata]

@@ -5,8 +5,12 @@ ShortName = 19.012 Acrolepiopsis betulella (Oban Fanner)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acrolepiopsis betulella (Oban Fanner)
 Tvk = NHMSYS0000500972
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0630
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

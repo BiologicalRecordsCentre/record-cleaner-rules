@@ -5,7 +5,11 @@ ShortName = 62.074 Aglossa pinguinalis (Large Tabby)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Aglossa pinguinalis (Large Tabby)
 Tvk = NHMSYS0000501040
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 1015
-LastChanged = 20210525
-[EndMetadata]

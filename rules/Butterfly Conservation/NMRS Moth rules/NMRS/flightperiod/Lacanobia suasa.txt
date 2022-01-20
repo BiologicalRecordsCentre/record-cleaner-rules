@@ -5,7 +5,11 @@ ShortName = 73.266 Lacanobia suasa (Dog's Tooth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Lacanobia suasa (Dog's Tooth)
 Tvk = NHMSYS0021144817
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 0915
-LastChanged = 20210525
-[EndMetadata]

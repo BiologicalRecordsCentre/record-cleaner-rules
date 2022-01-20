@@ -5,7 +5,11 @@ ShortName = 49.047 Eana incanana (Bluebell Shade)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eana incanana (Bluebell Shade)
 Tvk = NHMSYS0000502246
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 35.097 Gelechia rhombella (Apple Groundling)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Gelechia rhombella (Apple Groundling)
 Tvk = NHMSYS0021142740
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0907
-LastChanged = 20210525
-[EndMetadata]

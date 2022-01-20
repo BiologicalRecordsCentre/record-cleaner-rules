@@ -5,7 +5,11 @@ ShortName = 70.120 Rheumaptera hastata (Argent & Sable)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Rheumaptera hastata (Argent & Sable)
 Tvk = NBNSYS0000005867
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0721
-LastChanged = 20210525
-[EndMetadata]

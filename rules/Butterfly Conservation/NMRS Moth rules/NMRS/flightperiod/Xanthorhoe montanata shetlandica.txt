@@ -5,7 +5,11 @@ ShortName = 70.054 Xanthorhoe montanata shetlandica (Silver-ground Carpet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Xanthorhoe montanata shetlandica (Silver-ground Carpet)
 Tvk = NHMSYS0021143926
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0821
-LastChanged = 20210525
-[EndMetadata]

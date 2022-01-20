@@ -5,7 +5,11 @@ ShortName = 49.338 Cydia pomonella (Codling Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Cydia pomonella (Codling Moth)
 Tvk = NHMSYS0000502069
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0930
-LastChanged = 20210525
-[EndMetadata]

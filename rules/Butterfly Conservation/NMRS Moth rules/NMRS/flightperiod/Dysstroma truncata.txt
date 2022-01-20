@@ -5,7 +5,11 @@ ShortName = 70.097 Dysstroma truncata (Common Marbled Carpet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Dysstroma truncata (Common Marbled Carpet)
 Tvk = NBNSYS0000146497
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 1130
-LastChanged = 20210525
-[EndMetadata]

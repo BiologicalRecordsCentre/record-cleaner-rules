@@ -5,7 +5,11 @@ ShortName = 34.002 Pancalia schwarzella (Scarce Violet Cosmet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pancalia schwarzella (Scarce Violet Cosmet)
 Tvk = NBNSYS0100004407
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0301
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

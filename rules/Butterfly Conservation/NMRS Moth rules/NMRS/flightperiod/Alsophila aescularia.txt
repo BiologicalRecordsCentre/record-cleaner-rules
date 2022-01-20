@@ -5,7 +5,11 @@ ShortName = 70.245 Alsophila aescularia (March Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Alsophila aescularia (March Moth)
 Tvk = NHMSYS0021144210
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0121
 EndDate = 0507
-LastChanged = 20210525
-[EndMetadata]

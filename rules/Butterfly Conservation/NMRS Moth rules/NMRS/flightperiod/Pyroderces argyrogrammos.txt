@@ -5,7 +5,11 @@ ShortName = 34.011 Pyroderces argyrogrammos (Scarce Thistle Cosmet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pyroderces argyrogrammos (Scarce Thistle Cosmet)
 Tvk = NHMSYS0001703662
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0531
-LastChanged = 20210525
-[EndMetadata]

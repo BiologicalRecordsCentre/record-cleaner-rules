@@ -5,7 +5,11 @@ ShortName = 73.065 Asteroscopus sphinx (Sprawler)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Asteroscopus sphinx (Sprawler)
 Tvk = NHMSYS0000501413
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 1001
 EndDate = 1207
-LastChanged = 20210525
-[EndMetadata]

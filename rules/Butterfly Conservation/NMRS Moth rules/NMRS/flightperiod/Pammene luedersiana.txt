@@ -5,7 +5,11 @@ ShortName = 49.370 Pammene luedersiana (Inverness Piercer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pammene luedersiana (Inverness Piercer)
 Tvk = NHMSYS0000503560
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0630
-LastChanged = 20210525
-[EndMetadata]

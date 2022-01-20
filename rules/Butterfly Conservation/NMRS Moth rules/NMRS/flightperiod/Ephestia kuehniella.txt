@@ -5,7 +5,11 @@ ShortName = 62.063 Ephestia kuehniella (Mediterranean Flour Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Ephestia kuehniella (Mediterranean Flour Moth)
 Tvk = NHMSYS0000502400
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0201
 EndDate = 1231
-LastChanged = 20210525
-[EndMetadata]

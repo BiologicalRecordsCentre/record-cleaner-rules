@@ -5,8 +5,12 @@ ShortName = 35.138 Caryocolum junctella (Confluent Groundling)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Caryocolum junctella (Confluent Groundling)
 Tvk = NHMSYS0000501651
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0731
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

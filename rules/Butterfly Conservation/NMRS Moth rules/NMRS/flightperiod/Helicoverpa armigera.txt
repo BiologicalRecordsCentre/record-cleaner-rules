@@ -5,7 +5,11 @@ ShortName = 73.076 Helicoverpa armigera (Scarce Bordered Straw)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Helicoverpa armigera (Scarce Bordered Straw)
 Tvk = NHMSYS0021144542
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0607
 EndDate = 1115
-LastChanged = 20210525
-[EndMetadata]

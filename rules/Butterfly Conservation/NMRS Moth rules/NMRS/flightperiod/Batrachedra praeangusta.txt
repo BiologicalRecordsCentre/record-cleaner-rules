@@ -5,7 +5,11 @@ ShortName = 36.001 Batrachedra praeangusta (Poplar Cosmet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Batrachedra praeangusta (Poplar Cosmet)
 Tvk = NHMSYS0000501457
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 1007
-LastChanged = 20210525
-[EndMetadata]

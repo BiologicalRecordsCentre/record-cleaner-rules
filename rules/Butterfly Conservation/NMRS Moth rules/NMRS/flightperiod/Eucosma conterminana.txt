@@ -5,7 +5,11 @@ ShortName = 49.275 Eucosma conterminana (Pale Lettuce Bell)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eucosma conterminana (Pale Lettuce Bell)
 Tvk = NHMSYS0000502533
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0515
 EndDate = 0907
-LastChanged = 20210525
-[EndMetadata]

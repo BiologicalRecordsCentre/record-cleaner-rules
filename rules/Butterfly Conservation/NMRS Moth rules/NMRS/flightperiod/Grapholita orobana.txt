@@ -5,7 +5,11 @@ ShortName = 49.352 Grapholita orobana (Crescent Piercer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Grapholita orobana (Crescent Piercer)
 Tvk = NHMSYS0021143368
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

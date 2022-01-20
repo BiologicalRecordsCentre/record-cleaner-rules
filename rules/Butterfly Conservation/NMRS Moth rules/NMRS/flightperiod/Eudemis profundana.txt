@@ -5,7 +5,11 @@ ShortName = 49.144 Eudemis profundana (Diamond-back Marble)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eudemis profundana (Diamond-back Marble)
 Tvk = NHMSYS0021143153
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0907
-LastChanged = 20210525
-[EndMetadata]

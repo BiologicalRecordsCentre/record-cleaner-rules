@@ -5,7 +5,11 @@ ShortName = 63.078 Friedlanderia cicatricella (Club-rush Veneer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Friedlanderia cicatricella (Club-rush Veneer)
 Tvk = NHMSYS0000516769
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0815
-LastChanged = 20210525
-[EndMetadata]

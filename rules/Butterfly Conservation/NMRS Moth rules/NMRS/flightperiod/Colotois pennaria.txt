@@ -5,7 +5,11 @@ ShortName = 70.244 Colotois pennaria (Feathered Thorn)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Colotois pennaria (Feathered Thorn)
 Tvk = NHMSYS0000501963
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0901
 EndDate = 1231
-LastChanged = 20210525
-[EndMetadata]

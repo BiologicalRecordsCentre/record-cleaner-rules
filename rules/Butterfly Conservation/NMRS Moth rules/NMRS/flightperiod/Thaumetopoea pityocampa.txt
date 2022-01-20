@@ -5,7 +5,11 @@ ShortName = 71.002 Thaumetopoea pityocampa (Pine Processionary)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Thaumetopoea pityocampa (Pine Processionary)
 Tvk = NHMSYS0021144336
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

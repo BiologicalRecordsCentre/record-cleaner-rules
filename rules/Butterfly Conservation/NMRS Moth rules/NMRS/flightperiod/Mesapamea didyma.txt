@@ -5,7 +5,11 @@ ShortName = 73.170 Mesapamea didyma (Lesser Common Rustic)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Mesapamea didyma (Lesser Common Rustic)
 Tvk = NBNSYS0000006443
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0621
 EndDate = 0915
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 49.114 Aethes hartmanniana (Scabious Conch)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Aethes hartmanniana (Scabious Conch)
 Tvk = NHMSYS0000501011
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0807
-LastChanged = 20210525
-[EndMetadata]

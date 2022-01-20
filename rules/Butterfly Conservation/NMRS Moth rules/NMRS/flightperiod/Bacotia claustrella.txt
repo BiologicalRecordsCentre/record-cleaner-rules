@@ -5,7 +5,11 @@ ShortName = 11.010 Bacotia claustrella (Shining Bagworm)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Bacotia claustrella (Shining Bagworm)
 Tvk = NHMSYS0021139196
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

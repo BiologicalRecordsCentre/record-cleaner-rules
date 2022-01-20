@@ -5,7 +5,11 @@ ShortName = 49.177 Argyroploce arbutella (Bearberry Marble)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Argyroploce arbutella (Bearberry Marble)
 Tvk = NHMSYS0021143188
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0707
-LastChanged = 20210525
-[EndMetadata]

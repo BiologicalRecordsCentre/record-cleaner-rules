@@ -5,7 +5,11 @@ ShortName = 71.014 Notodonta torva (Large Dark Prominent)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Notodonta torva (Large Dark Prominent)
 Tvk = NHMSYS0021144347
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

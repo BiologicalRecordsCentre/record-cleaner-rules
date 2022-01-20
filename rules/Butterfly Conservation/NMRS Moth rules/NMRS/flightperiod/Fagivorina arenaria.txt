@@ -5,7 +5,11 @@ ShortName = 70.269 Fagivorina arenaria (Speckled Beauty)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Fagivorina arenaria (Speckled Beauty)
 Tvk = NBNSYS0000006038
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0807
-LastChanged = 20210525
-[EndMetadata]

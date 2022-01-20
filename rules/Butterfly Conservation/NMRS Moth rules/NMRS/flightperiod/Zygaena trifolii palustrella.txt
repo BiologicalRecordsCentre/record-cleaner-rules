@@ -5,7 +5,11 @@ ShortName = 54.010 Zygaena trifolii palustrella (Five-spot Burnet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Zygaena trifolii palustrella (Five-spot Burnet)
 Tvk = NHMSYS0021143446
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0821
-LastChanged = 20210525
-[EndMetadata]

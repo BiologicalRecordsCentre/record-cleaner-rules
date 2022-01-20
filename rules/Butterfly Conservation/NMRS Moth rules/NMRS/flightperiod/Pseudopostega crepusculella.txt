@@ -5,7 +5,11 @@ ShortName = 5.004 Pseudopostega crepusculella (Mint Bent-wing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pseudopostega crepusculella (Mint Bent-wing)
 Tvk = NBNSYS0100004928
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0815
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 4.075 Ectoedemia louisella (Maple-seed Pigmy)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Ectoedemia louisella (Maple-seed Pigmy)
 Tvk = NBNSYS0100002914
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

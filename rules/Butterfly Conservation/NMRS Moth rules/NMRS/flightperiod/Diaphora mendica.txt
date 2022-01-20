@@ -5,7 +5,11 @@ ShortName = 72.022 Diaphora mendica (Muslin Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Diaphora mendica (Muslin Moth)
 Tvk = NBNSYS0000006149
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0321
 EndDate = 0721
-LastChanged = 20210525
-[EndMetadata]

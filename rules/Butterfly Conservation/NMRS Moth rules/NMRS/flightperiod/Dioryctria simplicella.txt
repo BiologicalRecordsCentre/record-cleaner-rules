@@ -5,7 +5,11 @@ ShortName = 62.027 Dioryctria simplicella (Brown Pine Knot-horn)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Dioryctria simplicella (Brown Pine Knot-horn)
 Tvk = NBNSYS0100002848
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0515
 EndDate = 0930
-LastChanged = 20210525
-[EndMetadata]

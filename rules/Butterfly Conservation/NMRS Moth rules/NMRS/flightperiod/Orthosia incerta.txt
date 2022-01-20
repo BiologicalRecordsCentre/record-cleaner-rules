@@ -5,7 +5,11 @@ ShortName = 73.242 Orthosia incerta (Clouded Drab)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Orthosia incerta (Clouded Drab)
 Tvk = NBNSYS0000006281
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0201
 EndDate = 0615
-LastChanged = 20210525
-[EndMetadata]

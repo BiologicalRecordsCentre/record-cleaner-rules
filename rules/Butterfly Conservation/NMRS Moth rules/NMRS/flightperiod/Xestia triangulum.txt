@@ -5,7 +5,11 @@ ShortName = 73.361 Xestia triangulum (Double Square-spot)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Xestia triangulum (Double Square-spot)
 Tvk = NBNSYS0000006219
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0515
 EndDate = 0915
-LastChanged = 20210525
-[EndMetadata]

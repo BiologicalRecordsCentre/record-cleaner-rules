@@ -5,8 +5,12 @@ ShortName = 35.147 Carpatolechia decorella (Winter Oak Groundling)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Carpatolechia decorella (Winter Oak Groundling)
 Tvk = NBNSYS0100002198
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0621
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

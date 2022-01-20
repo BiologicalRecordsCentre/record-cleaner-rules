@@ -5,7 +5,11 @@ ShortName = 49.149 Apotomis turbidana (White-shouldered Marble)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Apotomis turbidana (White-shouldered Marble)
 Tvk = NHMSYS0021143157
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0515
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

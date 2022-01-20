@@ -5,8 +5,12 @@ ShortName = 49.075 Acleris umbrana (Dark-streaked Button)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acleris umbrana (Dark-streaked Button)
 Tvk = NHMSYS0021143091
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0630
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

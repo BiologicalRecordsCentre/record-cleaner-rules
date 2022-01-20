@@ -5,7 +5,11 @@ ShortName = 70.159 Eupithecia phoeniceata (Cypress Pug)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eupithecia phoeniceata (Cypress Pug)
 Tvk = NBNSYS0000005943
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

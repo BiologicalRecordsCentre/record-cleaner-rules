@@ -5,7 +5,11 @@ ShortName = 35.005 Syncopacma albifrontella (White-headed Sober)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Syncopacma albifrontella (White-headed Sober)
 Tvk = NHMSYS0001703664
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0607
-LastChanged = 20210525
-[EndMetadata]

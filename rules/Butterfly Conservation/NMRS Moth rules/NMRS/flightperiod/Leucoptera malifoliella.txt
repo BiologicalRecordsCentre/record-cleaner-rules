@@ -5,7 +5,11 @@ ShortName = 21.008 Leucoptera malifoliella (Pear-leaf Blister Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Leucoptera malifoliella (Pear-leaf Blister Moth)
 Tvk = NHMSYS0021142518
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

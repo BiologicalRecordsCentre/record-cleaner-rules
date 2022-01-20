@@ -5,7 +5,11 @@ ShortName = 73.117 Crypsedra gemmea (Cameo)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Crypsedra gemmea (Cameo)
 Tvk = NHMSYS0021144604
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0930
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 45.027 Crombrugghia laetus (Scarce Light Plume)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Crombrugghia laetus (Scarce Light Plume)
 Tvk = NBNSYS0000027026
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

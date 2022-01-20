@@ -5,7 +5,11 @@ ShortName = 70.246 Apocheima hispidaria (Small Brindled Beauty)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Apocheima hispidaria (Small Brindled Beauty)
 Tvk = NHMSYS0021144212
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0121
 EndDate = 0430
-LastChanged = 20210525
-[EndMetadata]

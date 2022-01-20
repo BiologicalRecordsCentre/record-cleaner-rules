@@ -5,7 +5,11 @@ ShortName = 73.090 Galgula partita (Wedgeling)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Galgula partita (Wedgeling)
 Tvk = NHMSYS0021144570
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0821
 EndDate = 1007
-LastChanged = 20210525
-[EndMetadata]

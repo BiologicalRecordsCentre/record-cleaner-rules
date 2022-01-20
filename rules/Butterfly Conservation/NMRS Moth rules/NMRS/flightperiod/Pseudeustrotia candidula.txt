@@ -5,7 +5,11 @@ ShortName = 73.086 Pseudeustrotia candidula (Shining Marbled)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pseudeustrotia candidula (Shining Marbled)
 Tvk = NHMSYS0020758202
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0607
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

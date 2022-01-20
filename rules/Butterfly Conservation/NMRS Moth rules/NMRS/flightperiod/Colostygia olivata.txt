@@ -5,7 +5,11 @@ ShortName = 70.099 Colostygia olivata (Beech-green Carpet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Colostygia olivata (Beech-green Carpet)
 Tvk = NHMSYS0021143999
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0607
 EndDate = 0915
-LastChanged = 20210525
-[EndMetadata]

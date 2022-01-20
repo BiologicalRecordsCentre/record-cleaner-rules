@@ -5,7 +5,11 @@ ShortName = 32.001 Semioscopis avellanella (Early Flat-body)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Semioscopis avellanella (Early Flat-body)
 Tvk = NHMSYS0000504191
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0301
 EndDate = 0531
-LastChanged = 20210525
-[EndMetadata]

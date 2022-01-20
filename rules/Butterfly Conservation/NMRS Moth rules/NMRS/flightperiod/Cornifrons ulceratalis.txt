@@ -5,8 +5,12 @@ ShortName = 63.0605 Cornifrons ulceratalis (Mediterranean Pearl)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Cornifrons ulceratalis (Mediterranean Pearl)
 Tvk = NHMSYS0021158351
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0307
 EndDate = 1130
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

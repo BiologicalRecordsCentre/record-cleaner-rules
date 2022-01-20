@@ -5,7 +5,11 @@ ShortName = 63.022 Anania crocealis (Ochreous Pearl)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Anania crocealis (Ochreous Pearl)
 Tvk = NHMSYS0021127817
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0521
 EndDate = 0930
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 54.001 Jordanita globulariae (Scarce Forester)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Jordanita globulariae (Scarce Forester)
 Tvk = NHMSYS0000502970
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0521
 EndDate = 0721
-LastChanged = 20210525
-[EndMetadata]

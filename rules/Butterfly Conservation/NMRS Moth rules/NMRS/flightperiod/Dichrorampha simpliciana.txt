@@ -5,7 +5,11 @@ ShortName = 49.315 Dichrorampha simpliciana (Round-winged Drill)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Dichrorampha simpliciana (Round-winged Drill)
 Tvk = NHMSYS0000502171
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0615
 EndDate = 0921
-LastChanged = 20210525
-[EndMetadata]

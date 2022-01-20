@@ -5,7 +5,11 @@ ShortName = 70.163 Eupithecia lariciata (Larch Pug)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eupithecia lariciata (Larch Pug)
 Tvk = NHMSYS0021144095
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0401
 EndDate = 0915
-LastChanged = 20210525
-[EndMetadata]

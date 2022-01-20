@@ -5,7 +5,11 @@ ShortName = 73.186 Agrochola lychnidis (Beaded Chestnut)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Agrochola lychnidis (Beaded Chestnut)
 Tvk = NHMSYS0021144710
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0901
 EndDate = 1121
-LastChanged = 20210525
-[EndMetadata]

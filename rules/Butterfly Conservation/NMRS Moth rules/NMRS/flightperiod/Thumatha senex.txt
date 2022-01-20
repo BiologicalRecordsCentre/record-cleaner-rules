@@ -5,7 +5,11 @@ ShortName = 72.037 Thumatha senex (Round-winged Muslin)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Thumatha senex (Round-winged Muslin)
 Tvk = NHMSYS0021144411
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

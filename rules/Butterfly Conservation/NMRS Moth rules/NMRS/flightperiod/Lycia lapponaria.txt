@@ -5,7 +5,11 @@ ShortName = 70.249 Lycia lapponaria (Rannoch Brindled Beauty)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Lycia lapponaria (Rannoch Brindled Beauty)
 Tvk = NHMSYS0000520878
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0321
 EndDate = 0507
-LastChanged = 20210525
-[EndMetadata]

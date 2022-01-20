@@ -5,7 +5,11 @@ ShortName = 70.040 Scotopteryx mucronata (Lead Belle)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Scotopteryx mucronata (Lead Belle)
 Tvk = NBNSYS0000005809
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

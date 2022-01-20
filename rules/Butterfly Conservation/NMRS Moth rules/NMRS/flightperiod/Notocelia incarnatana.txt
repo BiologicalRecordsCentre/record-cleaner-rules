@@ -5,7 +5,11 @@ ShortName = 49.296 Notocelia incarnatana (Chalk Rose Bell)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Notocelia incarnatana (Chalk Rose Bell)
 Tvk = NHMSYS0021143315
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0907
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 63.036 Udea decrepitalis (Scotch Pearl)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Udea decrepitalis (Scotch Pearl)
 Tvk = NHMSYS0000504608
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

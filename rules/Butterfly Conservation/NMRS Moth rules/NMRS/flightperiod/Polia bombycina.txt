@@ -5,7 +5,11 @@ ShortName = 73.259 Polia bombycina (Pale Shining Brown)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Polia bombycina (Pale Shining Brown)
 Tvk = NBNSYS0000006239
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

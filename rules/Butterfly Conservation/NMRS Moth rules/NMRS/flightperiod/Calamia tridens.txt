@@ -5,7 +5,11 @@ ShortName = 73.116 Calamia tridens (Burren Green)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Calamia tridens (Burren Green)
 Tvk = NHMSYS0000517533
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0715
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

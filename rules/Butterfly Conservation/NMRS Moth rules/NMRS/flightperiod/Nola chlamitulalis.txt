@@ -5,7 +5,11 @@ ShortName = 74.006 Nola chlamitulalis (Jersey Black Arches)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Nola chlamitulalis (Jersey Black Arches)
 Tvk = NHMSYS0021144960
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0607
 EndDate = 0621
-LastChanged = 20210525
-[EndMetadata]

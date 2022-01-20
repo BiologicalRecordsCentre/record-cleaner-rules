@@ -5,7 +5,11 @@ ShortName = 28.005 Denisia albimaculea (Pied Tubic)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Denisia albimaculea (Pied Tubic)
 Tvk = NBNSYS0100002770
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0630
-LastChanged = 20210525
-[EndMetadata]

@@ -5,8 +5,12 @@ ShortName = 32.040 Depressaria ultimella (Fen Flat-body)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Depressaria ultimella (Fen Flat-body)
 Tvk = NHMSYS0000502130
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0731
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

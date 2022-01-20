@@ -5,8 +5,12 @@ ShortName = 48.007 Choreutis pariana (Apple-leaf Skeletonizer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Choreutis pariana (Apple-leaf Skeletonizer)
 Tvk = NBNSYS0100002383
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0507
 EndDate = 0531
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

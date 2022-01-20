@@ -5,7 +5,11 @@ ShortName = 70.017 Idaea degeneraria (Portland Ribbon Wave)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Idaea degeneraria (Portland Ribbon Wave)
 Tvk = NHMSYS0021143861
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 1007
-LastChanged = 20210525
-[EndMetadata]

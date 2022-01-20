@@ -5,7 +5,11 @@ ShortName = 70.199 Pterapherapteryx sexalata (Small Seraphim)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pterapherapteryx sexalata (Small Seraphim)
 Tvk = NBNSYS0000005973
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0421
 EndDate = 0907
-LastChanged = 20210525
-[EndMetadata]

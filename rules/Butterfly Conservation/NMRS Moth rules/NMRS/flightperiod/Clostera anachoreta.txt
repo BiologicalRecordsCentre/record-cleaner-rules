@@ -5,7 +5,11 @@ ShortName = 71.029 Clostera anachoreta (Scarce Chocolate-tip)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Clostera anachoreta (Scarce Chocolate-tip)
 Tvk = NHMSYS0021144362
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0421
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

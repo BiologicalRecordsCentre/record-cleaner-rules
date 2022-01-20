@@ -5,7 +5,11 @@ ShortName = 73.078 Acosmetia caliginosa (Reddish Buff)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acosmetia caliginosa (Reddish Buff)
 Tvk = NHMSYS0021144548
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0515
 EndDate = 0715
-LastChanged = 20210525
-[EndMetadata]

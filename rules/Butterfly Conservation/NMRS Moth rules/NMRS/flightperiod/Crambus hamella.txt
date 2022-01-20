@@ -5,7 +5,11 @@ ShortName = 63.087 Crambus hamella (Dark Grass-veneer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Crambus hamella (Dark Grass-veneer)
 Tvk = NHMSYS0000502011
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0801
 EndDate = 0915
-LastChanged = 20210525
-[EndMetadata]

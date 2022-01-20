@@ -5,7 +5,11 @@ ShortName = 50.001 Cossus cossus (Goat Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Cossus cossus (Goat Moth)
 Tvk = NBNSYS0000005662
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0515
 EndDate = 0715
-LastChanged = 20210525
-[EndMetadata]

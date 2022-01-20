@@ -5,7 +5,11 @@ ShortName = 70.251 Biston strataria (Oak Beauty)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Biston strataria (Oak Beauty)
 Tvk = NBNSYS0000006021
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0121
 EndDate = 0507
-LastChanged = 20210525
-[EndMetadata]

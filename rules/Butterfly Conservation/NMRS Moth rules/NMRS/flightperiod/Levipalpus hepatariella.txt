@@ -5,7 +5,11 @@ ShortName = 32.004 Levipalpus hepatariella (Mountain Flat-body)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Levipalpus hepatariella (Mountain Flat-body)
 Tvk = MM0001Z1005LL6O1
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0801
 EndDate = 0907
-LastChanged = 20210525
-[EndMetadata]

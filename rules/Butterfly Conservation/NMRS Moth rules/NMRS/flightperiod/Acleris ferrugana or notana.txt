@@ -5,7 +5,11 @@ Shortname = 49.08x Acleris ferrugana/notana
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acleris ferrugana/notana
 Tvk = NHMSYS0001703642
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0101
 EndDate = 1231
-LastChanged = 20210527
-[EndMetadata]

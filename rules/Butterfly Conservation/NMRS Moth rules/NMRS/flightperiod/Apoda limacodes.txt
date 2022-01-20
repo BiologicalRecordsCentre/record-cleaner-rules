@@ -5,7 +5,11 @@ ShortName = 53.001 Apoda limacodes (Festoon)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Apoda limacodes (Festoon)
 Tvk = NBNSYS0000005683
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0807
-LastChanged = 20210525
-[EndMetadata]

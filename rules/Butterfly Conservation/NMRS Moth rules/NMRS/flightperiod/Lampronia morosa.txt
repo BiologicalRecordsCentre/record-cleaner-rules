@@ -5,7 +5,11 @@ ShortName = 9.004 Lampronia morosa (Rose Bright)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Lampronia morosa (Rose Bright)
 Tvk = NHMSYS0021142174
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

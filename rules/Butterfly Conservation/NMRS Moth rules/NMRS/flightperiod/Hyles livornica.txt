@@ -5,7 +5,11 @@ ShortName = 69.015 Hyles livornica (Striped Hawk-moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Hyles livornica (Striped Hawk-moth)
 Tvk = NHMSYS0021143839
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 1015
-LastChanged = 20210525
-[EndMetadata]

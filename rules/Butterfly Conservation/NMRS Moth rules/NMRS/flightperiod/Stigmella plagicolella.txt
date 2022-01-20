@@ -5,7 +5,11 @@ ShortName = 4.042 Stigmella plagicolella (Scrubland Pigmy)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Stigmella plagicolella (Scrubland Pigmy)
 Tvk = NHMSYS0000504371
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

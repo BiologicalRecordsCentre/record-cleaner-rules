@@ -5,7 +5,11 @@ ShortName = 73.358 Xestia sexstrigata (Six-striped Rustic)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Xestia sexstrigata (Six-striped Rustic)
 Tvk = NBNSYS0000006224
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0621
 EndDate = 0921
-LastChanged = 20210525
-[EndMetadata]

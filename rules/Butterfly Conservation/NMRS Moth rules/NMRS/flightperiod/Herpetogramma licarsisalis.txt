@@ -5,7 +5,11 @@ ShortName = 63.055 Herpetogramma licarsisalis (Grass Webworm)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Herpetogramma licarsisalis (Grass Webworm)
 Tvk = MM0001Z1GPZNU1ZJ
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 1001
 EndDate = 1107
-LastChanged = 20210525
-[EndMetadata]

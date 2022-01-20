@@ -5,7 +5,11 @@ ShortName = 49.184 Lobesia reliquana (Oak Marble)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Lobesia reliquana (Oak Marble)
 Tvk = NHMSYS0021143198
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0630
-LastChanged = 20210525
-[EndMetadata]

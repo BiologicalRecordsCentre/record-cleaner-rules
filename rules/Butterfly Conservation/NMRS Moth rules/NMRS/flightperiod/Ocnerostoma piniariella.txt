@@ -5,7 +5,11 @@ ShortName = 16.023 Ocnerostoma piniariella (White Pine Ermine)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Ocnerostoma piniariella (White Pine Ermine)
 Tvk = NHMSYS0000503447
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

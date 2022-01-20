@@ -5,7 +5,11 @@ ShortName = 15.056 Phyllonorycter salicicolella (Long-streak Midget)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phyllonorycter salicicolella (Long-streak Midget)
 Tvk = NHMSYS0000503803
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 0915
-LastChanged = 20210525
-[EndMetadata]

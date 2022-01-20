@@ -5,7 +5,11 @@ ShortName = 15.052 Phyllonorycter corylifoliella (Hawthorn Midget)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phyllonorycter corylifoliella (Hawthorn Midget)
 Tvk = NHMSYS0000503768
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0401
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

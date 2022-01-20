@@ -5,8 +5,12 @@ ShortName = 49.089 Acleris rufana (Sweet-gale Button)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acleris rufana (Sweet-gale Button)
 Tvk = NHMSYS0021143107
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0731
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

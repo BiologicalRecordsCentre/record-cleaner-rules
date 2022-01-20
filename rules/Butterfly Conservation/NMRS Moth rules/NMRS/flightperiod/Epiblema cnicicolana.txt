@@ -5,7 +5,11 @@ ShortName = 49.287 Epiblema cnicicolana (Fleabane Bell)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Epiblema cnicicolana (Fleabane Bell)
 Tvk = NHMSYS0000502404
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0515
 EndDate = 0630
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 3.004 Phymatopus hecta (Gold Swift)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phymatopus hecta (Gold Swift)
 Tvk = NHMSYS0021142347
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0515
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

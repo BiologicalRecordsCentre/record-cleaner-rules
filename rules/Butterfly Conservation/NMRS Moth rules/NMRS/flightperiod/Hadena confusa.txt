@@ -5,7 +5,11 @@ ShortName = 73.283 Hadena confusa (Marbled Coronet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Hadena confusa (Marbled Coronet)
 Tvk = NBNSYS0000006264
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0401
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

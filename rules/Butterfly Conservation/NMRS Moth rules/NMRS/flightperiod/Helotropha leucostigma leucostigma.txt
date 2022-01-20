@@ -5,7 +5,11 @@ ShortName = 73.119 Helotropha leucostigma leucostigma (Crescent)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Helotropha leucostigma leucostigma (Crescent)
 Tvk = NHMSYS0021144606
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0621
 EndDate = 1015
-LastChanged = 20210525
-[EndMetadata]

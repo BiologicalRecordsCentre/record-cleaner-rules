@@ -5,7 +5,11 @@ ShortName = 28.002 Schiffermuelleria schaefferella (Brown-tip Tubic)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Schiffermuelleria schaefferella (Brown-tip Tubic)
 Tvk = NHMSYS0021142536
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0531
-LastChanged = 20210525
-[EndMetadata]

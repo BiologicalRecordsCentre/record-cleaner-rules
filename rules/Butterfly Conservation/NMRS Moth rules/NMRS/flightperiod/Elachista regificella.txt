@@ -5,7 +5,11 @@ ShortName = 38.019 Elachista regificella (Wood-rush Dwarf)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Elachista regificella (Wood-rush Dwarf)
 Tvk = NHMSYS0000502325
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

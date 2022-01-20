@@ -5,7 +5,11 @@ ShortName = 38.012 Elachista obliquella (Wood Dwarf)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Elachista obliquella (Wood Dwarf)
 Tvk = NBNSYS0100002933
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

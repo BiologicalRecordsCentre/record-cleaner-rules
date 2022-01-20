@@ -5,7 +5,11 @@ ShortName = 11.006 Taleporia tubulosa (Brown Bagworm)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Taleporia tubulosa (Brown Bagworm)
 Tvk = NHMSYS0000504447
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0521
 EndDate = 0630
-LastChanged = 20210525
-[EndMetadata]

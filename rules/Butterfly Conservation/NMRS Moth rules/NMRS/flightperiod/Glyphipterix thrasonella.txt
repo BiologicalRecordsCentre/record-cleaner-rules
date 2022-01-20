@@ -5,7 +5,11 @@ ShortName = 19.002 Glyphipterix thrasonella (Speckled Fanner)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Glyphipterix thrasonella (Speckled Fanner)
 Tvk = NHMSYS0000502740
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

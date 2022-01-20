@@ -5,7 +5,11 @@ ShortName = 63.064 Scoparia ambigualis (Common Grey)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Scoparia ambigualis (Common Grey)
 Tvk = NHMSYS0000504116
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

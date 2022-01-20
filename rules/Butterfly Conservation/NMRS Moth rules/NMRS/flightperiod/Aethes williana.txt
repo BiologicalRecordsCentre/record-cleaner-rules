@@ -5,7 +5,11 @@ ShortName = 49.116 Aethes williana (Silver Carrot Conch)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Aethes williana (Silver Carrot Conch)
 Tvk = NHMSYS0000501019
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

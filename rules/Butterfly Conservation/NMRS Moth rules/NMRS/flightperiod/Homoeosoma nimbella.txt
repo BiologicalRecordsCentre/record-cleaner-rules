@@ -5,7 +5,11 @@ ShortName = 62.056 Homoeosoma nimbella (Scarce Clouded Knot-horn)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Homoeosoma nimbella (Scarce Clouded Knot-horn)
 Tvk = NHMSYS0021143671
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0521
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

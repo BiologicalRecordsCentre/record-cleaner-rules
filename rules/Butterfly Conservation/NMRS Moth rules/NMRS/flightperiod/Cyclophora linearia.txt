@@ -5,7 +5,11 @@ ShortName = 70.037 Cyclophora linearia (Clay Triple-lines)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Cyclophora linearia (Clay Triple-lines)
 Tvk = NHMSYS0021143894
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 0915
-LastChanged = 20210525
-[EndMetadata]

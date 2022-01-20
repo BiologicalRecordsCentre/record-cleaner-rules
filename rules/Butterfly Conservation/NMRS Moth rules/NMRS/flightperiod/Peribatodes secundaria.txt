@@ -5,7 +5,11 @@ ShortName = 70.260 Peribatodes secundaria (Feathered Beauty)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Peribatodes secundaria (Feathered Beauty)
 Tvk = NHMSYS0021144229
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0621
 EndDate = 0721
-LastChanged = 20210525
-[EndMetadata]

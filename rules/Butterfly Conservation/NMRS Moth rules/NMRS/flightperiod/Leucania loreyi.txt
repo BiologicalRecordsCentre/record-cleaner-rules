@@ -5,7 +5,11 @@ ShortName = 73.304 Leucania loreyi (Cosmopolitan)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Leucania loreyi (Cosmopolitan)
 Tvk = NHMSYS0021144875
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0207
 EndDate = 1215
-LastChanged = 20210525
-[EndMetadata]

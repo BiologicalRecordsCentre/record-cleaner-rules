@@ -5,7 +5,11 @@ ShortName = 28.025 Pleurota bicostella (Light Streak)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pleurota bicostella (Light Streak)
 Tvk = NHMSYS0000503873
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

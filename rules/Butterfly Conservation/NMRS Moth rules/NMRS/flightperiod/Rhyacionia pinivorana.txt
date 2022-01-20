@@ -5,7 +5,11 @@ ShortName = 49.307 Rhyacionia pinivorana (Spotted Shoot)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Rhyacionia pinivorana (Spotted Shoot)
 Tvk = NHMSYS0000504061
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0421
 EndDate = 0815
-LastChanged = 20210525
-[EndMetadata]

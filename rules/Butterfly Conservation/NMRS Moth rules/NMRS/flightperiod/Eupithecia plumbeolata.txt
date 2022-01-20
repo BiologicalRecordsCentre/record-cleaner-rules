@@ -5,7 +5,11 @@ ShortName = 70.153 Eupithecia plumbeolata (Lead-coloured Pug)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eupithecia plumbeolata (Lead-coloured Pug)
 Tvk = NBNSYS0000005896
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0721
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 41.002 Blastobasis adustella (Dingy Dowd)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Blastobasis adustella (Dingy Dowd)
 Tvk = NHMSYS0020326904
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 1115
-LastChanged = 20210525
-[EndMetadata]

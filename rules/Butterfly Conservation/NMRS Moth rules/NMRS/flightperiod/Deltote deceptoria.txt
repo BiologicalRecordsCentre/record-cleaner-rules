@@ -5,7 +5,11 @@ ShortName = 73.025 Deltote deceptoria (Pretty Marbled)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Deltote deceptoria (Pretty Marbled)
 Tvk = NBNSYS0000006517
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0630
-LastChanged = 20210525
-[EndMetadata]

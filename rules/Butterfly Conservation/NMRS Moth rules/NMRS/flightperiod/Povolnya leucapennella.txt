@@ -5,7 +5,11 @@ ShortName = 15.018 Povolnya leucapennella (Sulphur Slender)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Povolnya leucapennella (Sulphur Slender)
 Tvk = NHMSYS0020973241
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0101
 EndDate = 1231
-LastChanged = 20210525
-[EndMetadata]

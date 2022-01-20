@@ -5,7 +5,11 @@ ShortName = 72.001 Scoliopteryx libatrix (Herald)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Scoliopteryx libatrix (Herald)
 Tvk = NBNSYS0000006573
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0101
 EndDate = 1231
-LastChanged = 20210525
-[EndMetadata]

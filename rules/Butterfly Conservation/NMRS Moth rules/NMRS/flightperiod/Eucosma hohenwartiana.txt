@@ -5,7 +5,11 @@ ShortName = 49.266 Eucosma hohenwartiana (Bright Bell)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eucosma hohenwartiana (Bright Bell)
 Tvk = NHMSYS0021143287
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0515
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 10.003 Coptotriche marginea (Bordered Carl)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Coptotriche marginea (Bordered Carl)
 Tvk = NHMSYS0021142180
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0415
 EndDate = 0915
-LastChanged = 20210525
-[EndMetadata]

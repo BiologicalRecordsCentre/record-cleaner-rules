@@ -5,7 +5,11 @@ ShortName = 70.082 Thera juniperata scotica (Juniper Carpet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Thera juniperata scotica (Juniper Carpet)
 Tvk = NHMSYS0021143979
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0915
 EndDate = 1115
-LastChanged = 20210525
-[EndMetadata]

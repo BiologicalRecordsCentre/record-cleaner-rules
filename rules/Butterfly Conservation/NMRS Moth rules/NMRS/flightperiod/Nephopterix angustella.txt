@@ -5,7 +5,11 @@ ShortName = 62.032 Nephopterix angustella (Spindle Knot-horn)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Nephopterix angustella (Spindle Knot-horn)
 Tvk = NBNSYS0100004227
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0421
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

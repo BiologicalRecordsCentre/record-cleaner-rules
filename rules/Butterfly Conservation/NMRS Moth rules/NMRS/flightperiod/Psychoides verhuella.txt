@@ -5,7 +5,11 @@ ShortName = 12.047 Psychoides verhuella (Hart�s-tongue Smut)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Psychoides verhuella (Hart�s-tongue Smut)
 Tvk = NHMSYS0000503965
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 45.045 Emmelina argoteles (Reed-bed Plume)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Emmelina argoteles (Reed-bed Plume)
 Tvk = NHMSYS0020732915
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

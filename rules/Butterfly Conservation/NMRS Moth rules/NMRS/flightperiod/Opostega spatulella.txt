@@ -5,8 +5,12 @@ ShortName = 5.002 Opostega spatulella (Essex Bent-wing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Opostega spatulella (Essex Bent-wing)
 Tvk = NHMSYS0000503499
+DataFieldName = SpeciesStage
+ReverseRule = True
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0731
-ReverseRule = True
-LastChanged = 20210525
-[EndMetadata]

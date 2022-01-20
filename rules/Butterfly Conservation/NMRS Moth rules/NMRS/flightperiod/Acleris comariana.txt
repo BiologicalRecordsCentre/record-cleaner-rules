@@ -5,7 +5,11 @@ ShortName = 49.065 Acleris comariana (Strawberry Tortrix)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acleris comariana (Strawberry Tortrix)
 Tvk = NHMSYS0000500925
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 1130
-LastChanged = 20210525
-[EndMetadata]

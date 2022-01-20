@@ -5,7 +5,11 @@ ShortName = 69.005 Acherontia atropos (Death's-head Hawk-moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acherontia atropos (Death's-head Hawk-moth)
 Tvk = NBNSYS0000006064
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0421
 EndDate = 1107
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 49.232 Epinotia maculana (Dark Aspen Bell)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Epinotia maculana (Dark Aspen Bell)
 Tvk = NHMSYS0000502437
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0801
 EndDate = 1031
-LastChanged = 20210525
-[EndMetadata]

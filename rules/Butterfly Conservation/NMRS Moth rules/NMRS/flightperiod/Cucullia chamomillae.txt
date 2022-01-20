@@ -5,7 +5,11 @@ ShortName = 73.053 Cucullia chamomillae (Chamomile Shark)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Cucullia chamomillae (Chamomile Shark)
 Tvk = NHMSYS0021144520
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0301
 EndDate = 0715
-LastChanged = 20210525
-[EndMetadata]

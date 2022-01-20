@@ -5,7 +5,11 @@ ShortName = 72.072 Eublemma ostrina (Purple Marbled)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eublemma ostrina (Purple Marbled)
 Tvk = NHMSYS0021144443
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0121
 EndDate = 1221
-LastChanged = 20210525
-[EndMetadata]

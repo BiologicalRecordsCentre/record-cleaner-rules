@@ -5,7 +5,11 @@ ShortName = 49.325 Cydia ulicetana (Grey Gorse Piercer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Cydia ulicetana (Grey Gorse Piercer)
 Tvk = NHMSYS0020326909
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0401
 EndDate = 0930
-LastChanged = 20210525
-[EndMetadata]

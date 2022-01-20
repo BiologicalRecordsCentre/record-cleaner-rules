@@ -5,7 +5,11 @@ ShortName = 35.115 Scrobipalpa nitentella (Common Sea Groundling)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Scrobipalpa nitentella (Common Sea Groundling)
 Tvk = NHMSYS0000504146
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0615
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

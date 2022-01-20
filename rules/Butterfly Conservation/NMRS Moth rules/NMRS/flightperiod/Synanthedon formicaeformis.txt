@@ -5,7 +5,11 @@ ShortName = 52.008 Synanthedon formicaeformis (Red-tipped Clearwing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Synanthedon formicaeformis (Red-tipped Clearwing)
 Tvk = NHMSYS0021143407
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0515
 EndDate = 0821
-LastChanged = 20210525
-[EndMetadata]

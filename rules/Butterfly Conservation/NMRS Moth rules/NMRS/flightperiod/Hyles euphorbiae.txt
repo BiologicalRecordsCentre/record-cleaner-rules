@@ -5,7 +5,11 @@ ShortName = 69.013 Hyles euphorbiae (Spurge Hawk-moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Hyles euphorbiae (Spurge Hawk-moth)
 Tvk = NBNSYS0000006074
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0607
 EndDate = 0815
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 66.003 Malacosoma neustria (Lackey)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Malacosoma neustria (Lackey)
 Tvk = NBNSYS0000005703
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0831
-LastChanged = 20210525
-[EndMetadata]

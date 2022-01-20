@@ -5,7 +5,11 @@ ShortName = 49.166 Celypha lacunana (Common Marble)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Celypha lacunana (Common Marble)
 Tvk = NBNSYS0100002225
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0501
 EndDate = 1130
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 4.080 Ectoedemia longicaudella (New Oak-bark Pigmy)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Ectoedemia longicaudella (New Oak-bark Pigmy)
 Tvk = NHMSYS0021142145
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0701
 EndDate = 0731
-LastChanged = 20210525
-[EndMetadata]

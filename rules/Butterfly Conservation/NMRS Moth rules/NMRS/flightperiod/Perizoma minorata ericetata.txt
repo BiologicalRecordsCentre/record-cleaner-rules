@@ -5,7 +5,11 @@ ShortName = 70.135 Perizoma minorata ericetata (Heath Rivulet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Perizoma minorata ericetata (Heath Rivulet)
 Tvk = NHMSYS0021144055
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0607
 EndDate = 0815
-LastChanged = 20210525
-[EndMetadata]

@@ -5,7 +5,11 @@ ShortName = 63.026 Sclerocona acutellus (Thatch Pearl)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Sclerocona acutellus (Thatch Pearl)
 Tvk = NHMSYS0000504113
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0601
 EndDate = 0807
-LastChanged = 20210525
-[EndMetadata]

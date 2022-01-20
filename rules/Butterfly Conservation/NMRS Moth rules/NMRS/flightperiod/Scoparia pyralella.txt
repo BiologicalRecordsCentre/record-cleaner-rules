@@ -5,7 +5,11 @@ ShortName = 63.066 Scoparia pyralella (Meadow Grey)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Scoparia pyralella (Meadow Grey)
 Tvk = NHMSYS0021143745
+DataFieldName = SpeciesStage
+LastChanged = 20220120
+[EndMetadata]
+
+[Data]
+Stage = Adult
 StartDate = 0421
 EndDate = 0821
-LastChanged = 20210525
-[EndMetadata]
