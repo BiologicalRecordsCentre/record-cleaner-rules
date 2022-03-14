@@ -6,9 +6,7 @@ Description=Checks date is within known flight period of Calopteryx virgo
 ErrorMsg=Date is outside known flight period of Calopteryx virgo
 Tvk=NBNSYS0000005616
 DataFieldName=
-StartDate=0512
-EndDate=0915
-LastChanged=20120510
+StartDate=0427
+EndDate=0809
+LastChanged=20211222
 [EndMetadata]
- 
-         

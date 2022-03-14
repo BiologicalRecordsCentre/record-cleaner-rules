@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Odonata Recording Period
+ShortName=Sympetrum danae
+Description=Checks date is within known recording period of Sympetrum danae
+ErrorMsg=Date is outside known recording period of Sympetrum danae
+Tvk=NBNSYS0000005651
+StartDate=19410101
+EndDate=
+LastChanged=20211222
+[EndMetadata]

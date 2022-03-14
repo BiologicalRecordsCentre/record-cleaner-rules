@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Odonata Recording Period
+ShortName=Sympetrum pedemontanum
+Description=Checks date is within known recording period of Sympetrum pedemontanum
+ErrorMsg=Date is outside known recording period of Sympetrum pedemontanum
+Tvk=NHMSYS0000344190
+StartDate=
+EndDate=18001231
+LastChanged=20211222
+[EndMetadata]

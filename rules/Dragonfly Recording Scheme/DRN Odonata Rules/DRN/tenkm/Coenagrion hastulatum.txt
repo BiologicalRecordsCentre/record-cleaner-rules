@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Odonata 10km distribution
+ShortName=Coenagrion hastulatum 10km
+Description=Check coordinate against known distribution of Coenagrion hastulatum
+ErrorMsg=Coordinate is outside known range for Coenagrion hastulatum
+DataFieldName=Species
+DataRecordId=NBNSYS0000005607
+LastChanged=20211222
+[EndMetadata]
+
+[10km_GB]
+NH70
+NH80
+NH81
+NH90
+NH91
+NH92
+NH94
+NJ02
+NJ40
+NJ71
+NN79
+NN95
+NO04
+NO19
+NO39
+NO49
+NO59
+
+

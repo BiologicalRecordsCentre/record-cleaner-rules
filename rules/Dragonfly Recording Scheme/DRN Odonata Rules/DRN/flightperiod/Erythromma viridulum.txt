@@ -6,9 +6,7 @@ Description=Checks date is within known flight period of Erythromma viridulum
 ErrorMsg=Date is outside known flight period of Erythromma viridulum
 Tvk=NHMSYS0000344177
 DataFieldName=
-StartDate=0623
-EndDate=0922
-LastChanged=20120510
+StartDate=0628
+EndDate=0909
+LastChanged=20211222
 [EndMetadata]
- 
-         

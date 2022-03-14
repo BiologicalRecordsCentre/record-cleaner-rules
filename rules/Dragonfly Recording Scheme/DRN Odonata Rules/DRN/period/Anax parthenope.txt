@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Odonata Recording Period
+ShortName=Anax parthenope
+Description=Checks date is within known recording period of Anax parthenope
+ErrorMsg=Date is outside known recording period of Anax parthenope
+Tvk=NHMSYS0000344169
+StartDate=19960101
+EndDate=
+LastChanged=20211222
+[EndMetadata]

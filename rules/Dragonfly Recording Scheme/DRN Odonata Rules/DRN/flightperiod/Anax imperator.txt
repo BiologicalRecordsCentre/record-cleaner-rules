@@ -6,9 +6,7 @@ Description=Checks date is within known flight period of Anax imperator
 ErrorMsg=Date is outside known flight period of Anax imperator
 Tvk=NBNSYS0000005630
 DataFieldName=
-StartDate=0526
-EndDate=0915
-LastChanged=20120510
+StartDate=0525
+EndDate=0827
+LastChanged=20211222
 [EndMetadata]
- 
-         

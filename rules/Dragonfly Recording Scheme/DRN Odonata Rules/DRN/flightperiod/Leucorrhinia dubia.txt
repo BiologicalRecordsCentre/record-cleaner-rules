@@ -6,9 +6,7 @@ Description=Checks date is within known flight period of Leucorrhinia dubia
 ErrorMsg=Date is outside known flight period of Leucorrhinia dubia
 Tvk=NHMSYS0020546892
 DataFieldName=
-StartDate=0505
-EndDate=0818
-LastChanged=20120510
+StartDate=0501
+EndDate=0718
+LastChanged=20211222
 [EndMetadata]
- 
-         

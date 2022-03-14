@@ -6,9 +6,7 @@ Description=Checks date is within known flight period of Ceriagrion tenellum
 ErrorMsg=Date is outside known flight period of Ceriagrion tenellum
 Tvk=NBNSYS0000005611
 DataFieldName=
-StartDate=0602
-EndDate=0922
-LastChanged=20120510
+StartDate=0606
+EndDate=0831
+LastChanged=20211222
 [EndMetadata]
- 
-         

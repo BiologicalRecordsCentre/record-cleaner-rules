@@ -6,9 +6,7 @@ Description=Checks date is within known flight period of Coenagrion mercuriale
 ErrorMsg=Date is outside known flight period of Coenagrion mercuriale
 Tvk=NBNSYS0000005603
 DataFieldName=
-StartDate=0526
-EndDate=0818
-LastChanged=20120510
+StartDate=0527
+EndDate=0806
+LastChanged=20211222
 [EndMetadata]
- 
-         

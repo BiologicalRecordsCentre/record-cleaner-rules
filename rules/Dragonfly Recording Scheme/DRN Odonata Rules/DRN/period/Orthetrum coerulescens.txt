@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Odonata Recording Period
+ShortName=Orthetrum coerulescens
+Description=Checks date is within known recording period of Orthetrum coerulescens
+ErrorMsg=Date is outside known recording period of Orthetrum coerulescens
+Tvk=NBNSYS0000005640
+StartDate=19550101
+EndDate=
+LastChanged=20211222
+[EndMetadata]

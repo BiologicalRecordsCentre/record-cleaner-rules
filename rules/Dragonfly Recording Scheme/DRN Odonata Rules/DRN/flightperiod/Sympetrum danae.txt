@@ -6,9 +6,7 @@ Description=Checks date is within known flight period of Sympetrum danae
 ErrorMsg=Date is outside known flight period of Sympetrum danae
 Tvk=NBNSYS0000005651
 DataFieldName=
-StartDate=0630
-EndDate=1020
-LastChanged=20120510
+StartDate=0702
+EndDate=1010
+LastChanged=20211222
 [EndMetadata]
- 
-         

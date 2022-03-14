@@ -6,9 +6,7 @@ Description=Checks date is within known flight period of Ischnura pumilio
 ErrorMsg=Date is outside known flight period of Ischnura pumilio
 Tvk=NBNSYS0000005601
 DataFieldName=
-StartDate=0602
-EndDate=0818
-LastChanged=20120510
+StartDate=0518
+EndDate=0820
+LastChanged=20211222
 [EndMetadata]
- 
-         
