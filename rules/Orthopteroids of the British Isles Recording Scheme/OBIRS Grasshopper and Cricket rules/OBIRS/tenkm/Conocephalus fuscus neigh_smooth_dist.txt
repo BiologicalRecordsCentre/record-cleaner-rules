@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Conocephalus fuscus 10km
 Description=Check coordinate against known 10km distribution of Conocephalus fuscus
-ErrorMsg=Coordinate outside know range for Conocephalus fuscus
+ErrorMsg=Coordinate outside known range for Conocephalus fuscus
 DataFieldName=Species
-DataRecordId=NBNSYS0000006823
-LastChanged=20130430
+DataRecordId=NHMSYS0020752279
+LastChanged=20180313
 [EndMetadata]
 
 
@@ -30,6 +30,14 @@ SE81
 SE82
 SE90
 SE91
+SJ50
+SJ51
+SJ60
+SJ61
+SJ70
+SJ71
+SJ90
+SK00
 SK03
 SK04
 SK05
@@ -100,6 +108,7 @@ SO41
 SO50
 SO51
 SO52
+SO59
 SO60
 SO61
 SO62
@@ -109,6 +118,7 @@ SO65
 SO66
 SO67
 SO68
+SO69
 SO70
 SO71
 SO72
@@ -118,6 +128,7 @@ SO75
 SO76
 SO77
 SO78
+SO79
 SO80
 SO81
 SO82
@@ -136,6 +147,7 @@ SO95
 SO96
 SO97
 SO98
+SO99
 SP00
 SP01
 SP02
@@ -145,6 +157,7 @@ SP05
 SP06
 SP07
 SP08
+SP09
 SP10
 SP11
 SP12
@@ -207,6 +220,7 @@ SP71
 SP72
 SP73
 SP74
+SP75
 SP78
 SP79
 SP80
@@ -249,6 +263,7 @@ SS81
 SS82
 SS87
 SS88
+SS89
 SS90
 SS91
 SS96
@@ -495,6 +510,8 @@ SX46
 SX54
 SX55
 SX56
+SX57
+SX58
 SX65
 SX66
 SX67
@@ -571,21 +588,31 @@ TF02
 TF10
 TF11
 TF12
+TF15
+TF16
+TF17
 TF20
 TF21
 TF22
 TF23
 TF24
+TF25
+TF26
+TF27
 TF30
 TF31
 TF32
 TF33
 TF34
+TF35
+TF36
+TF37
 TF40
 TF41
 TF42
 TF43
 TF44
+TF45
 TF50
 TF51
 TF52
@@ -909,5 +936,6 @@ TR47
 TV49
 TV59
 TV69
+TV79
 
 

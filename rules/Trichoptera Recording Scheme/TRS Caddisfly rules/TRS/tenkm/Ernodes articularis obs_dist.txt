@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Ernodes articularis 10km
 Description=Check coordinate against known 10km distribution of Ernodes articularis
-ErrorMsg=Coordinate outside know range for Ernodes articularis
+ErrorMsg=Coordinate outside known range for Ernodes articularis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008504
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -26,10 +26,10 @@ SN14
 SN15
 SN70
 SN72
-SN99
 SO34
 SO77
 SR89
+ST20
 ST29
 SY18
 SY28

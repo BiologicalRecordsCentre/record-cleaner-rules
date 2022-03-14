@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Caenis luctuosa 10km
 Description=Check coordinate against known 10km distribution of Caenis luctuosa
-ErrorMsg=Coordinate outside know range for Caenis luctuosa
+ErrorMsg=Coordinate outside known range for Caenis luctuosa
 DataFieldName=Species
 DataRecordId=NHMSYS0000066967
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
@@ -52,10 +52,19 @@ NS48
 NS49
 NS70
 NS71
+NS77
+NS78
+NS79
 NS80
 NS81
+NS87
+NS88
+NS89
 NS90
 NS91
+NS97
+NS98
+NS99
 NT20
 NT21
 NT22
@@ -128,6 +137,15 @@ SD87
 SD95
 SD96
 SD97
+SE53
+SE54
+SE55
+SE63
+SE64
+SE65
+SE73
+SE74
+SE75
 SJ34
 SJ35
 SJ36
@@ -155,6 +173,8 @@ SJ87
 SJ95
 SJ96
 SJ97
+SK30
+SK40
 SK41
 SK42
 SK43
@@ -184,15 +204,26 @@ SO25
 SO33
 SO34
 SO35
+SP20
+SP21
+SP30
+SP31
+SP38
+SP39
 SP40
+SP41
 SP46
 SP47
 SP48
+SP49
 SP50
+SP51
 SP56
 SP57
 SP58
+SP59
 SP60
+SP61
 SP66
 SP67
 SP68
@@ -202,6 +233,8 @@ SP79
 SP88
 SP89
 SP99
+SU29
+SU39
 SU48
 SU49
 SU58
@@ -228,6 +261,15 @@ TF20
 TF21
 TF30
 TF31
+TF35
+TF36
+TF37
+TF45
+TF46
+TF47
+TF55
+TF56
+TF57
 TF60
 TF61
 TF70
@@ -339,6 +381,15 @@ TM48
 TM49
 TM57
 TM59
+TQ06
+TQ07
+TQ08
+TQ16
+TQ17
+TQ18
+TQ26
+TQ27
+TQ28
 TQ93
 TQ94
 TQ95

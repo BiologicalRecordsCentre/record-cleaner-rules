@@ -3,16 +3,17 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Hybomitra expollicata 10km
 Description=Check coordinate against known 10km distribution of Hybomitra expollicata
-ErrorMsg=Coordinate outside know range for Hybomitra expollicata
+ErrorMsg=Coordinate outside known range for Hybomitra expollicata
 DataFieldName=Species
 DataRecordId=NBNSYS0000007882
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
 SU60
 SU70
+SZ89
 TL90
 TL91
 TM01

@@ -3,22 +3,17 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Notidobia ciliaris 10km
 Description=Check coordinate against known 10km distribution of Notidobia ciliaris
-ErrorMsg=Coordinate outside know range for Notidobia ciliaris
+ErrorMsg=Coordinate outside known range for Notidobia ciliaris
 DataFieldName=Species
 DataRecordId=NBNSYS0000008505
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
-NS54
-NY10
-NY56
-SH64
 SJ33
 SJ43
 SJ54
-SO49
 SP10
 SP30
 SP42

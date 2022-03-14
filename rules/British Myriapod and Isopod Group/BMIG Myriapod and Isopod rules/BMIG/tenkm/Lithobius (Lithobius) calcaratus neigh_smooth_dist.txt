@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Lithobius (Lithobius) calcaratus 10km
 Description=Check coordinate against known 10km distribution of Lithobius (Lithobius) calcaratus
-ErrorMsg=Coordinate outside know range for Lithobius (Lithobius) calcaratus
+ErrorMsg=Coordinate outside known range for Lithobius (Lithobius) calcaratus
 DataFieldName=Species
 DataRecordId=NHMSYS0020500667
-LastChanged=20130429
+LastChanged=20180314
 [EndMetadata]
 
 
@@ -158,17 +158,26 @@ NY46
 NY47
 NY50
 NY51
+NY54
 NY55
 NY56
 NY57
 NY58
 NY59
+NY64
+NY65
+NY66
 NY67
 NY68
 NY69
+NY74
+NY75
+NY76
 NY77
 NY78
 NY79
+NY87
+NY88
 NY89
 NY90
 NY99
@@ -185,7 +194,12 @@ NZ43
 NZ44
 NZ45
 NZ53
+NZ61
+NZ62
+NZ71
+NZ72
 NZ80
+NZ81
 NZ90
 SC37
 SC38
@@ -334,6 +348,7 @@ SH80
 SH81
 SH82
 SH83
+SH86
 SH87
 SH88
 SH90
@@ -415,12 +430,24 @@ SK39
 SK40
 SK41
 SK42
+SK45
+SK46
+SK47
 SK50
 SK51
 SK52
+SK55
+SK56
+SK57
+SK65
+SK66
+SK67
 SK71
 SK72
 SK73
+SK75
+SK76
+SK77
 SK80
 SK81
 SK82
@@ -545,8 +572,6 @@ SO39
 SO47
 SO48
 SO49
-SO57
-SO58
 SO59
 SO60
 SO61
@@ -974,6 +999,7 @@ TQ32
 TQ33
 TQ34
 TQ35
+TQ36
 TQ40
 TQ41
 TQ42
@@ -1015,11 +1041,30 @@ TQ82
 TQ84
 TQ85
 TQ86
+TQ87
 TQ91
 TQ92
+TQ93
+TQ94
+TQ95
+TQ96
+TQ97
 TR01
 TR02
+TR03
+TR04
+TR05
+TR06
+TR07
 TR12
+TR13
+TR14
+TR15
+TR16
+TR24
+TR25
+TR26
+TR27
 TV59
 TV69
 TV79

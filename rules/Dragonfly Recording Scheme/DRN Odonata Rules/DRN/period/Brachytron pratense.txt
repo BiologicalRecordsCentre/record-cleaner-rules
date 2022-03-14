@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Odonata Recording Period
+ShortName=Brachytron pratense
+Description=Checks date is within known recording period of Brachytron pratense
+ErrorMsg=Date is outside known recording period of Brachytron pratense
+Tvk=NBNSYS0000005622
+StartDate=19010101
+EndDate=
+LastChanged=20211222
+[EndMetadata]

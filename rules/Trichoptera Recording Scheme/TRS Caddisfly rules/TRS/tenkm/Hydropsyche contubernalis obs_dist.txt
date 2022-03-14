@@ -3,15 +3,17 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Hydropsyche contubernalis 10km
 Description=Check coordinate against known 10km distribution of Hydropsyche contubernalis
-ErrorMsg=Coordinate outside know range for Hydropsyche contubernalis
+ErrorMsg=Coordinate outside known range for Hydropsyche contubernalis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008415
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
 NC40
+NC64
+NC75
 ND12
 ND16
 NH45
@@ -31,8 +33,10 @@ NN79
 NN80
 NN95
 NN96
+NO03
 NO04
 NO12
+NO13
 NO18
 NO49
 NO59
@@ -64,6 +68,7 @@ NY86
 NY96
 NY97
 NZ11
+NZ16
 NZ20
 NZ21
 NZ31
@@ -80,6 +85,7 @@ SE44
 SE45
 SE47
 SE50
+SE64
 SE67
 SE73
 SE74
@@ -113,9 +119,11 @@ SK20
 SK21
 SK22
 SK26
+SK30
 SK32
 SK33
 SK34
+SK40
 SK41
 SK42
 SK43
@@ -131,6 +139,7 @@ SK64
 SK67
 SK68
 SK69
+SK71
 SK72
 SK74
 SK75
@@ -164,6 +173,7 @@ SO56
 SO57
 SO66
 SO73
+SO74
 SO75
 SO76
 SO77
@@ -208,6 +218,7 @@ SP97
 SP99
 SS52
 SS63
+ST28
 ST30
 ST39
 ST50
@@ -257,7 +268,9 @@ TL08
 TL09
 TL11
 TL13
+TL14
 TL15
+TL16
 TL30
 TL31
 TQ01

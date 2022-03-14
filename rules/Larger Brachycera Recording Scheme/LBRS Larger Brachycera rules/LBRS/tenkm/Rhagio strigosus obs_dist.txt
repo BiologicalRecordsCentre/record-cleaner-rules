@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Rhagio strigosus 10km
 Description=Check coordinate against known 10km distribution of Rhagio strigosus
-ErrorMsg=Coordinate outside know range for Rhagio strigosus
+ErrorMsg=Coordinate outside known range for Rhagio strigosus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007865
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 

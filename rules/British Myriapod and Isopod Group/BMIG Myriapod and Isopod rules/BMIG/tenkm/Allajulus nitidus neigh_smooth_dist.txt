@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Allajulus nitidus 10km
 Description=Check coordinate against known 10km distribution of Allajulus nitidus
-ErrorMsg=Coordinate outside know range for Allajulus nitidus
+ErrorMsg=Coordinate outside known range for Allajulus nitidus
 DataFieldName=Species
 DataRecordId=NHMSYS0000356224
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

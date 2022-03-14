@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Thalassophilus longicornis 10km
 Description=Check coordinate against known 10km distribution of Thalassophilus longicornis
-ErrorMsg=Coordinate outside know range for Thalassophilus longicornis
+ErrorMsg=Coordinate outside known range for Thalassophilus longicornis
 DataFieldName=Species
 DataRecordId=NBNSYS0000007193
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
@@ -44,44 +44,15 @@ NT90
 NT91
 NU00
 NU01
-NX86
-NX87
-NX88
-NX96
-NX97
-NX98
-NY06
-NY07
-NY08
-NY45
-NY46
-NY47
-NY55
-NY56
-NY57
-NY65
-NY66
-NY67
+NU10
+NU11
 NY89
 NY99
 NZ09
-SD46
-SD47
-SD48
-SD56
-SD57
-SD58
-SD66
-SD67
-SD68
-SH53
-SH54
-SH55
-SH63
+NZ19
 SH64
 SH65
 SH66
-SH73
 SH74
 SH75
 SH76
@@ -123,12 +94,6 @@ SO15
 SO23
 SO24
 SO25
-SO33
-SO34
-SO35
-SO43
-SO44
-SO45
 TQ91
 TQ92
 TR01

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Lithobius (Lithobius) borealis 10km
 Description=Check coordinate against known 10km distribution of Lithobius (Lithobius) borealis
-ErrorMsg=Coordinate outside know range for Lithobius (Lithobius) borealis
+ErrorMsg=Coordinate outside known range for Lithobius (Lithobius) borealis
 DataFieldName=Species
 DataRecordId=NHMSYS0020500666
-LastChanged=20130429
+LastChanged=20180314
 [EndMetadata]
 
 
@@ -110,6 +110,7 @@ NH08
 NH80
 NH81
 NH82
+NH83
 NH90
 NH91
 NH92
@@ -129,6 +130,9 @@ NJ13
 NJ14
 NJ15
 NJ20
+NJ30
+NJ40
+NJ50
 NJ51
 NJ52
 NJ53
@@ -184,6 +188,12 @@ NO18
 NO19
 NO28
 NO29
+NO38
+NO39
+NO48
+NO49
+NO58
+NO59
 NO68
 NO69
 NO78
@@ -238,6 +248,15 @@ NU00
 NU01
 NU02
 NU03
+NX25
+NX26
+NX27
+NX35
+NX36
+NX37
+NX45
+NX46
+NX47
 NY00
 NY01
 NY02
@@ -256,12 +275,24 @@ NY32
 NY33
 NY40
 NY60
+NY65
+NY66
+NY67
 NY70
+NY75
+NY76
+NY77
+NY78
 NY80
+NY85
+NY86
+NY87
 NY88
 NY89
 NY90
 NY91
+NY96
+NY97
 NY98
 NY99
 NZ00
@@ -353,6 +384,7 @@ SH38
 SH39
 SH43
 SH44
+SH45
 SH47
 SH48
 SH49
@@ -537,6 +569,7 @@ SN85
 SN86
 SN87
 SN88
+SN90
 SN91
 SN92
 SN93
@@ -1009,8 +1042,16 @@ TQ81
 TQ82
 TQ83
 TQ84
+TQ85
+TQ86
 TQ91
 TQ92
+TQ94
+TQ95
+TQ96
+TR04
+TR05
+TR06
 TR24
 TR25
 TR26

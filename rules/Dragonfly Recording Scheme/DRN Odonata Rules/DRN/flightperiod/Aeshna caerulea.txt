@@ -6,9 +6,7 @@ Description=Checks date is within known flight period of Aeshna caerulea
 ErrorMsg=Date is outside known flight period of Aeshna caerulea
 Tvk=NBNSYS0000005623
 DataFieldName=
-StartDate=0519
-EndDate=0901
-LastChanged=20120510
+StartDate=0520
+EndDate=0811
+LastChanged=20211222
 [EndMetadata]
- 
-         

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Wormaldia subnigra 10km
 Description=Check coordinate against known 10km distribution of Wormaldia subnigra
-ErrorMsg=Coordinate outside know range for Wormaldia subnigra
+ErrorMsg=Coordinate outside known range for Wormaldia subnigra
 DataFieldName=Species
 DataRecordId=NBNSYS0000008383
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -14,6 +14,7 @@ LastChanged=20130502
 NC02
 NC12
 NC24
+NH12
 NH41
 NH54
 NH55
@@ -53,6 +54,7 @@ SK17
 SK24
 SK26
 SK27
+SM72
 SO23
 SO57
 SS41

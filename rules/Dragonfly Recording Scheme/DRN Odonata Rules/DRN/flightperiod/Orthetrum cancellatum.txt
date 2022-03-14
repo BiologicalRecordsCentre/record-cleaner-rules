@@ -6,9 +6,7 @@ Description=Checks date is within known flight period of Orthetrum cancellatum
 ErrorMsg=Date is outside known flight period of Orthetrum cancellatum
 Tvk=NBNSYS0000005641
 DataFieldName=
-StartDate=0519
-EndDate=0908
-LastChanged=20120510
+StartDate=0525
+EndDate=0818
+LastChanged=20211222
 [EndMetadata]
- 
-         

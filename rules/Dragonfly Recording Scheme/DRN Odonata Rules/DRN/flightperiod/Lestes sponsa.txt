@@ -6,9 +6,7 @@ Description=Checks date is within known flight period of Lestes sponsa
 ErrorMsg=Date is outside known flight period of Lestes sponsa
 Tvk=NBNSYS0000005613
 DataFieldName=
-StartDate=0616
-EndDate=0908
-LastChanged=20120510
+StartDate=0618
+EndDate=0919
+LastChanged=20211222
 [EndMetadata]
- 
-         

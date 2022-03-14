@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Odonata Recording Period
+ShortName=Libellula fulva
+Description=Checks date is within known recording period of Libellula fulva
+ErrorMsg=Date is outside known recording period of Libellula fulva
+Tvk=NBNSYS0000005638
+StartDate=19650101
+EndDate=
+LastChanged=20211222
+[EndMetadata]

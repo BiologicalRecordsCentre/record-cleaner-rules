@@ -3,42 +3,40 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Asilus crabroniformis 10km
 Description=Check coordinate against known 10km distribution of Asilus crabroniformis
-ErrorMsg=Coordinate outside know range for Asilus crabroniformis
+ErrorMsg=Coordinate outside known range for Asilus crabroniformis
 DataFieldName=Species
 DataRecordId=NBNSYS0000007895
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
 SH52
-SM93
 SN24
 SN33
 SN34
-SN51
+SN68
 SN73
-SO30
+SO66
 SO72
 SO87
+SO88
 SP60
 SS69
 SS79
 ST04
 ST43
-ST47
 ST48
 ST49
 ST50
 ST54
 ST70
-ST75
 ST77
 ST81
-ST90
 ST91
 SU01
 SU02
+SU03
 SU04
 SU12
 SU13
@@ -53,6 +51,7 @@ SU42
 SU52
 SU57
 SU58
+SU59
 SU60
 SU61
 SU62
@@ -60,24 +59,25 @@ SU67
 SU68
 SU77
 SU79
+SU82
 SU83
 SU84
 SU86
 SU88
+SU89
 SU93
 SU94
 SU96
-SU99
-SW52
 SW53
-SW61
-SW62
 SW71
-SW73
 SW83
 SX15
 SX17
-SX56
+SX44
+SX73
+SX87
+SX98
+SY08
 SY49
 SY68
 SY69
@@ -85,26 +85,30 @@ SY78
 SY79
 SY88
 SY89
-SY97
 SY98
 SY99
 SZ08
-SZ09
 SZ19
 SZ29
 SZ48
 SZ68
+TQ00
+TQ01
 TQ04
 TQ05
 TQ14
 TQ15
+TQ20
 TQ26
 TQ27
 TQ40
+TQ41
 TQ57
 TQ58
+TQ66
 TQ67
-TR24
+TQ76
+TR04
 TR35
 
 

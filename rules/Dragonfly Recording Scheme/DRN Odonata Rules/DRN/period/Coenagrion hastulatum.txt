@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Odonata Recording Period
+ShortName=Coenagrion hastulatum
+Description=Checks date is within known recording period of Coenagrion hastulatum
+ErrorMsg=Date is outside known recording period of Coenagrion hastulatum
+Tvk=NBNSYS0000005607
+StartDate=19140101
+EndDate=
+LastChanged=20211222
+[EndMetadata]

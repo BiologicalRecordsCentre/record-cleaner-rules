@@ -3,15 +3,18 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Limnephilus bipunctatus 10km
 Description=Check coordinate against known 10km distribution of Limnephilus bipunctatus
-ErrorMsg=Coordinate outside know range for Limnephilus bipunctatus
+ErrorMsg=Coordinate outside known range for Limnephilus bipunctatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008469
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
+NR68
 NS59
+NZ14
+NZ33
 SE40
 SE53
 SH57
@@ -25,8 +28,9 @@ SJ36
 SJ43
 SJ54
 SK02
+SK41
 SO54
-SP22
+SO92
 SP42
 SP77
 SP84

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Armadillidium pulchellum 10km
 Description=Check coordinate against known 10km distribution of Armadillidium pulchellum
-ErrorMsg=Coordinate outside know range for Armadillidium pulchellum
+ErrorMsg=Coordinate outside known range for Armadillidium pulchellum
 DataFieldName=Species
 DataRecordId=NBNSYS0000008571
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Polydesmus inconstans 10km
 Description=Check coordinate against known 10km distribution of Polydesmus inconstans
-ErrorMsg=Coordinate outside know range for Polydesmus inconstans
+ErrorMsg=Coordinate outside known range for Polydesmus inconstans
 DataFieldName=Species
 DataRecordId=NBNSYS0000011370
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

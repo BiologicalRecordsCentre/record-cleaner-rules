@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Armadillidium depressum 10km
 Description=Check coordinate against known 10km distribution of Armadillidium depressum
-ErrorMsg=Coordinate outside know range for Armadillidium depressum
+ErrorMsg=Coordinate outside known range for Armadillidium depressum
 DataFieldName=Species
 DataRecordId=NBNSYS0000008568
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

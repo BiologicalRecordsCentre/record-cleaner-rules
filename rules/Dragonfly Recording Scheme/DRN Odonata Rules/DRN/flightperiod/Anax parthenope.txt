@@ -7,8 +7,6 @@ ErrorMsg=Date is outside known flight period of Anax parthenope
 Tvk=NHMSYS0000344169
 DataFieldName=
 StartDate=0609
-EndDate=0908
-LastChanged=20120510
+EndDate=0826
+LastChanged=20211222
 [EndMetadata]
- 
-         

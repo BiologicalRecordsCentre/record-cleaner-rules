@@ -35,6 +35,12 @@ and running a script offline to create the rule files. The old files can be
 deleted and replaced by the new ones. When changes are complete they can be
 committed and pushed.
 
+### Rule generation scripts
+Traditionally, the creation of rules files from CSV has been done by BRC.
+Schemes can now do this for themselves with the scripts in this repository, by
+following [this procedure](scripts/README.md). There is a longer term ambition 
+for this to happen automatically upon committins CSV files.
+
 ## How to package rule files
 To zip the rule files for a particular recording scheme,
  - change to the `/rules/<scheme>` folder,
@@ -50,6 +56,10 @@ systems could be easily created.
 
 To zip the rule files for all schemes, execute the `./package-all.sh` script
 from the root directory.
+
+Zip files are not committed to the repository as it is not necessary to keep
+them under version control. If it is desirable to preserve them, they can be 
+attached to a [Github release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository).
 
 ## Testing rule files
 You can serve the zip files locally by building and starting a docker container

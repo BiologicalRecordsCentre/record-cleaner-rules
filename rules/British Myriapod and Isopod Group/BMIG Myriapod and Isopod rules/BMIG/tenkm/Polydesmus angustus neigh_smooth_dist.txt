@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Polydesmus angustus 10km
 Description=Check coordinate against known 10km distribution of Polydesmus angustus
-ErrorMsg=Coordinate outside know range for Polydesmus angustus
+ErrorMsg=Coordinate outside known range for Polydesmus angustus
 DataFieldName=Species
 DataRecordId=NBNSYS0000011367
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

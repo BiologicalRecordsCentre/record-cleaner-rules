@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Odonata Recording Period
+ShortName=Gomphus flavipes
+Description=Checks date is within known recording period of Gomphus flavipes
+ErrorMsg=Date is outside known recording period of Gomphus flavipes
+Tvk=NBNSYS0000005619
+StartDate=
+EndDate=18001231
+LastChanged=20211222
+[EndMetadata]

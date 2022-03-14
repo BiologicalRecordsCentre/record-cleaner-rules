@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Calosoma sycophanta 10km
+Description=Check coordinate against known 10km distribution of Calosoma sycophanta
+ErrorMsg=Coordinate outside known range for Calosoma sycophanta
+DataFieldName=Species
+DataRecordId=NBNSYS0000007144
+LastChanged=20180313
+[EndMetadata]
+
+
+[10km_GB]
+SU82
+SU83
+SU84
+SU92
+SU93
+SU94
+TL26
+TL27
+TL28
+TL36
+TL37
+TL38
+TL46
+TL47
+TL48
+TQ02
+TQ03
+TQ04
+
+

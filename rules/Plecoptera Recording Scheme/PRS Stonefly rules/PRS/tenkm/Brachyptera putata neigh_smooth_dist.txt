@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Brachyptera putata 10km
 Description=Check coordinate against known 10km distribution of Brachyptera putata
-ErrorMsg=Coordinate outside know range for Brachyptera putata
+ErrorMsg=Coordinate outside known range for Brachyptera putata
 DataFieldName=Species
 DataRecordId=NBNSYS0000022413
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
@@ -112,11 +112,25 @@ NH80
 NH81
 NH90
 NH91
+NH92
+NH93
+NH94
+NH95
+NH96
 NJ00
+NJ01
+NJ02
+NJ03
+NJ04
+NJ05
+NJ06
 NJ10
+NJ11
+NJ12
 NJ13
 NJ14
 NJ15
+NJ16
 NJ20
 NJ23
 NJ24

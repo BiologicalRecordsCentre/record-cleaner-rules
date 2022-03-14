@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Enantiulus armatus 10km
 Description=Check coordinate against known 10km distribution of Enantiulus armatus
-ErrorMsg=Coordinate outside know range for Enantiulus armatus
+ErrorMsg=Coordinate outside known range for Enantiulus armatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000011388
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

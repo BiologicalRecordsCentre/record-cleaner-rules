@@ -3,83 +3,29 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Agonum (Agonum) gracilipes 10km
 Description=Check coordinate against known 10km distribution of Agonum (Agonum) gracilipes
-ErrorMsg=Coordinate outside know range for Agonum (Agonum) gracilipes
+ErrorMsg=Coordinate outside known range for Agonum (Agonum) gracilipes
 DataFieldName=Species
 DataRecordId=NHMSYS0001716596
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-NS00
-NS10
-NX08
-NX09
-NX18
-NX19
 SH50
 SH60
 SH70
-SJ47
-SJ48
-SJ49
-SJ57
-SJ58
-SJ59
-SJ67
-SJ68
-SJ69
 SN58
 SN59
 SN68
 SN69
 SN78
 SN79
-TA03
-TA04
-TA05
-TA13
-TA14
-TA15
-TA23
-TA24
-TA25
-TA30
-TA31
-TA32
-TA40
-TA41
-TA42
-TF70
-TF80
-TF90
-TL78
-TL79
-TL88
-TL89
-TL98
-TL99
 TM11
 TM12
 TM13
-TM14
-TM15
 TM21
 TM22
 TM23
-TM24
-TM25
 TM33
-TM34
-TM35
-TQ30
-TQ31
-TQ32
-TQ40
-TQ41
-TQ42
-TQ50
-TQ51
-TQ52
 
 

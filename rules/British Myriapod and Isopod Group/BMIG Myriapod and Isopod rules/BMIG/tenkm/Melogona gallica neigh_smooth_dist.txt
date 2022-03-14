@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Melogona gallica 10km
 Description=Check coordinate against known 10km distribution of Melogona gallica
-ErrorMsg=Coordinate outside know range for Melogona gallica
+ErrorMsg=Coordinate outside known range for Melogona gallica
 DataFieldName=Species
 DataRecordId=NBNSYS0000011355
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

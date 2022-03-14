@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Odonata Flight Period
+ShortName=Lestes barbarus
+Description=Checks date is within known flight period of Lestes barbarus
+ErrorMsg=Date is outside known flight period of Lestes barbarus
+Tvk=NBNSYS0000005612
+DataFieldName=
+StartDate=0604
+EndDate=0926
+LastChanged=20211222
+[EndMetadata]

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Metatrichoniscoides celticus 10km
 Description=Check coordinate against known 10km distribution of Metatrichoniscoides celticus
-ErrorMsg=Coordinate outside know range for Metatrichoniscoides celticus
+ErrorMsg=Coordinate outside known range for Metatrichoniscoides celticus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008548
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Halophiloscia couchii 10km
 Description=Check coordinate against known 10km distribution of Halophiloscia couchii
-ErrorMsg=Coordinate outside know range for Halophiloscia couchii
+ErrorMsg=Coordinate outside known range for Halophiloscia couchii
 DataFieldName=Species
 DataRecordId=NHMSYS0001593599
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

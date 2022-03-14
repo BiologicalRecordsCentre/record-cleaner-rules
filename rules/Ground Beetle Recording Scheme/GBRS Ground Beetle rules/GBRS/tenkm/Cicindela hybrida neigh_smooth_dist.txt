@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Cicindela hybrida 10km
+Description=Check coordinate against known 10km distribution of Cicindela hybrida
+ErrorMsg=Coordinate outside known range for Cicindela hybrida
+DataFieldName=Species
+DataRecordId=NBNSYS0000007124
+LastChanged=20180313
+[EndMetadata]
+
+
+[10km_GB]
+NX90
+NY00
+NY10
+SD08
+SD09
+SD18
+SD19
+SD20
+SD21
+SD30
+SD31
+SD32
+SD40
+SD41
+SD42
+SJ19
+SJ29
+SJ39
+
+

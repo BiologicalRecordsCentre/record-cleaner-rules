@@ -6,9 +6,7 @@ Description=Checks date is within known flight period of Cordulegaster boltonii
 ErrorMsg=Date is outside known flight period of Cordulegaster boltonii
 Tvk=NBNSYS0000005621
 DataFieldName=
-StartDate=0602
-EndDate=0929
-LastChanged=20120510
+StartDate=0528
+EndDate=0903
+LastChanged=20211222
 [EndMetadata]
- 
-         

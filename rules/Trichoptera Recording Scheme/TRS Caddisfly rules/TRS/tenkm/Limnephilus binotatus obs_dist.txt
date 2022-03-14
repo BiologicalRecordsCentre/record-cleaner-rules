@@ -3,15 +3,18 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Limnephilus binotatus 10km
 Description=Check coordinate against known 10km distribution of Limnephilus binotatus
-ErrorMsg=Coordinate outside know range for Limnephilus binotatus
+ErrorMsg=Coordinate outside known range for Limnephilus binotatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008468
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
+NC56
+NG30
 NH80
+NJ05
 NN30
 NN40
 NN79
@@ -21,16 +24,21 @@ NS69
 NS98
 NT52
 NT58
+NY30
 SC39
 SD47
 SD50
 SD70
 SE50
+SE71
 SJ29
+SJ41
+SJ56
 SJ57
 SJ64
 SJ65
-SK06
+SK40
+SK43
 SO54
 SO82
 ST42
@@ -45,12 +53,15 @@ TF10
 TF71
 TG31
 TG32
+TG42
 TL03
 TL57
 TL66
+TL68
 TL99
 TM46
 TQ33
+TQ41
 TQ60
 TQ96
 TR26

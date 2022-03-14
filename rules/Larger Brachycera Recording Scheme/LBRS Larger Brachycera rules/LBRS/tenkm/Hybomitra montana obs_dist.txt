@@ -3,59 +3,49 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Hybomitra montana 10km
 Description=Check coordinate against known 10km distribution of Hybomitra montana
-ErrorMsg=Coordinate outside know range for Hybomitra montana
+ErrorMsg=Coordinate outside known range for Hybomitra montana
 DataFieldName=Species
 DataRecordId=NBNSYS0000007885
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
 NB10
-NC27
-NC66
-ND04
 NG43
 NG54
-NG61
 NG96
+NH02
 NH06
-NH45
 NH80
 NH90
-NH96
 NM99
-NN48
-NN58
+NR24
 NR72
+NT05
 NX36
+NX47
 NX48
 NY26
 NY46
-NY52
 NY53
 NY67
 NY77
+NY81
 NY83
 SD29
-SD49
+SD38
 SE63
 SE66
 SE71
 SE89
-SH71
+SH63
+SJ43
 SJ56
+SJ69
 SK02
-SN31
-SN41
-SN62
-SN75
-SN88
-SO14
-SO77
-SU82
-SX17
+SK05
+SU10
 SX66
-TL99
 
 

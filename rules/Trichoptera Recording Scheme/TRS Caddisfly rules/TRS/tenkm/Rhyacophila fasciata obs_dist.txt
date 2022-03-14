@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Rhyacophila fasciata 10km
 Description=Check coordinate against known 10km distribution of Rhyacophila fasciata
-ErrorMsg=Coordinate outside know range for Rhyacophila fasciata
+ErrorMsg=Coordinate outside known range for Rhyacophila fasciata
 DataFieldName=Species
 DataRecordId=NBNSYS0000008342
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -58,14 +58,19 @@ NY88
 NY89
 NY91
 NY92
+NY95
 NY99
 NZ06
+NZ09
 NZ33
+NZ44
 NZ90
 SD18
 SD19
 SD29
 SD70
+SD79
+SD86
 SD92
 SD96
 SD97
@@ -81,9 +86,10 @@ SE24
 SE57
 SE58
 SE95
-SH91
 SH92
+SJ07
 SJ15
+SJ16
 SJ17
 SJ22
 SJ24
@@ -114,7 +120,6 @@ SN88
 SO33
 SO35
 SO44
-SO49
 SO54
 SO55
 SO65
@@ -132,6 +137,7 @@ SS73
 SS90
 SS92
 ST21
+ST63
 ST64
 ST74
 ST77

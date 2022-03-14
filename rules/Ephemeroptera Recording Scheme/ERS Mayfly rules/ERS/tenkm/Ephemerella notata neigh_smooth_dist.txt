@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Ephemerella notata 10km
 Description=Check coordinate against known 10km distribution of Ephemerella notata
-ErrorMsg=Coordinate outside know range for Ephemerella notata
+ErrorMsg=Coordinate outside known range for Ephemerella notata
 DataFieldName=Species
 DataRecordId=NBNSYS0000010895
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
@@ -120,6 +120,15 @@ NZ19
 NZ28
 NZ29
 NZ39
+SD87
+SD88
+SD89
+SD97
+SD98
+SD99
+SE07
+SE08
+SE09
 SE33
 SE34
 SE35
@@ -146,6 +155,15 @@ SE78
 SE94
 SE95
 SE96
+SJ30
+SJ31
+SJ32
+SJ40
+SJ41
+SJ42
+SJ50
+SJ51
+SJ52
 SN86
 SN87
 SN88

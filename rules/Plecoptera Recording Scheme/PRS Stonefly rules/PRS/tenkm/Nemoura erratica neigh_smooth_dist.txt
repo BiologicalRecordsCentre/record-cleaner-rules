@@ -3,14 +3,32 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Nemoura erratica 10km
 Description=Check coordinate against known 10km distribution of Nemoura erratica
-ErrorMsg=Coordinate outside know range for Nemoura erratica
+ErrorMsg=Coordinate outside known range for Nemoura erratica
 DataFieldName=Species
 DataRecordId=NBNSYS0000022423
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
 [10km_GB]
+NS51
+NS52
+NS53
+NS61
+NS62
+NS63
+NS71
+NS72
+NS73
+NX25
+NX26
+NX27
+NX35
+NX36
+NX37
+NX45
+NX46
+NX47
 NX90
 NX91
 NX92
@@ -57,6 +75,7 @@ NY64
 NY66
 NY67
 NY68
+NY70
 NY71
 NY72
 NY73
@@ -64,6 +83,7 @@ NY74
 NY76
 NY77
 NY78
+NY80
 NY81
 NY82
 NY83
@@ -92,15 +112,23 @@ SD52
 SD60
 SD61
 SD62
+SD66
+SD67
+SD68
 SD70
 SD71
 SD72
 SD73
 SD74
+SD76
+SD77
+SD78
+SD79
 SD82
 SD83
 SD84
 SD85
+SD86
 SD87
 SD88
 SD89
@@ -110,6 +138,7 @@ SD92
 SD93
 SD94
 SD95
+SD96
 SD97
 SD98
 SD99
@@ -119,6 +148,7 @@ SE02
 SE03
 SE04
 SE05
+SE06
 SE07
 SE08
 SE09
@@ -127,6 +157,21 @@ SE11
 SE12
 SE13
 SE14
+SE17
+SE18
+SE19
+SE27
+SE28
+SE29
+SE47
+SE48
+SE49
+SE57
+SE58
+SE59
+SE67
+SE68
+SE69
 SE80
 SE81
 SE90
@@ -154,6 +199,13 @@ SJ32
 SJ33
 SJ40
 SJ41
+SJ77
+SJ78
+SJ79
+SJ87
+SJ88
+SJ89
+SJ97
 SJ98
 SJ99
 SK04

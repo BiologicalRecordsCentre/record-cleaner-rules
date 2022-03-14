@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Oligotricha striata 10km
 Description=Check coordinate against known 10km distribution of Oligotricha striata
-ErrorMsg=Coordinate outside know range for Oligotricha striata
+ErrorMsg=Coordinate outside known range for Oligotricha striata
 DataFieldName=Species
 DataRecordId=NBNSYS0000008429
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -19,14 +19,20 @@ NM67
 NN00
 NN22
 NN55
+NS48
 NS69
 NS77
 NS82
 NS88
 NS96
+NZ15
 NZ23
+SD38
+SD39
 SD49
 SD51
+SD75
+SD76
 SD86
 SE01
 SE24
@@ -53,6 +59,7 @@ SN14
 SN66
 SN74
 SN75
+SN76
 SN77
 SN91
 SN97

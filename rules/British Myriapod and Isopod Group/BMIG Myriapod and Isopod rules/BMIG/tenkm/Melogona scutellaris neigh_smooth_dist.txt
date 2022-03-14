@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Melogona scutellaris 10km
 Description=Check coordinate against known 10km distribution of Melogona scutellaris
-ErrorMsg=Coordinate outside know range for Melogona scutellaris
+ErrorMsg=Coordinate outside known range for Melogona scutellaris
 DataFieldName=Species
 DataRecordId=NHMSYS0020108475
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

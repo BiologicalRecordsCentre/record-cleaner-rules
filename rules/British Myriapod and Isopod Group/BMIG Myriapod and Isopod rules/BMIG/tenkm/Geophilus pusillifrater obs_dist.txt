@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Geophilus pusillifrater 10km
 Description=Check coordinate against known 10km distribution of Geophilus pusillifrater
-ErrorMsg=Coordinate outside know range for Geophilus pusillifrater
+ErrorMsg=Coordinate outside known range for Geophilus pusillifrater
 DataFieldName=Species
 DataRecordId=NBNSYS0000011413
-LastChanged=20130429
+LastChanged=20180314
 [EndMetadata]
 
 

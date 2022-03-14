@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Rhabdiopteryx acuminata 10km
 Description=Check coordinate against known 10km distribution of Rhabdiopteryx acuminata
-ErrorMsg=Coordinate outside know range for Rhabdiopteryx acuminata
+ErrorMsg=Coordinate outside known range for Rhabdiopteryx acuminata
 DataFieldName=Species
 DataRecordId=NHMSYS0020316291
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
@@ -17,9 +17,26 @@ NT70
 NT71
 NT80
 NT81
+NT90
+NU00
+NU10
 NY69
 NY79
 NY89
+NY97
+NY98
+NY99
+NZ07
+NZ08
+NZ09
+NZ17
+NZ18
+NZ19
+NZ27
+NZ28
+NZ29
+NZ80
+NZ90
 SD82
 SD83
 SD84
@@ -36,6 +53,10 @@ SE04
 SE10
 SE11
 SE12
+SE88
+SE89
+SE98
+SE99
 SH90
 SJ00
 SJ10
@@ -54,5 +75,7 @@ SO52
 SO60
 SO61
 SO62
+TA08
+TA09
 
 

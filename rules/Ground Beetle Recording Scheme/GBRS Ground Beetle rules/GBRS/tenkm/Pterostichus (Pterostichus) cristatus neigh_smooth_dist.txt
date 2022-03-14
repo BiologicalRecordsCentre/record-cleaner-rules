@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Pterostichus (Pterostichus) cristatus 10km
 Description=Check coordinate against known 10km distribution of Pterostichus (Pterostichus) cristatus
-ErrorMsg=Coordinate outside know range for Pterostichus (Pterostichus) cristatus
+ErrorMsg=Coordinate outside known range for Pterostichus (Pterostichus) cristatus
 DataFieldName=Species
 DataRecordId=NHMSYS0001719796
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
@@ -20,14 +20,6 @@ NH68
 NH76
 NH77
 NH78
-NJ15
-NJ16
-NJ17
-NJ25
-NJ26
-NJ27
-NJ35
-NJ36
 NN60
 NN70
 NN71
@@ -41,15 +33,6 @@ NN90
 NN91
 NN92
 NN93
-NS44
-NS45
-NS46
-NS54
-NS55
-NS56
-NS64
-NS65
-NS66
 NS68
 NS69
 NS78
@@ -65,15 +48,9 @@ NT90
 NT91
 NU00
 NU01
-NU02
 NU10
 NU11
-NU12
-NU13
 NU20
-NU21
-NU22
-NU23
 NX90
 NX91
 NX92
@@ -81,7 +58,6 @@ NY00
 NY01
 NY02
 NY03
-NY10
 NY11
 NY12
 NY13
@@ -112,7 +88,6 @@ NY56
 NY57
 NY58
 NY59
-NY60
 NY62
 NY63
 NY64
@@ -189,10 +164,8 @@ NZ46
 NZ53
 SD28
 SD29
-SD37
 SD38
 SD39
-SD47
 SD48
 SD49
 SD52
@@ -208,7 +181,6 @@ SD64
 SD66
 SD67
 SD68
-SD69
 SD72
 SD73
 SD74
@@ -224,12 +196,9 @@ SD95
 SE03
 SE04
 SE05
-SE09
 SE13
 SE14
 SE15
-SE19
-SE29
 SE52
 SE53
 SE54
@@ -239,6 +208,15 @@ SE64
 SE72
 SE73
 SE74
+SJ30
+SJ31
+SJ32
+SJ40
+SJ41
+SJ42
+SJ50
+SJ51
+SJ52
 TL03
 TL04
 TL05

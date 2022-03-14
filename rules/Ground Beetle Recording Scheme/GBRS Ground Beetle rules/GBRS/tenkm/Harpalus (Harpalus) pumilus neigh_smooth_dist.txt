@@ -3,55 +3,20 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Harpalus (Harpalus) pumilus 10km
 Description=Check coordinate against known 10km distribution of Harpalus (Harpalus) pumilus
-ErrorMsg=Coordinate outside know range for Harpalus (Harpalus) pumilus
+ErrorMsg=Coordinate outside known range for Harpalus (Harpalus) pumilus
 DataFieldName=Species
 DataRecordId=NHMSYS0001718355
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-SJ44
-SJ45
-SJ46
-SJ54
-SJ55
-SJ56
-SJ64
-SJ65
-SJ66
-SS32
-SS42
-SS43
-SS44
-SS52
-SS53
-SS54
-SU20
-SU21
-SU30
-SU31
-SU40
-SU41
-SY48
-SY49
 SY58
-SY59
 SY66
 SY67
 SY68
-SY69
 SY77
 SY78
-SZ29
-SZ39
-SZ49
-TF00
-TF01
-TF10
-TF11
-TF20
-TF21
 TF70
 TF73
 TF74
@@ -62,14 +27,6 @@ TF90
 TF93
 TF94
 TG00
-TG13
-TG14
-TG23
-TG24
-TG33
-TL09
-TL19
-TL29
 TL55
 TL56
 TL57
@@ -91,16 +48,7 @@ TL89
 TL97
 TL98
 TL99
-TM03
-TM04
-TM05
 TM08
 TM09
-TM13
-TM14
-TM15
-TM23
-TM24
-TM25
 
 

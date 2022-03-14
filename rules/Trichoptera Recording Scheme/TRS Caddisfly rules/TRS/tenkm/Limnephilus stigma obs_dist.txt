@@ -3,27 +3,34 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Limnephilus stigma 10km
 Description=Check coordinate against known 10km distribution of Limnephilus stigma
-ErrorMsg=Coordinate outside know range for Limnephilus stigma
+ErrorMsg=Coordinate outside known range for Limnephilus stigma
 DataFieldName=Species
 DataRecordId=NBNSYS0000008491
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
+HU48
 NC22
+NC36
+NC46
+NC55
 NC73
 NC84
+NC91
 NC93
 NC94
 ND03
 ND04
 ND24
+NG46
 NH12
 NH22
 NH70
 NJ01
 NJ21
+NJ26
 NM76
 NM93
 NN79
@@ -34,7 +41,15 @@ NU22
 NX38
 NX40
 NY25
+NZ21
+NZ22
+NZ24
+NZ25
+NZ33
+NZ35
+NZ44
 SC39
+SD47
 SD58
 SD86
 SE24
@@ -47,7 +62,10 @@ SE83
 SH48
 SH56
 SH57
+SH62
 SH64
+SH65
+SH74
 SJ17
 SJ26
 SJ28
@@ -62,6 +80,8 @@ SJ84
 SJ94
 SK00
 SK03
+SK25
+SK40
 SK53
 SK58
 SK62
@@ -82,6 +102,5 @@ TL56
 TL57
 TL66
 TQ67
-TR01
 
 

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Brachycercus harrisella 10km
 Description=Check coordinate against known 10km distribution of Brachycercus harrisella
-ErrorMsg=Coordinate outside know range for Brachycercus harrisella
+ErrorMsg=Coordinate outside known range for Brachycercus harrisella
 DataFieldName=Species
 DataRecordId=NBNSYS0100002066
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
@@ -87,16 +87,22 @@ SE63
 SE64
 SE65
 SE66
+SE67
+SE68
 SE72
 SE73
 SE74
 SE75
 SE76
+SE77
+SE78
 SE82
 SE83
 SE84
 SE85
 SE86
+SE87
+SE88
 SJ20
 SJ21
 SJ22

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Hydroptila martini 10km
 Description=Check coordinate against known 10km distribution of Hydroptila martini
-ErrorMsg=Coordinate outside know range for Hydroptila martini
+ErrorMsg=Coordinate outside known range for Hydroptila martini
 DataFieldName=Species
 DataRecordId=NBNSYS0000008356
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -15,6 +15,8 @@ HY22
 NY51
 SE58
 SH49
+SH54
+SH65
 SJ15
 SK51
 SU37

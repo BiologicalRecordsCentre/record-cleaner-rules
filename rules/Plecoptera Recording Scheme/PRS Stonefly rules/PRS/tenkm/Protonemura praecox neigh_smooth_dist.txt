@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Protonemura praecox 10km
 Description=Check coordinate against known 10km distribution of Protonemura praecox
-ErrorMsg=Coordinate outside know range for Protonemura praecox
+ErrorMsg=Coordinate outside known range for Protonemura praecox
 DataFieldName=Species
 DataRecordId=NBNSYS0000022427
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
@@ -29,6 +29,42 @@ NG94
 NH02
 NH03
 NH04
+NH21
+NH22
+NH23
+NH31
+NH32
+NH33
+NH41
+NH42
+NH43
+NH94
+NH95
+NH96
+NJ04
+NJ05
+NJ06
+NJ14
+NJ15
+NJ16
+NJ30
+NJ40
+NJ50
+NO06
+NO07
+NO08
+NO16
+NO17
+NO18
+NO26
+NO27
+NO28
+NO38
+NO39
+NO48
+NO49
+NO58
+NO59
 NX90
 NX91
 NX92
@@ -50,15 +86,26 @@ NY33
 NY40
 NY41
 NY42
+NY50
+NY51
+NY52
+NY60
+NY61
+NY62
 NY81
 NY82
 NY83
 NY91
 NY92
 NY93
+NZ00
 NZ01
 NZ02
 NZ03
+NZ10
+NZ11
+NZ20
+NZ21
 SD08
 SD09
 SD17
@@ -95,6 +142,7 @@ SD82
 SD83
 SD84
 SD85
+SD86
 SD91
 SD92
 SD93
@@ -112,6 +160,7 @@ SE05
 SE06
 SE07
 SE08
+SE09
 SE10
 SE11
 SE12
@@ -121,6 +170,7 @@ SE15
 SE16
 SE17
 SE18
+SE19
 SE20
 SE21
 SE23
@@ -129,6 +179,7 @@ SE25
 SE26
 SE27
 SE28
+SE29
 SE30
 SE36
 SE37

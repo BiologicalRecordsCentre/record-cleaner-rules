@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Nanogona polydesmoides 10km
 Description=Check coordinate against known 10km distribution of Nanogona polydesmoides
-ErrorMsg=Coordinate outside know range for Nanogona polydesmoides
+ErrorMsg=Coordinate outside known range for Nanogona polydesmoides
 DataFieldName=Species
 DataRecordId=NHMSYS0020108477
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

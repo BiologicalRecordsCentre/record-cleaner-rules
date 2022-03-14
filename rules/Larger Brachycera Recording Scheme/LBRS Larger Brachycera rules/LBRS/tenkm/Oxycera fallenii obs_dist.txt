@@ -3,19 +3,15 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Oxycera fallenii 10km
 Description=Check coordinate against known 10km distribution of Oxycera fallenii
-ErrorMsg=Coordinate outside know range for Oxycera fallenii
+ErrorMsg=Coordinate outside known range for Oxycera fallenii
 DataFieldName=Species
 DataRecordId=NBNSYS0000007810
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
 SE58
 SE67
-ST12
-SY88
-TL55
-TM47
 
 

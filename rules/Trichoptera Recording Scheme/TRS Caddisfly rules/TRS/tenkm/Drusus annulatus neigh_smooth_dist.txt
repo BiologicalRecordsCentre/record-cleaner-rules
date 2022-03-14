@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Drusus annulatus 10km
 Description=Check coordinate against known 10km distribution of Drusus annulatus
-ErrorMsg=Coordinate outside know range for Drusus annulatus
+ErrorMsg=Coordinate outside known range for Drusus annulatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008442
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -26,17 +26,26 @@ HY41
 HY42
 HY43
 HY44
+HY52
+HY53
+HY54
+NC10
 NC11
 NC12
 NC13
+NC20
 NC21
 NC22
 NC23
+NC30
 NC31
 NC32
 NC33
+NC60
+NC70
 NC75
 NC76
+NC80
 NC82
 NC83
 NC84
@@ -80,15 +89,27 @@ NH55
 NH63
 NH64
 NH65
+NH68
+NH69
 NH70
 NH71
 NH72
+NH78
+NH79
 NH80
 NH81
 NH82
+NH83
+NH84
+NH88
+NH89
 NH90
 NH91
 NH92
+NH93
+NH94
+NH95
+NH96
 NJ00
 NJ01
 NJ02
@@ -181,6 +202,7 @@ NN04
 NN11
 NN12
 NN13
+NN20
 NN21
 NN22
 NN23
@@ -312,8 +334,24 @@ NO87
 NO88
 NO89
 NO99
+NR62
+NR63
+NR64
+NR72
+NR73
+NR74
+NR82
+NR83
+NR92
+NR93
+NS01
+NS02
+NS03
 NS20
+NS28
+NS29
 NS30
+NS38
 NS39
 NS40
 NS42
@@ -326,7 +364,6 @@ NS51
 NS52
 NS53
 NS54
-NS55
 NS58
 NS59
 NS60
@@ -639,6 +676,9 @@ NZ19
 NZ20
 NZ21
 NZ22
+NZ23
+NZ24
+NZ25
 NZ29
 NZ30
 NZ31
@@ -926,6 +966,7 @@ SJ73
 SJ74
 SJ75
 SJ76
+SJ77
 SJ80
 SJ81
 SJ82
@@ -1328,6 +1369,7 @@ SS63
 SS64
 SS68
 SS69
+SS70
 SS71
 SS72
 SS73
@@ -1335,6 +1377,7 @@ SS74
 SS75
 SS78
 SS79
+SS80
 SS81
 SS82
 SS83

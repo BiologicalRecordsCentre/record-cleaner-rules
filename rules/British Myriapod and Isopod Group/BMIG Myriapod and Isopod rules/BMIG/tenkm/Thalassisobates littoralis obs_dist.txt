@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Thalassisobates littoralis 10km
 Description=Check coordinate against known 10km distribution of Thalassisobates littoralis
-ErrorMsg=Coordinate outside know range for Thalassisobates littoralis
+ErrorMsg=Coordinate outside known range for Thalassisobates littoralis
 DataFieldName=Species
 DataRecordId=NBNSYS0000011374
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

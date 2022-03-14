@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Lithobius (Monotarsobius) curtipes 10km
 Description=Check coordinate against known 10km distribution of Lithobius (Monotarsobius) curtipes
-ErrorMsg=Coordinate outside know range for Lithobius (Monotarsobius) curtipes
+ErrorMsg=Coordinate outside known range for Lithobius (Monotarsobius) curtipes
 DataFieldName=Species
 DataRecordId=NHMSYS0020500682
-LastChanged=20130429
+LastChanged=20180314
 [EndMetadata]
 
 

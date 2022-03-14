@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Odonata Recording Period
+ShortName=Sympetrum flaveolum
+Description=Checks date is within known recording period of Sympetrum flaveolum
+ErrorMsg=Date is outside known recording period of Sympetrum flaveolum
+Tvk=NBNSYS0000005649
+StartDate=
+EndDate=18001231
+LastChanged=20211222
+[EndMetadata]

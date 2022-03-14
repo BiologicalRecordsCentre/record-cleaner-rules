@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Stosatea italica 10km
 Description=Check coordinate against known 10km distribution of Stosatea italica
-ErrorMsg=Coordinate outside know range for Stosatea italica
+ErrorMsg=Coordinate outside known range for Stosatea italica
 DataFieldName=Species
 DataRecordId=NBNSYS0000011362
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

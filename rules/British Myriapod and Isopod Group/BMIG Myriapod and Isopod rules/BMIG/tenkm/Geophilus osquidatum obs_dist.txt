@@ -3,15 +3,17 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Geophilus osquidatum 10km
 Description=Check coordinate against known 10km distribution of Geophilus osquidatum
-ErrorMsg=Coordinate outside know range for Geophilus osquidatum
+ErrorMsg=Coordinate outside known range for Geophilus osquidatum
 DataFieldName=Species
 DataRecordId=NHMSYS0000570570
-LastChanged=20130429
+LastChanged=20180314
 [EndMetadata]
 
 
 [10km_GB]
 NX92
+SJ34
+SJ36
 SJ41
 SN50
 SN69
@@ -63,9 +65,11 @@ SU73
 SV80
 SV90
 SV91
+SW43
 SW53
 SW64
 SW73
+SW83
 SX44
 SX45
 SX57

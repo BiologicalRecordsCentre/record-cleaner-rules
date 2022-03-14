@@ -3,16 +3,16 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Xylophagus cinctus 10km
 Description=Check coordinate against known 10km distribution of Xylophagus cinctus
-ErrorMsg=Coordinate outside know range for Xylophagus cinctus
+ErrorMsg=Coordinate outside known range for Xylophagus cinctus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007847
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-NG96
-NH06
 NH91
+NH92
+NJ01
 
 

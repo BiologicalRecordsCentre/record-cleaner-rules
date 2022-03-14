@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Apatania muliebris 10km
 Description=Check coordinate against known 10km distribution of Apatania muliebris
-ErrorMsg=Coordinate outside know range for Apatania muliebris
+ErrorMsg=Coordinate outside known range for Apatania muliebris
 DataFieldName=Species
 DataRecordId=NBNSYS0000008439
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -42,8 +42,10 @@ SC48
 SC49
 SD09
 SD39
+SD47
 SD48
 SD49
+SD66
 SD77
 SH12
 SH22
@@ -52,18 +54,22 @@ SH34
 SH49
 SH66
 SH67
+SH72
 SH73
 SH76
 SH77
 SH78
+SH83
 SH97
 SJ01
 SJ05
 SJ07
+SJ15
 SJ16
 SJ17
 SJ24
 SJ25
+SJ26
 SJ35
 SK06
 SK59
@@ -95,6 +101,7 @@ SO57
 SO74
 SP00
 SP31
+SP88
 SS09
 SS22
 SS64

@@ -3,18 +3,19 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Oecetis furva 10km
 Description=Check coordinate against known 10km distribution of Oecetis furva
-ErrorMsg=Coordinate outside know range for Oecetis furva
+ErrorMsg=Coordinate outside known range for Oecetis furva
 DataFieldName=Species
 DataRecordId=NBNSYS0000008535
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
 NC12
 NX47
-SE53
+SE71
 SO54
+SP49
 SU57
 SU66
 SU77
@@ -22,6 +23,7 @@ SY88
 SY98
 SZ29
 TF20
+TL07
 TL57
 TL78
 TL88

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Cheumatopsyche lepida 10km
 Description=Check coordinate against known 10km distribution of Cheumatopsyche lepida
-ErrorMsg=Coordinate outside know range for Cheumatopsyche lepida
+ErrorMsg=Coordinate outside known range for Cheumatopsyche lepida
 DataFieldName=Species
 DataRecordId=NBNSYS0000008412
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -53,6 +53,7 @@ NN81
 NN84
 NN85
 NN86
+NN92
 NN93
 NN94
 NN95
@@ -137,15 +138,21 @@ NY70
 NY71
 NY72
 NY73
+NY81
+NY82
+NY83
 NY90
 NY91
 NY92
+NY93
 NZ00
 NZ01
 NZ02
+NZ03
 NZ10
 NZ11
 NZ12
+NZ13
 NZ20
 NZ21
 NZ22
@@ -278,9 +285,27 @@ SK08
 SK16
 SK17
 SK18
+SK20
 SK26
 SK27
 SK28
+SK30
+SK31
+SK40
+SK41
+SK42
+SK50
+SK51
+SK52
+SK60
+SK61
+SK62
+SK70
+SK71
+SK72
+SK80
+SK81
+SK82
 SN43
 SN44
 SN45
@@ -380,18 +405,27 @@ SO89
 SP20
 SP21
 SP22
+SP28
+SP29
 SP30
 SP31
 SP32
 SP33
+SP38
+SP39
 SP40
 SP41
 SP42
 SP43
+SP48
+SP49
 SP50
 SP51
 SP52
 SP53
+SP58
+SP59
+SP69
 SS30
 SS31
 SS32
@@ -442,6 +476,7 @@ SU20
 SU21
 SU22
 SU23
+SU29
 SU30
 SU31
 SU32
@@ -462,6 +497,9 @@ SU55
 SU56
 SU57
 SU59
+SU65
+SU66
+SU67
 SX36
 SX37
 SX38

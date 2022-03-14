@@ -3,24 +3,30 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Hydatophylax infumatus 10km
 Description=Check coordinate against known 10km distribution of Hydatophylax infumatus
-ErrorMsg=Coordinate outside know range for Hydatophylax infumatus
+ErrorMsg=Coordinate outside known range for Hydatophylax infumatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008448
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
 NC80
+NJ05
 NM92
 NN36
 NN50
 NN53
 NO49
+NT70
+NY95
+NY99
 SD74
+SD86
 SE57
 SE89
 SE98
+SH75
 SH85
 SJ45
 SJ57
@@ -41,6 +47,7 @@ SO33
 SO34
 SO35
 SO47
+SO74
 SO77
 SP55
 SP65
@@ -52,7 +59,7 @@ SU83
 SU93
 SX17
 SX27
-TA09
+SY39
 TQ23
 TQ43
 

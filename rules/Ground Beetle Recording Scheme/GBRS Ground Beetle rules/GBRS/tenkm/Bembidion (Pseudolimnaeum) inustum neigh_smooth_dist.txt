@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Bembidion (Pseudolimnaeum) inustum 10km
+Description=Check coordinate against known 10km distribution of Bembidion (Pseudolimnaeum) inustum
+ErrorMsg=Coordinate outside known range for Bembidion (Pseudolimnaeum) inustum
+DataFieldName=Species
+DataRecordId=NHMSYS0001717185
+LastChanged=20180313
+[EndMetadata]
+
+
+[10km_GB]
+SN51
+SN52
+SN53
+SN61
+SN62
+SN63
+SN71
+SN72
+SN73
+SO20
+SO21
+SO30
+SO31
+SO40
+SO41
+ST29
+ST39
+ST49
+
+

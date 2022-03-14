@@ -3,26 +3,14 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Amara (Celia) fusca 10km
 Description=Check coordinate against known 10km distribution of Amara (Celia) fusca
-ErrorMsg=Coordinate outside know range for Amara (Celia) fusca
+ErrorMsg=Coordinate outside known range for Amara (Celia) fusca
 DataFieldName=Species
 DataRecordId=NHMSYS0001716743
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-SN50
-SN60
-SN70
-SN80
-SS58
-SS59
-SS68
-SS69
-SS78
-SS79
-SS88
-SS89
 TL67
 TL68
 TL69
@@ -32,14 +20,5 @@ TL79
 TL87
 TL88
 TL89
-TQ45
-TQ46
-TQ47
-TQ55
-TQ56
-TQ57
-TQ65
-TQ66
-TQ67
 
 

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Brachychaeteuma melanops 10km
 Description=Check coordinate against known 10km distribution of Brachychaeteuma melanops
-ErrorMsg=Coordinate outside know range for Brachychaeteuma melanops
+ErrorMsg=Coordinate outside known range for Brachychaeteuma melanops
 DataFieldName=Species
 DataRecordId=NHMSYS0020108466
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

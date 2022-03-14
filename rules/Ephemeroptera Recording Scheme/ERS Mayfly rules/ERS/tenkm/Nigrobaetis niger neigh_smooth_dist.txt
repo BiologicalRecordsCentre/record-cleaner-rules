@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Nigrobaetis niger 10km
 Description=Check coordinate against known 10km distribution of Nigrobaetis niger
-ErrorMsg=Coordinate outside know range for Nigrobaetis niger
+ErrorMsg=Coordinate outside known range for Nigrobaetis niger
 DataFieldName=Species
 DataRecordId=NBNSYS0100004260
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
@@ -97,11 +97,28 @@ NN78
 NN79
 NN88
 NN89
+NO06
+NO07
+NO08
+NO09
+NO16
+NO17
+NO18
+NO19
+NO26
+NO27
+NO28
+NO29
 NS20
 NS30
+NS37
+NS38
+NS39
 NS40
+NS47
 NS48
 NS49
+NS57
 NS58
 NS59
 NS68
@@ -220,6 +237,9 @@ SJ42
 SJ50
 SJ51
 SJ52
+SJ95
+SJ96
+SJ97
 SK05
 SK06
 SK07
@@ -248,6 +268,7 @@ SK52
 SK53
 SK60
 SK61
+SK62
 SK70
 SK71
 SM90

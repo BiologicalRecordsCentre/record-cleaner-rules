@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Nebria (Boreonebria) nivalis 10km
 Description=Check coordinate against known 10km distribution of Nebria (Boreonebria) nivalis
-ErrorMsg=Coordinate outside know range for Nebria (Boreonebria) nivalis
+ErrorMsg=Coordinate outside known range for Nebria (Boreonebria) nivalis
 DataFieldName=Species
 DataRecordId=NHMSYS0001719101
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
@@ -42,18 +42,9 @@ NC46
 NC53
 NC54
 NC55
-NC56
-NG13
-NG14
-NG15
-NG23
-NG24
-NG25
 NG31
 NG32
 NG33
-NG34
-NG35
 NG41
 NG42
 NG43
@@ -79,34 +70,22 @@ NG96
 NG97
 NG98
 NG99
-NH01
-NH02
-NH03
 NH04
 NH05
 NH06
 NH07
 NH08
 NH09
-NH11
-NH12
-NH13
-NH14
 NH16
 NH17
 NH18
 NH19
-NH21
-NH22
-NH23
-NH24
 NH26
 NH27
 NH28
 NH36
 NH37
 NH38
-NH70
 NH80
 NH81
 NH90
@@ -146,8 +125,6 @@ NN56
 NN57
 NN58
 NN59
-NN78
-NN79
 NN88
 NN89
 NN98

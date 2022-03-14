@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Allogamus auricollis 10km
 Description=Check coordinate against known 10km distribution of Allogamus auricollis
-ErrorMsg=Coordinate outside know range for Allogamus auricollis
+ErrorMsg=Coordinate outside known range for Allogamus auricollis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008444
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -133,6 +133,7 @@ NN68
 NN69
 NN70
 NN71
+NN72
 NN73
 NN74
 NN75
@@ -352,12 +353,16 @@ NY60
 NY61
 NY62
 NY63
+NY66
+NY67
 NY68
 NY69
 NY70
 NY71
 NY72
 NY73
+NY76
+NY77
 NY78
 NY79
 NY80
@@ -367,6 +372,7 @@ NY83
 NY84
 NY85
 NY86
+NY87
 NY88
 NY89
 NY90
@@ -395,15 +401,21 @@ NZ21
 SD45
 SD46
 SD47
+SD53
+SD54
 SD55
 SD56
 SD57
 SD58
+SD63
+SD64
 SD65
 SD66
 SD67
 SD68
 SD69
+SD73
+SD74
 SD75
 SD76
 SD77

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Craspedosoma rawlinsii 10km
 Description=Check coordinate against known 10km distribution of Craspedosoma rawlinsii
-ErrorMsg=Coordinate outside know range for Craspedosoma rawlinsii
+ErrorMsg=Coordinate outside known range for Craspedosoma rawlinsii
 DataFieldName=Species
 DataRecordId=NHMSYS0020108469
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

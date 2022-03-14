@@ -3,14 +3,26 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Potamanthus luteus 10km
 Description=Check coordinate against known 10km distribution of Potamanthus luteus
-ErrorMsg=Coordinate outside know range for Potamanthus luteus
+ErrorMsg=Coordinate outside known range for Potamanthus luteus
 DataFieldName=Species
 DataRecordId=NBNSYS0000010896
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
 [10km_GB]
+SJ30
+SJ31
+SJ32
+SJ40
+SJ41
+SJ42
+SJ50
+SJ51
+SJ52
+SJ60
+SJ70
+SJ80
 SN71
 SN72
 SN73
@@ -77,15 +89,30 @@ SO63
 SO64
 SO65
 SO66
+SO67
+SO68
+SO69
 SO71
 SO72
 SO73
 SO74
 SO75
 SO76
+SO77
+SO78
+SO79
 SO84
 SO85
 SO86
+SO87
+SO88
+SO89
+SO97
+SO98
+SO99
+SP07
+SP08
+SP09
 SP50
 SP60
 SP70

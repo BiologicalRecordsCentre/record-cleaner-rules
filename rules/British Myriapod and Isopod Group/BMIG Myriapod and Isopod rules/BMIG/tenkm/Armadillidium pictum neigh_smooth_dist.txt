@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Armadillidium pictum 10km
 Description=Check coordinate against known 10km distribution of Armadillidium pictum
-ErrorMsg=Coordinate outside know range for Armadillidium pictum
+ErrorMsg=Coordinate outside known range for Armadillidium pictum
 DataFieldName=Species
 DataRecordId=NBNSYS0000008570
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

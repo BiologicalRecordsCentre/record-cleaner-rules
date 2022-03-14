@@ -3,17 +3,26 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Siphlonurus armatus 10km
 Description=Check coordinate against known 10km distribution of Siphlonurus armatus
-ErrorMsg=Coordinate outside know range for Siphlonurus armatus
+ErrorMsg=Coordinate outside known range for Siphlonurus armatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000010861
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
 [10km_GB]
 SD90
 SE00
+SE04
+SE05
+SE06
 SE10
+SE14
+SE15
+SE16
+SE24
+SE25
+SE26
 SJ98
 SJ99
 SK08

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Odonata Recording Period
+ShortName=Sympetrum vulgatum
+Description=Checks date is within known recording period of Sympetrum vulgatum
+ErrorMsg=Date is outside known recording period of Sympetrum vulgatum
+Tvk=NBNSYS0000005644
+StartDate=
+EndDate=18001231
+LastChanged=20211222
+[EndMetadata]

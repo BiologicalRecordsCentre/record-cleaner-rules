@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Leptocerus lusitanicus 10km
 Description=Check coordinate against known 10km distribution of Leptocerus lusitanicus
-ErrorMsg=Coordinate outside know range for Leptocerus lusitanicus
+ErrorMsg=Coordinate outside known range for Leptocerus lusitanicus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008523
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -25,10 +25,8 @@ SP95
 SP96
 SP97
 SP98
-ST50
-ST60
-ST70
 SU39
+SU48
 SU49
 SU56
 SU57
@@ -51,15 +49,11 @@ SU96
 SU97
 SU98
 SU99
-SY58
-SY59
-SY68
-SY69
-SY78
-SY79
 TF00
 TF10
 TF20
+TL00
+TL01
 TL03
 TL04
 TL05
@@ -67,6 +61,8 @@ TL06
 TL07
 TL08
 TL09
+TL10
+TL11
 TL13
 TL14
 TL15
@@ -74,6 +70,8 @@ TL16
 TL17
 TL18
 TL19
+TL20
+TL21
 TL24
 TL25
 TL26
@@ -96,5 +94,7 @@ TQ15
 TQ16
 TQ17
 TQ18
+TQ19
+TQ29
 
 

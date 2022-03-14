@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Scenopinus niger 10km
 Description=Check coordinate against known 10km distribution of Scenopinus niger
-ErrorMsg=Coordinate outside know range for Scenopinus niger
+ErrorMsg=Coordinate outside known range for Scenopinus niger
 DataFieldName=Species
 DataRecordId=NBNSYS0000007937
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
@@ -14,10 +14,12 @@ LastChanged=20130501
 SJ20
 SJ34
 SN62
+SO83
+SO93
+SO94
 SP80
-SU97
+SU30
 TG30
-TL27
 TL45
 TL57
 TL92

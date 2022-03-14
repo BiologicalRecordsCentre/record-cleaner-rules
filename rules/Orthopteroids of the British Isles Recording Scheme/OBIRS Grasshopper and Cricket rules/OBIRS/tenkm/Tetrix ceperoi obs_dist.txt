@@ -3,30 +3,25 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Tetrix ceperoi 10km
 Description=Check coordinate against known 10km distribution of Tetrix ceperoi
-ErrorMsg=Coordinate outside know range for Tetrix ceperoi
+ErrorMsg=Coordinate outside known range for Tetrix ceperoi
 DataFieldName=Species
 DataRecordId=NBNSYS0000006831
-LastChanged=20130430
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
 SN20
 SN30
-SS20
-SS21
 SS43
-SS48
 SS49
 SS58
 SS78
-SS79
 SS87
-SS88
-ST18
-ST81
+SU40
 SU80
 SW32
+SW42
 SW53
 SW54
 SW61
@@ -34,7 +29,6 @@ SW62
 SW64
 SW71
 SW75
-SW76
 SW81
 SW83
 SW87
@@ -47,12 +41,8 @@ SY39
 SY49
 SY68
 SY78
-SY87
-SY88
-SY89
 SY97
 SY98
-SZ08
 SZ29
 SZ38
 SZ39
@@ -60,7 +50,6 @@ SZ47
 SZ48
 SZ49
 SZ57
-SZ58
 TF20
 TL29
 TQ35

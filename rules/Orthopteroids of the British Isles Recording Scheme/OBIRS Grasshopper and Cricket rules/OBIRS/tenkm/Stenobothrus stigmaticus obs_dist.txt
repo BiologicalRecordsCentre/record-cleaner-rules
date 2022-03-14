@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Stenobothrus stigmaticus 10km
 Description=Check coordinate against known 10km distribution of Stenobothrus stigmaticus
-ErrorMsg=Coordinate outside know range for Stenobothrus stigmaticus
+ErrorMsg=Coordinate outside known range for Stenobothrus stigmaticus
 DataFieldName=Species
 DataRecordId=NBNSYS0000006836
-LastChanged=20130430
+LastChanged=20180313
 [EndMetadata]
 
 

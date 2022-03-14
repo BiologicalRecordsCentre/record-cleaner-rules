@@ -3,16 +3,14 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Nephus bisignatus 10km
 Description=Check coordinate against known 10km distribution of Nephus bisignatus
-ErrorMsg=Coordinate outside know range for Nephus bisignatus
+ErrorMsg=Coordinate outside known range for Nephus bisignatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008304
-LastChanged=20130430
+LastChanged=20180314
 [EndMetadata]
 
 
 [10km_GB]
-TQ60
 TQ91
-TR35
 
 

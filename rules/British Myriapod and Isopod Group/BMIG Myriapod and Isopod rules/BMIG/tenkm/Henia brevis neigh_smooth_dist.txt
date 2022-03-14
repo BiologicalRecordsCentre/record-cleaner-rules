@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Henia brevis 10km
 Description=Check coordinate against known 10km distribution of Henia brevis
-ErrorMsg=Coordinate outside know range for Henia brevis
+ErrorMsg=Coordinate outside known range for Henia brevis
 DataFieldName=Species
 DataRecordId=NBNSYS0000011401
-LastChanged=20130429
+LastChanged=20180314
 [EndMetadata]
 
 
@@ -145,6 +145,14 @@ SV80
 SV81
 SV90
 SV91
+SW72
+SW73
+SW74
+SW82
+SW83
+SW84
+SW93
+SW94
 SX25
 SX26
 SX35
@@ -179,6 +187,8 @@ TG31
 TM19
 TM29
 TM39
+TQ04
+TQ05
 TQ06
 TQ07
 TQ08

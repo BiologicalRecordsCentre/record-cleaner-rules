@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Tinodes dives 10km
 Description=Check coordinate against known 10km distribution of Tinodes dives
-ErrorMsg=Coordinate outside know range for Tinodes dives
+ErrorMsg=Coordinate outside known range for Tinodes dives
 DataFieldName=Species
 DataRecordId=NBNSYS0000008390
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -14,6 +14,7 @@ LastChanged=20130502
 NY63
 NY70
 SD48
+SD77
 SD86
 SD87
 SD96
@@ -21,15 +22,13 @@ SD97
 SD98
 SE27
 SE58
+SE68
 SE98
-SH67
 SJ17
 SJ91
 SK14
 SO24
 SP02
 ST64
-SU53
-SU89
 
 

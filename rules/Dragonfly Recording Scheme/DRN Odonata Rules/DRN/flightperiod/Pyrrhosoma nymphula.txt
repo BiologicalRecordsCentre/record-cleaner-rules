@@ -6,9 +6,7 @@ Description=Checks date is within known flight period of Pyrrhosoma nymphula
 ErrorMsg=Date is outside known flight period of Pyrrhosoma nymphula
 Tvk=NBNSYS0000005599
 DataFieldName=
-StartDate=0421
-EndDate=0901
-LastChanged=20120510
+StartDate=0416
+EndDate=0728
+LastChanged=20211222
 [EndMetadata]
- 
-         

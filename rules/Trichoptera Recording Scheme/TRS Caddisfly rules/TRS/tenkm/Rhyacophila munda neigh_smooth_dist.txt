@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Rhyacophila munda 10km
 Description=Check coordinate against known 10km distribution of Rhyacophila munda
-ErrorMsg=Coordinate outside know range for Rhyacophila munda
+ErrorMsg=Coordinate outside known range for Rhyacophila munda
 DataFieldName=Species
 DataRecordId=NBNSYS0000008340
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -117,6 +117,7 @@ NO21
 NO23
 NO24
 NO25
+NO26
 NO27
 NO28
 NO29
@@ -243,21 +244,37 @@ NY52
 NY60
 NY61
 NY62
+NY71
+NY72
+NY73
 NY81
 NY82
 NY83
+NY90
 NY91
 NY92
 NY93
+NZ00
 NZ01
 NZ02
 NZ03
+NZ10
+NZ11
+NZ12
+NZ13
 NZ19
 NZ29
 NZ39
+SD56
+SD57
+SD58
+SD66
+SD67
+SD68
 SD75
 SD76
 SD77
+SD78
 SD85
 SD86
 SD87
@@ -321,6 +338,8 @@ SH65
 SH66
 SH67
 SH68
+SH70
+SH71
 SH72
 SH73
 SH74

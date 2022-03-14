@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Haematopota grandis 10km
 Description=Check coordinate against known 10km distribution of Haematopota grandis
-ErrorMsg=Coordinate outside know range for Haematopota grandis
+ErrorMsg=Coordinate outside known range for Haematopota grandis
 DataFieldName=Species
 DataRecordId=NBNSYS0000007873
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
@@ -20,7 +20,8 @@ SS87
 ST58
 ST59
 SU31
-SU40
+SY88
+SY98
 SZ89
 TM13
 TM22
@@ -28,6 +29,7 @@ TM23
 TM34
 TM35
 TM45
+TM46
 TM47
 TQ78
 TQ88

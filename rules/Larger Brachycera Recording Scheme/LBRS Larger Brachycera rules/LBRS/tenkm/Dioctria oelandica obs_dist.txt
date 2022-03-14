@@ -3,17 +3,15 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Dioctria oelandica 10km
 Description=Check coordinate against known 10km distribution of Dioctria oelandica
-ErrorMsg=Coordinate outside know range for Dioctria oelandica
+ErrorMsg=Coordinate outside known range for Dioctria oelandica
 DataFieldName=Species
 DataRecordId=NBNSYS0000007918
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
 NN50
-NN53
-NN96
 NY21
 NY22
 NY30
@@ -23,40 +21,32 @@ NY52
 SD38
 SD47
 SD48
-SH67
+SH53
 SH72
-SH77
 SJ50
+SJ51
+SK41
 SN03
 SN10
 SN13
+SN69
 SN74
 SN83
 SO38
 SO60
 SO61
-SO77
+SO74
 SP37
-SS21
-SS22
-SS32
-SS61
-SS74
-ST13
+SS88
 SU30
-SU51
-SU82
-SU83
 SU84
 SU94
-SY79
 SY89
 SZ48
 TF71
 TL79
+TL87
 TL88
-TL99
-TQ01
 TQ05
 TQ08
 TQ67

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Ephemera lineata 10km
 Description=Check coordinate against known 10km distribution of Ephemera lineata
-ErrorMsg=Coordinate outside know range for Ephemera lineata
+ErrorMsg=Coordinate outside known range for Ephemera lineata
 DataFieldName=Species
 DataRecordId=NBNSYS0000010898
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 

@@ -3,32 +3,33 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Ecnomus tenellus 10km
 Description=Check coordinate against known 10km distribution of Ecnomus tenellus
-ErrorMsg=Coordinate outside know range for Ecnomus tenellus
+ErrorMsg=Coordinate outside known range for Ecnomus tenellus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008397
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
-NO55
 SE50
 SE54
+SE65
 SE71
+SE87
 SH37
-SH46
-SH47
-SH56
 SJ43
 SJ46
+SJ47
 SJ53
 SJ54
 SJ65
 SJ69
 SJ90
+SK32
 SK52
 SK53
 SK64
+SK71
 SK85
 SK87
 SK97
@@ -39,6 +40,7 @@ SO73
 SP49
 SP69
 SP84
+SP92
 SR99
 SS50
 ST25
@@ -50,6 +52,7 @@ SU41
 SU59
 SU65
 SU66
+SU76
 SU77
 SU85
 SU86
@@ -69,7 +72,9 @@ TG32
 TG42
 TL07
 TL13
+TL16
 TL29
+TL37
 TL48
 TL57
 TM39

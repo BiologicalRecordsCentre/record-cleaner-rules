@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Centroptilum luteolum 10km
 Description=Check coordinate against known 10km distribution of Centroptilum luteolum
-ErrorMsg=Coordinate outside know range for Centroptilum luteolum
+ErrorMsg=Coordinate outside known range for Centroptilum luteolum
 DataFieldName=Species
 DataRecordId=NHMSYS0000066963
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
@@ -91,6 +91,15 @@ ND33
 ND34
 ND35
 ND36
+NG33
+NG34
+NG35
+NG43
+NG44
+NG45
+NG53
+NG54
+NG55
 NG80
 NG83
 NG84
@@ -134,16 +143,24 @@ NH81
 NH89
 NH90
 NH91
+NH92
 NJ00
 NJ01
+NJ02
 NJ05
 NJ06
+NJ10
+NJ11
+NJ12
 NJ15
 NJ16
 NJ17
 NJ25
 NJ26
 NJ27
+NJ30
+NJ40
+NJ50
 NM75
 NM76
 NM77
@@ -219,6 +236,12 @@ NO15
 NO23
 NO24
 NO25
+NO38
+NO39
+NO48
+NO49
+NO58
+NO59
 NS37
 NS38
 NS39
@@ -473,6 +496,7 @@ SD69
 SD75
 SD76
 SD77
+SD78
 SD79
 SD85
 SD86
@@ -912,9 +936,19 @@ SP96
 SP97
 SP98
 SP99
+SS30
+SS31
+SS40
+SS41
+SS50
+SS51
+SS60
+SS61
 SS62
 SS63
 SS64
+SS70
+SS71
 SS72
 SS73
 SS74
@@ -932,6 +966,9 @@ ST00
 ST01
 ST02
 ST03
+ST06
+ST07
+ST08
 ST10
 ST11
 ST16
@@ -1104,9 +1141,16 @@ SW71
 SW72
 SW81
 SW82
+SX38
+SX39
+SX48
+SX49
+SX58
+SX59
 SX65
 SX66
 SX67
+SX69
 SX75
 SX76
 SX77
@@ -1502,6 +1546,7 @@ TR27
 TR34
 TR35
 TR36
+TV49
 TV59
 TV69
 TV79

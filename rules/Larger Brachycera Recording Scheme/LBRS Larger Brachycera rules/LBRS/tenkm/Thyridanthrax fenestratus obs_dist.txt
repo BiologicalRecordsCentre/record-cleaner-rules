@@ -3,18 +3,18 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Thyridanthrax fenestratus 10km
 Description=Check coordinate against known 10km distribution of Thyridanthrax fenestratus
-ErrorMsg=Coordinate outside know range for Thyridanthrax fenestratus
+ErrorMsg=Coordinate outside known range for Thyridanthrax fenestratus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007945
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-SP11
 SU00
 SU10
 SU30
+SU72
 SU73
 SU82
 SU83
@@ -36,5 +36,7 @@ SY99
 SZ07
 SZ08
 SZ09
+SZ19
+TQ05
 
 

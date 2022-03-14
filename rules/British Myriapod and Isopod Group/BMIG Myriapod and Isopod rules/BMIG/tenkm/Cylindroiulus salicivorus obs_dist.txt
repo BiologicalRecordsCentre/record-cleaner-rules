@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Cylindroiulus salicivorus 10km
 Description=Check coordinate against known 10km distribution of Cylindroiulus salicivorus
-ErrorMsg=Coordinate outside know range for Cylindroiulus salicivorus
+ErrorMsg=Coordinate outside known range for Cylindroiulus salicivorus
 DataFieldName=Species
 DataRecordId=NHMSYS0000356246
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

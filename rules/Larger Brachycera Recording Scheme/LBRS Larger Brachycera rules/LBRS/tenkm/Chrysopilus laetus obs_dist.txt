@@ -3,21 +3,26 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Chrysopilus laetus 10km
 Description=Check coordinate against known 10km distribution of Chrysopilus laetus
-ErrorMsg=Coordinate outside know range for Chrysopilus laetus
+ErrorMsg=Coordinate outside known range for Chrysopilus laetus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007852
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-SS91
+SP80
+SU78
 SU96
 SU97
-TG11
+SW73
 TL56
 TQ16
 TQ17
+TQ24
+TQ38
+TQ39
+TQ49
 TQ66
 
 

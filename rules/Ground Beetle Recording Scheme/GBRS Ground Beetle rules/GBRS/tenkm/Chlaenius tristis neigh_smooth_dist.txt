@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Chlaenius tristis 10km
+Description=Check coordinate against known 10km distribution of Chlaenius tristis
+ErrorMsg=Coordinate outside known range for Chlaenius tristis
+DataFieldName=Species
+DataRecordId=NBNSYS0000007453
+LastChanged=20180313
+[EndMetadata]
+
+
+[10km_GB]
+SH22
+SH23
+SH24
+SH32
+SH33
+SH34
+SH43
+SH44
+
+

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Caenis robusta 10km
 Description=Check coordinate against known 10km distribution of Caenis robusta
-ErrorMsg=Coordinate outside know range for Caenis robusta
+ErrorMsg=Coordinate outside known range for Caenis robusta
 DataFieldName=Species
 DataRecordId=NBNSYS0000010905
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
@@ -123,6 +123,15 @@ NY56
 NY64
 NY65
 NY66
+SE17
+SE18
+SE19
+SE27
+SE28
+SE29
+SE37
+SE38
+SE39
 SE44
 SE45
 SE46
@@ -268,18 +277,21 @@ SS88
 SS89
 SS98
 SS99
+ST22
 ST23
 ST24
 ST25
 ST27
 ST28
 ST29
+ST32
 ST33
 ST34
 ST35
 ST37
 ST38
 ST39
+ST42
 ST43
 ST44
 ST45

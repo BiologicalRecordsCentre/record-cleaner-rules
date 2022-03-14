@@ -3,31 +3,33 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Stratiomys longicornis 10km
 Description=Check coordinate against known 10km distribution of Stratiomys longicornis
-ErrorMsg=Coordinate outside know range for Stratiomys longicornis
+ErrorMsg=Coordinate outside known range for Stratiomys longicornis
 DataFieldName=Species
 DataRecordId=NBNSYS0000007841
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
+SP96
 SU40
-SU60
 SU70
-SZ39
+SZ79
 SZ89
-TF52
+TL14
+TL31
+TL56
+TL89
 TL90
 TL91
 TM00
 TM11
 TM12
-TM23
-TM33
 TM34
 TM45
+TM46
 TM47
-TQ48
+TQ47
 TQ57
 TQ58
 TQ77
@@ -37,6 +39,7 @@ TQ96
 TQ99
 TR01
 TR02
+TR06
 TR09
 
 

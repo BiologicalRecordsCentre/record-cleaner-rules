@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Porotachys bisulcatus 10km
 Description=Check coordinate against known 10km distribution of Porotachys bisulcatus
-ErrorMsg=Coordinate outside know range for Porotachys bisulcatus
+ErrorMsg=Coordinate outside known range for Porotachys bisulcatus
 DataFieldName=Species
 DataRecordId=NHMSYS0001719676
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 

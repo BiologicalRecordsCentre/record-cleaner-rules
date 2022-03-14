@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Julus scandinavius 10km
 Description=Check coordinate against known 10km distribution of Julus scandinavius
-ErrorMsg=Coordinate outside know range for Julus scandinavius
+ErrorMsg=Coordinate outside known range for Julus scandinavius
 DataFieldName=Species
 DataRecordId=NBNSYS0000011381
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

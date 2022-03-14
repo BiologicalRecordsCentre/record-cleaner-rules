@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Perigona nigriceps 10km
 Description=Check coordinate against known 10km distribution of Perigona nigriceps
-ErrorMsg=Coordinate outside know range for Perigona nigriceps
+ErrorMsg=Coordinate outside known range for Perigona nigriceps
 DataFieldName=Species
 DataRecordId=NBNSYS0000007342
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
@@ -49,12 +49,6 @@ SH98
 SJ06
 SJ07
 SJ08
-SN00
-SN01
-SN10
-SN11
-SN20
-SN21
 SO83
 SO84
 SO85
@@ -92,8 +86,6 @@ SP50
 SP55
 SP56
 SP57
-SS09
-SS19
 SS31
 SS32
 SS41
@@ -102,6 +94,15 @@ SS43
 SS51
 SS52
 SS53
+ST11
+ST12
+ST13
+ST21
+ST22
+ST23
+ST31
+ST32
+ST33
 ST90
 ST91
 ST92
@@ -111,10 +112,6 @@ SU02
 SU10
 SU11
 SU12
-SU20
-SU21
-SU30
-SU31
 SU38
 SU39
 SU48
@@ -135,9 +132,6 @@ SU96
 SU97
 SU98
 SU99
-SZ19
-SZ29
-SZ39
 TF80
 TF90
 TG00
@@ -147,12 +141,21 @@ TG30
 TG31
 TG40
 TG41
+TL46
+TL47
+TL48
 TL51
 TL52
 TL53
+TL56
+TL57
+TL58
 TL61
 TL62
 TL63
+TL66
+TL67
+TL68
 TL71
 TL72
 TL73
@@ -176,13 +179,11 @@ TQ15
 TQ16
 TQ17
 TQ18
-TQ23
 TQ24
 TQ25
 TQ26
 TQ27
 TQ28
-TQ33
 TQ34
 TQ35
 TQ36
@@ -191,20 +192,20 @@ TQ38
 TQ40
 TQ41
 TQ42
-TQ43
-TQ44
-TQ45
-TQ46
-TQ47
-TQ48
 TQ50
 TQ51
 TQ52
-TQ56
-TQ57
-TQ58
 TQ60
 TQ61
 TQ62
+TQ84
+TQ85
+TQ86
+TQ94
+TQ95
+TQ96
+TR04
+TR05
+TR06
 
 

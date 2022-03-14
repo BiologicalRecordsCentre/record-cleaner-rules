@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Tachypodoiulus niger 10km
 Description=Check coordinate against known 10km distribution of Tachypodoiulus niger
-ErrorMsg=Coordinate outside know range for Tachypodoiulus niger
+ErrorMsg=Coordinate outside known range for Tachypodoiulus niger
 DataFieldName=Species
 DataRecordId=NHMSYS0020108490
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

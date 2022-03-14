@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Proasellus meridianus 10km
 Description=Check coordinate against known 10km distribution of Proasellus meridianus
-ErrorMsg=Coordinate outside know range for Proasellus meridianus
+ErrorMsg=Coordinate outside known range for Proasellus meridianus
 DataFieldName=Species
 DataRecordId=NBNSYS0000186055
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

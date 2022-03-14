@@ -3,20 +3,28 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Paraleptophlebia cincta 10km
 Description=Check coordinate against known 10km distribution of Paraleptophlebia cincta
-ErrorMsg=Coordinate outside know range for Paraleptophlebia cincta
+ErrorMsg=Coordinate outside known range for Paraleptophlebia cincta
 DataFieldName=Species
 DataRecordId=NBNSYS0000010891
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
 [10km_GB]
+NC95
+NC96
 ND02
 ND03
 ND04
+ND05
+ND06
+ND07
 ND12
 ND13
 ND14
+ND15
+ND16
+ND17
 ND23
 ND24
 NS51
@@ -36,12 +44,18 @@ NT80
 NT81
 NT90
 NU00
+NX25
+NX26
 NX27
 NX28
 NX29
+NX35
+NX36
 NX37
 NX38
 NX39
+NX45
+NX46
 NX47
 NX48
 NX49
@@ -85,6 +99,9 @@ SD59
 SD67
 SD68
 SD69
+SD87
+SD88
+SD89
 SD91
 SD92
 SD93
@@ -114,8 +131,26 @@ SE20
 SE21
 SE30
 SE31
+SE65
+SE66
+SE67
+SE75
+SE76
+SE77
+SE85
+SE86
+SE87
+SK15
+SK16
+SK17
 SK19
+SK25
+SK26
+SK27
 SK29
+SK35
+SK36
+SK37
 SK39
 SN71
 SN72

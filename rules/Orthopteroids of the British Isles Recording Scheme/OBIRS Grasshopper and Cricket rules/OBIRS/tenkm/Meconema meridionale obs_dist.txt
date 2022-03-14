@@ -3,18 +3,22 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Meconema meridionale 10km
 Description=Check coordinate against known 10km distribution of Meconema meridionale
-ErrorMsg=Coordinate outside know range for Meconema meridionale
+ErrorMsg=Coordinate outside known range for Meconema meridionale
 DataFieldName=Species
 DataRecordId=NHMSYS0020977729
-LastChanged=20130430
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
 SK20
+SK41
 SK54
+SK90
+ST17
 ST34
 ST57
+SU68
 SU85
 SU87
 SU97
@@ -23,8 +27,11 @@ SY78
 SZ19
 TA03
 TL22
+TL30
 TL45
 TM02
+TQ06
+TQ13
 TQ16
 TQ17
 TQ24
@@ -35,11 +42,16 @@ TQ28
 TQ36
 TQ37
 TQ38
+TQ39
+TQ44
 TQ48
+TQ50
+TQ57
 TQ60
 TQ67
 TQ78
 TQ79
+TQ81
 TQ83
 TQ84
 TR01

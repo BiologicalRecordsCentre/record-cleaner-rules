@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Ithytrichia lamellaris 10km
 Description=Check coordinate against known 10km distribution of Ithytrichia lamellaris
-ErrorMsg=Coordinate outside know range for Ithytrichia lamellaris
+ErrorMsg=Coordinate outside known range for Ithytrichia lamellaris
 DataFieldName=Species
 DataRecordId=NBNSYS0000008376
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -23,6 +23,7 @@ NT95
 NY00
 NY01
 NY12
+NY30
 NY45
 NY52
 NY53
@@ -35,6 +36,8 @@ SD97
 SE04
 SE05
 SE06
+SE27
+SE64
 SE98
 SH61
 SJ41
@@ -54,6 +57,7 @@ SN24
 SN54
 SN65
 SO37
+SO51
 SO54
 SP00
 SP11
@@ -62,6 +66,7 @@ SP30
 SP31
 SP40
 SP41
+SP49
 SP54
 SP65
 SP88

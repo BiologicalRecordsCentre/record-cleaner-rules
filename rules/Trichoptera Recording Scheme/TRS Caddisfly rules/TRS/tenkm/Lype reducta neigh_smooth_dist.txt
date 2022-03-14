@@ -3,14 +3,20 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Lype reducta 10km
 Description=Check coordinate against known 10km distribution of Lype reducta
-ErrorMsg=Coordinate outside know range for Lype reducta
+ErrorMsg=Coordinate outside known range for Lype reducta
 DataFieldName=Species
 DataRecordId=NBNSYS0000008386
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
+NH94
+NH95
+NH96
+NJ04
+NJ05
+NJ06
 NJ13
 NJ14
 NJ15
@@ -363,6 +369,15 @@ SH38
 SH46
 SH47
 SH48
+SH66
+SH67
+SH68
+SH76
+SH77
+SH78
+SH86
+SH87
+SH88
 SH94
 SH95
 SH96
@@ -450,6 +465,7 @@ SK26
 SK27
 SK28
 SK29
+SK30
 SK31
 SK32
 SK33
@@ -711,15 +727,19 @@ ST00
 ST01
 ST02
 ST03
+ST04
 ST09
 ST10
 ST11
 ST12
 ST13
+ST14
 ST19
 ST20
 ST21
 ST22
+ST23
+ST24
 ST30
 ST31
 ST32
@@ -903,6 +923,10 @@ SX97
 SX98
 SY07
 SY08
+SY19
+SY29
+SY39
+SY49
 SY77
 SY78
 SY79

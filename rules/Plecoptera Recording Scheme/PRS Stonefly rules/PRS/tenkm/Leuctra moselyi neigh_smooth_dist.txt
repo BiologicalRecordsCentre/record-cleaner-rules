@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Leuctra moselyi 10km
 Description=Check coordinate against known 10km distribution of Leuctra moselyi
-ErrorMsg=Coordinate outside know range for Leuctra moselyi
+ErrorMsg=Coordinate outside known range for Leuctra moselyi
 DataFieldName=Species
 DataRecordId=NBNSYS0000022432
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
@@ -24,9 +24,21 @@ NH07
 NH15
 NH16
 NH17
+NH90
+NH91
+NH92
+NJ00
+NJ01
+NJ02
+NJ10
+NJ11
+NJ12
 NM19
 NM29
 NM39
+NN20
+NN30
+NN40
 NN84
 NN85
 NN86
@@ -36,6 +48,12 @@ NN96
 NO04
 NO05
 NO06
+NS28
+NS29
+NS38
+NS39
+NS48
+NS49
 NT42
 NT43
 NT44
@@ -87,12 +105,18 @@ NY56
 NY64
 NY65
 NY66
+NY80
+NY81
 NY86
 NY87
 NY88
+NY90
+NY91
 NY96
 NY97
 NY98
+NZ00
+NZ01
 NZ06
 NZ07
 NZ08
@@ -126,6 +150,7 @@ SD84
 SD85
 SD86
 SD87
+SD89
 SD91
 SD92
 SD93
@@ -133,6 +158,7 @@ SD94
 SD95
 SD96
 SD97
+SD99
 SE00
 SE01
 SE02
@@ -201,6 +227,9 @@ SH76
 SH80
 SH81
 SH82
+SH84
+SH85
+SH86
 SH90
 SH91
 SH92
@@ -242,6 +271,7 @@ SJ95
 SJ96
 SJ97
 SJ98
+SJ99
 SK04
 SK05
 SK06
