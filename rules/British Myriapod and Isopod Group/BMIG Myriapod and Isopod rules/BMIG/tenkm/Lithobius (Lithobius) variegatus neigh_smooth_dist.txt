@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Lithobius (Lithobius) variegatus 10km
 Description=Check coordinate against known 10km distribution of Lithobius (Lithobius) variegatus
-ErrorMsg=Coordinate outside know range for Lithobius (Lithobius) variegatus
+ErrorMsg=Coordinate outside known range for Lithobius (Lithobius) variegatus
 DataFieldName=Species
 DataRecordId=NHMSYS0020500679
-LastChanged=20130429
+LastChanged=20180314
 [EndMetadata]
 
 
@@ -313,6 +313,7 @@ NU11
 NU12
 NU13
 NU14
+NU20
 NU22
 NU23
 NW95
@@ -361,6 +362,9 @@ NY21
 NY22
 NY23
 NY24
+NY25
+NY26
+NY27
 NY30
 NY31
 NY32
@@ -417,6 +421,7 @@ NY84
 NY85
 NY86
 NY87
+NY88
 NY89
 NY90
 NY91
@@ -426,6 +431,7 @@ NY94
 NY95
 NY96
 NY97
+NY98
 NY99
 NZ00
 NZ01
@@ -444,6 +450,7 @@ NZ14
 NZ15
 NZ16
 NZ17
+NZ18
 NZ19
 NZ20
 NZ21
@@ -452,6 +459,10 @@ NZ24
 NZ25
 NZ26
 NZ27
+NZ28
+NZ29
+NZ38
+NZ39
 SC16
 SC17
 SC26
@@ -600,7 +611,6 @@ SE61
 SE67
 SE68
 SE69
-SE70
 SE74
 SE75
 SE76
@@ -675,6 +685,8 @@ SH93
 SH94
 SH95
 SH96
+SH97
+SH98
 SJ00
 SJ01
 SJ02
@@ -682,6 +694,7 @@ SJ03
 SJ05
 SJ06
 SJ07
+SJ08
 SJ10
 SJ11
 SJ12
@@ -690,6 +703,7 @@ SJ15
 SJ16
 SJ17
 SJ18
+SJ19
 SJ20
 SJ21
 SJ22
@@ -699,6 +713,7 @@ SJ25
 SJ26
 SJ27
 SJ28
+SJ29
 SJ30
 SJ31
 SJ32
@@ -842,8 +857,6 @@ SK72
 SK75
 SK76
 SK77
-SK78
-SK79
 SK80
 SK81
 SK82
@@ -1592,6 +1605,7 @@ TL01
 TL02
 TL03
 TL04
+TL05
 TL06
 TL07
 TL08
@@ -1601,6 +1615,7 @@ TL11
 TL12
 TL13
 TL14
+TL15
 TL16
 TL17
 TL18

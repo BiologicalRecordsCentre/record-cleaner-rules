@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Cryptops hortensis 10km
 Description=Check coordinate against known 10km distribution of Cryptops hortensis
-ErrorMsg=Coordinate outside know range for Cryptops hortensis
+ErrorMsg=Coordinate outside known range for Cryptops hortensis
 DataFieldName=Species
 DataRecordId=NBNSYS0000011399
-LastChanged=20130429
+LastChanged=20180314
 [EndMetadata]
 
 
@@ -145,17 +145,15 @@ NY20
 NY21
 NY30
 NY31
-NY34
-NY35
-NY36
 NY40
 NY41
-NY44
-NY45
-NY46
-NY54
-NY55
-NY56
+NZ26
+NZ27
+NZ28
+NZ36
+NZ37
+NZ38
+NZ46
 NZ80
 NZ81
 NZ90
@@ -306,6 +304,9 @@ SH75
 SH76
 SH77
 SH78
+SH86
+SH87
+SH88
 SH90
 SH91
 SH92
@@ -315,6 +316,8 @@ SH98
 SJ00
 SJ01
 SJ02
+SJ04
+SJ05
 SJ06
 SJ07
 SJ08
@@ -322,6 +325,8 @@ SJ10
 SJ11
 SJ12
 SJ13
+SJ14
+SJ15
 SJ16
 SJ17
 SJ18
@@ -451,21 +456,33 @@ SK61
 SK62
 SK63
 SK64
+SK65
+SK66
+SK67
+SK68
 SK69
 SK70
 SK71
 SK72
 SK73
 SK74
+SK75
+SK76
+SK77
+SK78
 SK80
 SK81
 SK82
 SK83
 SK84
+SK86
+SK87
+SK88
 SK90
 SK91
 SK92
 SK93
+SK96
 SK97
 SK98
 SK99
@@ -641,6 +658,8 @@ SO94
 SO95
 SO96
 SO97
+SO98
+SO99
 SP00
 SP01
 SP02
@@ -1160,6 +1179,7 @@ TF09
 TF10
 TF11
 TF12
+TF13
 TF14
 TF15
 TF16
@@ -1167,6 +1187,7 @@ TF17
 TF18
 TF19
 TF20
+TF22
 TF23
 TF24
 TF25
@@ -1435,6 +1456,8 @@ TQ48
 TQ49
 TQ50
 TQ51
+TQ52
+TQ53
 TQ54
 TQ55
 TQ56
@@ -1443,6 +1466,8 @@ TQ58
 TQ59
 TQ60
 TQ61
+TQ62
+TQ63
 TQ64
 TQ65
 TQ66

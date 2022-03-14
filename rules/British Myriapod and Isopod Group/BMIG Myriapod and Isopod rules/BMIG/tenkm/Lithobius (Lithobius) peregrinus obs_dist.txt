@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Lithobius (Lithobius) peregrinus 10km
 Description=Check coordinate against known 10km distribution of Lithobius (Lithobius) peregrinus
-ErrorMsg=Coordinate outside know range for Lithobius (Lithobius) peregrinus
+ErrorMsg=Coordinate outside known range for Lithobius (Lithobius) peregrinus
 DataFieldName=Species
 DataRecordId=NHMSYS0020500674
-LastChanged=20130429
+LastChanged=20180314
 [EndMetadata]
 
 

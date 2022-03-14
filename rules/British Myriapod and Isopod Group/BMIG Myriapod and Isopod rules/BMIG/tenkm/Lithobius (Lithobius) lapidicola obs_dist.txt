@@ -3,18 +3,20 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Lithobius (Lithobius) lapidicola 10km
 Description=Check coordinate against known 10km distribution of Lithobius (Lithobius) lapidicola
-ErrorMsg=Coordinate outside know range for Lithobius (Lithobius) lapidicola
+ErrorMsg=Coordinate outside known range for Lithobius (Lithobius) lapidicola
 DataFieldName=Species
 DataRecordId=NHMSYS0020500669
-LastChanged=20130429
+LastChanged=20180314
 [EndMetadata]
 
 
 [10km_GB]
 NT27
+SD44
 SD80
 SH57
-SW71
+SN51
+SP08
 SY58
 TM14
 TM34

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Lithobius (Lithobius) tricuspis 10km
 Description=Check coordinate against known 10km distribution of Lithobius (Lithobius) tricuspis
-ErrorMsg=Coordinate outside know range for Lithobius (Lithobius) tricuspis
+ErrorMsg=Coordinate outside known range for Lithobius (Lithobius) tricuspis
 DataFieldName=Species
 DataRecordId=NHMSYS0020500678
-LastChanged=20130429
+LastChanged=20180314
 [EndMetadata]
 
 

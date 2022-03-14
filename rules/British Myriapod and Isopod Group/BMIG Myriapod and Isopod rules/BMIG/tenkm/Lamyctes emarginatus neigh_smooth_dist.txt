@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Lamyctes emarginatus 10km
 Description=Check coordinate against known 10km distribution of Lamyctes emarginatus
-ErrorMsg=Coordinate outside know range for Lamyctes emarginatus
+ErrorMsg=Coordinate outside known range for Lamyctes emarginatus
 DataFieldName=Species
 DataRecordId=NHMSYS0000570579
-LastChanged=20130429
+LastChanged=20180314
 [EndMetadata]
 
 
@@ -36,8 +36,6 @@ HY52
 HY53
 HY54
 HY55
-NA00
-NA10
 NB90
 NB91
 NC00
@@ -96,8 +94,6 @@ ND39
 ND47
 ND48
 ND49
-NF09
-NF19
 NF60
 NF70
 NG13
@@ -166,11 +162,13 @@ NH64
 NH65
 NH70
 NH71
+NH72
 NH73
 NH74
 NH75
 NH80
 NH81
+NH82
 NH84
 NH85
 NH86
@@ -194,6 +192,7 @@ NJ15
 NJ16
 NJ20
 NJ21
+NJ22
 NJ25
 NJ26
 NJ27
@@ -705,12 +704,17 @@ SK81
 SK82
 SK83
 SK84
+SK85
+SK86
+SK87
 SK90
 SK91
 SK92
 SK93
 SK94
 SK95
+SK96
+SK97
 SM60
 SM62
 SM70
@@ -1130,6 +1134,8 @@ TF00
 TF03
 TF04
 TF05
+TF06
+TF07
 TF10
 TF13
 TF14
@@ -1160,6 +1166,7 @@ TL06
 TL07
 TL08
 TL09
+TL16
 TL17
 TL18
 TL19
