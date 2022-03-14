@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 71.027 Clostera curtula (Chocolate-tip)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Clostera curtula (Chocolate-tip)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 21.001 Lyonetia clerkella (Apple Leaf-miner)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Lyonetia clerkella (Apple Leaf-miner)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.203 Lithophane furcifera (Conformist)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Lithophane furcifera (Conformist)

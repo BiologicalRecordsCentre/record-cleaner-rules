@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.380 Pammene gallicana (Purple-shaded Piercer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pammene gallicana (Purple-shaded Piercer)

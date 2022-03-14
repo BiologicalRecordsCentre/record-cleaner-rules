@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 63.066 Scoparia pyralella (Meadow Grey)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Scoparia pyralella (Meadow Grey)

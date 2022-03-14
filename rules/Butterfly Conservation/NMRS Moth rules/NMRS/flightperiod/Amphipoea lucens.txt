@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.127 Amphipoea lucens (Large Ear)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Amphipoea lucens (Large Ear)

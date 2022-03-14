@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 9.006 Lampronia fuscatella (Scarce Bright)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Lampronia fuscatella (Scarce Bright)

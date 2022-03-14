@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 35.048 Bryotropha umbrosella (Sandhill Neb)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Bryotropha umbrosella (Sandhill Neb)

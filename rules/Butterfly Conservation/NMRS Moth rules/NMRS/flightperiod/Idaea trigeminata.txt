@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 70.012 Idaea trigeminata (Treble Brown Spot)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Idaea trigeminata (Treble Brown Spot)

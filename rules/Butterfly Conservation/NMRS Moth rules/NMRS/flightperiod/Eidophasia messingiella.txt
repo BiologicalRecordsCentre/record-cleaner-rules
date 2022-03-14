@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 18.007 Eidophasia messingiella (Bitter-cress Diamond-back)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eidophasia messingiella (Bitter-cress Diamond-back)

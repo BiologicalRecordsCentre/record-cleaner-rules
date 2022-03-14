@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.246 Orthosia populeti (Lead-coloured Drab)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Orthosia populeti (Lead-coloured Drab)

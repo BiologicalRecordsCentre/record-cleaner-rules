@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 39.001 Blastodacna hellerella (Hawthorn Cosmet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Blastodacna hellerella (Hawthorn Cosmet)

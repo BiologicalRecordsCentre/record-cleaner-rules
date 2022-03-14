@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 12.003 Eudarcia richardsoni (Dorset Clothes Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eudarcia richardsoni (Dorset Clothes Moth)

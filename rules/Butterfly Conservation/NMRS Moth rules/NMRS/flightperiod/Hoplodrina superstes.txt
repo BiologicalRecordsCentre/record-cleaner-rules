@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.098 Hoplodrina superstes (Powdered Rustic)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Hoplodrina superstes (Powdered Rustic)

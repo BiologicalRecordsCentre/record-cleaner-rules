@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 62.004 Corcyra cephalonica (Rice Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Corcyra cephalonica (Rice Moth)

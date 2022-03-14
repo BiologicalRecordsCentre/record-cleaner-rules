@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 45.011 Amblyptilia punctidactyla (Brindled Plume)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Amblyptilia punctidactyla (Brindled Plume)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 16.005 Yponomeuta rorrella (Willow Ermine)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Yponomeuta rorrella (Willow Ermine)

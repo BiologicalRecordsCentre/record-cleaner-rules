@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.315 Dichrorampha simpliciana (Round-winged Drill)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Dichrorampha simpliciana (Round-winged Drill)

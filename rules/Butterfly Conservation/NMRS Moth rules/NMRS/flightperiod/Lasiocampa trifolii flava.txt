@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 66.006 Lasiocampa trifolii flava (Pale Grass Eggar)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Lasiocampa trifolii flava (Pale Grass Eggar)

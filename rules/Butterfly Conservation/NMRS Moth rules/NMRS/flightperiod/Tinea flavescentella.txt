@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 12.029 Tinea flavescentella (Plain Clothes Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Tinea flavescentella (Plain Clothes Moth)

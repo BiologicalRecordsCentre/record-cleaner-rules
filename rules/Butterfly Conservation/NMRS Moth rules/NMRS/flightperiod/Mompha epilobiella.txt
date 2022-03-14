@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 40.010 Mompha epilobiella (Common Mompha)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Mompha epilobiella (Common Mompha)

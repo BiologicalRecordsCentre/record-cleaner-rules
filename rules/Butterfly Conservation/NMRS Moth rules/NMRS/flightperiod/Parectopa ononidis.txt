@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 15.001 Parectopa ononidis (Clover Slender)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Parectopa ononidis (Clover Slender)

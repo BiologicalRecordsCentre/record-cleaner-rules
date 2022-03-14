@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 74.011 Earias clorana (Cream-bordered Green Pea)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Earias clorana (Cream-bordered Green Pea)

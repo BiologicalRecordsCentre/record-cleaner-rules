@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 54.007 Zygaena viciae viciae (New Forest Burnet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Zygaena viciae viciae (New Forest Burnet)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 35.046 Bryotropha senectella (Dull Red Neb)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Bryotropha senectella (Dull Red Neb)

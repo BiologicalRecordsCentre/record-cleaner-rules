@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 67.001 Endromis versicolora (Kentish Glory)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Endromis versicolora (Kentish Glory)

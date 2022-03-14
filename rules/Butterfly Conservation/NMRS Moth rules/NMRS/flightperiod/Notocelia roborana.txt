@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.295 Notocelia roborana (Summer Rose Bell)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Notocelia roborana (Summer Rose Bell)

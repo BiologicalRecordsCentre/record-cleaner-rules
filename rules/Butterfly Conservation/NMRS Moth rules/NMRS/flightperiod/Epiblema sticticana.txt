@@ -1,9 +1,9 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
-ShortName = 49.284 Epiblema sticticana (Colt’s-foot Bell)
+Group = Flight Period
+ShortName = 49.284 Epiblema sticticana (Coltï¿½s-foot Bell)
 Description = Checks date is within known flight period
-ErrorMsg = Date is outside known flight period of Epiblema sticticana (Colt’s-foot Bell)
+ErrorMsg = Date is outside known flight period of Epiblema sticticana (Coltï¿½s-foot Bell)
 Tvk = NBNSYS0100003031
 StartDate = 0501
 EndDate = 0831

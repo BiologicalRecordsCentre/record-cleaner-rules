@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 11.005 Dahlica lichenella (Lichen Bagworm)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Dahlica lichenella (Lichen Bagworm)

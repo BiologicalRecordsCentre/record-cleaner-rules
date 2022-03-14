@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 62.059 Phycitodes saxicola (Small Clouded Knot-horn)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phycitodes saxicola (Small Clouded Knot-horn)

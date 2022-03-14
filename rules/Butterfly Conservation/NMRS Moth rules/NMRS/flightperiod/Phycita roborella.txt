@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 62.029 Phycita roborella (Dotted Oak Knot-horn)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phycita roborella (Dotted Oak Knot-horn)

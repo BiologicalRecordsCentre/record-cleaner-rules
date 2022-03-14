@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 21.007 Leucoptera orobi (Scarce Bent-wing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Leucoptera orobi (Scarce Bent-wing)

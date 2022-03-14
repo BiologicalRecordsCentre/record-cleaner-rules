@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 35.071 Monochroa lucidella (Buff-marked Neb)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Monochroa lucidella (Buff-marked Neb)

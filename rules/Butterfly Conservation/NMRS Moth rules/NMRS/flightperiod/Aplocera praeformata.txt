@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 70.194 Aplocera praeformata (Purple Treble-bar)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Aplocera praeformata (Purple Treble-bar)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.296 Notocelia incarnatana (Chalk Rose Bell)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Notocelia incarnatana (Chalk Rose Bell)

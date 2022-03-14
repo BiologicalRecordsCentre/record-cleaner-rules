@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 26.002 Tinagma balteolella (Scarce Spear-wing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Tinagma balteolella (Scarce Spear-wing)

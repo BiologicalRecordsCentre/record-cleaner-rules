@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 16.010 Zelleria hepariella (Brown Ash Ermine)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Zelleria hepariella (Brown Ash Ermine)

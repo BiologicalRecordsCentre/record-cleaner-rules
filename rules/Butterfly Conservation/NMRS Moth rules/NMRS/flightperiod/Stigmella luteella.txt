@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 4.007 Stigmella luteella (Short-barred Pigmy)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Stigmella luteella (Short-barred Pigmy)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 70.041 Scotopteryx luridata plumbaria (July Belle)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Scotopteryx luridata plumbaria (July Belle)

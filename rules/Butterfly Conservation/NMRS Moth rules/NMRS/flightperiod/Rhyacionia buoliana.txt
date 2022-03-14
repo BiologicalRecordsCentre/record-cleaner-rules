@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.305 Rhyacionia buoliana (Pine Shoot)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Rhyacionia buoliana (Pine Shoot)

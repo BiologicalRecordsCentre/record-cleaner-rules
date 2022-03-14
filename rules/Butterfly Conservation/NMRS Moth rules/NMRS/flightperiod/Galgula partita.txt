@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.090 Galgula partita (Wedgeling)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Galgula partita (Wedgeling)

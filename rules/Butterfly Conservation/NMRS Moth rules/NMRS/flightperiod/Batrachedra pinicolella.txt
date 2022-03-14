@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 36.002 Batrachedra pinicolella (Pine Cosmet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Batrachedra pinicolella (Pine Cosmet)

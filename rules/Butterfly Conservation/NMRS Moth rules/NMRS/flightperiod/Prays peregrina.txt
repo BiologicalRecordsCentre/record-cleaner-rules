@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 22.005 Prays peregrina (London Ermel)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Prays peregrina (London Ermel)

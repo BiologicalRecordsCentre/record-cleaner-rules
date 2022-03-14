@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 70.068 Mesoleuca albicillata (Beautiful Carpet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Mesoleuca albicillata (Beautiful Carpet)

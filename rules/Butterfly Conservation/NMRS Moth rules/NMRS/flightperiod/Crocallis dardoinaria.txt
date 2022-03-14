@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 70.242 Crocallis dardoinaria (Dusky Scalloped Oak)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Crocallis dardoinaria (Dusky Scalloped Oak)

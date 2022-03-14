@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 15.033 Parornix torquillella (Blackthorn Slender)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Parornix torquillella (Blackthorn Slender)

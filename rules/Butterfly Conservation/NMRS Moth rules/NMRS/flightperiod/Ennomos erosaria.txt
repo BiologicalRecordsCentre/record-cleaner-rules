@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 70.236 Ennomos erosaria (September Thorn)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Ennomos erosaria (September Thorn)

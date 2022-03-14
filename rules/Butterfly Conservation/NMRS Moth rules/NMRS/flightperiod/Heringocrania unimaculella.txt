@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 2.003 Heringocrania unimaculella (White-spot Purple)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Heringocrania unimaculella (White-spot Purple)

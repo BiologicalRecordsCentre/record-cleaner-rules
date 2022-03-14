@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 45.039 Hellinsia carphodactyla (Citron Plume)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Hellinsia carphodactyla (Citron Plume)

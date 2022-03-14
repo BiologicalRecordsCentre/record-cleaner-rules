@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.207 Xylena solidaginis (Golden-rod Brindle)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Xylena solidaginis (Golden-rod Brindle)

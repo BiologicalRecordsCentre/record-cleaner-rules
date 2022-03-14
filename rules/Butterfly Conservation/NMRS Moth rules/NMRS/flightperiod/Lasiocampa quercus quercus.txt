@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 66.007 Lasiocampa quercus quercus (Oak Eggar)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Lasiocampa quercus quercus (Oak Eggar)

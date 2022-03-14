@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.215 Cosmia affinis (Lesser-spotted Pinion)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Cosmia affinis (Lesser-spotted Pinion)

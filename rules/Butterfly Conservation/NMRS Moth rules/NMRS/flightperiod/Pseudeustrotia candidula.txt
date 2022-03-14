@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.086 Pseudeustrotia candidula (Shining Marbled)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pseudeustrotia candidula (Shining Marbled)

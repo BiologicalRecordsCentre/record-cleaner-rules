@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 32.004 Levipalpus hepatariella (Mountain Flat-body)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Levipalpus hepatariella (Mountain Flat-body)

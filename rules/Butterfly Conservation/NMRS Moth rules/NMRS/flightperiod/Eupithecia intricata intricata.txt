@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 70.176 Eupithecia intricata intricata (Edinburgh or Freyer's Pug)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Eupithecia intricata intricata (Edinburgh or Freyer's Pug)

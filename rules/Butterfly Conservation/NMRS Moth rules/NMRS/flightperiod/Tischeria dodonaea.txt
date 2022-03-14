@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 10.002 Tischeria dodonaea (Small Carl)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Tischeria dodonaea (Small Carl)

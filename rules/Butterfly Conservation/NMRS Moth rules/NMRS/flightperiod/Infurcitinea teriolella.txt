@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 12.0047 Infurcitinea teriolella (Grey Lichen Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Infurcitinea teriolella (Grey Lichen Moth)

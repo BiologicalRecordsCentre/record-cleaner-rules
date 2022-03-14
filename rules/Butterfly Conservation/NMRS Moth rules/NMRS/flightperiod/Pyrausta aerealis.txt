@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 63.010 Pyrausta aerealis (Large Straw-barred Pearl)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pyrausta aerealis (Large Straw-barred Pearl)

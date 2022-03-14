@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 62.067 Cadra cautella (Dried Currant Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Cadra cautella (Dried Currant Moth)

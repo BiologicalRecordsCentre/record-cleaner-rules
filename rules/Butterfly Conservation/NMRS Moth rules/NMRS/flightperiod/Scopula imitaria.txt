@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 70.024 Scopula imitaria (Small Blood-vein)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Scopula imitaria (Small Blood-vein)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 35.103 Gelechia cuneatella (Long-winged Groundling)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Gelechia cuneatella (Long-winged Groundling)

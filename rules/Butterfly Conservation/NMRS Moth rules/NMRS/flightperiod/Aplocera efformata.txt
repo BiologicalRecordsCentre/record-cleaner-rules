@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 70.193 Aplocera efformata (Lesser Treble-bar)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Aplocera efformata (Lesser Treble-bar)

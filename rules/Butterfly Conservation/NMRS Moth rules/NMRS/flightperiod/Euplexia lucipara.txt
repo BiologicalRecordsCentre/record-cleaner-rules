@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.114 Euplexia lucipara (Small Angle Shades)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Euplexia lucipara (Small Angle Shades)

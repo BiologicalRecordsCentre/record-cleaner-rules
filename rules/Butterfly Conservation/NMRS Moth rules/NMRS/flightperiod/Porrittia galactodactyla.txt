@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 45.031 Porrittia galactodactyla (Spotted White Plume)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Porrittia galactodactyla (Spotted White Plume)

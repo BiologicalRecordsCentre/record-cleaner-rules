@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 63.036 Udea decrepitalis (Scotch Pearl)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Udea decrepitalis (Scotch Pearl)

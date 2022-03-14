@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.300 Pseudococcyx turionella (Pine Bud Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pseudococcyx turionella (Pine Bud Moth)

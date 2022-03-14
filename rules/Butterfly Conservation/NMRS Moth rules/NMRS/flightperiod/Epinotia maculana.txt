@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.232 Epinotia maculana (Dark Aspen Bell)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Epinotia maculana (Dark Aspen Bell)

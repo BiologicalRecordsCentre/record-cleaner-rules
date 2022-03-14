@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.122 Aethes dilucidana (Short-barred Yellow Conch)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Aethes dilucidana (Short-barred Yellow Conch)

@@ -1,9 +1,9 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
-ShortName = 35.119 Scrobipalpa samadensis (Buck’s-horn Groundling)
+Group = Flight Period
+ShortName = 35.119 Scrobipalpa samadensis (Buckï¿½s-horn Groundling)
 Description = Checks date is within known flight period
-ErrorMsg = Date is outside known flight period of Scrobipalpa samadensis (Buck’s-horn Groundling)
+ErrorMsg = Date is outside known flight period of Scrobipalpa samadensis (Buckï¿½s-horn Groundling)
 Tvk = NHMSYS0000521368
 StartDate = 0515
 EndDate = 0915

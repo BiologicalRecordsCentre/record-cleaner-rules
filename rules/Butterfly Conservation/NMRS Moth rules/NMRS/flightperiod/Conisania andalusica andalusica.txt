@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.278 Conisania andalusica andalusica (Barrett's Marbled Coronet)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Conisania andalusica andalusica (Barrett's Marbled Coronet)

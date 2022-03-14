@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 8.001 Incurvaria pectinea (Pale Feathered Leaf-cutter)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Incurvaria pectinea (Pale Feathered Leaf-cutter)

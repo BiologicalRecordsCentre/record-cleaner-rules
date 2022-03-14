@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.083 Acleris ferrugana (Rusty Oak Button)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Acleris ferrugana (Rusty Oak Button)

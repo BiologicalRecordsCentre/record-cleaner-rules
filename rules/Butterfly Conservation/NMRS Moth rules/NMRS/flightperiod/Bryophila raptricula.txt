@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.083 Bryophila raptricula (Marbled Grey)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Bryophila raptricula (Marbled Grey)

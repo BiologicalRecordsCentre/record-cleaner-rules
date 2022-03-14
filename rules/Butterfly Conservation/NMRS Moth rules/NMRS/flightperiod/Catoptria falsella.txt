@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 63.102 Catoptria falsella (Chequered Grass-veneer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Catoptria falsella (Chequered Grass-veneer)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 15.053 Phyllonorycter leucographella (Firethorn Leaf-miner)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Phyllonorycter leucographella (Firethorn Leaf-miner)

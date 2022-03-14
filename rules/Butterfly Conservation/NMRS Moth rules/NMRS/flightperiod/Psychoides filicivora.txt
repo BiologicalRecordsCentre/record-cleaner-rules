@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 12.048 Psychoides filicivora (Fern Smut)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Psychoides filicivora (Fern Smut)

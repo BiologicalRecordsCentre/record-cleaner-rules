@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 9.004 Lampronia morosa (Rose Bright)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Lampronia morosa (Rose Bright)

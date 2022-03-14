@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 32.007 Agonopterix ocellana (Red-letter Flat-body)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Agonopterix ocellana (Red-letter Flat-body)

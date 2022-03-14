@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.279 Gypsonoma dealbana (Common Cloaked Shoot)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Gypsonoma dealbana (Common Cloaked Shoot)

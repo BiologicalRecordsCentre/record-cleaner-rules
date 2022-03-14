@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 45.036 Pselnophorus heterodactyla (Short-winged Plume)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pselnophorus heterodactyla (Short-winged Plume)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 62.065 Ephestia woodiella (False Cacao Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Ephestia woodiella (False Cacao Moth)

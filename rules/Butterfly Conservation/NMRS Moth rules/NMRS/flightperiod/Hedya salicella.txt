@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.155 Hedya salicella (White-backed Marble)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Hedya salicella (White-backed Marble)

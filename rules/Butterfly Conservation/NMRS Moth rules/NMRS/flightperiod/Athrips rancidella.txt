@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 35.084 Athrips rancidella (Cotoneaster Webworm)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Athrips rancidella (Cotoneaster Webworm)

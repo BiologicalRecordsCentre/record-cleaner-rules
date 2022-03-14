@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 47.005 Epermenia chaerophyllella (Garden Lance-wing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Epermenia chaerophyllella (Garden Lance-wing)

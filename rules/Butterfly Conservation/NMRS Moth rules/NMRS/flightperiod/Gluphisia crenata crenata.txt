@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 71.026 Gluphisia crenata crenata (Dusky Marbled Brown)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Gluphisia crenata crenata (Dusky Marbled Brown)

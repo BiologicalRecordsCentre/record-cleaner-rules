@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.013 Euchalcia variabilis (Purple-shaded Gem)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Euchalcia variabilis (Purple-shaded Gem)

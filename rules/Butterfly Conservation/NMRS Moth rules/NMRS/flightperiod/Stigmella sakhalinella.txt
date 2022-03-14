@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 4.006 Stigmella sakhalinella (Small Birch Pigmy)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Stigmella sakhalinella (Small Birch Pigmy)

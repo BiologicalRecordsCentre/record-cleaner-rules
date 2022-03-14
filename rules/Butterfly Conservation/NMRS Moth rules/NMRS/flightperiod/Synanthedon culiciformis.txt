@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 52.007 Synanthedon culiciformis (Large Red-belted Clearwing)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Synanthedon culiciformis (Large Red-belted Clearwing)

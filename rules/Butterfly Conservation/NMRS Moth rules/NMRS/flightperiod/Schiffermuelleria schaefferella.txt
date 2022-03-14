@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 28.002 Schiffermuelleria schaefferella (Brown-tip Tubic)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Schiffermuelleria schaefferella (Brown-tip Tubic)

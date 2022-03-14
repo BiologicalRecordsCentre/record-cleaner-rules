@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 35.063 Psamathocrita argentella (Silvery Neb)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Psamathocrita argentella (Silvery Neb)

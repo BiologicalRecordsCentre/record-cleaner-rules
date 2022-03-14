@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 12.042 Monopis fenestratella (Brown Timber Clothes Moth)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Monopis fenestratella (Brown Timber Clothes Moth)

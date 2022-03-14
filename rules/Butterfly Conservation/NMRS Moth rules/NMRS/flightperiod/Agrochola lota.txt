@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.189 Agrochola lota (Red-line Quaker)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Agrochola lota (Red-line Quaker)

@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 72.055 Herminia grisealis (Small Fan-foot)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Herminia grisealis (Small Fan-foot)

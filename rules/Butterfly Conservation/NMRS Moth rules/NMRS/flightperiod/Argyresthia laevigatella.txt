@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 20.001 Argyresthia laevigatella (Larch-boring Argent)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Argyresthia laevigatella (Larch-boring Argent)

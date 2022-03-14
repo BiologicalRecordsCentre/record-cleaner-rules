@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 70.225 Pachycnemia hippocastanaria (Horse Chestnut)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pachycnemia hippocastanaria (Horse Chestnut)

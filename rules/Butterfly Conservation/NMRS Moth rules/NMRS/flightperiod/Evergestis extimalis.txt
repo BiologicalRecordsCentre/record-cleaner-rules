@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 63.058 Evergestis extimalis (Marbled Yellow Pearl)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Evergestis extimalis (Marbled Yellow Pearl)

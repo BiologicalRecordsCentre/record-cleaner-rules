@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 35.116 Scrobipalpa obsoletella (Summer Groundling)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Scrobipalpa obsoletella (Summer Groundling)

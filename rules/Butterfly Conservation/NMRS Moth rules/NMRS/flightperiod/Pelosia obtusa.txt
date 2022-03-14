@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 72.040 Pelosia obtusa (Small Dotted Footman)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Pelosia obtusa (Small Dotted Footman)

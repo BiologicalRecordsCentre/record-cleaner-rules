@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 35.065 Monochroa cytisella (Bracken Neb)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Monochroa cytisella (Bracken Neb)

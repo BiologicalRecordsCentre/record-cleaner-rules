@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 49.198 Bactra venosana (Nutgrass Borer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Bactra venosana (Nutgrass Borer)

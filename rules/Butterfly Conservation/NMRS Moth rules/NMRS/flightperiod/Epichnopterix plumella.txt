@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 11.014 Epichnopterix plumella (Round-winged Bagworm)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Epichnopterix plumella (Round-winged Bagworm)

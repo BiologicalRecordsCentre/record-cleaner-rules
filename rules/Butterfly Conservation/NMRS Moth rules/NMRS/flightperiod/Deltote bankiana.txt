@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.027 Deltote bankiana (Silver Barred)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Deltote bankiana (Silver Barred)

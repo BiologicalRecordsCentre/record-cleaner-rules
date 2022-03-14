@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 35.019 Anarsia lineatella (Peach-twig Borer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Anarsia lineatella (Peach-twig Borer)

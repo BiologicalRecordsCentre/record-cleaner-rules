@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 72.018 Orgyia recens (Scarce Vapourer)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Orgyia recens (Scarce Vapourer)

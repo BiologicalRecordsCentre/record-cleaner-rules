@@ -1,6 +1,6 @@
 [Metadata]
 TestType = PeriodWithinYear
-Group = Moths Flight Period
+Group = Flight Period
 ShortName = 73.337 Cerastis leucographa (White-marked)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Cerastis leucographa (White-marked)
