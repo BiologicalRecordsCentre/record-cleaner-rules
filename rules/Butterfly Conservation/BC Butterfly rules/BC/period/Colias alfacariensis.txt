@@ -4,10 +4,10 @@ Group=Recording Period
 ShortName=Colias alfacariensis
 Description=Checks date is within known recording period of Colias alfacariensis
 ErrorMsg=Date is outside known recording period of Colias alfacariensis
-Tvk=NBNSYS0000005518
+Tvk=NHMSYS0021143487
 StartDate=17000101
 EndDate=
-LastChanged=20110328
+LastChanged=20220125
 [EndMetadata]
 
          
