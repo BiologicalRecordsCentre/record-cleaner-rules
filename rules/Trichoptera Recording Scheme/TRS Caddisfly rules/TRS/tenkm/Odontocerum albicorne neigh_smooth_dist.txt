@@ -3,14 +3,23 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Odontocerum albicorne 10km
 Description=Check coordinate against known 10km distribution of Odontocerum albicorne
-ErrorMsg=Coordinate outside know range for Odontocerum albicorne
+ErrorMsg=Coordinate outside known range for Odontocerum albicorne
 DataFieldName=Species
 DataRecordId=NBNSYS0000008507
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
+HY20
+HY21
+HY22
+HY30
+HY31
+HY32
+HY40
+HY41
+HY42
 NB90
 NB91
 NC00
@@ -22,6 +31,7 @@ NC11
 NC12
 NC13
 NC14
+NC20
 NC21
 NC22
 NC23
@@ -76,6 +86,9 @@ ND24
 ND25
 ND26
 ND27
+ND29
+ND39
+ND49
 NG23
 NG31
 NG32
@@ -87,9 +100,13 @@ NG43
 NG50
 NG51
 NG52
+NG53
 NG60
 NG61
 NG62
+NG63
+NG64
+NG65
 NG70
 NG71
 NG72
@@ -347,6 +364,7 @@ NN53
 NN54
 NN55
 NN56
+NN57
 NN58
 NN59
 NN60
@@ -469,19 +487,31 @@ NO87
 NO88
 NO89
 NO99
+NR15
+NR16
+NR24
 NR25
 NR26
 NR27
+NR34
 NR35
 NR36
 NR37
+NR44
 NR45
 NR46
 NR47
 NR79
+NR87
+NR88
 NR89
+NR97
+NR98
 NR99
 NS00
+NS07
+NS08
+NS09
 NS10
 NS16
 NS17
@@ -665,6 +695,8 @@ NU13
 NU14
 NU20
 NU21
+NU22
+NU23
 NW96
 NW97
 NX04
@@ -854,9 +886,12 @@ NZ18
 NZ19
 NZ20
 NZ21
+NZ22
+NZ23
 NZ24
 NZ25
 NZ26
+NZ27
 NZ29
 NZ30
 NZ40
@@ -1199,6 +1234,8 @@ SK26
 SK27
 SK28
 SK29
+SK30
+SK31
 SK32
 SK33
 SK34
@@ -1445,6 +1482,9 @@ SP23
 SP30
 SP31
 SP32
+SP39
+SP49
+SP59
 SP80
 SP90
 SR89
@@ -1801,11 +1841,14 @@ TQ19
 TQ21
 TQ22
 TQ23
+TQ24
 TQ31
 TQ32
 TQ33
+TQ34
 TQ41
 TQ42
 TQ43
+TQ44
 
 

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Lithobius (Lithobius) macilentus 10km
 Description=Check coordinate against known 10km distribution of Lithobius (Lithobius) macilentus
-ErrorMsg=Coordinate outside know range for Lithobius (Lithobius) macilentus
+ErrorMsg=Coordinate outside known range for Lithobius (Lithobius) macilentus
 DataFieldName=Species
 DataRecordId=NHMSYS0020500671
-LastChanged=20130429
+LastChanged=20180314
 [EndMetadata]
 
 
@@ -208,10 +208,19 @@ NY51
 NY70
 NY80
 NY90
+NY94
+NY95
+NY96
 NZ00
 NZ01
+NZ04
+NZ05
+NZ06
 NZ10
 NZ11
+NZ14
+NZ15
+NZ16
 NZ20
 NZ21
 NZ22
@@ -221,13 +230,22 @@ NZ32
 NZ33
 NZ34
 NZ35
+NZ40
+NZ41
 NZ42
 NZ43
 NZ44
 NZ45
+NZ50
+NZ51
+NZ52
 NZ53
+NZ60
+NZ61
+NZ62
 NZ70
 NZ71
+NZ72
 NZ80
 NZ81
 NZ90
@@ -318,6 +336,7 @@ SE74
 SE75
 SE76
 SE77
+SE78
 SE79
 SE81
 SE82
@@ -460,9 +479,6 @@ SP81
 SP82
 SP83
 SP89
-SP90
-SP91
-SP92
 SP99
 ST76
 ST77
@@ -531,12 +547,6 @@ TF27
 TF35
 TF36
 TF37
-TL00
-TL01
-TL02
-TL10
-TL11
-TL12
 TL90
 TL91
 TL92
@@ -591,9 +601,16 @@ TR01
 TR02
 TR03
 TR04
+TR05
+TR06
 TR12
 TR13
 TR14
+TR15
+TR16
+TR24
+TR25
+TR26
 TV49
 TV59
 TV69

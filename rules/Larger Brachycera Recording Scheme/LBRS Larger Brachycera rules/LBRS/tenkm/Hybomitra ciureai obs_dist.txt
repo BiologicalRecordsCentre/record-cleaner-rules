@@ -3,16 +3,14 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Hybomitra ciureai 10km
 Description=Check coordinate against known 10km distribution of Hybomitra ciureai
-ErrorMsg=Coordinate outside know range for Hybomitra ciureai
+ErrorMsg=Coordinate outside known range for Hybomitra ciureai
 DataFieldName=Species
 DataRecordId=NBNSYS0000007880
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-ST48
-SU82
 SZ47
 TL91
 TM01
@@ -20,11 +18,9 @@ TM02
 TM46
 TM47
 TM48
-TQ41
 TQ71
 TQ76
-TQ89
-TR03
+TQ96
 TR26
 
 

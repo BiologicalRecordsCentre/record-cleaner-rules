@@ -3,16 +3,15 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Thereva fulva 10km
 Description=Check coordinate against known 10km distribution of Thereva fulva
-ErrorMsg=Coordinate outside know range for Thereva fulva
+ErrorMsg=Coordinate outside known range for Thereva fulva
 DataFieldName=Species
 DataRecordId=NBNSYS0000007928
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
 SH46
-SN40
 SS49
 SS58
 SS78

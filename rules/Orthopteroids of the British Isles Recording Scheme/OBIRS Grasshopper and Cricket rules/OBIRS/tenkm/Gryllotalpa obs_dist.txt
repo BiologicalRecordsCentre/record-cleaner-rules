@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Gryllotalpa 10km
 Description=Check coordinate against known 10km distribution of Gryllotalpa
-ErrorMsg=Coordinate outside know range for Gryllotalpa
+ErrorMsg=Coordinate outside known range for Gryllotalpa
 DataFieldName=Species
 DataRecordId=NHMSYS0001387359
-LastChanged=20130430
+LastChanged=20180313
 [EndMetadata]
 
 

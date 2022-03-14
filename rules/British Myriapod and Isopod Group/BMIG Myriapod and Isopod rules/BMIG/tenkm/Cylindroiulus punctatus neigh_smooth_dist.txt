@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Cylindroiulus punctatus 10km
 Description=Check coordinate against known 10km distribution of Cylindroiulus punctatus
-ErrorMsg=Coordinate outside know range for Cylindroiulus punctatus
+ErrorMsg=Coordinate outside known range for Cylindroiulus punctatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000011392
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

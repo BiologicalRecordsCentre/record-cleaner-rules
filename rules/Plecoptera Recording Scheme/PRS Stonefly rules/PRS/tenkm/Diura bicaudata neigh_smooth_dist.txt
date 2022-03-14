@@ -3,14 +3,50 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Diura bicaudata 10km
 Description=Check coordinate against known 10km distribution of Diura bicaudata
-ErrorMsg=Coordinate outside know range for Diura bicaudata
+ErrorMsg=Coordinate outside known range for Diura bicaudata
 DataFieldName=Species
 DataRecordId=NHMSYS0020316254
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
 [10km_GB]
+NH90
+NH91
+NH92
+NJ00
+NJ01
+NJ02
+NJ10
+NJ11
+NJ12
+NN46
+NN47
+NN48
+NN56
+NN57
+NN58
+NN66
+NN67
+NN68
+NO25
+NO26
+NO27
+NO35
+NO36
+NO37
+NO45
+NO46
+NO47
+NT11
+NT12
+NT13
+NT21
+NT22
+NT23
+NT31
+NT32
+NT33
 NX91
 NX92
 NX93
@@ -140,6 +176,7 @@ SE03
 SE04
 SE05
 SE10
+SE20
 SH92
 SH93
 SH94
@@ -167,8 +204,12 @@ SK06
 SK07
 SK08
 SK09
+SK16
+SK17
 SK18
 SK19
+SK28
+SK29
 SN60
 SN62
 SN63
@@ -176,17 +217,21 @@ SN64
 SN65
 SN66
 SN70
+SN71
 SN72
 SN73
 SN74
 SN75
 SN76
 SN80
+SN81
 SN82
 SN83
 SN84
 SN85
 SN86
+SN91
+SN92
 SN93
 SN94
 SN95

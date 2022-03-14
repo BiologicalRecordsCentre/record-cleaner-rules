@@ -3,20 +3,23 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Laphria flava 10km
 Description=Check coordinate against known 10km distribution of Laphria flava
-ErrorMsg=Coordinate outside know range for Laphria flava
+ErrorMsg=Coordinate outside known range for Laphria flava
 DataFieldName=Species
 DataRecordId=NBNSYS0000007908
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
 NH80
 NH91
+NH92
 NH95
 NH96
 NJ01
 NJ02
+NJ25
+NN89
 NO08
 
 

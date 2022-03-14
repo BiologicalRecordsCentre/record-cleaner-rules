@@ -3,22 +3,21 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Ogcodes gibbosus 10km
 Description=Check coordinate against known 10km distribution of Ogcodes gibbosus
-ErrorMsg=Coordinate outside know range for Ogcodes gibbosus
+ErrorMsg=Coordinate outside known range for Ogcodes gibbosus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007939
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
 SD17
-ST43
+SO94
 SU14
 SU30
 SU31
 SU42
 SU62
-SU71
 SU79
 
 

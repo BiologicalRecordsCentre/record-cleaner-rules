@@ -3,17 +3,19 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Wormaldia mediana 10km
 Description=Check coordinate against known 10km distribution of Wormaldia mediana
-ErrorMsg=Coordinate outside know range for Wormaldia mediana
+ErrorMsg=Coordinate outside known range for Wormaldia mediana
 DataFieldName=Species
 DataRecordId=NBNSYS0000008381
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
 NH80
+NJ15
 NN65
 NN97
+NT91
 NU02
 NY30
 SJ05

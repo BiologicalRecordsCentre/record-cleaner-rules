@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Nemobius sylvestris 10km
 Description=Check coordinate against known 10km distribution of Nemobius sylvestris
-ErrorMsg=Coordinate outside know range for Nemobius sylvestris
+ErrorMsg=Coordinate outside known range for Nemobius sylvestris
 DataFieldName=Species
 DataRecordId=NBNSYS0000006828
-LastChanged=20130430
+LastChanged=20180313
 [EndMetadata]
 
 
@@ -24,11 +24,7 @@ SU31
 SU32
 SU40
 SU41
-SU42
 SU92
-SW43
-SX07
-SX46
 SX86
 SX88
 SX98
@@ -39,9 +35,7 @@ SY18
 SY19
 SZ19
 SZ29
-SZ38
 SZ39
-SZ48
 SZ49
 SZ58
 SZ59

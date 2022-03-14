@@ -3,18 +3,16 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Elaphropus walkerianus 10km
 Description=Check coordinate against known 10km distribution of Elaphropus walkerianus
-ErrorMsg=Coordinate outside know range for Elaphropus walkerianus
+ErrorMsg=Coordinate outside known range for Elaphropus walkerianus
 DataFieldName=Species
 DataRecordId=NHMSYS0001718035
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
 SU20
 SU21
-SU30
-TQ15
 TR06
 
 

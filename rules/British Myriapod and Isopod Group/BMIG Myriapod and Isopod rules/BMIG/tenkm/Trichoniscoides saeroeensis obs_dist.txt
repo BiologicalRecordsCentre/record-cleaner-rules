@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Trichoniscoides saeroeensis 10km
 Description=Check coordinate against known 10km distribution of Trichoniscoides saeroeensis
-ErrorMsg=Coordinate outside know range for Trichoniscoides saeroeensis
+ErrorMsg=Coordinate outside known range for Trichoniscoides saeroeensis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008553
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

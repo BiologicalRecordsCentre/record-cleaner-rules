@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Nemasoma varicorne 10km
 Description=Check coordinate against known 10km distribution of Nemasoma varicorne
-ErrorMsg=Coordinate outside know range for Nemasoma varicorne
+ErrorMsg=Coordinate outside known range for Nemasoma varicorne
 DataFieldName=Species
 DataRecordId=NBNSYS0000011373
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

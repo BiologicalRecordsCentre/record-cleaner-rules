@@ -3,64 +3,61 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Thereva bipunctata 10km
 Description=Check coordinate against known 10km distribution of Thereva bipunctata
-ErrorMsg=Coordinate outside know range for Thereva bipunctata
+ErrorMsg=Coordinate outside known range for Thereva bipunctata
 DataFieldName=Species
 DataRecordId=NBNSYS0000007927
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-NH78
-NH85
+NF72
+NF87
 NH89
-NH95
 NJ06
+NM04
 NT72
-NU20
 SD09
 SD17
 SD32
 SD33
-SE81
+SE74
 SH52
 SH53
 SN25
-SN40
 SN69
 SO87
 SO88
 SS43
 SS44
-SS49
 SS87
 ST24
-ST25
 SU83
 SU84
 SW54
 SW62
 SW75
-SW93
 SW98
 SX15
+SX97
+SX98
 SY67
 SY88
-SY98
 SZ19
 SZ68
-SZ79
 TA41
 TF25
 TF62
-TF63
+TF64
 TF74
 TF84
 TG42
-TL77
+TL24
 TL78
 TL87
 TL88
+TL89
+TL98
 TM00
 TM01
 TM05

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Polydesmus barberii 10km
 Description=Check coordinate against known 10km distribution of Polydesmus barberii
-ErrorMsg=Coordinate outside know range for Polydesmus barberii
+ErrorMsg=Coordinate outside known range for Polydesmus barberii
 DataFieldName=Species
 DataRecordId=NHMSYS0000356296
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

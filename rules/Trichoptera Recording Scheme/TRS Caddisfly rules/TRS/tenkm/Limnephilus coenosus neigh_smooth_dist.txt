@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Limnephilus coenosus 10km
 Description=Check coordinate against known 10km distribution of Limnephilus coenosus
-ErrorMsg=Coordinate outside know range for Limnephilus coenosus
+ErrorMsg=Coordinate outside known range for Limnephilus coenosus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008472
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -31,7 +31,9 @@ NC21
 NC22
 NG20
 NG30
+NG31
 NG40
+NG41
 NG50
 NG51
 NG52
@@ -51,11 +53,18 @@ NH40
 NH41
 NH42
 NM29
+NM35
+NM37
 NM38
 NM39
+NM45
+NM46
+NM47
 NM48
 NM49
-NM59
+NM55
+NM56
+NM57
 NM74
 NM75
 NM76
@@ -80,12 +89,15 @@ NN13
 NN14
 NN15
 NN16
+NN20
 NN21
 NN22
 NN23
+NN30
 NN31
 NN32
 NN33
+NN40
 NN41
 NN42
 NN43
@@ -122,12 +134,30 @@ NO10
 NO11
 NO20
 NO21
+NS51
+NS52
+NS53
 NS58
 NS59
+NS61
+NS62
+NS63
 NS68
 NS69
+NS71
+NS72
+NS73
+NS75
+NS76
+NS77
 NS78
 NS79
+NS85
+NS86
+NS87
+NS95
+NS96
+NS97
 NT09
 NT19
 NT29
@@ -240,6 +270,7 @@ SD60
 SD63
 SD64
 SD65
+SD66
 SD67
 SD68
 SD69
@@ -247,11 +278,17 @@ SD70
 SD73
 SD74
 SD75
+SD76
+SD77
+SD78
 SD81
 SD82
 SD83
 SD84
 SD85
+SD86
+SD87
+SD88
 SD90
 SD91
 SD92
@@ -334,6 +371,7 @@ SH83
 SH84
 SH85
 SH86
+SH87
 SH90
 SH91
 SH92

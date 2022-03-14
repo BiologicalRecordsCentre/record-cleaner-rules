@@ -3,16 +3,18 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Hydropsyche saxonica 10km
 Description=Check coordinate against known 10km distribution of Hydropsyche saxonica
-ErrorMsg=Coordinate outside know range for Hydropsyche saxonica
+ErrorMsg=Coordinate outside known range for Hydropsyche saxonica
 DataFieldName=Species
 DataRecordId=NBNSYS0000008420
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
 NY19
 NY24
+SD39
+SD49
 SD54
 SD56
 SD65
@@ -39,6 +41,7 @@ SP35
 SP43
 SP58
 SP59
+SP64
 SP68
 SP69
 SP76

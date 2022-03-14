@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Limnephilus hirsutus 10km
 Description=Check coordinate against known 10km distribution of Limnephilus hirsutus
-ErrorMsg=Coordinate outside know range for Limnephilus hirsutus
+ErrorMsg=Coordinate outside known range for Limnephilus hirsutus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008480
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -67,6 +67,8 @@ NY00
 NY01
 NY10
 NY11
+NY20
+NY21
 NZ24
 NZ25
 NZ26
@@ -92,6 +94,7 @@ SD09
 SD19
 SD20
 SD21
+SD29
 SD30
 SD31
 SD32
@@ -99,19 +102,33 @@ SD40
 SD41
 SD60
 SD61
+SD66
+SD67
+SD68
 SD70
 SD71
 SD75
 SD76
 SD77
+SD78
 SD80
 SD81
 SD85
 SD86
 SD87
+SD88
 SD95
 SD96
 SD97
+SE07
+SE08
+SE09
+SE17
+SE18
+SE19
+SE27
+SE28
+SE29
 SE30
 SE40
 SE50
@@ -172,10 +189,13 @@ SJ49
 SJ69
 SJ79
 SJ89
+SK20
+SK30
 SK36
 SK37
 SK38
 SK39
+SK40
 SK46
 SK47
 SK48
@@ -255,9 +275,19 @@ SO99
 SP07
 SP08
 SP09
+SP28
+SP29
+SP38
+SP39
+SP48
+SP49
+SP58
 SP59
+SP68
 SP69
 SP79
+SP96
+SP97
 SP98
 SP99
 SR89
@@ -265,10 +295,13 @@ SR99
 SS09
 SS58
 SS59
+SS60
 SS68
 SS69
+SS70
 SS78
 SS79
+SS80
 ST44
 ST45
 ST46
@@ -310,6 +343,9 @@ SU68
 SU75
 SU76
 SU77
+SU85
+SU86
+SU87
 SW52
 SW61
 SW62
@@ -317,6 +353,12 @@ SW71
 SW72
 SW81
 SW82
+SX68
+SX69
+SX78
+SX79
+SX88
+SX89
 SY48
 SY49
 SY58
@@ -355,8 +397,12 @@ TF47
 TF55
 TF56
 TF57
+TL06
+TL07
 TL08
 TL09
+TL16
+TL17
 TL18
 TL19
 TM35
@@ -366,5 +412,14 @@ TM45
 TM46
 TM47
 TM57
+TQ24
+TQ25
+TQ26
+TQ34
+TQ35
+TQ36
+TQ44
+TQ45
+TQ46
 
 

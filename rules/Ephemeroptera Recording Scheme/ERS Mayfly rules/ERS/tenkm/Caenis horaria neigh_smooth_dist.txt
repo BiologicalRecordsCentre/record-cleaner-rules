@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Caenis horaria 10km
 Description=Check coordinate against known 10km distribution of Caenis horaria
-ErrorMsg=Coordinate outside know range for Caenis horaria
+ErrorMsg=Coordinate outside known range for Caenis horaria
 DataFieldName=Species
 DataRecordId=NHMSYS0000066966
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
@@ -53,16 +53,33 @@ NG95
 NH03
 NH04
 NH05
+NH60
+NH70
 NH79
+NH80
 NH89
+NJ94
+NJ95
+NJ96
+NK04
+NK05
+NK06
+NK14
+NK15
 NN40
 NN50
 NN60
 NN61
+NN68
+NN69
 NN70
 NN71
+NN78
+NN79
 NN80
 NN81
+NN88
+NN89
 NN90
 NN91
 NN93
@@ -166,6 +183,18 @@ NZ39
 NZ43
 NZ44
 NZ45
+SD36
+SD37
+SD38
+SD46
+SD47
+SD48
+SD56
+SD57
+SD58
+SD75
+SD76
+SD77
 SD80
 SD85
 SD86
@@ -383,6 +412,7 @@ SO84
 SO85
 SO86
 SO87
+SO88
 SO89
 SO90
 SO94
@@ -530,6 +560,7 @@ SU21
 SU22
 SU23
 SU24
+SU27
 SU28
 SU29
 SU30
@@ -740,6 +771,7 @@ TL06
 TL07
 TL08
 TL09
+TL10
 TL12
 TL13
 TL14
@@ -881,6 +913,7 @@ TQ03
 TQ06
 TQ07
 TQ08
+TQ09
 TQ10
 TQ11
 TQ12
@@ -888,10 +921,12 @@ TQ13
 TQ16
 TQ17
 TQ18
+TQ19
 TQ20
 TQ21
 TQ22
 TQ23
+TQ28
 TQ29
 TQ30
 TQ31

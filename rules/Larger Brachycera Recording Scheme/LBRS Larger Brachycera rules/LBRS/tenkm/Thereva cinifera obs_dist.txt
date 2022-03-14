@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Thereva cinifera 10km
 Description=Check coordinate against known 10km distribution of Thereva cinifera
-ErrorMsg=Coordinate outside know range for Thereva cinifera
+ErrorMsg=Coordinate outside known range for Thereva cinifera
 DataFieldName=Species
 DataRecordId=NBNSYS0100005797
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 

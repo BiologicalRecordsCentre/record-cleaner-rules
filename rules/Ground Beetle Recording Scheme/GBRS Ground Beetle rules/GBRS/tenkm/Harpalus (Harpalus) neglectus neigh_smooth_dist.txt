@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Harpalus (Harpalus) neglectus 10km
 Description=Check coordinate against known 10km distribution of Harpalus (Harpalus) neglectus
-ErrorMsg=Coordinate outside know range for Harpalus (Harpalus) neglectus
+ErrorMsg=Coordinate outside known range for Harpalus (Harpalus) neglectus
 DataFieldName=Species
 DataRecordId=NHMSYS0001718354
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
@@ -34,26 +34,13 @@ SD28
 SD30
 SD31
 SD32
-SD40
-SD41
-SD42
-SH22
-SH23
-SH24
-SH27
-SH28
-SH32
-SH33
-SH34
 SH36
 SH37
-SH38
 SH43
 SH44
 SH45
 SH46
 SH47
-SH48
 SH51
 SH52
 SH53
@@ -74,7 +61,6 @@ SJ27
 SJ28
 SJ29
 SJ39
-SJ49
 SN20
 SN21
 SN30
@@ -86,7 +72,6 @@ SN51
 SN60
 SN70
 SN80
-SS14
 SS32
 SS38
 SS39
@@ -102,44 +87,12 @@ SS58
 SS59
 SS68
 SS69
+SS77
 SS78
 SS79
+SS87
 SS88
 SS89
-ST06
-ST07
-ST08
-ST16
-ST17
-ST18
-ST26
-ST27
-ST28
-ST60
-ST70
-ST80
-SW72
-SW73
-SW74
-SW82
-SW83
-SW84
-SW93
-SW94
-SY48
-SY49
-SY58
-SY59
-SY66
-SY67
-SY68
-SY69
-SY77
-SY78
-SY79
-SY87
-SY88
-SY89
 SY97
 SY98
 SY99

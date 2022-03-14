@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Amphinemura standfussi 10km
 Description=Check coordinate against known 10km distribution of Amphinemura standfussi
-ErrorMsg=Coordinate outside know range for Amphinemura standfussi
+ErrorMsg=Coordinate outside known range for Amphinemura standfussi
 DataFieldName=Species
 DataRecordId=NHMSYS0020316239
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
@@ -26,9 +26,16 @@ NY63
 NY64
 NY65
 NY66
+NY70
 NY71
 NY72
 NY73
+NY80
+NY81
+NY82
+NY90
+NY91
+NY92
 NZ70
 NZ71
 NZ80
@@ -250,6 +257,7 @@ TF49
 TF56
 TF57
 TF58
+TL00
 TL02
 TL03
 TL04
@@ -292,13 +300,17 @@ TQ01
 TQ02
 TQ03
 TQ04
+TQ08
+TQ09
 TQ10
 TQ11
 TQ12
+TQ18
 TQ19
 TQ20
 TQ21
 TQ22
+TQ28
 TQ29
 TQ39
 TQ40

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Stenophiloscia glarearum 10km
 Description=Check coordinate against known 10km distribution of Stenophiloscia glarearum
-ErrorMsg=Coordinate outside know range for Stenophiloscia glarearum
+ErrorMsg=Coordinate outside known range for Stenophiloscia glarearum
 DataFieldName=Species
 DataRecordId=NHMSYS0020302572
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

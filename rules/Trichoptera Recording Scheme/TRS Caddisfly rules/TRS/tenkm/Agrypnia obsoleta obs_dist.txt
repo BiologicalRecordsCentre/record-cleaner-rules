@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Agrypnia obsoleta 10km
 Description=Check coordinate against known 10km distribution of Agrypnia obsoleta
-ErrorMsg=Coordinate outside know range for Agrypnia obsoleta
+ErrorMsg=Coordinate outside known range for Agrypnia obsoleta
 DataFieldName=Species
 DataRecordId=NBNSYS0000008424
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -16,6 +16,7 @@ HY31
 NC01
 NC12
 NC22
+NC55
 NC56
 NC84
 NC93
@@ -30,9 +31,13 @@ NH12
 NH22
 NH31
 NH55
+NH70
 NH80
+NH93
 NJ01
 NJ21
+NJ46
+NM39
 NM63
 NM76
 NM93
@@ -57,7 +62,12 @@ NY21
 NY51
 NY73
 NY85
+NY95
+NZ04
+NZ09
+SD29
 SD61
+SD77
 SD86
 SD87
 SE10
@@ -68,9 +78,12 @@ SH63
 SH64
 SH65
 SH66
+SH74
+SH75
 SH76
 SH82
 SJ03
+SJ25
 SJ56
 SJ57
 SJ66
@@ -79,10 +92,12 @@ SK19
 SK29
 SN76
 SN78
+SN79
 SN86
 SN87
 SN89
 SN96
+SO02
 SO08
 SO09
 SO17
@@ -92,9 +107,5 @@ SO39
 SS59
 ST71
 SW75
-TG32
-TL70
-TL80
-TM48
 
 

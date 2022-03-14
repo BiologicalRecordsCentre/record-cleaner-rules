@@ -3,20 +3,23 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Rhyacophila obliterata 10km
 Description=Check coordinate against known 10km distribution of Rhyacophila obliterata
-ErrorMsg=Coordinate outside know range for Rhyacophila obliterata
+ErrorMsg=Coordinate outside known range for Rhyacophila obliterata
 DataFieldName=Species
 DataRecordId=NBNSYS0000008341
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
+NC10
 NC11
 NC12
 NC13
+NC20
 NC21
 NC22
 NC23
+NC30
 NC31
 NC32
 NC33
@@ -200,6 +203,7 @@ NO19
 NO23
 NO24
 NO25
+NO26
 NO27
 NO28
 NO29
@@ -380,17 +384,34 @@ NY71
 NY72
 NY73
 NY74
+NY78
 NY79
 NY80
 NY81
 NY82
 NY83
 NY84
+NY85
+NY88
 NY89
 NY90
 NY91
 NY92
+NY93
+NY94
+NY95
+NY98
+NY99
+NZ00
+NZ01
+NZ02
+NZ03
+NZ04
+NZ05
+NZ08
 NZ09
+NZ10
+NZ18
 NZ19
 NZ29
 NZ30
@@ -416,6 +437,7 @@ SD64
 SD65
 SD66
 SD67
+SD68
 SD69
 SD72
 SD73
@@ -423,6 +445,7 @@ SD74
 SD75
 SD76
 SD77
+SD78
 SD79
 SD81
 SD82
@@ -442,6 +465,7 @@ SD95
 SD96
 SD97
 SD98
+SD99
 SE00
 SE01
 SE02
@@ -451,6 +475,7 @@ SE05
 SE06
 SE07
 SE08
+SE09
 SE10
 SE11
 SE12
@@ -460,6 +485,7 @@ SE15
 SE16
 SE17
 SE18
+SE19
 SE20
 SE21
 SE23
@@ -468,6 +494,7 @@ SE25
 SE26
 SE27
 SE28
+SE29
 SE30
 SE36
 SE37
@@ -504,6 +531,7 @@ SH70
 SH71
 SH72
 SH73
+SH74
 SH75
 SH76
 SH77
@@ -511,6 +539,11 @@ SH80
 SH81
 SH82
 SH83
+SH84
+SH85
+SH86
+SH87
+SH88
 SH90
 SH91
 SH92
@@ -518,6 +551,8 @@ SH93
 SH94
 SH95
 SH96
+SH97
+SH98
 SJ00
 SJ01
 SJ02
@@ -525,6 +560,8 @@ SJ03
 SJ04
 SJ05
 SJ06
+SJ07
+SJ08
 SJ12
 SJ13
 SJ14
@@ -570,16 +607,20 @@ SN62
 SN70
 SN71
 SN72
+SN73
+SN74
 SN80
 SN81
 SN82
 SN83
+SN84
 SN87
 SN88
 SN89
 SN91
 SN92
 SN93
+SN94
 SN97
 SN98
 SN99

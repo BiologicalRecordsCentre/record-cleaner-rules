@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Tinodes unicolor 10km
 Description=Check coordinate against known 10km distribution of Tinodes unicolor
-ErrorMsg=Coordinate outside know range for Tinodes unicolor
+ErrorMsg=Coordinate outside known range for Tinodes unicolor
 DataFieldName=Species
 DataRecordId=NBNSYS0000008395
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -15,6 +15,7 @@ NY52
 NY70
 NY96
 NZ06
+NZ08
 NZ21
 NZ37
 SD64
@@ -25,6 +26,8 @@ SE15
 SE18
 SE27
 SE58
+SH47
+SH57
 SJ17
 SJ18
 SJ22
@@ -51,8 +54,10 @@ SP77
 SP85
 SP86
 SP88
+SP92
 ST21
 ST29
+ST30
 ST43
 ST45
 ST50
@@ -94,6 +99,7 @@ TF47
 TF71
 TG14
 TL83
+TL89
 TQ50
 TQ75
 TR13

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Porcellio scaber 10km
 Description=Check coordinate against known 10km distribution of Porcellio scaber
-ErrorMsg=Coordinate outside know range for Porcellio scaber
+ErrorMsg=Coordinate outside known range for Porcellio scaber
 DataFieldName=Species
 DataRecordId=NBNSYS0000008580
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

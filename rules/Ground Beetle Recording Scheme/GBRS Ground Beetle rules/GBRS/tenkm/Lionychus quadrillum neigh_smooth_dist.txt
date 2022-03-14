@@ -3,23 +3,14 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Lionychus quadrillum 10km
 Description=Check coordinate against known 10km distribution of Lionychus quadrillum
-ErrorMsg=Coordinate outside know range for Lionychus quadrillum
+ErrorMsg=Coordinate outside known range for Lionychus quadrillum
 DataFieldName=Species
 DataRecordId=NBNSYS0000007483
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-SE87
-SE88
-SE89
-SE97
-SE98
-SE99
-SK93
-SK94
-SK95
 SN46
 SN56
 SN57
@@ -50,30 +41,10 @@ SO30
 SO40
 ST28
 ST29
-ST30
 ST38
 ST39
-ST40
 ST48
 ST49
-ST50
-SU20
-SU30
-SU40
-SW52
-SW53
-SW61
-SW62
-SW63
-SW71
-SW72
-SW73
-SW74
-SW82
-SW83
-SW84
-SW93
-SW94
 SX14
 SX15
 SX16
@@ -84,41 +55,6 @@ SX36
 SX44
 SX45
 SX46
-SX54
-SX55
-SX56
-SX73
-SX74
-SX75
-SX83
-SX84
-SX85
-SX94
-SX95
-SY38
-SY39
-SY48
-SY49
-SY58
-SY59
-SY67
-SY68
-SY69
-SZ28
-SZ29
-SZ38
-SZ39
-SZ48
-SZ49
-TA07
-TA08
-TA09
-TF03
-TF04
-TF05
-TF13
-TF14
-TF15
 TL90
 TL91
 TL92
@@ -128,15 +64,6 @@ TM02
 TM10
 TM11
 TM12
-TM13
-TM14
-TM20
-TM21
-TM22
-TM23
-TM24
-TM33
-TM34
 TM35
 TM36
 TM37
@@ -144,21 +71,14 @@ TM45
 TM46
 TM47
 TM57
-TQ77
-TQ78
-TQ79
-TQ87
-TQ88
-TQ89
-TQ95
-TQ96
-TQ97
-TQ98
-TQ99
-TR05
-TR06
-TR07
+TR14
 TR15
 TR16
+TR24
+TR25
+TR26
+TR34
+TR35
+TR36
 
 

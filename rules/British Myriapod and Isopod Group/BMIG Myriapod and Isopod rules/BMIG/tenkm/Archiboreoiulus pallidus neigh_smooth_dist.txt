@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Archiboreoiulus pallidus 10km
 Description=Check coordinate against known 10km distribution of Archiboreoiulus pallidus
-ErrorMsg=Coordinate outside know range for Archiboreoiulus pallidus
+ErrorMsg=Coordinate outside known range for Archiboreoiulus pallidus
 DataFieldName=Species
 DataRecordId=NBNSYS0000011376
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

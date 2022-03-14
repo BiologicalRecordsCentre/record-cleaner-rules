@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Polydesmus denticulatus 10km
 Description=Check coordinate against known 10km distribution of Polydesmus denticulatus
-ErrorMsg=Coordinate outside know range for Polydesmus denticulatus
+ErrorMsg=Coordinate outside known range for Polydesmus denticulatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000011368
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

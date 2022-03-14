@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Nothogeophilus turki 10km
 Description=Check coordinate against known 10km distribution of Nothogeophilus turki
-ErrorMsg=Coordinate outside know range for Nothogeophilus turki
+ErrorMsg=Coordinate outside known range for Nothogeophilus turki
 DataFieldName=Species
 DataRecordId=MM0001Z1ZT0011Z1
-LastChanged=20130429
+LastChanged=20180314
 [EndMetadata]
 
 

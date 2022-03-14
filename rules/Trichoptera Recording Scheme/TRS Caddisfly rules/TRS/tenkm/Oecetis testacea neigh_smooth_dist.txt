@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Oecetis testacea 10km
 Description=Check coordinate against known 10km distribution of Oecetis testacea
-ErrorMsg=Coordinate outside know range for Oecetis testacea
+ErrorMsg=Coordinate outside known range for Oecetis testacea
 DataFieldName=Species
 DataRecordId=NBNSYS0000008539
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -31,6 +31,13 @@ NC13
 NC21
 NC22
 NC23
+NC35
+NC36
+NC37
+NC45
+NC46
+NC55
+NC56
 NH11
 NH12
 NH13
@@ -135,6 +142,15 @@ SD39
 SD47
 SD48
 SD49
+SE16
+SE17
+SE18
+SE26
+SE27
+SE28
+SE36
+SE37
+SE38
 SE42
 SE43
 SE44
@@ -142,14 +158,20 @@ SE51
 SE52
 SE53
 SE54
+SE55
+SE56
 SE61
 SE62
 SE63
 SE64
+SE65
+SE66
 SE71
 SE72
 SE73
 SE74
+SE75
+SE76
 SE82
 SE83
 SE84
@@ -238,6 +260,9 @@ SK16
 SK24
 SK25
 SK26
+SK30
+SK40
+SK50
 SM81
 SM82
 SM83
@@ -297,6 +322,9 @@ SO24
 SO25
 SO28
 SO29
+SO30
+SO31
+SO32
 SO40
 SO41
 SO42
@@ -339,12 +367,18 @@ SP22
 SP30
 SP31
 SP32
+SP38
+SP39
 SP40
 SP41
 SP42
+SP48
+SP49
 SP50
 SP51
 SP52
+SP58
+SP59
 SP73
 SP74
 SP75
@@ -394,6 +428,7 @@ SU22
 SU23
 SU24
 SU25
+SU29
 SU30
 SU31
 SU32
@@ -536,15 +571,6 @@ SZ38
 SZ39
 SZ48
 SZ49
-TL87
-TL88
-TL89
-TL97
-TL98
-TL99
-TM07
-TM08
-TM09
 TQ00
 TQ01
 TQ02
@@ -575,9 +601,11 @@ TQ43
 TQ50
 TQ51
 TQ52
+TQ53
 TQ60
 TQ61
 TQ62
+TQ63
 TQ70
 TQ71
 TQ72

@@ -3,23 +3,14 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Lebia (Lebia) cruxminor 10km
 Description=Check coordinate against known 10km distribution of Lebia (Lebia) cruxminor
-ErrorMsg=Coordinate outside know range for Lebia (Lebia) cruxminor
+ErrorMsg=Coordinate outside known range for Lebia (Lebia) cruxminor
 DataFieldName=Species
 DataRecordId=NHMSYS0001718728
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-NY24
-NY25
-NY26
-NY34
-NY35
-NY36
-NY44
-NY45
-NY46
 SH60
 SH61
 SH62
@@ -29,62 +20,23 @@ SH72
 SH80
 SH81
 SH82
-SU20
-SU30
-SU40
-SU86
-SU87
-SU88
-SU96
-SU97
-SU98
-SX06
-SX07
-SX08
 SX16
 SX17
 SX18
-SX19
 SX26
 SX27
 SX28
-SX29
 SX36
 SX37
 SX38
-SX39
-SZ28
-SZ29
-SZ38
-SZ39
-SZ48
-SZ49
-TQ04
-TQ05
-TQ06
-TQ07
-TQ08
-TQ14
-TQ15
-TQ16
 TQ20
 TQ21
 TQ22
-TQ24
-TQ25
-TQ26
-TQ27
 TQ30
 TQ31
 TQ32
-TQ35
-TQ36
-TQ37
 TQ40
 TQ41
 TQ42
-TQ45
-TQ46
-TQ47
 
 

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Melampophylax mucoreus 10km
 Description=Check coordinate against known 10km distribution of Melampophylax mucoreus
-ErrorMsg=Coordinate outside know range for Melampophylax mucoreus
+ErrorMsg=Coordinate outside known range for Melampophylax mucoreus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008449
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -174,6 +174,7 @@ NY86
 NY87
 NY88
 NY89
+NY95
 NY96
 NY97
 NY98
@@ -181,11 +182,16 @@ NY99
 NZ00
 NZ01
 NZ02
+NZ05
+NZ06
+NZ07
 NZ08
 NZ09
 NZ10
 NZ11
 NZ12
+NZ15
+NZ16
 NZ17
 NZ18
 NZ19
@@ -204,10 +210,17 @@ NZ39
 NZ70
 NZ80
 NZ90
+SD56
+SD57
+SD58
+SD66
+SD67
+SD68
 SD69
 SD75
 SD76
 SD77
+SD78
 SD79
 SD84
 SD85
@@ -295,15 +308,18 @@ SJ15
 SJ16
 SJ17
 SJ18
+SJ20
 SJ24
 SJ25
 SJ26
 SJ27
 SJ28
+SJ30
 SJ34
 SJ35
 SJ36
 SJ37
+SJ40
 SJ44
 SJ45
 SJ46
@@ -352,6 +368,12 @@ SK59
 SK90
 SK91
 SK92
+SO28
+SO29
+SO38
+SO39
+SO48
+SO49
 SO66
 SO67
 SO68
@@ -387,14 +409,17 @@ ST04
 ST52
 ST53
 ST54
+ST55
 ST60
 ST62
 ST63
 ST64
+ST65
 ST70
 ST72
 ST73
 ST74
+ST75
 ST76
 ST77
 ST78

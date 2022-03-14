@@ -3,16 +3,17 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Schendyla peyerimhoffi 10km
 Description=Check coordinate against known 10km distribution of Schendyla peyerimhoffi
-ErrorMsg=Coordinate outside know range for Schendyla peyerimhoffi
+ErrorMsg=Coordinate outside known range for Schendyla peyerimhoffi
 DataFieldName=Species
 DataRecordId=NHMSYS0000570601
-LastChanged=20130429
+LastChanged=20180314
 [EndMetadata]
 
 
 [10km_GB]
 SC26
 SH46
+SS44
 SS48
 SS49
 SS58
@@ -22,7 +23,9 @@ SV80
 SV91
 SW53
 SW72
+SX25
 SX64
+SX73
 SX85
 SX97
 SX98

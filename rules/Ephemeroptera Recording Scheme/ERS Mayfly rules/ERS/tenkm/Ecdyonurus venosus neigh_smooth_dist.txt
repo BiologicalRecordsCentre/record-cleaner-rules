@@ -3,21 +3,29 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Ecdyonurus venosus 10km
 Description=Check coordinate against known 10km distribution of Ecdyonurus venosus
-ErrorMsg=Coordinate outside know range for Ecdyonurus venosus
+ErrorMsg=Coordinate outside known range for Ecdyonurus venosus
 DataFieldName=Species
 DataRecordId=NBNSYS0000010881
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
 [10km_GB]
+NC95
+NC96
 ND01
 ND02
 ND03
 ND04
+ND05
+ND06
+ND07
 ND12
 ND13
 ND14
+ND15
+ND16
+ND17
 ND23
 ND24
 NH01
@@ -51,6 +59,7 @@ NJ42
 NJ43
 NJ44
 NJ45
+NJ50
 NJ53
 NJ54
 NJ55
@@ -76,6 +85,21 @@ NN89
 NN90
 NN99
 NO00
+NO06
+NO07
+NO08
+NO16
+NO17
+NO18
+NO26
+NO27
+NO28
+NO38
+NO39
+NO48
+NO49
+NO58
+NO59
 NS81
 NS82
 NS83
@@ -210,6 +234,7 @@ SJ35
 SJ43
 SJ44
 SJ45
+SN50
 SN51
 SN52
 SN53
@@ -251,11 +276,14 @@ SO78
 SO86
 SO87
 SO88
+SS59
 SS63
 SS64
+SS69
 SS73
 SS74
 SS75
+SS79
 SS83
 SS84
 SS93

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Acupalpus maculatus 10km
 Description=Check coordinate against known 10km distribution of Acupalpus maculatus
-ErrorMsg=Coordinate outside know range for Acupalpus maculatus
+ErrorMsg=Coordinate outside known range for Acupalpus maculatus
 DataFieldName=Species
 DataRecordId=NHMSYS0001716498
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 

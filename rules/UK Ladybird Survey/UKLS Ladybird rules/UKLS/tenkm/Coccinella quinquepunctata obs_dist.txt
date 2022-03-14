@@ -3,21 +3,21 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Coccinella quinquepunctata 10km
 Description=Check coordinate against known 10km distribution of Coccinella quinquepunctata
-ErrorMsg=Coordinate outside know range for Coccinella quinquepunctata
+ErrorMsg=Coordinate outside known range for Coccinella quinquepunctata
 DataFieldName=Species
 DataRecordId=NBNSYS0000008323
-LastChanged=20130430
+LastChanged=20180314
 [EndMetadata]
 
 
 [10km_GB]
+NH22
 NH33
+NH70
 NH80
 NH81
-NH90
 NH91
 NH92
-NJ02
 NJ12
 NJ13
 NJ22
@@ -25,12 +25,15 @@ NJ24
 NJ26
 NJ35
 NJ36
+NJ80
 NN59
 NN79
 NN95
+NO39
+NO59
+NO79
+NO89
 NX09
-NZ81
-SE65
 SJ20
 SN34
 SN52
@@ -44,12 +47,12 @@ SN68
 SN73
 SN96
 SO08
+SO13
+SO14
 SO19
+SO21
 SO24
 SO32
 SP09
-SU16
-SX56
-SY29
 
 

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Cylindroiulus britannicus 10km
 Description=Check coordinate against known 10km distribution of Cylindroiulus britannicus
-ErrorMsg=Coordinate outside know range for Cylindroiulus britannicus
+ErrorMsg=Coordinate outside known range for Cylindroiulus britannicus
 DataFieldName=Species
 DataRecordId=NBNSYS0000011394
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

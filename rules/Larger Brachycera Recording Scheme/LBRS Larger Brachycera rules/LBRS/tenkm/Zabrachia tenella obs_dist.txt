@@ -3,16 +3,18 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Zabrachia tenella 10km
 Description=Check coordinate against known 10km distribution of Zabrachia tenella
-ErrorMsg=Coordinate outside know range for Zabrachia tenella
+ErrorMsg=Coordinate outside known range for Zabrachia tenella
 DataFieldName=Species
 DataRecordId=NBNSYS0000159204
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
 SU23
 TL14
+TL33
 TL87
+TQ17
 
 

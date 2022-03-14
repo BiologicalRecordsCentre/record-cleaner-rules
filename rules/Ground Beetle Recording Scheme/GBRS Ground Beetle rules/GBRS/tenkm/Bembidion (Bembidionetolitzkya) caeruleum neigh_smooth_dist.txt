@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Bembidion (Bembidionetolitzkya) caeruleum 10km
 Description=Check coordinate against known 10km distribution of Bembidion (Bembidionetolitzkya) caeruleum
-ErrorMsg=Coordinate outside know range for Bembidion (Bembidionetolitzkya) caeruleum
+ErrorMsg=Coordinate outside known range for Bembidion (Bembidionetolitzkya) caeruleum
 DataFieldName=Species
 DataRecordId=NHMSYS0001717147
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 

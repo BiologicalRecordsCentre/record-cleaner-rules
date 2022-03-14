@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Hydroptila tineoides 10km
 Description=Check coordinate against known 10km distribution of Hydroptila tineoides
-ErrorMsg=Coordinate outside know range for Hydroptila tineoides
+ErrorMsg=Coordinate outside known range for Hydroptila tineoides
 DataFieldName=Species
 DataRecordId=NBNSYS0000008363
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -173,20 +173,48 @@ SE14
 SE15
 SE16
 SE17
+SE53
+SE54
+SE55
+SE63
+SE64
+SE65
+SE73
+SE74
+SE75
+SE83
+SE84
+SE85
+SE93
+SE94
+SE95
 SH27
 SH28
 SH36
 SH37
 SH38
+SH45
 SH46
 SH47
 SH48
+SH55
 SH56
 SH57
 SH58
+SH64
+SH65
 SH66
 SH67
 SH68
+SH74
+SH75
+SH76
+SH77
+SH78
+SH84
+SH85
+SH86
+SH87
 SJ94
 SJ95
 SJ96
@@ -208,7 +236,11 @@ SK36
 SK37
 SK38
 SK40
+SK41
 SK50
+SK51
+SK60
+SK61
 SN70
 SN71
 SN72
@@ -233,6 +265,8 @@ SP48
 SP49
 SP58
 SP59
+SP68
+SP69
 SU15
 SU16
 SU17

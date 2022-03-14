@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Trachelipus rathkii 10km
 Description=Check coordinate against known 10km distribution of Trachelipus rathkii
-ErrorMsg=Coordinate outside know range for Trachelipus rathkii
+ErrorMsg=Coordinate outside known range for Trachelipus rathkii
 DataFieldName=Species
 DataRecordId=NHMSYS0001593918
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

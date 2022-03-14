@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Haematopota bigoti 10km
 Description=Check coordinate against known 10km distribution of Haematopota bigoti
-ErrorMsg=Coordinate outside know range for Haematopota bigoti
+ErrorMsg=Coordinate outside known range for Haematopota bigoti
 DataFieldName=Species
 DataRecordId=NBNSYS0000007871
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
@@ -17,16 +17,14 @@ SD17
 SD38
 SD47
 SS49
-ST35
-ST36
-ST59
-SU70
+SY29
+TA30
+TF49
 TF94
 TM01
 TM02
 TM13
 TQ67
-TQ77
 TQ78
 
 

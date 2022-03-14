@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Metatrichoniscoides leydigii 10km
 Description=Check coordinate against known 10km distribution of Metatrichoniscoides leydigii
-ErrorMsg=Coordinate outside know range for Metatrichoniscoides leydigii
+ErrorMsg=Coordinate outside known range for Metatrichoniscoides leydigii
 DataFieldName=Species
 DataRecordId=NHMSYS0020302565
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

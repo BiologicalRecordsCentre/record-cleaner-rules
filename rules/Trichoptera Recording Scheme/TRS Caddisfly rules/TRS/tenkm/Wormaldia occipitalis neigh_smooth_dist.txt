@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Wormaldia occipitalis 10km
 Description=Check coordinate against known 10km distribution of Wormaldia occipitalis
-ErrorMsg=Coordinate outside know range for Wormaldia occipitalis
+ErrorMsg=Coordinate outside known range for Wormaldia occipitalis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008382
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -19,6 +19,33 @@ NC02
 NC10
 NC11
 NC12
+NH20
+NH21
+NH22
+NH30
+NH31
+NH32
+NH40
+NH41
+NH42
+NH94
+NH95
+NH96
+NJ01
+NJ02
+NJ03
+NJ04
+NJ05
+NJ06
+NJ11
+NJ12
+NJ13
+NJ14
+NJ15
+NJ16
+NJ21
+NJ22
+NJ23
 NM35
 NM37
 NM38
@@ -323,6 +350,9 @@ SD29
 SD37
 SD38
 SD39
+SD44
+SD45
+SD46
 SD47
 SD48
 SD49
@@ -503,6 +533,7 @@ SJ16
 SJ17
 SJ18
 SJ19
+SJ20
 SJ21
 SJ22
 SJ23
@@ -878,9 +909,11 @@ SW76
 SW84
 SW85
 SW86
+SW87
 SW94
 SW95
 SW96
+SW97
 SX06
 SX07
 SX08

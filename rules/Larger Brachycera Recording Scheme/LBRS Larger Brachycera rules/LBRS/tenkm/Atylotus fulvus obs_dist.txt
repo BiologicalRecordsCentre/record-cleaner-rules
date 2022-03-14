@@ -3,39 +3,34 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Atylotus fulvus 10km
 Description=Check coordinate against known 10km distribution of Atylotus fulvus
-ErrorMsg=Coordinate outside know range for Atylotus fulvus
+ErrorMsg=Coordinate outside known range for Atylotus fulvus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007875
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
+NM31
+NM42
 NY10
 SD29
 SD39
-SM93
-SN31
+SH75
 SN40
-SN45
-SN54
-SN61
 SN63
 SN71
 SO00
-SS84
+SS89
+ST34
 SU10
 SU11
 SU20
-SU21
 SU30
-SU73
 SU94
-SX18
 SY89
 SY98
 SZ08
 SZ29
-TQ86
 
 

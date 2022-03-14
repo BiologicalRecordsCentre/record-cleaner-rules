@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Ommatoiulus sabulosus 10km
 Description=Check coordinate against known 10km distribution of Ommatoiulus sabulosus
-ErrorMsg=Coordinate outside know range for Ommatoiulus sabulosus
+ErrorMsg=Coordinate outside known range for Ommatoiulus sabulosus
 DataFieldName=Species
 DataRecordId=NBNSYS0000011385
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

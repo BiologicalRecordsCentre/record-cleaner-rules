@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Haplophthalmus danicus 10km
 Description=Check coordinate against known 10km distribution of Haplophthalmus danicus
-ErrorMsg=Coordinate outside know range for Haplophthalmus danicus
+ErrorMsg=Coordinate outside known range for Haplophthalmus danicus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008546
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

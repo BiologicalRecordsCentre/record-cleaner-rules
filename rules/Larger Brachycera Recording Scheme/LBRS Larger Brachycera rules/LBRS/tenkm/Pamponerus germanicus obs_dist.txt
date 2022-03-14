@@ -3,25 +3,22 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Pamponerus germanicus 10km
 Description=Check coordinate against known 10km distribution of Pamponerus germanicus
-ErrorMsg=Coordinate outside know range for Pamponerus germanicus
+ErrorMsg=Coordinate outside known range for Pamponerus germanicus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007905
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
 NJ06
-NX15
-NX40
 NY15
-SC28
+NZ29
 SD17
 SD27
-SD38
 SH33
-SH36
 SH46
+SH52
 SH53
 SN20
 SN30

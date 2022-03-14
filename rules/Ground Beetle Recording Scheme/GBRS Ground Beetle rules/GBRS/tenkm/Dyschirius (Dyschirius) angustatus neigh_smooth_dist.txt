@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Dyschirius (Dyschirius) angustatus 10km
 Description=Check coordinate against known 10km distribution of Dyschirius (Dyschirius) angustatus
-ErrorMsg=Coordinate outside know range for Dyschirius (Dyschirius) angustatus
+ErrorMsg=Coordinate outside known range for Dyschirius (Dyschirius) angustatus
 DataFieldName=Species
 DataRecordId=NHMSYS0001718012
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
@@ -29,31 +29,15 @@ NJ36
 NJ44
 NJ45
 NJ46
-NY04
-NY05
-NY06
-NY07
 NY14
 NY15
 NY16
-NY17
 NY24
 NY25
 NY26
-NY27
 NY34
 NY35
 NY36
-NY37
-NY45
-NY46
-NY47
-NY55
-NY56
-NY57
-NY65
-NY66
-NY67
 SU60
 SU61
 SU70
@@ -81,7 +65,6 @@ TQ79
 TQ80
 TQ81
 TQ82
-TQ83
 TQ91
 TQ92
 TQ93

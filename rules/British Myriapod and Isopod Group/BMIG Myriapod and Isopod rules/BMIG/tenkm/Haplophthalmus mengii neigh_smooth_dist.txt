@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Haplophthalmus mengii 10km
 Description=Check coordinate against known 10km distribution of Haplophthalmus mengii
-ErrorMsg=Coordinate outside know range for Haplophthalmus mengii
+ErrorMsg=Coordinate outside known range for Haplophthalmus mengii
 DataFieldName=Species
 DataRecordId=NHMSYS0020302562
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Siphlonurus lacustris 10km
 Description=Check coordinate against known 10km distribution of Siphlonurus lacustris
-ErrorMsg=Coordinate outside know range for Siphlonurus lacustris
+ErrorMsg=Coordinate outside known range for Siphlonurus lacustris
 DataFieldName=Species
 DataRecordId=NBNSYS0000010862
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
@@ -88,15 +88,30 @@ NH59
 NH60
 NH70
 NH80
+NH90
 NH91
 NH92
 NH93
+NJ00
 NJ01
 NJ02
 NJ03
+NJ10
 NJ11
 NJ12
 NJ13
+NJ14
+NJ15
+NJ20
+NJ23
+NJ24
+NJ25
+NJ30
+NJ33
+NJ34
+NJ35
+NJ40
+NJ50
 NM75
 NM76
 NM77
@@ -125,7 +140,17 @@ NN08
 NN09
 NN10
 NN11
+NN40
+NN46
+NN47
+NN48
+NN50
+NN56
+NN57
+NN58
 NN60
+NN66
+NN67
 NN68
 NN69
 NN70
@@ -140,9 +165,21 @@ NN92
 NO00
 NO01
 NO02
+NO08
+NO09
 NO10
 NO11
 NO12
+NO18
+NO19
+NO28
+NO29
+NO38
+NO39
+NO48
+NO49
+NO58
+NO59
 NR99
 NS09
 NS17
@@ -168,8 +205,17 @@ NS88
 NS89
 NS98
 NS99
+NT01
+NT02
+NT03
 NT10
+NT11
+NT12
+NT13
 NT20
+NT21
+NT22
+NT23
 NT30
 NT40
 NT41
@@ -282,12 +328,20 @@ SD69
 SD77
 SD78
 SD79
+SD86
 SD87
 SD88
 SD89
 SD90
+SD96
+SD97
+SD98
 SE00
+SE06
+SE07
+SE08
 SE10
+SE20
 SE48
 SE49
 SE58
@@ -306,12 +360,23 @@ SJ03
 SJ11
 SJ12
 SJ13
+SJ95
+SJ96
+SJ97
 SJ98
 SJ99
+SK05
+SK06
+SK07
 SK08
 SK09
+SK15
+SK16
+SK17
 SK18
 SK19
+SK28
+SK29
 SN01
 SN02
 SN03

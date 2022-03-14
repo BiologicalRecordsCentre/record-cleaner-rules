@@ -3,44 +3,36 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Ectobius panzeri 10km
 Description=Check coordinate against known 10km distribution of Ectobius panzeri
-ErrorMsg=Coordinate outside know range for Ectobius panzeri
+ErrorMsg=Coordinate outside known range for Ectobius panzeri
 DataFieldName=Species
 DataRecordId=NHMSYS0001387301
-LastChanged=20130430
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
 SH28
+SH32
 SH46
+SM62
 SM72
 SM80
 SM82
-SN20
-SR89
 SR99
+SS09
 SS14
-SS20
 SS43
-ST17
-ST60
 ST81
-SU00
-SU01
 SU10
-SU11
 SU14
 SU20
 SU21
-SU22
 SU25
 SU30
 SU40
-SU70
 SU75
 SU85
 SU86
-SU93
 SU98
 SV80
 SV81
@@ -68,25 +60,23 @@ SW81
 SW82
 SW83
 SX03
-SX15
 SX35
 SX44
-SX45
 SX54
 SX63
+SX64
 SX73
-SX74
 SX76
+SX77
 SX83
 SX84
-SX85
 SX87
 SX95
 SX96
 SX97
 SY08
-SY28
-SY39
+SY09
+SY19
 SY48
 SY58
 SY66
@@ -113,25 +103,22 @@ SZ47
 SZ48
 SZ49
 SZ57
+SZ68
+SZ69
 SZ79
-TG20
+TM01
 TM11
 TM23
-TM33
 TM45
 TM46
-TM59
-TQ16
+TQ01
 TQ30
 TQ81
 TQ86
-TQ91
 TR01
 TR02
 TR13
 TR15
-TR24
 TR35
-TR36
 
 

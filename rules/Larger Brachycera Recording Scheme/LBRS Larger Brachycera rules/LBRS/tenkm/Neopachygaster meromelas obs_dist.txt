@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Neopachygaster meromelas 10km
 Description=Check coordinate against known 10km distribution of Neopachygaster meromelas
-ErrorMsg=Coordinate outside know range for Neopachygaster meromelas
+ErrorMsg=Coordinate outside known range for Neopachygaster meromelas
 DataFieldName=Species
 DataRecordId=NBNSYS0100004215
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
@@ -15,25 +15,21 @@ NY43
 NZ43
 SE26
 SE40
-SE68
-SE70
 SJ51
 SK34
-SK38
+SK67
 ST66
-SU56
-SU66
+SY29
+SY98
 TF02
 TF10
 TL27
-TL54
 TL57
 TQ05
-TQ08
 TQ15
-TQ18
-TQ19
+TQ24
 TQ37
-TR06
+TQ38
+TQ39
 
 

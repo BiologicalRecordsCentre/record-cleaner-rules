@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Agrypnia crassicornis 10km
 Description=Check coordinate against known 10km distribution of Agrypnia crassicornis
-ErrorMsg=Coordinate outside know range for Agrypnia crassicornis
+ErrorMsg=Coordinate outside known range for Agrypnia crassicornis
 DataFieldName=Species
 DataRecordId=NHMSYS0020442287
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 

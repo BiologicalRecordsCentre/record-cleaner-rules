@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Harpalus (Harpalus) dimidiatus 10km
 Description=Check coordinate against known 10km distribution of Harpalus (Harpalus) dimidiatus
-ErrorMsg=Coordinate outside know range for Harpalus (Harpalus) dimidiatus
+ErrorMsg=Coordinate outside known range for Harpalus (Harpalus) dimidiatus
 DataFieldName=Species
 DataRecordId=NBNSYS0100003340
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
@@ -20,24 +20,15 @@ SO95
 SP03
 SP04
 SP05
-ST10
-ST20
 ST24
 ST25
 ST26
-ST30
-ST32
-ST33
 ST34
 ST35
 ST36
-ST42
-ST43
 ST44
 ST45
 ST46
-ST52
-ST53
 ST54
 ST55
 ST56
@@ -56,42 +47,12 @@ SU58
 SU66
 SU67
 SU68
-SU76
-SU77
-SU78
-SU86
-SU87
-SU88
-SU96
-SU97
-SU98
-SY18
-SY19
-SY28
-SY29
-SY38
-SY39
-SY48
-SY49
 SY58
-SY59
 SY66
 SY67
 SY68
-SY69
 SY77
 SY78
-SY79
-SY87
-SY88
-SY89
-SY97
-SY98
-SY99
-SZ07
-SZ08
-SZ09
-SZ19
 SZ47
 SZ48
 SZ57
@@ -100,19 +61,6 @@ SZ59
 SZ68
 SZ69
 SZ79
-TQ04
-TQ05
-TQ06
-TQ07
-TQ08
-TQ14
-TQ15
-TQ16
-TQ20
-TQ21
-TQ24
-TQ25
-TQ26
 TQ30
 TQ31
 TQ40
@@ -128,37 +76,23 @@ TQ55
 TQ63
 TQ64
 TQ65
-TQ67
-TQ68
-TQ69
-TQ70
-TQ71
 TQ77
 TQ78
 TQ79
-TQ80
-TQ81
-TQ82
 TQ85
 TQ86
 TQ87
 TQ88
 TQ89
-TQ91
-TQ92
 TQ95
 TQ96
 TQ97
 TQ98
 TQ99
-TR01
-TR02
 TR05
 TR06
 TR07
-TR08
 TV49
 TV59
-TV79
 
 

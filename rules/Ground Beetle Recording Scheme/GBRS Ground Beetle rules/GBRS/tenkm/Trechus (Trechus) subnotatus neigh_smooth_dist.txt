@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Trechus (Trechus) subnotatus 10km
 Description=Check coordinate against known 10km distribution of Trechus (Trechus) subnotatus
-ErrorMsg=Coordinate outside know range for Trechus (Trechus) subnotatus
+ErrorMsg=Coordinate outside known range for Trechus (Trechus) subnotatus
 DataFieldName=Species
 DataRecordId=NBNSYS0100005876
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
@@ -20,16 +20,9 @@ SE12
 SE20
 SE21
 SE22
-SE30
-SE31
-SE32
-SX56
-SX57
-SX58
 SX65
 SX66
 SX67
-SX68
 SX74
 SX75
 SX76

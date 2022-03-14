@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Clitarchus hookeri 10km
 Description=Check coordinate against known 10km distribution of Clitarchus hookeri
-ErrorMsg=Coordinate outside know range for Clitarchus hookeri
+ErrorMsg=Coordinate outside known range for Clitarchus hookeri
 DataFieldName=Species
 DataRecordId=NBNSYS0000006813
-LastChanged=20130430
+LastChanged=20180313
 [EndMetadata]
 
 

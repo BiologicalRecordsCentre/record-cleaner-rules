@@ -3,18 +3,18 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Chrysops sepulcralis 10km
 Description=Check coordinate against known 10km distribution of Chrysops sepulcralis
-ErrorMsg=Coordinate outside know range for Chrysops sepulcralis
+ErrorMsg=Coordinate outside known range for Chrysops sepulcralis
 DataFieldName=Species
 DataRecordId=NBNSYS0000007869
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
+NX37
 NY08
-SU00
+NY32
 SU10
-SU20
 SU30
 SU32
 SY88

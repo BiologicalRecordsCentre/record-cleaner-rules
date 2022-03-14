@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Haplopodoiulus spathifer 10km
 Description=Check coordinate against known 10km distribution of Haplopodoiulus spathifer
-ErrorMsg=Coordinate outside know range for Haplopodoiulus spathifer
+ErrorMsg=Coordinate outside known range for Haplopodoiulus spathifer
 DataFieldName=Species
 DataRecordId=NHMSYS0000356254
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

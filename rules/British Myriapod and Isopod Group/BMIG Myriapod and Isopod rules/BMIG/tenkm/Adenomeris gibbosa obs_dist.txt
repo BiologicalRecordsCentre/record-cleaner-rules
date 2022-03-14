@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Adenomeris gibbosa 10km
 Description=Check coordinate against known 10km distribution of Adenomeris gibbosa
-ErrorMsg=Coordinate outside know range for Adenomeris gibbosa
+ErrorMsg=Coordinate outside known range for Adenomeris gibbosa
 DataFieldName=Species
 DataRecordId=NHMSYS0000356222
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

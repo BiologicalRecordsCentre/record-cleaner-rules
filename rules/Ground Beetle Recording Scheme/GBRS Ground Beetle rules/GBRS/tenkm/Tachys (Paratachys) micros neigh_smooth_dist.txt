@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Tachys (Paratachys) micros 10km
 Description=Check coordinate against known 10km distribution of Tachys (Paratachys) micros
-ErrorMsg=Coordinate outside know range for Tachys (Paratachys) micros
+ErrorMsg=Coordinate outside known range for Tachys (Paratachys) micros
 DataFieldName=Species
 DataRecordId=NHMSYS0001720304
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
@@ -21,14 +21,6 @@ ST20
 ST30
 ST40
 ST50
-SU10
-SU11
-SU20
-SU21
-SU30
-SU31
-SU40
-SU41
 SY28
 SY29
 SY38
@@ -37,24 +29,5 @@ SY48
 SY49
 SY58
 SY59
-SZ19
-SZ29
-SZ39
-SZ49
-TQ70
-TQ71
-TQ72
-TQ80
-TQ81
-TQ82
-TQ91
-TQ92
-TQ93
-TR01
-TR02
-TR03
-TR12
-TR13
-TV79
 
 

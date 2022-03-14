@@ -3,34 +3,24 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Gryllus campestris 10km
 Description=Check coordinate against known 10km distribution of Gryllus campestris
-ErrorMsg=Coordinate outside know range for Gryllus campestris
+ErrorMsg=Coordinate outside known range for Gryllus campestris
 DataFieldName=Species
 DataRecordId=NHMSYS0001387363
-LastChanged=20130430
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-SP72
 ST94
 SU40
 SU73
-SU79
 SU82
-SU83
 SU84
 SU91
-SU92
-SU94
-SZ19
 SZ58
-TL96
 TQ00
-TQ01
 TQ35
-TQ37
 TQ67
-TQ81
 TQ98
 
 

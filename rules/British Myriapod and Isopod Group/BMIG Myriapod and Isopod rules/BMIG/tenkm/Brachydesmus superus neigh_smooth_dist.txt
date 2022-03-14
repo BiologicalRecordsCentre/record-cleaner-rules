@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Brachydesmus superus 10km
 Description=Check coordinate against known 10km distribution of Brachydesmus superus
-ErrorMsg=Coordinate outside know range for Brachydesmus superus
+ErrorMsg=Coordinate outside known range for Brachydesmus superus
 DataFieldName=Species
 DataRecordId=NBNSYS0000011372
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

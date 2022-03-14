@@ -3,42 +3,34 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Lasiopogon cinctus 10km
 Description=Check coordinate against known 10km distribution of Lasiopogon cinctus
-ErrorMsg=Coordinate outside know range for Lasiopogon cinctus
+ErrorMsg=Coordinate outside known range for Lasiopogon cinctus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007921
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
+SE60
 SE66
 SE74
 SE80
+SE83
 SE88
 SJ53
 SJ56
 SJ66
-SK38
-SK58
 SN20
 SN30
 SN40
-SN76
-SO57
-SO75
 SO87
 SO88
 SS49
-SS58
 SS78
-SS87
 SS88
 ST66
 SU30
-SU42
-SU45
 SU72
-SU73
 SU75
 SU83
 SU84
@@ -48,10 +40,8 @@ SU93
 SU94
 SU95
 SU96
-SX73
 TF62
 TL77
-TL78
 TL79
 TL87
 TL88

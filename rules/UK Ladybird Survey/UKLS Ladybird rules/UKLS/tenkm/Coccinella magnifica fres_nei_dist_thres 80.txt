@@ -3,15 +3,16 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Coccinella magnifica 10km
 Description=Check coordinate against known 10km distribution of Coccinella magnifica
-ErrorMsg=Coordinate outside know range for Coccinella magnifica
+ErrorMsg=Coordinate outside known range for Coccinella magnifica
 DataFieldName=Species
 DataRecordId=NBNSYS0000008321
-LastChanged=20130430
+LastChanged=20180314
 [EndMetadata]
 
 
 [10km_GB]
 SU00
+SU01
 SU10
 SU11
 SU20
@@ -30,13 +31,13 @@ SU83
 SU84
 SU85
 SU86
-SU91
 SU93
 SU94
 SU95
 SU96
 SU97
 SU98
+SX88
 SY78
 SY88
 SY89
@@ -48,22 +49,16 @@ SZ19
 SZ29
 SZ39
 SZ49
-TQ01
+SZ58
 TQ04
 TQ05
 TQ06
 TQ08
 TQ14
-TQ15
 TQ16
-TQ17
 TQ25
-TQ26
-TQ27
 TQ35
-TQ36
 TQ45
-TQ46
 TQ47
 TQ54
 TQ55
@@ -72,8 +67,11 @@ TQ57
 TQ63
 TQ64
 TQ65
+TQ72
+TQ73
 TQ74
 TQ75
+TQ82
 TQ83
 TQ84
 TQ92

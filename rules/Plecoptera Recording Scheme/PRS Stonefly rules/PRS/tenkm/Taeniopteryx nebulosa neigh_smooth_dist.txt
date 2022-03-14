@@ -3,14 +3,49 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Taeniopteryx nebulosa 10km
 Description=Check coordinate against known 10km distribution of Taeniopteryx nebulosa
-ErrorMsg=Coordinate outside know range for Taeniopteryx nebulosa
+ErrorMsg=Coordinate outside known range for Taeniopteryx nebulosa
 DataFieldName=Species
 DataRecordId=NBNSYS0000022416
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
 [10km_GB]
+NH21
+NH22
+NH23
+NH31
+NH32
+NH33
+NH41
+NH42
+NH43
+NH90
+NH91
+NH92
+NJ00
+NJ01
+NJ02
+NJ10
+NJ11
+NJ12
+NJ94
+NJ95
+NJ96
+NK04
+NK05
+NK06
+NK14
+NK15
+NN97
+NN98
+NN99
+NO07
+NO08
+NO09
+NO17
+NO18
+NO19
 NT70
 NT80
 NT90
@@ -436,12 +471,15 @@ SP96
 SP97
 SP98
 SP99
+SS40
 SS41
 SS42
 SS43
+SS50
 SS51
 SS52
 SS53
+SS60
 SS61
 SS62
 SS63
@@ -480,6 +518,12 @@ SU96
 SU97
 SU98
 SU99
+SX48
+SX49
+SX58
+SX59
+SX68
+SX69
 SY99
 SZ09
 SZ19

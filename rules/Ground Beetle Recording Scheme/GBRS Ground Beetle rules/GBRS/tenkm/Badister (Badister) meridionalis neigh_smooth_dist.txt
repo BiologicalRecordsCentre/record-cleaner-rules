@@ -3,34 +3,20 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Badister (Badister) meridionalis 10km
 Description=Check coordinate against known 10km distribution of Badister (Badister) meridionalis
-ErrorMsg=Coordinate outside know range for Badister (Badister) meridionalis
+ErrorMsg=Coordinate outside known range for Badister (Badister) meridionalis
 DataFieldName=Species
 DataRecordId=NHMSYS0001717110
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-NH60
-NH61
-NH70
-NH71
-NH80
-NH81
-NN69
-NN79
-NN89
-SO72
-SO73
-SO74
 SO81
 SO82
 SO83
-SO84
 SO91
 SO92
 SO93
-SO94
 SP01
 SP02
 SP03
@@ -55,9 +41,6 @@ ST33
 ST41
 ST42
 ST43
-SU49
-SU59
-SU69
 TQ40
 TQ41
 TQ50

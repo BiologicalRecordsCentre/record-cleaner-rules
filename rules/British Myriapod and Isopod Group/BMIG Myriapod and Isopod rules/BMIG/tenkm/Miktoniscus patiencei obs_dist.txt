@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Miktoniscus patiencei 10km
 Description=Check coordinate against known 10km distribution of Miktoniscus patiencei
-ErrorMsg=Coordinate outside know range for Miktoniscus patiencei
+ErrorMsg=Coordinate outside known range for Miktoniscus patiencei
 DataFieldName=Species
 DataRecordId=NBNSYS0000008550
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

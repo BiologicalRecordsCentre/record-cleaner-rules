@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Chordeuma sylvestre 10km
 Description=Check coordinate against known 10km distribution of Chordeuma sylvestre
-ErrorMsg=Coordinate outside know range for Chordeuma sylvestre
+ErrorMsg=Coordinate outside known range for Chordeuma sylvestre
 DataFieldName=Species
 DataRecordId=NHMSYS0000356235
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

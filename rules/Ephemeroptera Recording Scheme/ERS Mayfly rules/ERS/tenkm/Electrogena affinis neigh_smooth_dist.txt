@@ -3,14 +3,29 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Electrogena affinis 10km
 Description=Check coordinate against known 10km distribution of Electrogena affinis
-ErrorMsg=Coordinate outside know range for Electrogena affinis
+ErrorMsg=Coordinate outside known range for Electrogena affinis
 DataFieldName=Species
 DataRecordId=NBNSYS0100002943
-LastChanged=20130426
+LastChanged=20180322
 [EndMetadata]
 
 
 [10km_GB]
+SE65
+SE66
+SE67
+SE68
+SE75
+SE76
+SE77
+SE78
+SE85
+SE86
+SE87
+SE88
+SE96
+SE97
+SE98
 SH43
 SH44
 SH45

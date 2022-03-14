@@ -3,16 +3,17 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Machimus cowini 10km
 Description=Check coordinate against known 10km distribution of Machimus cowini
-ErrorMsg=Coordinate outside know range for Machimus cowini
+ErrorMsg=Coordinate outside known range for Machimus cowini
 DataFieldName=Species
 DataRecordId=NBNSYS0100003862
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
 NX40
+SD37
+SD47
 SD48
-SU20
 
 

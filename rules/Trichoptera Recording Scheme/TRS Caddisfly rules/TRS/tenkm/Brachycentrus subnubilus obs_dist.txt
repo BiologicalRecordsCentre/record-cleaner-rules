@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Brachycentrus subnubilus 10km
 Description=Check coordinate against known 10km distribution of Brachycentrus subnubilus
-ErrorMsg=Coordinate outside know range for Brachycentrus subnubilus
+ErrorMsg=Coordinate outside known range for Brachycentrus subnubilus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008433
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
@@ -18,6 +18,7 @@ NC21
 NC30
 NC40
 NC44
+NC53
 NC55
 NC62
 NC63
@@ -49,6 +50,7 @@ NH33
 NH35
 NH44
 NH45
+NH49
 NH50
 NH54
 NH55
@@ -111,6 +113,7 @@ NN95
 NN96
 NO01
 NO02
+NO03
 NO04
 NO07
 NO08
@@ -208,8 +211,10 @@ NY54
 NY56
 NY62
 NY73
+NY74
 NY82
 NY92
+NY95
 NZ01
 NZ02
 NZ05
@@ -224,6 +229,8 @@ NZ24
 NZ31
 NZ80
 SD53
+SD56
+SD66
 SD74
 SD96
 SD97
@@ -330,6 +337,7 @@ SK27
 SK33
 SK34
 SK35
+SK41
 SK84
 SK85
 SK90
@@ -401,6 +409,7 @@ SO84
 SO85
 SO86
 SO87
+SO92
 SO97
 SP00
 SP01
@@ -424,6 +433,7 @@ SP41
 SP42
 SP43
 SP44
+SP49
 SP66
 SP76
 SP84
@@ -511,14 +521,18 @@ SY88
 SY89
 SY98
 SZ09
+SZ19
 TA07
 TL07
 TL09
+TL15
 TL45
 TQ01
 TQ05
 TQ06
 TQ11
+TQ32
+TQ41
 TQ43
 TQ53
 TQ54

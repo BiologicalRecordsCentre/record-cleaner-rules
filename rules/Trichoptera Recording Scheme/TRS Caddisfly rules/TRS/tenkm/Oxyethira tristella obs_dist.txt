@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Oxyethira tristella 10km
 Description=Check coordinate against known 10km distribution of Oxyethira tristella
-ErrorMsg=Coordinate outside know range for Oxyethira tristella
+ErrorMsg=Coordinate outside known range for Oxyethira tristella
 DataFieldName=Species
 DataRecordId=NBNSYS0000008373
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 

@@ -3,42 +3,32 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Tabanus cordiger 10km
 Description=Check coordinate against known 10km distribution of Tabanus cordiger
-ErrorMsg=Coordinate outside know range for Tabanus cordiger
+ErrorMsg=Coordinate outside known range for Tabanus cordiger
 DataFieldName=Species
 DataRecordId=NBNSYS0000007893
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-NH81
 NY22
 NY34
 NY35
 NY44
 NY71
-NZ03
-SH56
 SJ34
 SK01
 SN34
 SN53
-SN57
 SN62
-SN73
-SO00
 SO30
-SO37
 SS51
-SS83
 SS90
-SU10
 SU20
 SU72
-SU76
-SW72
 SX87
 SY08
+SY09
 SY89
 SZ39
 

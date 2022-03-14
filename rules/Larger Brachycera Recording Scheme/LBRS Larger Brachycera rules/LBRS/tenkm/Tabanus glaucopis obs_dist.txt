@@ -3,18 +3,15 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Tabanus glaucopis 10km
 Description=Check coordinate against known 10km distribution of Tabanus glaucopis
-ErrorMsg=Coordinate outside know range for Tabanus glaucopis
+ErrorMsg=Coordinate outside known range for Tabanus glaucopis
 DataFieldName=Species
 DataRecordId=NBNSYS0000007894
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
-SP61
 SU42
-SU45
-SU46
 SU79
 TQ04
 TQ15

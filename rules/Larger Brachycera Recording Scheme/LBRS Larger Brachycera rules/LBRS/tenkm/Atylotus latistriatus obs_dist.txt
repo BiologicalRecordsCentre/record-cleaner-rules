@@ -3,18 +3,16 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Atylotus latistriatus 10km
 Description=Check coordinate against known 10km distribution of Atylotus latistriatus
-ErrorMsg=Coordinate outside know range for Atylotus latistriatus
+ErrorMsg=Coordinate outside known range for Atylotus latistriatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007876
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
 SU40
 SU60
-SU70
-SU80
 SY98
 SZ08
 SZ39
@@ -26,7 +24,6 @@ TF84
 TF94
 TL90
 TL91
-TM00
 TM01
 TM03
 TM11
@@ -35,6 +32,7 @@ TM22
 TM23
 TQ87
 TQ89
+TQ96
 TQ97
 TQ99
 TR06

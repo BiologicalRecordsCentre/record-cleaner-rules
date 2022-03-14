@@ -3,16 +3,17 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Rhagio annulatus 10km
 Description=Check coordinate against known 10km distribution of Rhagio annulatus
-ErrorMsg=Coordinate outside know range for Rhagio annulatus
+ErrorMsg=Coordinate outside known range for Rhagio annulatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000007861
-LastChanged=20130501
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
+HY41
 NN50
-SY88
+SU79
 TQ11
 TQ35
 TQ44

@@ -3,14 +3,16 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Holocentropus picicornis 10km
 Description=Check coordinate against known 10km distribution of Holocentropus picicornis
-ErrorMsg=Coordinate outside know range for Holocentropus picicornis
+ErrorMsg=Coordinate outside known range for Holocentropus picicornis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008403
-LastChanged=20130502
+LastChanged=20180327
 [EndMetadata]
 
 
 [10km_GB]
+NH60
+NH61
 NH70
 NH71
 NH80
@@ -51,6 +53,7 @@ NN65
 NN66
 NN67
 NN68
+NN69
 NN70
 NN71
 NN72
@@ -166,15 +169,20 @@ NY29
 NY32
 NY33
 NY34
+NY41
 NY42
 NY43
 NY44
+NY51
 NY52
 NY53
 NY54
 NY55
 NY56
 NY57
+NY61
+NY62
+NY63
 NY65
 NY66
 NY67
@@ -199,9 +207,14 @@ NZ31
 NZ32
 NZ33
 NZ34
+NZ40
+NZ41
 NZ42
 NZ43
 NZ44
+NZ50
+NZ51
+NZ52
 SC16
 SC17
 SC26
@@ -249,20 +262,28 @@ SE33
 SE34
 SE35
 SE40
+SE41
 SE50
+SE51
 SE52
 SE53
 SE54
+SE55
+SE56
 SE60
 SE61
 SE62
 SE63
 SE64
+SE65
+SE66
 SE70
 SE71
 SE72
 SE73
 SE74
+SE75
+SE76
 SE80
 SE81
 SE82
@@ -581,8 +602,14 @@ SP99
 SR89
 SR99
 SS09
+ST07
+ST08
+ST09
 ST13
 ST14
+ST17
+ST18
+ST19
 ST22
 ST23
 ST24
@@ -739,6 +766,8 @@ TF61
 TF70
 TF80
 TF90
+TG10
+TG11
 TG20
 TG21
 TG22
@@ -842,6 +871,7 @@ TQ05
 TQ06
 TQ07
 TQ08
+TQ09
 TQ15
 TQ16
 TQ17
@@ -855,12 +885,17 @@ TQ29
 TQ32
 TQ33
 TQ34
+TQ35
+TQ36
 TQ37
 TQ38
 TQ39
 TQ42
 TQ43
 TQ44
+TQ45
+TQ46
+TQ47
 TQ49
 TQ50
 TQ51

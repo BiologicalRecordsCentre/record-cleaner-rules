@@ -3,14 +3,23 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Schistocerca gregaria 10km
 Description=Check coordinate against known 10km distribution of Schistocerca gregaria
-ErrorMsg=Coordinate outside know range for Schistocerca gregaria
+ErrorMsg=Coordinate outside known range for Schistocerca gregaria
 DataFieldName=Species
 DataRecordId=NHMSYS0000377682
-LastChanged=20130430
+LastChanged=20180313
 [EndMetadata]
 
 
 [10km_GB]
+NO10
+NO20
+NO30
+NT18
+NT19
+NT28
+NT29
+NT38
+NT39
 SD30
 SD31
 SD40
@@ -47,5 +56,14 @@ TM15
 TM23
 TM24
 TM25
+TM26
+TM27
+TM28
+TM36
+TM37
+TM38
+TM46
+TM47
+TM48
 
 

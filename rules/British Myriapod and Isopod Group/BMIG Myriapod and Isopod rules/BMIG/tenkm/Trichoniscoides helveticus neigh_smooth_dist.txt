@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Trichoniscoides helveticus 10km
 Description=Check coordinate against known 10km distribution of Trichoniscoides helveticus
-ErrorMsg=Coordinate outside know range for Trichoniscoides helveticus
+ErrorMsg=Coordinate outside known range for Trichoniscoides helveticus
 DataFieldName=Species
 DataRecordId=NHMSYS0001593924
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

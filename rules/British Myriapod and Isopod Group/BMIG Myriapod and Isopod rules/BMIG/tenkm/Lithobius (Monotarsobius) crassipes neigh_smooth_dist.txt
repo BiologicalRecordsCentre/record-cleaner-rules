@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Lithobius (Monotarsobius) crassipes 10km
 Description=Check coordinate against known 10km distribution of Lithobius (Monotarsobius) crassipes
-ErrorMsg=Coordinate outside know range for Lithobius (Monotarsobius) crassipes
+ErrorMsg=Coordinate outside known range for Lithobius (Monotarsobius) crassipes
 DataFieldName=Species
 DataRecordId=NHMSYS0020500681
-LastChanged=20130429
+LastChanged=20180314
 [EndMetadata]
 
 
@@ -595,32 +595,40 @@ NY44
 NY45
 NY46
 NY47
+NY48
 NY51
 NY52
 NY53
+NY54
 NY55
 NY56
 NY57
+NY58
 NY60
 NY61
 NY62
 NY63
+NY64
 NY65
 NY66
 NY67
+NY68
 NY69
 NY70
 NY71
 NY72
 NY73
+NY74
 NY75
 NY76
 NY77
+NY78
 NY79
 NY80
 NY81
 NY82
 NY83
+NY84
 NY85
 NY86
 NY87
@@ -632,6 +640,8 @@ NY92
 NY93
 NY94
 NY95
+NY96
+NY97
 NY98
 NY99
 NZ00
@@ -666,6 +676,7 @@ NZ31
 NZ32
 NZ33
 NZ34
+NZ38
 NZ39
 NZ40
 NZ41
@@ -929,6 +940,7 @@ SJ21
 SJ22
 SJ23
 SJ24
+SJ25
 SJ26
 SJ27
 SJ28
@@ -938,6 +950,7 @@ SJ31
 SJ32
 SJ33
 SJ34
+SJ35
 SJ36
 SJ37
 SJ38
@@ -1073,6 +1086,9 @@ SK70
 SK71
 SK72
 SK73
+SK75
+SK76
+SK77
 SK78
 SK79
 SK80
@@ -1849,8 +1865,16 @@ TQ98
 TQ99
 TR01
 TR02
+TR05
+TR06
+TR07
 TR09
 TR12
+TR15
+TR16
+TR25
+TR26
+TR27
 TV49
 
 

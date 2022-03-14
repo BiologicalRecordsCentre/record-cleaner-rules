@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Brachychaeteuma bagnalli 10km
 Description=Check coordinate against known 10km distribution of Brachychaeteuma bagnalli
-ErrorMsg=Coordinate outside know range for Brachychaeteuma bagnalli
+ErrorMsg=Coordinate outside known range for Brachychaeteuma bagnalli
 DataFieldName=Species
 DataRecordId=NBNSYS0000011357
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

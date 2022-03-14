@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Amara (Paracelia) quenseli 10km
 Description=Check coordinate against known 10km distribution of Amara (Paracelia) quenseli
-ErrorMsg=Coordinate outside know range for Amara (Paracelia) quenseli
+ErrorMsg=Coordinate outside known range for Amara (Paracelia) quenseli
 DataFieldName=Species
 DataRecordId=NHMSYS0001716747
-LastChanged=20130429
+LastChanged=20180313
 [EndMetadata]
 
 
@@ -16,46 +16,25 @@ NG30
 NG40
 NH70
 NH71
-NH72
 NH80
 NH81
-NH82
-NH85
-NH86
-NH87
 NH90
 NH91
 NH92
-NH93
-NH95
-NH96
-NH97
 NJ00
 NJ01
 NJ02
-NJ03
-NJ05
-NJ06
 NJ10
 NJ11
 NJ12
-NJ13
-NJ15
-NJ16
-NJ17
 NM29
 NM38
 NM39
 NM48
 NM49
 NN79
-NN88
 NN89
-NN98
 NN99
-NO08
 NO09
-NO18
-NO19
 
 

@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Porcellionides cingendus 10km
 Description=Check coordinate against known 10km distribution of Porcellionides cingendus
-ErrorMsg=Coordinate outside know range for Porcellionides cingendus
+ErrorMsg=Coordinate outside known range for Porcellionides cingendus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008582
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 
