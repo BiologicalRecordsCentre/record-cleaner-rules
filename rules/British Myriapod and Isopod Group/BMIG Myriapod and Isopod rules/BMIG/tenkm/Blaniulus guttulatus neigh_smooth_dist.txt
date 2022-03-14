@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Blaniulus guttulatus 10km
 Description=Check coordinate against known 10km distribution of Blaniulus guttulatus
-ErrorMsg=Coordinate outside know range for Blaniulus guttulatus
+ErrorMsg=Coordinate outside known range for Blaniulus guttulatus
 DataFieldName=Species
 DataRecordId=NBNSYS0000011375
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

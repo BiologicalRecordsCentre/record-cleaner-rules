@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Cylisticus convexus 10km
 Description=Check coordinate against known 10km distribution of Cylisticus convexus
-ErrorMsg=Coordinate outside know range for Cylisticus convexus
+ErrorMsg=Coordinate outside known range for Cylisticus convexus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008575
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

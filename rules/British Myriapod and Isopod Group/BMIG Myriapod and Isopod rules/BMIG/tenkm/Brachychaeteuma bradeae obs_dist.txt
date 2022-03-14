@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Brachychaeteuma bradeae 10km
 Description=Check coordinate against known 10km distribution of Brachychaeteuma bradeae
-ErrorMsg=Coordinate outside know range for Brachychaeteuma bradeae
+ErrorMsg=Coordinate outside known range for Brachychaeteuma bradeae
 DataFieldName=Species
 DataRecordId=NBNSYS0000011358
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

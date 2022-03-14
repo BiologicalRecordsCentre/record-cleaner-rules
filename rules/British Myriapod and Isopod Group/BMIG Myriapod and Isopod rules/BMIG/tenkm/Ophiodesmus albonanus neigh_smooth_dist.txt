@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Ophiodesmus albonanus 10km
 Description=Check coordinate against known 10km distribution of Ophiodesmus albonanus
-ErrorMsg=Coordinate outside know range for Ophiodesmus albonanus
+ErrorMsg=Coordinate outside known range for Ophiodesmus albonanus
 DataFieldName=Species
 DataRecordId=NHMSYS0000356287
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

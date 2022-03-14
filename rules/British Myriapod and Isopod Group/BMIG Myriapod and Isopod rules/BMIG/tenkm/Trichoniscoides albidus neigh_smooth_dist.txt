@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Trichoniscoides albidus 10km
 Description=Check coordinate against known 10km distribution of Trichoniscoides albidus
-ErrorMsg=Coordinate outside know range for Trichoniscoides albidus
+ErrorMsg=Coordinate outside known range for Trichoniscoides albidus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008552
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

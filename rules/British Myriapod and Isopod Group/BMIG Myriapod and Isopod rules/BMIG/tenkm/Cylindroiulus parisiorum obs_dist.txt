@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Cylindroiulus parisiorum 10km
 Description=Check coordinate against known 10km distribution of Cylindroiulus parisiorum
-ErrorMsg=Coordinate outside know range for Cylindroiulus parisiorum
+ErrorMsg=Coordinate outside known range for Cylindroiulus parisiorum
 DataFieldName=Species
 DataRecordId=NBNSYS0000011396
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

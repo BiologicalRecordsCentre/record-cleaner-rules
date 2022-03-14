@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Geoglomeris subterranea 10km
 Description=Check coordinate against known 10km distribution of Geoglomeris subterranea
-ErrorMsg=Coordinate outside know range for Geoglomeris subterranea
+ErrorMsg=Coordinate outside known range for Geoglomeris subterranea
 DataFieldName=Species
 DataRecordId=NHMSYS0000356252
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

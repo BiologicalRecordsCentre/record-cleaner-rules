@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Boreoiulus tenuis 10km
 Description=Check coordinate against known 10km distribution of Boreoiulus tenuis
-ErrorMsg=Coordinate outside know range for Boreoiulus tenuis
+ErrorMsg=Coordinate outside known range for Boreoiulus tenuis
 DataFieldName=Species
 DataRecordId=NBNSYS0000011377
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

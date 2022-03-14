@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Glomeris marginata 10km
 Description=Check coordinate against known 10km distribution of Glomeris marginata
-ErrorMsg=Coordinate outside know range for Glomeris marginata
+ErrorMsg=Coordinate outside known range for Glomeris marginata
 DataFieldName=Species
 DataRecordId=NBNSYS0000011348
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

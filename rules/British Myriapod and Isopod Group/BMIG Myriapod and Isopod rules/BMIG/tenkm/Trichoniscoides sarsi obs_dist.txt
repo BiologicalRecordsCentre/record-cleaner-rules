@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Trichoniscoides sarsi 10km
 Description=Check coordinate against known 10km distribution of Trichoniscoides sarsi
-ErrorMsg=Coordinate outside know range for Trichoniscoides sarsi
+ErrorMsg=Coordinate outside known range for Trichoniscoides sarsi
 DataFieldName=Species
 DataRecordId=NBNSYS0000033085
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

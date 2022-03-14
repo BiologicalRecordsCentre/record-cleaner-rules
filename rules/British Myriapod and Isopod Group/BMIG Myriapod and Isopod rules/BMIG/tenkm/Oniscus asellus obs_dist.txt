@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Oniscus asellus10km
 Description=Check coordinate against known 10km distribution of Oniscus asellus
-ErrorMsg=Coordinate outside know range for Oniscus asellus
+ErrorMsg=Coordinate outside known range for Oniscus asellus
 DataFieldName=Species
 DataRecordId=NBNSYS0000008561
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

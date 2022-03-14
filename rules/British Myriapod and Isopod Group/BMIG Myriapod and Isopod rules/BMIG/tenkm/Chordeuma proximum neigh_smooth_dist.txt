@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Chordeuma proximum 10km
 Description=Check coordinate against known 10km distribution of Chordeuma proximum
-ErrorMsg=Coordinate outside know range for Chordeuma proximum
+ErrorMsg=Coordinate outside known range for Chordeuma proximum
 DataFieldName=Species
 DataRecordId=NBNSYS0000011353
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

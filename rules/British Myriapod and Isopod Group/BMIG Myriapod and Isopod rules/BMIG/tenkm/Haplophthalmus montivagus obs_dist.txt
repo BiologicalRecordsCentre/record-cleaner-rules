@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Haplophthalmus montivagus 10km
 Description=Check coordinate against known 10km distribution of Haplophthalmus montivagus
-ErrorMsg=Coordinate outside know range for Haplophthalmus montivagus
+ErrorMsg=Coordinate outside known range for Haplophthalmus montivagus
 DataFieldName=Species
 DataRecordId=NHMSYS0020302563
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 

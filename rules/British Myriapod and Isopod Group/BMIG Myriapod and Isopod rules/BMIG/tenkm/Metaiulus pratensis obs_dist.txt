@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Metaiulus pratensis 10km
 Description=Check coordinate against known 10km distribution of Metaiulus pratensis
-ErrorMsg=Coordinate outside know range for Metaiulus pratensis
+ErrorMsg=Coordinate outside known range for Metaiulus pratensis
 DataFieldName=Species
 DataRecordId=NBNSYS0000039488
-LastChanged=20130429
+LastChanged=20220314
 [EndMetadata]
 
 
