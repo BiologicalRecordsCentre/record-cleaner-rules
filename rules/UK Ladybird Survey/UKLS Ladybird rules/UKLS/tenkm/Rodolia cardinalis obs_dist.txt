@@ -3,10 +3,10 @@ TestType=WithoutPolygon
 Group=Species Range
 ShortName=Rodolia cardinalis 10km
 Description=Check coordinate against known 10km distribution of Rodolia cardinalis
-ErrorMsg=Coordinate outside know range for Rodolia cardinalis
+ErrorMsg=Coordinate outside known range for Rodolia cardinalis
 DataFieldName=Species
 DataRecordId=NHMSYS0020153342
-LastChanged=20130430
+LastChanged=20180314
 [EndMetadata]
 
 
