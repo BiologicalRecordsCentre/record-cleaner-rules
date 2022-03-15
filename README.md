@@ -39,12 +39,12 @@ committed and pushed.
 Traditionally, the creation of rules files from CSV has been done by BRC.
 Schemes can now do this for themselves with the scripts in this repository, by
 following [this procedure](scripts/README.md). There is a longer term ambition 
-for this to happen automatically upon committins CSV files.
+for this to happen automatically upon committing CSV files.
 
 ## How to package rule files
 To zip the rule files for a particular recording scheme,
- - change to the `/rules/<scheme>` folder,
- - execute the `./package.sh` script
+ - execute the `./package.sh` script from the root folder with the scheme
+   abbreviation as an argument. e.g. `./package.sh bmig`
  - the ouput is stored by recording scheme in the `/zip` folder
 
  The folder names and structure within the zip file are chosen to maintain the
