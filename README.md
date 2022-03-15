@@ -62,12 +62,8 @@ them under version control. If it is desirable to preserve them, they can be
 attached to a [Github release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository).
 
 ## Testing rule files
-You can serve the zip files locally by building and starting a docker container
-from the root directory of the repository:
-```
-docker build --tag rc-rules-server .
-docker run -d -p 8080:80 --name rc-rules rc-rules-server
-```
+You can serve the zip files locally by running `./serve.sh` which builds the 
+rule files and starts a docker container
 The top level index is then accessible at http://localhost:8080/servers.txt
 
 You can configure Record Cleaner to use your local rule server by

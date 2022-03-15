@@ -1,5 +1,10 @@
 #! /bin/bash
 
+# Script to zip the rule files for a single scheme, storing the results in 
+# the zip folder. It also creates an index.txt file and updates the servers.txt
+# file in the zip folder. Will overwrite existing files. Call with a single 
+# argument of the scheme abbreviation.
+
 SCHEMES=(BMIG BC DRN ERS GBRS LBRS OBIRS PRS TRS UKLS)
 
 DIRECTORIES=( \
@@ -62,8 +67,8 @@ if [ "$DIRECTORY" ]; then
   INDEX=$(sed -n "\@^$PATTERN@ {s@<basepath>@$BASEPATH@; s@<date>@$DATE@; p}" rules/servers.txt)
   # Remove old index version if present.
   if [ -f zip/servers.txt ]; then
-    PATTERN="$BASEPATH/$SCHEME/"
-    sed -i "\@^$PATTERN@d" zip/servers.txt
+    PATTERN="/$SCHEME/"
+    sed -i "\@$PATTERN@d" zip/servers.txt
   fi
   # Append new version.
   echo "$INDEX" >> zip/servers.txt
