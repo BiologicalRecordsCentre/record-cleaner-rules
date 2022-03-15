@@ -1,2 +1,2 @@
-http://data.nbn.org.uk/recordcleaner/rules/PRS/PRS_IDifficulty.zip#Stonefly Adult ID Difficulty#07/08/2013
-http://data.nbn.org.uk/recordcleaner/rules/PRS/PRS Stonefly rules.zip#Stonefly range, recording and seasonal periods, and additional rules#07/08/2013
+<basepath>/PRS/PRS_IDifficulty.zip#Stonefly Adult ID Difficulty#<date>
+<basepath>/PRS/PRS Stonefly rules.zip#Stonefly range, recording and seasonal periods, and additional rules#<date>

@@ -1,0 +1,4 @@
+<basepath>/BC/NMRS_IDifficulty.zip#Moth ID Difficulty#<date>
+<basepath>/BC/NMRS Moth rules.zip#Moth range, recording and flight periods#<date>
+<basepath>/BC/BC_IDifficulty.zip#Butterfly ID Difficulty#<date>
+<basepath>/BC/BC Butterfly rules.zip#Butterfly range, recording and flight periods#<date>

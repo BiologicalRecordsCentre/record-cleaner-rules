@@ -1,2 +1,2 @@
-http://data.nbn.org.uk/recordcleaner/rules/DRN/DRN_IDifficulty.zip#Dragonfly ID Difficulty#10/05/2012
-http://data.nbn.org.uk/recordcleaner/rules/DRN/DRN Odonata Rules.zip#Dragonfly range, recording and flight periods#10/05/2012
+<basepath>/DRN/DRN_IDifficulty.zip#Dragonfly ID Difficulty#<date>
+<basepath>/DRN/DRN Odonata Rules.zip#Dragonfly range, recording and flight periods#<date>

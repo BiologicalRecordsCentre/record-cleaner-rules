@@ -1,2 +1,2 @@
-http://data.nbn.org.uk/recordcleaner/rules/LBRS/LBRS_IDifficulty.zip#Larger Brachycera ID Difficulty#19/07/2013
-http://data.nbn.org.uk/recordcleaner/rules/LBRS/LBRS Larger Brachycera rules.zip#Larger Brachycera (Diptera) range, recording and seasonal periods, and additional rules#19/07/2013
+<basepath>/LBRS/LBRS_IDifficulty.zip#Larger Brachycera ID Difficulty#<date>
+<basepath>/LBRS/LBRS Larger Brachycera rules.zip#Larger Brachycera (Diptera) range, recording and seasonal periods, and additional rules#<date>

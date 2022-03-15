@@ -1,2 +1,2 @@
-http://data.nbn.org.uk/recordcleaner/rules/BMIG/BMIG_IDifficulty.zip#Millipedes, Centipedes and Woodlice ID Difficulty#17/07/2013
-http://data.nbn.org.uk/recordcleaner/rules/BMIG/BMIG Myriapod and Isopod rules.zip#Millipedes, Centipedes and Woodlice range, recording and seasonal periods, and additional rules#17/07/2013
+<basepath>/BMIG/BMIG_IDifficulty.zip#Millipedes, Centipedes and Woodlice ID Difficulty#<date>
+<basepath>/BMIG/BMIG Myriapod and Isopod rules.zip#Millipedes, Centipedes and Woodlice range, recording and seasonal periods, and additional rules#<date>

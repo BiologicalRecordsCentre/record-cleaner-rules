@@ -1,4 +1,0 @@
-http://localhost:8080/BC/NMRS_IDifficulty.zip#Moth ID Difficulty#07/07/2021
-http://localhost:8080/BC/NMRS Moth rules.zip#Moth range, recording and flight periods#07/07/2021
-http://localhost:8080/BC/BC_IDifficulty.zip#Butterfly ID Difficulty#07/07/2021
-http://localhost:8080/BC/BC Butterfly rules.zip#Butterfly range, recording and flight periods#11/10/2021

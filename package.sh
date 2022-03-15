@@ -43,6 +43,18 @@ if [ "$DIRECTORY" ]; then
   cd "rules/$DIRECTORY"
   ./package.sh
   cd ../..
+
+  # Update index.txt
+  cp "rules/$DIRECTORY/index.txt" "zip/$SCHEME"
+  # Set default basepath if not set in environment.
+  if [ -z "$BASEPATH" ]; then
+    BASEPATH="http://data.nbn.org.uk/recordcleaner/rules"
+  fi
+  # Get date
+  DATE=$(date +%d/%m/%Y)
+  # Substitute template values using ! as separator since basepath contains '/'.
+  sed -i "s!<basepath>!$BASEPATH!; s!<date>!$DATE!" "zip/$SCHEME/index.txt"
+
 else
   echo "Unknown scheme: $SCHEME"
 fi
