@@ -32,8 +32,14 @@ for i in ${!SCHEMES[@]}; do
   fi
 done
 
-# Package entered scheme.
+# Package the entered scheme.
 if [ "$DIRECTORY" ]; then
+  # Ensure folder exists
+  mkdir -p "zip/$SCHEME"
+  # Remove old files
+  rm "zip/$SCHEME/"* -f
+
+  # Make zip files
   cd "rules/$DIRECTORY"
   ./package.sh
   cd ../..
