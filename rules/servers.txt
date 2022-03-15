@@ -1,0 +1,29 @@
+<basepath>/BSBI/index.txt#Botanical Society of the British Isles#<date>
+<basepath>/BBS/index.txt#British Bryological Society#<date>
+<basepath>/BTO/index.txt#British Trust for Ornithology#<date>
+<basepath>/BC/index.txt#Butterfly Conservation#<date>
+<basepath>/DF/index.txt#Dipterist Forum#<date>
+<basepath>/DRN/index.txt#Dragonfly Recording Scheme#<date>
+<basepath>/HRS/index.txt#Hoverfly Recording Scheme#<date>
+<basepath>/MS/index.txt#Mammal Society#<date>
+<basepath>/MBA/index.txt#Marine Biological Association#<date>
+<basepath>/NBNT/index.txt#National Biodiversity Network Trust#<date>
+<basepath>/SRS/index.txt#Spider Recording Scheme#<date>
+<basepath>/UKLS/index.txt#UK Ladybird Survey#<date>
+<basepath>/NARRS/index.txt#National Amphibian and Reptile Recording Scheme#<date>
+<basepath>/ARS/index.txt#Auchenorrhyncha Recording Scheme for Britain and Ireland#<date>
+<basepath>/THRS/index.txt#Terrestrial Heteroptera Recording Scheme#<date>
+<basepath>/GBRS/index.txt#Ground Beetle Recording Scheme#<date>
+<basepath>/BWARS/index.txt#Bees, Wasps and Ants Recording Society#<date>
+<basepath>/BMIG/index.txt#British Myriapod and Isopod Group#<date>
+<basepath>/OBIRS/index.txt#Orthopteroids of the British Isles Recording Scheme#<date>
+<basepath>/LBRS/index.txt#Larger Brachycera Recording Scheme#<date>
+<basepath>/ERS/index.txt#Ephemeroptera Recording Scheme#<date>
+<basepath>/TRS/index.txt#Trichoptera Recording Scheme#<date>
+<basepath>/PRS/index.txt#Plecoptera Recording Scheme#<date>
+<basepath>/AHRS/index.txt#Aquatic Heteroptera Recording Scheme#<date>
+<basepath>/GRS/index.txt#Gelechiid Recording Scheme#<date>
+<basepath>/PMRS/index.txt#Plume Moth Recording Scheme#<date>
+<basepath>/BPS/index.txt#British Phycological Society#<date>
+<basepath>/BLS/index.txt#British Lichen Society#<date>
+<basepath>/CIG/index.txt#Cladocera Interest Group#<date>

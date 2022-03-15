@@ -34,15 +34,16 @@ done
 
 # Package the entered scheme.
 if [ "$DIRECTORY" ]; then
-  # Ensure folder exists
+  # Ensure folder exists.
   mkdir -p "zip/$SCHEME"
   # Remove old files
   rm "zip/$SCHEME/"* -f
 
-  # Make zip files
+  # Make zip files.
   cd "rules/$DIRECTORY"
   ./package.sh
   cd ../..
+  echo "Zipped $SCHEME"
 
   # Update index.txt
   cp "rules/$DIRECTORY/index.txt" "zip/$SCHEME"
@@ -52,9 +53,20 @@ if [ "$DIRECTORY" ]; then
   fi
   # Get date
   DATE=$(date +%d/%m/%Y)
-  # Substitute template values using ! as separator since basepath contains '/'.
-  sed -i "s!<basepath>!$BASEPATH!; s!<date>!$DATE!" "zip/$SCHEME/index.txt"
+  # Substitute template values using @ as separator since basepath contains '/'.
+  sed -i "s@<basepath>@$BASEPATH@; s@<date>@$DATE@" "zip/$SCHEME/index.txt"
 
+  # Update servers.txt
+  PATTERN="<basepath>/$SCHEME/"
+  # Get the line starting with pattern and substitute template values.
+  INDEX=$(sed -n "\@^$PATTERN@ {s@<basepath>@$BASEPATH@; s@<date>@$DATE@; p}" rules/servers.txt)
+  # Remove old index version if present.
+  if [ -f zip/servers.txt ]; then
+    PATTERN="$BASEPATH/$SCHEME/"
+    sed -i "\@^$PATTERN@d" zip/servers.txt
+  fi
+  # Append new version.
+  echo "$INDEX" >> zip/servers.txt
 else
   echo "Unknown scheme: $SCHEME"
 fi
