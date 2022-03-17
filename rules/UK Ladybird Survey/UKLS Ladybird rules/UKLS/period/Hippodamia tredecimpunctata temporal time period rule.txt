@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Hippodamia tredecimpunctata temporal check
+Description=Check date of record against known temporal limit of Hippodamia tredecimpunctata
+Tvk=NBNSYS0000008313
+ErrorMsg=Date outside known temporal limit for Hippodamia tredecimpunctata
+StartDate=18000101
+EndDate=
+LastChanged=20220317
+[EndMetadata]
+

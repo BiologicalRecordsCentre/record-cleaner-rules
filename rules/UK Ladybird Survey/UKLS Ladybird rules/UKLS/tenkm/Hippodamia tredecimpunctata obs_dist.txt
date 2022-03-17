@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Hippodamia tredecimpunctata 10km
+Description=Check coordinate against known 10km distribution of Hippodamia tredecimpunctata
+ErrorMsg=Coordinate outside known range for Hippodamia tredecimpunctata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008313
+LastChanged=20220317
+[EndMetadata]
+
+
+[10km_GB]
+NU13
+SD34
+SJ39
+SU30
+SW62
+SW73
+SW83
+SY28
+SY29
+SZ19
+TQ40
+TQ60
+TQ61
+TQ70
+TQ81
+TQ91
+
+

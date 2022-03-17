@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Scymnus schmidti temporal check
+Description=Check date of record against known temporal limit of Scymnus schmidti
+Tvk=NBNSYS0000008298
+ErrorMsg=Date outside known temporal limit for Scymnus schmidti
+StartDate=18000101
+EndDate=
+LastChanged=20220317
+[EndMetadata]
+

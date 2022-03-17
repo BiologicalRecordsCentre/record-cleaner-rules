@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Scymnus auritus temporal check
+Description=Check date of record against known temporal limit of Scymnus auritus
+Tvk=NBNSYS0000008299
+ErrorMsg=Date outside known temporal limit for Scymnus auritus
+StartDate=18000101
+EndDate=
+LastChanged=20220317
+[EndMetadata]
+

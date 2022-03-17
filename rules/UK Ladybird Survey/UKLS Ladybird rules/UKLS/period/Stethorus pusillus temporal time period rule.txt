@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Stethorus pusillus temporal check
+Description=Check date of record against known temporal limit of Stethorus pusillus
+Tvk=NHMSYS0021366929
+ErrorMsg=Date outside known temporal limit for Stethorus pusillus
+StartDate=18000101
+EndDate=
+LastChanged=20220317
+[EndMetadata]
+

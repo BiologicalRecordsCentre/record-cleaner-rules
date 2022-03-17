@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Scymnus suturalis temporal check
+Description=Check date of record against known temporal limit of Scymnus suturalis
+Tvk=NBNSYS0000008303
+ErrorMsg=Date outside known temporal limit for Scymnus suturalis
+StartDate=19020101
+EndDate=
+LastChanged=20220317
+[EndMetadata]
+

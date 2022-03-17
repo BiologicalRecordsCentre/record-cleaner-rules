@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Scymnus nigrinus temporal check
+Description=Check date of record against known temporal limit of Scymnus nigrinus
+Tvk=NBNSYS0000008297
+ErrorMsg=Date outside known temporal limit for Scymnus nigrinus
+StartDate=19080101
+EndDate=
+LastChanged=20220317
+[EndMetadata]
+
