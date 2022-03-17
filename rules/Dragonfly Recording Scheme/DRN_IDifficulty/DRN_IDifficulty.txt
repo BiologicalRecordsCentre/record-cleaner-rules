@@ -1,7 +1,7 @@
 [Metadata]
 TestType=IdentificationDifficulty
 Organisation=Dragonfly Recording Network
-LastChanged= 20211222
+LastChanged= 20220317
 [EndMetadata]
 
 [INI]
@@ -11,7 +11,7 @@ LastChanged= 20211222
 4=Males can be identified in the field with care and experience. Female identification only accepted from known recorders or from good photographic evidence or else needs confirmation from a BDS County Dragonfly Recorder.
 5=Identification only accepted from known recorders with good photographic evidence or written descriptions. Record requires confirmation from the BDS Odonata Rarities Committee.
 
-[DATA]
+[Data]
 NHMSYS0021123706=5
 NBNSYS0000005598=1
 NBNSYS0000005599=1
@@ -59,11 +59,11 @@ NHMSYS0020546806=4
 NHMSYS0020546892=1
 NHMSYS0020546972=3
 NHMSYS0021123700=3
-NBNSYS0000005631=4
+NHMSYS0021009098=4
 NBNSYS0000005644=5
 NHMSYS0000344168=5
 NBNSYS0000005636=3
-NBNSYS0000005619=5
+NHMSYS0021009106=5
 NBNSYS0000005618=4
 NHMSYS0000344190=3
 NBNSYS0000005609=3

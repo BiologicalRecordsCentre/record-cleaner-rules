@@ -1,11 +1,11 @@
 [Metadata]
 TestType=Period
 Group=Odonata Recording Period
-ShortName=Hemianax ephippiger
-Description=Checks date is within known recording period of Hemianax ephippiger
-ErrorMsg=Date is outside known recording period of Hemianax ephippiger
-Tvk=NBNSYS0000005631
+ShortName=Anax ephippiger
+Description=Checks date is within known recording period of Anax ephippiger
+ErrorMsg=Date is outside known recording period of Anax ephippiger
+Tvk=NHMSYS0021009098
 StartDate=19030101
 EndDate=
-LastChanged=20211222
+LastChanged=20220317
 [EndMetadata]
