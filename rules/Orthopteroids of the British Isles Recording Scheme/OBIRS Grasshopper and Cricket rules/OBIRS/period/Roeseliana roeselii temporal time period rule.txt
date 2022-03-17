@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Roeseliana roeselii temporal check
+Description=Check date of record against known temporal limit of Roeseliana roeselii
+Tvk=NHMSYS0021351693
+ErrorMsg=Date outside known temporal limit for Roeseliana roeselii
+StartDate=18000101
+EndDate=
+LastChanged=20220317
+[EndMetadata]
+
