@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Metrioptera roeselii 10km
-Description=Check coordinate against known 10km distribution of Metrioptera roeselii
-ErrorMsg=Coordinate outside known range for Metrioptera roeselii
+ShortName=Roeseliana roeselii 10km
+Description=Check coordinate against known 10km distribution of Roeseliana roeselii
+ErrorMsg=Coordinate outside known range for Roeseliana roeselii
 DataFieldName=Species
-DataRecordId=NBNSYS0000006822
-LastChanged=20180313
+DataRecordId=NHMSYS0021351693
+LastChanged=20220317
 [EndMetadata]
 
 

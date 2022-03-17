@@ -1,7 +1,7 @@
 [Metadata]
 TestType=IdentificationDifficulty
 Organisation=Orthopteroids of the British Isles Recording Scheme
-LastChanged=20130411
+LastChanged=20220317
 [EndMetadata]
 
 [INI]
@@ -15,7 +15,7 @@ LastChanged=20130411
 NBNSYS0000006813=1
 NBNSYS0000006818=1
 NBNSYS0000006821=2
-NBNSYS0000006822=1
+NHMSYS0021351693=1
 NBNSYS0000006824=1
 NBNSYS0000006825=1
 NBNSYS0000006827=1
