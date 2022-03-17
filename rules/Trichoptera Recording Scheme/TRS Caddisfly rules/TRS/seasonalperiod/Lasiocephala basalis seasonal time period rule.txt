@@ -1,12 +1,12 @@
 [Metadata]
 TestType=PeriodWithinYear
 Group=Seasonal Period
-ShortName=Lasiocephala basalis seasonal check
-Description=Check date of record against known seasonal limit of Lasiocephala basalis
-Tvk=NBNSYS0000008435
-ErrorMsg=Date outside known seasonal limit for Lasiocephala basalis
+ShortName=Lepidostoma basale seasonal check
+Description=Check date of record against known seasonal limit of Lepidostoma basale
+Tvk=NHMSYS0021008795
+ErrorMsg=Date outside known seasonal limit for Lepidostoma basale
 StartDate=0501
 EndDate=0930
-LastChanged=20130528
+LastChanged=20220317
 [EndMetadata]
 

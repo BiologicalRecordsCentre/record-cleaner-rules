@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Ecclisopteryx guttulata 10km
+ShortName=Ecclisopteryx dalecarlica 10km
 Description=Check coordinate against known 10km distribution of NO_NBN_NAME (Tri_189)
 ErrorMsg=Coordinate outside known range for NO_NBN_NAME (Tri_189)
 DataFieldName=Species
 DataRecordId=NHMSYS0021008755
-LastChanged=20180327
+LastChanged=20220317
 [EndMetadata]
 
 

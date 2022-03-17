@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Glossosoma conforme 10km
-Description=Check coordinate against known 10km distribution of Glossosoma conforme
-ErrorMsg=Coordinate outside known range for Glossosoma conforme
+ShortName=Glossosoma conformis 10km
+Description=Check coordinate against known 10km distribution of Glossosoma conformis
+ErrorMsg=Coordinate outside known range for Glossosoma conformis
 DataFieldName=Species
 DataRecordId=NBNSYS0000008344
-LastChanged=20180327
+LastChanged=20220317
 [EndMetadata]
 
 

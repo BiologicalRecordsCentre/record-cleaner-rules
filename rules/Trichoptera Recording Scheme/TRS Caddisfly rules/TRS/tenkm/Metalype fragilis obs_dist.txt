@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Metalype fragilis 10km
-Description=Check coordinate against known 10km distribution of Metalype fragilis
-ErrorMsg=Coordinate outside known range for Metalype fragilis
+ShortName=Psychomyia fragilis 10km
+Description=Check coordinate against known 10km distribution of Psychomyia fragilis
+ErrorMsg=Coordinate outside known range for Psychomyia fragilis
 DataFieldName=Species
 DataRecordId=NHMSYS0020547806
-LastChanged=20180327
+LastChanged=20220317
 [EndMetadata]
 
 

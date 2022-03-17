@@ -1,12 +1,12 @@
 [Metadata]
 TestType=Period
 Group=Recording Period
-ShortName=Agrypnia crassicornis temporal check
-Description=Check date of record against known temporal limit of Agrypnia crassicornis
-Tvk=NHMSYS0020442287
-ErrorMsg=Date outside known temporal limit for Agrypnia crassicornis
+ShortName=Agrypnetes crassicornis temporal check
+Description=Check date of record against known temporal limit of Agrypnetes crassicornis
+Tvk=NHMSYS0021008788
+ErrorMsg=Date outside known temporal limit for Agrypnetes crassicornis
 StartDate=19520101
 EndDate=
-LastChanged=20130605
+LastChanged=20220317
 [EndMetadata]
 

@@ -1,12 +1,12 @@
 [Metadata]
 TestType=PeriodWithinYear
 Group=Seasonal Period
-ShortName=Agrypnia crassicornis seasonal check
-Description=Check date of record against known seasonal limit of Agrypnia crassicornis
-Tvk=NHMSYS0020442287
-ErrorMsg=Date outside known seasonal limit for Agrypnia crassicornis
+ShortName=Agrypnetes crassicornis seasonal check
+Description=Check date of record against known seasonal limit of Agrypnetes crassicornis
+Tvk=NHMSYS0021008788
+ErrorMsg=Date outside known seasonal limit for Agrypnetes crassicornis
 StartDate=0601
 EndDate=0731
-LastChanged=20130528
+LastChanged=20220317
 [EndMetadata]
 

@@ -5,7 +5,7 @@ ShortName=Check for Trichoptera species that require additional verification
 Description=Check for Trichoptera species where additional verification is required
 ErrorMsg=Records for this Trichoptera species requires additional verification
 ReverseRule=True
-LastChanged=201300705
+LastChanged=20220317
 [EndMetadata]
 
 [INI]
@@ -51,7 +51,7 @@ NBNSYS0000008534,1
 NBNSYS0000008537,1
 NBNSYS0000008540,1
 NBNSYS0000008541,2
-NHMSYS0020442287,2
+NHMSYS0021008788,2
 NHMSYS0020442420,2
 NHMSYS0020704793,1
 NHMSYS0020785001,2

@@ -1,12 +1,12 @@
 [Metadata]
 TestType=Period
 Group=Recording Period
-ShortName=Ecclisopteryx guttulata temporal check
-Description=Check date of record against known temporal limit of Ecclisopteryx guttulata
-Tvk=NBNSYS0000008443
-ErrorMsg=Date outside known temporal limit for Ecclisopteryx guttulata
+ShortName=Ecclisopteryx dalecarlica temporal check
+Description=Check date of record against known temporal limit of Ecclisopteryx dalecarlica
+Tvk=NHMSYS0021008755
+ErrorMsg=Date outside known temporal limit for Ecclisopteryx dalecarlica
 StartDate=18610101
 EndDate=
-LastChanged=20130605
+LastChanged=20220317
 [EndMetadata]
 
