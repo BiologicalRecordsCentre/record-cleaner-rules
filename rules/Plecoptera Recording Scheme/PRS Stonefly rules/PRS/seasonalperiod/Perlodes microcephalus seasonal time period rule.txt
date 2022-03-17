@@ -1,12 +1,12 @@
 [Metadata]
 TestType=PeriodWithinYear
 Group=Seasonal Period
-ShortName=Perlodes microcephalus seasonal check
-Description=Check date of record against known seasonal limit of Perlodes microcephalus
-Tvk=NHMSYS0020316281
-ErrorMsg=Date outside known seasonal limit for Perlodes microcephalus
+ShortName=Perlodes mortoni seasonal check
+Description=Check date of record against known seasonal limit of Perlodes mortoni
+Tvk=NHMSYS0021168023
+ErrorMsg=Date outside known seasonal limit for Perlodes mortoni
 StartDate=0301
 EndDate=0731
-LastChanged=20130528
+LastChanged=20220317
 [EndMetadata]
 

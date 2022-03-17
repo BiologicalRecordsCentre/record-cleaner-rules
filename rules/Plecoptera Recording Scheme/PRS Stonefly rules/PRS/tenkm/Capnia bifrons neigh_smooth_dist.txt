@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Capnia bifrons 10km
-Description=Check coordinate against known 10km distribution of Capnia bifrons
-ErrorMsg=Coordinate outside known range for Capnia bifrons
+ShortName=Zwicknia bifrons 10km
+Description=Check coordinate against known 10km distribution of Zwicknia bifrons
+ErrorMsg=Coordinate outside known range for Zwicknia bifrons
 DataFieldName=Species
-DataRecordId=NHMSYS0020316246
-LastChanged=20180322
+DataRecordId=NHMSYS0021167569
+LastChanged=20220317
 [EndMetadata]
 
 

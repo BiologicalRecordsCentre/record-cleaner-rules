@@ -1,12 +1,12 @@
 [Metadata]
 TestType=PeriodWithinYear
 Group=Seasonal Period
-ShortName=Capnia bifrons seasonal check
-Description=Check date of record against known seasonal limit of Capnia bifrons
-Tvk=NHMSYS0020316246
-ErrorMsg=Date outside known seasonal limit for Capnia bifrons
+ShortName=Zwicknia bifrons seasonal check
+Description=Check date of record against known seasonal limit of Zwicknia bifrons
+Tvk=NHMSYS0021167569
+ErrorMsg=Date outside known seasonal limit for Zwicknia bifrons
 StartDate=0201
 EndDate=0531
-LastChanged=20130528
+LastChanged=20220317
 [EndMetadata]
 

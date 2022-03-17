@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Perlodes microcephalus 10km
-Description=Check coordinate against known 10km distribution of Perlodes microcephalus
-ErrorMsg=Coordinate outside known range for Perlodes microcephalus
+ShortName=Perlodes mortoni 10km
+Description=Check coordinate against known 10km distribution of Perlodes mortoni
+ErrorMsg=Coordinate outside known range for Perlodes mortoni
 DataFieldName=Species
-DataRecordId=NHMSYS0020316281
-LastChanged=20180322
+DataRecordId=NHMSYS0021168023
+LastChanged=20220317
 [EndMetadata]
 
 
