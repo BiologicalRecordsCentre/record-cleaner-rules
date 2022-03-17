@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Scymnus (Scymnus) rubromaculatus 10km
-Description=Check coordinate against known 10km distribution of Scymnus (Scymnus) rubromaculatus
-ErrorMsg=Coordinate outside known range for Scymnus (Scymnus) rubromaculatus
+ShortName=Scymnus rubromaculatus 10km
+Description=Check coordinate against known 10km distribution of Scymnus rubromaculatus
+ErrorMsg=Coordinate outside known range for Scymnus rubromaculatus
 DataFieldName=Species
-DataRecordId=NHMSYS0020153403
-LastChanged=20180314
+DataRecordId=NHMSYS0021233083
+LastChanged=20220317
 [EndMetadata]
 
 

@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Scymnus (Pullus) suturalis 10km
-Description=Check coordinate against known 10km distribution of Scymnus (Pullus) suturalis
-ErrorMsg=Coordinate outside known range for Scymnus (Pullus) suturalis
+ShortName=Scymnus suturalis 10km
+Description=Check coordinate against known 10km distribution of Scymnus suturalis
+ErrorMsg=Coordinate outside known range for Scymnus suturalis
 DataFieldName=Species
-DataRecordId=NHMSYS0020153396
-LastChanged=20180314
+DataRecordId=NBNSYS0000008303
+LastChanged=20220317
 [EndMetadata]
 
 

@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Scymnus (Pullus) auritus 10km
-Description=Check coordinate against known 10km distribution of Scymnus (Pullus) auritus
-ErrorMsg=Coordinate outside known range for Scymnus (Pullus) auritus
+ShortName=Scymnus auritus 10km
+Description=Check coordinate against known 10km distribution of Scymnus auritus
+ErrorMsg=Coordinate outside known range for Scymnus auritus
 DataFieldName=Species
-DataRecordId=NHMSYS0020153395
-LastChanged=20180314
+DataRecordId=NBNSYS0000008299
+LastChanged=20220317
 [EndMetadata]
 
 

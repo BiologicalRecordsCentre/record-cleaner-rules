@@ -1,12 +1,12 @@
 [Metadata]
 TestType=Period
 Group=Recording Period
-ShortName=Scymnus (Scymnus) schmidti temporal check
-Description=Check date of record against known temporal limit of Scymnus (Scymnus) schmidti
-Tvk=NHMSYS0020153404
-ErrorMsg=Date outside known temporal limit for Scymnus (Scymnus) schmidti
+ShortName=Scymnus schmidti temporal check
+Description=Check date of record against known temporal limit of Scymnus schmidti
+Tvk=NBNSYS0000008298
+ErrorMsg=Date outside known temporal limit for Scymnus schmidti
 StartDate=18000101
 EndDate=
-LastChanged=20130605
+LastChanged=20220317
 [EndMetadata]
 

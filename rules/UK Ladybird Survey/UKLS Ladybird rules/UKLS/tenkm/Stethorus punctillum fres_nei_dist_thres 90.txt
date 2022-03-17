@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Stethorus punctillum 10km
-Description=Check coordinate against known 10km distribution of Stethorus punctillum
-ErrorMsg=Coordinate outside known range for Stethorus punctillum
+ShortName=Stethorus pusillus 10km
+Description=Check coordinate against known 10km distribution of Stethorus pusillus
+ErrorMsg=Coordinate outside known range for Stethorus pusillus
 DataFieldName=Species
-DataRecordId=NBNSYS0000008294
-LastChanged=20180314
+DataRecordId=NHMSYS0021366929
+LastChanged=20220317
 [EndMetadata]
 
 

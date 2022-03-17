@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Nephus redtenbacheri 10km
+ShortName=Nephus limonii/redtenbacheri agg.10km
 Description=Check coordinate against known 10km distribution of Nephus redtenbacheri
 ErrorMsg=Coordinate outside known range for Nephus redtenbacheri
 DataFieldName=Species
-DataRecordId=NBNSYS0000008306
-LastChanged=20180314
+DataRecordId=NHMSYS0021366799
+LastChanged=20220317
 [EndMetadata]
 
 

@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Scymnus (Neopullus) limbatus 10km
-Description=Check coordinate against known 10km distribution of Scymnus (Neopullus) limbatus
-ErrorMsg=Coordinate outside known range for Scymnus (Neopullus) limbatus
+ShortName=Scymnus limbatus 10km
+Description=Check coordinate against known 10km distribution of Scymnus limbatus
+ErrorMsg=Coordinate outside known range for Scymnus limbatus
 DataFieldName=Species
-DataRecordId=NHMSYS0020153393
-LastChanged=20180314
+DataRecordId=NBNSYS0000008302
+LastChanged=20220317
 [EndMetadata]
 
 

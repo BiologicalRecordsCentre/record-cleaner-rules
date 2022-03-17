@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Scymnus (Scymnus) schmidti 10km
-Description=Check coordinate against known 10km distribution of Scymnus (Scymnus) schmidti
-ErrorMsg=Coordinate outside known range for Scymnus (Scymnus) schmidti
+ShortName=Scymnus schmidti 10km
+Description=Check coordinate against known 10km distribution of Scymnus schmidti
+ErrorMsg=Coordinate outside known range for Scymnus schmidti
 DataFieldName=Species
-DataRecordId=NHMSYS0020153404
-LastChanged=20180314
+DataRecordId=NBNSYS0000008298
+LastChanged=20220317
 [EndMetadata]
 
 

@@ -5,7 +5,7 @@ ShortName=Check for ladybird species that require additional verification
 Description=Check for ladybird species where additional verification is required
 ErrorMsg=Records for this ladybird species requires additional verification
 ReverseRule=True
-LastChanged=20130705
+LastChanged=20220317
 [EndMetadata]
 
 [INI]
@@ -21,9 +21,9 @@ NBNSYS0000008323,1
 NBNSYS0000008333,2
 NHMSYS0020151871,1
 NHMSYS0020152260,1
-NHMSYS0020152268,2
+NBNSYS0000008313,2
 NHMSYS0020153335,1
 NHMSYS0020153337,1
 NHMSYS0020153342,2
-NHMSYS0020153393,1
-NHMSYS0020153400,1
+NBNSYS0000008302,1
+NHMSYS0020920019,1

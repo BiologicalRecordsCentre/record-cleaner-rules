@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Scymnus (Scymnus) frontalis 10km
-Description=Check coordinate against known 10km distribution of Scymnus (Scymnus) frontalis
-ErrorMsg=Coordinate outside known range for Scymnus (Scymnus) frontalis
+ShortName=Scymnus frontalis 10km
+Description=Check coordinate against known 10km distribution of Scymnus frontalis
+ErrorMsg=Coordinate outside known range for Scymnus frontalis
 DataFieldName=Species
-DataRecordId=NHMSYS0020153399
-LastChanged=20180314
+DataRecordId=NBNSYS0000008296
+LastChanged=20220317
 [EndMetadata]
 
 

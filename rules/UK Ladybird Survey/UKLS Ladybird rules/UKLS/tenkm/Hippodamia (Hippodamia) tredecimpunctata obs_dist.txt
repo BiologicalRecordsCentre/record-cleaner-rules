@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Hippodamia (Hippodamia) tredecimpunctata 10km
-Description=Check coordinate against known 10km distribution of Hippodamia (Hippodamia) tredecimpunctata
-ErrorMsg=Coordinate outside known range for Hippodamia (Hippodamia) tredecimpunctata
+ShortName=Hippodamia tredecimpunctata 10km
+Description=Check coordinate against known 10km distribution of Hippodamia tredecimpunctata
+ErrorMsg=Coordinate outside known range for Hippodamia tredecimpunctata
 DataFieldName=Species
-DataRecordId=NHMSYS0020152268
-LastChanged=20180314
+DataRecordId=NBNSYS0000008313
+LastChanged=20220317
 [EndMetadata]
 
 

@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Scymnus (Scymnus) interruptus 10km
-Description=Check coordinate against known 10km distribution of Scymnus (Scymnus) interruptus
-ErrorMsg=Coordinate outside known range for Scymnus (Scymnus) interruptus
+ShortName=Scymnus interruptus 10km
+Description=Check coordinate against known 10km distribution of Scymnus interruptus
+ErrorMsg=Coordinate outside known range for Scymnus interruptus
 DataFieldName=Species
-DataRecordId=NHMSYS0020153400
-LastChanged=20180314
+DataRecordId=NHMSYS0020920019
+LastChanged=20220317
 [EndMetadata]
 
 

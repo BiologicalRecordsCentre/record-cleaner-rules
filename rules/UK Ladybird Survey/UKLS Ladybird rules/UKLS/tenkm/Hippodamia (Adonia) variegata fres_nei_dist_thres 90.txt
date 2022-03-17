@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Hippodamia (Adonia) variegata 10km
-Description=Check coordinate against known 10km distribution of Hippodamia (Adonia) variegata
-ErrorMsg=Coordinate outside known range for Hippodamia (Adonia) variegata
+ShortName=Hippodamia variegata 10km
+Description=Check coordinate against known 10km distribution of Hippodamia variegata
+ErrorMsg=Coordinate outside known range for Hippodamia variegata
 DataFieldName=Species
-DataRecordId=NHMSYS0020152266
-LastChanged=20180314
+DataRecordId=NBNSYS0000008315
+LastChanged=20220317
 [EndMetadata]
 
 
