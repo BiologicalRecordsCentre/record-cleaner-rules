@@ -54,7 +54,7 @@ if [ "$DIRECTORY" ]; then
   cp "rules/$DIRECTORY/index.txt" "zip/$SCHEME"
   # Set default basepath if not set in environment.
   if [ -z "$BASEPATH" ]; then
-    BASEPATH="http://data.nbn.org.uk/recordcleaner/rules"
+    BASEPATH="http://localhost:8080"
   fi
   # Get date
   DATE=$(date +%d/%m/%Y)
