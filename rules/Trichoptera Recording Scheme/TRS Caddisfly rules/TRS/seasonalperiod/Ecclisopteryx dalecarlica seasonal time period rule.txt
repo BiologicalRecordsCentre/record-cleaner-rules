@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Ecclisopteryx dalecarlica seasonal check
+Description=Check date of record against known seasonal limit of Ecclisopteryx dalecarlica
+Tvk=NHMSYS0021008755
+ErrorMsg=Date outside known seasonal limit for Ecclisopteryx dalecarlica
+StartDate=0501
+EndDate=0731
+LastChanged=20220317
+[EndMetadata]
+

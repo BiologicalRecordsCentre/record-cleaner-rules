@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Glossosoma conformis seasonal check
+Description=Check date of record against known seasonal limit of Glossosoma conformis
+Tvk=NBNSYS0000008344
+ErrorMsg=Date outside known seasonal limit for Glossosoma conformis
+StartDate=0401
+EndDate=1031
+LastChanged=20220317
+[EndMetadata]
+

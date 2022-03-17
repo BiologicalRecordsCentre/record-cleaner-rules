@@ -1,0 +1,52 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Psychomyia fragilis 10km
+Description=Check coordinate against known 10km distribution of Psychomyia fragilis
+ErrorMsg=Coordinate outside known range for Psychomyia fragilis
+DataFieldName=Species
+DataRecordId=NHMSYS0020547806
+LastChanged=20220317
+[EndMetadata]
+
+
+[10km_GB]
+NY51
+NY70
+NY99
+SD86
+SD96
+SD97
+SE06
+SE14
+SE35
+SK26
+SK27
+SK28
+SK32
+SK35
+SK43
+SK47
+SM91
+SO92
+SP02
+SP10
+SP11
+SP12
+SP31
+SS79
+SS89
+SU31
+SU32
+SU33
+SU34
+SU44
+SU46
+SU53
+SU54
+TA05
+TL16
+TQ53
+TQ64
+
+

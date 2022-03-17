@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Psychomyia fragilis seasonal check
+Description=Check date of record against known seasonal limit of Psychomyia fragilis
+Tvk=NHMSYS0020547806
+ErrorMsg=Date outside known seasonal limit for Psychomyia fragilis
+StartDate=0601
+EndDate=0831
+LastChanged=20220317
+[EndMetadata]
+

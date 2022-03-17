@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Agrypnetes crassicornis 10km
+Description=Check coordinate against known 10km distribution of Agrypnetes crassicornis
+ErrorMsg=Coordinate outside known range for Agrypnetes crassicornis
+DataFieldName=Species
+DataRecordId=NHMSYS0021008788
+LastChanged=20220317
+[EndMetadata]
+
+
+[10km_GB]
+SD75
+SD76
+SD77
+SD85
+SD86
+SD87
+SD95
+SD96
+SD97
+
+
