@@ -1,12 +1,12 @@
 [Metadata]
 TestType=PeriodWithinYear
 Group=Seasonal Period
-ShortName=Labiobaetis atrebatinus seasonal check
-Description=Check date of record against known seasonal limit of Labiobaetis atrebatinus
-Tvk=NBNSYS0100003648
-ErrorMsg=Date outside known seasonal limit for Labiobaetis atrebatinus
+ShortName=Baetis atrebatinus seasonal check
+Description=Check date of record against known seasonal limit of Baetis atrebatinus
+Tvk=NBNSYS0000010863
+ErrorMsg=Date outside known seasonal limit for Baetis atrebatinus
 StartDate=0501
 EndDate=1031
-LastChanged=20130528
+LastChanged=20220317
 [EndMetadata]
 

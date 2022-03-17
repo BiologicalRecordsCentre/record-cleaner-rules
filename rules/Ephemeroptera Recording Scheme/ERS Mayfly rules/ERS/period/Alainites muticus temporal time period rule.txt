@@ -1,12 +1,12 @@
 [Metadata]
 TestType=Period
 Group=Recording Period
-ShortName=Alainites muticus temporal check
-Description=Check date of record against known temporal limit of Alainites muticus
-Tvk=NBNSYS0100001448
-ErrorMsg=Date outside known temporal limit for Alainites muticus
+ShortName=Baetis muticus temporal check
+Description=Check date of record against known temporal limit of Baetis muticus
+Tvk=NBNSYS0000010867
+ErrorMsg=Date outside known temporal limit for Baetis muticus
 StartDate=17580101
 EndDate=
-LastChanged=20130605
+LastChanged=20220317
 [EndMetadata]
 

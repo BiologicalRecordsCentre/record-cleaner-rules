@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Labiobaetis atrebatinus 10km
-Description=Check coordinate against known 10km distribution of Labiobaetis atrebatinus
-ErrorMsg=Coordinate outside known range for Labiobaetis atrebatinus
+ShortName=Baetis atrebatinus 10km
+Description=Check coordinate against known 10km distribution of Baetis atrebatinus
+ErrorMsg=Coordinate outside known range for Baetis atrebatinus
 DataFieldName=Species
-DataRecordId=NBNSYS0100003648
-LastChanged=20180322
+DataRecordId=NBNSYS0000010863
+LastChanged=20220317
 [EndMetadata]
 
 

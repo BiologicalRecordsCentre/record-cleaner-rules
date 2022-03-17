@@ -1,12 +1,12 @@
 [Metadata]
 TestType=Period
 Group=Recording Period
-ShortName=Labiobaetis atrebatinus temporal check
-Description=Check date of record against known temporal limit of Labiobaetis atrebatinus
-Tvk=NBNSYS0100003648
-ErrorMsg=Date outside known temporal limit for Labiobaetis atrebatinus
+ShortName=Baetis atrebatinus temporal check
+Description=Check date of record against known temporal limit of Baetis atrebatinus
+Tvk=NBNSYS0000010863
+ErrorMsg=Date outside known temporal limit for Baetis atrebatinus
 StartDate=18700101
 EndDate=
-LastChanged=20130605
+LastChanged=20220317
 [EndMetadata]
 

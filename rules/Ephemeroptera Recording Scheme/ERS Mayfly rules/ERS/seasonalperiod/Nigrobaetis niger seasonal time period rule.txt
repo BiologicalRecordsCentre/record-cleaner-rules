@@ -1,12 +1,12 @@
 [Metadata]
 TestType=PeriodWithinYear
 Group=Seasonal Period
-ShortName=Nigrobaetis niger seasonal check
-Description=Check date of record against known seasonal limit of Nigrobaetis niger
-Tvk=NBNSYS0100004260
-ErrorMsg=Date outside known seasonal limit for Nigrobaetis niger
+ShortName=Baetis niger seasonal check
+Description=Check date of record against known seasonal limit of Baetis niger
+Tvk=NBNSYS0000010868
+ErrorMsg=Date outside known seasonal limit for Baetis niger
 StartDate=0401
 EndDate=1031
-LastChanged=20130528
+LastChanged=20220317
 [EndMetadata]
 

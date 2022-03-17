@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Alainites muticus 10km
-Description=Check coordinate against known 10km distribution of Alainites muticus
-ErrorMsg=Coordinate outside known range for Alainites muticus
+ShortName=Baetis muticus 10km
+Description=Check coordinate against known 10km distribution of Baetis muticus
+ErrorMsg=Coordinate outside known range for Baetis muticus
 DataFieldName=Species
-DataRecordId=NBNSYS0100001448
-LastChanged=20180322
+DataRecordId=NBNSYS0000010867
+LastChanged=20220317
 [EndMetadata]
 
 

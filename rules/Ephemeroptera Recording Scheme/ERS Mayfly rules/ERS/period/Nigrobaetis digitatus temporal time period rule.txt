@@ -1,12 +1,12 @@
 [Metadata]
 TestType=Period
 Group=Recording Period
-ShortName=Nigrobaetis digitatus temporal check
-Description=Check date of record against known temporal limit of Nigrobaetis digitatus
-Tvk=NBNSYS0100004259
-ErrorMsg=Date outside known temporal limit for Nigrobaetis digitatus
+ShortName=Baetis digitatus temporal check
+Description=Check date of record against known temporal limit of Baetis digitatus
+Tvk=NBNSYS0000010865
+ErrorMsg=Date outside known temporal limit for Baetis digitatus
 StartDate=19390101
 EndDate=
-LastChanged=20130605
+LastChanged=20220317
 [EndMetadata]
 

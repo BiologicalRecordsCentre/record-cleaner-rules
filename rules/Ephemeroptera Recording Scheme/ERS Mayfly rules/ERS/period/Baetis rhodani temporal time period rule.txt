@@ -1,12 +1,12 @@
 [Metadata]
 TestType=Period
 Group=Recording Period
-ShortName=Baetis rhodani temporal check
-Description=Check date of record against known temporal limit of Baetis rhodani
-Tvk=NHMSYS0000066962
-ErrorMsg=Date outside known temporal limit for Baetis rhodani
+ShortName=Baetis rhodani/atlanticus temporal check
+Description=Check date of record against known temporal limit of Baetis rhodani/atlanticus
+Tvk=NHMSYS0021233523
+ErrorMsg=Date outside known temporal limit for Baetis rhodani/atlanticus
 StartDate=18440101
 EndDate=
-LastChanged=20130605
+LastChanged=20220317
 [EndMetadata]
 

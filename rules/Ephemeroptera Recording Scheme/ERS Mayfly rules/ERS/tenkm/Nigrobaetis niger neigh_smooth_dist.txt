@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Nigrobaetis niger 10km
-Description=Check coordinate against known 10km distribution of Nigrobaetis niger
-ErrorMsg=Coordinate outside known range for Nigrobaetis niger
+ShortName=Baetis niger 10km
+Description=Check coordinate against known 10km distribution of Baetis niger
+ErrorMsg=Coordinate outside known range for Baetis niger
 DataFieldName=Species
-DataRecordId=NBNSYS0100004260
-LastChanged=20180322
+DataRecordId=NBNSYS0000010868
+LastChanged=20220317
 [EndMetadata]
 
 

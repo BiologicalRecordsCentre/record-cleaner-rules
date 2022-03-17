@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Baetis rhodani 10km
-Description=Check coordinate against known 10km distribution of Baetis rhodani
-ErrorMsg=Coordinate outside known range for Baetis rhodani
+ShortName=Baetis rhodani/atlanticus 10km
+Description=Check coordinate against known 10km distribution of Baetis rhodani/atlanticus
+ErrorMsg=Coordinate outside known range for Baetis rhodani/atlanticus
 DataFieldName=Species
-DataRecordId=NHMSYS0000066962
-LastChanged=20180322
+DataRecordId=NHMSYS0021233523
+LastChanged=20220317
 [EndMetadata]
 
 
