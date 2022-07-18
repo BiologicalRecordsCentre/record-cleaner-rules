@@ -6,7 +6,7 @@ Description=Check coordinate against known 10km distribution of Polyommatus bell
 ErrorMsg=Coordinate outside known range for Polyommatus bellargus
 DataFieldName=Species
 DataRecordId=NHMSYS0021143616
-LastChanged=20210901
+LastChanged=20220718
 [EndMetadata]
 
 
