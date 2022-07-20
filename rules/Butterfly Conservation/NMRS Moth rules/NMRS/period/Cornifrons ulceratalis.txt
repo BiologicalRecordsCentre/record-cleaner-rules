@@ -5,7 +5,7 @@ ShortName = 63.0605 Cornifrons ulceratalis (Mediterranean Pearl)
 Description = Checks date is within known recording period
 ErrorMsg = Date is outside known recording period of Cornifrons ulceratalis (Mediterranean Pearl)
 Tvk = NHMSYS0021158351
-StartDate = 20151812
+StartDate = 20151218
 EndDate =
-LastChanged = 20210521
+LastChanged = 20220720
 [EndMetadata]
