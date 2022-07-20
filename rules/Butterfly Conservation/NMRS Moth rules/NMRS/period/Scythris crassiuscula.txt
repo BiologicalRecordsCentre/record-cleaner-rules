@@ -1,11 +1,11 @@
 [Metadata]
 TestType = Period
 Group = Moths Recording Period
-ShortName = 43.005 Scythris crassiuscula (Copper Owlet)
+ShortName = 43.005 Scythris subcinctella (Copper Owlet)
 Description = Checks date is within known recording period
-ErrorMsg = Date is outside known recording period of Scythris crassiuscula (Copper Owlet)
-Tvk = NHMSYS0000504161
+ErrorMsg = Date is outside known recording period of Scythris subcinctella (Copper Owlet)
+Tvk = NHMSYS0021460103
 StartDate = 17000101
 EndDate =
-LastChanged = 20210521
+LastChanged = 20220720
 [EndMetadata]

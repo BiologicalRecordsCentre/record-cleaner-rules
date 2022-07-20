@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Moths 10km distribution
-ShortName=Hydria cervinalis 10km
-Description=Check coordinate against known 10km distribution of Hydria cervinalis
-ErrorMsg=Coordinate outside known range for Hydria cervinalis
+ShortName=Rheumaptera cervinalis 10km
+Description=Check coordinate against known 10km distribution of Rheumaptera cervinalis
+ErrorMsg=Coordinate outside known range for Rheumaptera cervinalis
 DataFieldName=Species
-DataRecordId=NHMSYS0021144038
-LastChanged=20200404
+DataRecordId=NBNSYS0000005868
+LastChanged=20220720
 [EndMetadata]
 
 

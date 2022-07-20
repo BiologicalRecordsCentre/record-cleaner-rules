@@ -4,8 +4,8 @@ Group = Moths Recording Period
 ShortName = 70.121 Rheumaptera undulata (Scallop Shell)
 Description = Checks date is within known recording period
 ErrorMsg = Date is outside known recording period of Rheumaptera undulata (Scallop Shell)
-Tvk = NHMSYS0021144037
+Tvk = NBNSYS0000005869
 StartDate = 17000101
 EndDate =
-LastChanged = 20210521
+LastChanged = 20220720
 [EndMetadata]

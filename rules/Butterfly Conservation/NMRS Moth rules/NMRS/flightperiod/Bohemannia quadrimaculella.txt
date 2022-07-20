@@ -4,8 +4,8 @@ Group = Flight Period
 ShortName = 4.072 Bohemannia quadrimaculella (Four-spot Pigmy)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Bohemannia quadrimaculella (Four-spot Pigmy)
-Tvk = NHMSYS0021142140
+Tvk = NHMSYS0021460088
 StartDate = 0701
 EndDate = 0831
-LastChanged = 20210525
+LastChanged = 20220720
 [EndMetadata]

@@ -1,11 +1,11 @@
 [Metadata]
 TestType = Period
 Group = Moths Recording Period
-ShortName = 35.005 Syncopacma albifrontella (White-headed Sober)
+ShortName = 35.005 Aproaerema albifrontella (White-headed Sober)
 Description = Checks date is within known recording period
-ErrorMsg = Date is outside known recording period of Syncopacma albifrontella (White-headed Sober)
-Tvk = NHMSYS0001703664
+ErrorMsg = Date is outside known recording period of Aproaerema albifrontella (White-headed Sober)
+Tvk = NHMSYS0021372489
 StartDate = 20010605
 EndDate =
-LastChanged = 20210521
+LastChanged = 20220720
 [EndMetadata]

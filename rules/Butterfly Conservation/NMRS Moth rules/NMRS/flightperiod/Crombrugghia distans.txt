@@ -1,11 +1,11 @@
 [Metadata]
 TestType = PeriodWithinYear
 Group = Flight Period
-ShortName = 45.026 Crombrugghia distans (Breckland Plume)
+ShortName = 45.026 Oxyptilus distans (Breckland Plume)
 Description = Checks date is within known flight period
-ErrorMsg = Date is outside known flight period of Crombrugghia distans (Breckland Plume)
-Tvk = NBNSYS0000027025
+ErrorMsg = Date is outside known flight period of Oxyptilus distans (Breckland Plume)
+Tvk = NHMSYS0000503531
 StartDate = 0501
 EndDate = 0907
-LastChanged = 20210525
+LastChanged = 20220720
 [EndMetadata]

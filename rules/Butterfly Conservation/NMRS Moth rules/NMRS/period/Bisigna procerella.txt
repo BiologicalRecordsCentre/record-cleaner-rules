@@ -1,11 +1,11 @@
 [Metadata]
 TestType = Period
 Group = Moths Recording Period
-ShortName = 28.001 Bisigna procerella (Kent Tubic)
+ShortName = 28.001 Promalactis procerella (Kent Tubic)
 Description = Checks date is within known recording period
-ErrorMsg = Date is outside known recording period of Bisigna procerella (Kent Tubic)
-Tvk = NHMSYS0021142533
+ErrorMsg = Date is outside known recording period of Promalactis procerella (Kent Tubic)
+Tvk = NHMSYS0021460098
 StartDate = 17000101
 EndDate =
-LastChanged = 20210521
+LastChanged = 20220720
 [EndMetadata]

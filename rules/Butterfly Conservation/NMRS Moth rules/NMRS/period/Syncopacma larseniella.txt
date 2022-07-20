@@ -1,11 +1,11 @@
 [Metadata]
 TestType = Period
 Group = Moths Recording Period
-ShortName = 35.003 Syncopacma larseniella (White-strap Sober)
+ShortName = 35.003 Aproaerema larseniella (White-strap Sober)
 Description = Checks date is within known recording period
-ErrorMsg = Date is outside known recording period of Syncopacma larseniella (White-strap Sober)
-Tvk = NHMSYS0021142616
+ErrorMsg = Date is outside known recording period of Aproaerema larseniella (White-strap Sober)
+Tvk = NHMSYS0021372504
 StartDate = 17000101
 EndDate =
-LastChanged = 20210521
+LastChanged = 20220720
 [EndMetadata]

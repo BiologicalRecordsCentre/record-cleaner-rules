@@ -4,8 +4,8 @@ Group = Moths Recording Period
 ShortName = 4.072 Bohemannia quadrimaculella (Four-spot Pigmy)
 Description = Checks date is within known recording period
 ErrorMsg = Date is outside known recording period of Bohemannia quadrimaculella (Four-spot Pigmy)
-Tvk = NHMSYS0021142140
+Tvk = NHMSYS0021460088
 StartDate = 17000101
 EndDate =
-LastChanged = 20210521
+LastChanged = 20220720
 [EndMetadata]

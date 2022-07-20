@@ -1,11 +1,11 @@
 [Metadata]
 TestType = PeriodWithinYear
 Group = Flight Period
-ShortName = 49.032 Aphelia unitana (Northern Grey Tortrix)
+ShortName = 49.032 Zelotherses unitana (Northern Grey Tortrix)
 Description = Checks date is within known flight period
-ErrorMsg = Date is outside known flight period of Aphelia unitana (Northern Grey Tortrix)
-Tvk = NHMSYS0021143023
+ErrorMsg = Date is outside known flight period of Zelotherses unitana (Northern Grey Tortrix)
+Tvk = NHMSYS0021460123
 StartDate = 0601
 EndDate = 0807
-LastChanged = 20210525
+LastChanged = 20220720
 [EndMetadata]

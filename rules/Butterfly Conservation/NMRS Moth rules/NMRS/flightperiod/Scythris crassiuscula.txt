@@ -1,11 +1,11 @@
 [Metadata]
 TestType = PeriodWithinYear
 Group = Flight Period
-ShortName = 43.005 Scythris crassiuscula (Copper Owlet)
+ShortName = 43.005 Scythris subcinctella (Copper Owlet)
 Description = Checks date is within known flight period
-ErrorMsg = Date is outside known flight period of Scythris crassiuscula (Copper Owlet)
-Tvk = NHMSYS0000504161
+ErrorMsg = Date is outside known flight period of Scythris subcinctella (Copper Owlet)
+Tvk = NHMSYS0021460103
 StartDate = 0501
 EndDate = 0930
-LastChanged = 20210525
+LastChanged = 20220720
 [EndMetadata]

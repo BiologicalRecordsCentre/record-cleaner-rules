@@ -1,11 +1,11 @@
 [Metadata]
 TestType = Period
 Group = Moths Recording Period
-ShortName = 49.031 Aphelia paleana (Timothy Tortrix)
+ShortName = 49.031 Zelotherses paleana (Timothy Tortrix)
 Description = Checks date is within known recording period
-ErrorMsg = Date is outside known recording period of Aphelia paleana (Timothy Tortrix)
-Tvk = NHMSYS0000501122
+ErrorMsg = Date is outside known recording period of Zelotherses paleana (Timothy Tortrix)
+Tvk = NHMSYS0021460118
 StartDate = 17000101
 EndDate =
-LastChanged = 20210521
+LastChanged = 20220720
 [EndMetadata]

@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Moths 10km distribution
-ShortName=Hydria undulata 10km
-Description=Check coordinate against known 10km distribution of Hydria undulata
-ErrorMsg=Coordinate outside known range for Hydria undulata
+ShortName=Rheumaptera undulata 10km
+Description=Check coordinate against known 10km distribution of Rheumaptera undulata
+ErrorMsg=Coordinate outside known range for Rheumaptera undulata
 DataFieldName=Species
-DataRecordId=NHMSYS0021144037
-LastChanged=20200404
+DataRecordId=NBNSYS0000005869
+LastChanged=20220720
 [EndMetadata]
 
 

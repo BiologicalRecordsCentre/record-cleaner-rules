@@ -1,11 +1,11 @@
 [Metadata]
 TestType = PeriodWithinYear
 Group = Flight Period
-ShortName = 45.027 Crombrugghia laetus (Scarce Light Plume)
+ShortName = 45.027 Oxyptilus laetus (Scarce Light Plume)
 Description = Checks date is within known flight period
-ErrorMsg = Date is outside known flight period of Crombrugghia laetus (Scarce Light Plume)
-Tvk = NBNSYS0000027026
+ErrorMsg = Date is outside known flight period of Oxyptilus laetus (Scarce Light Plume)
+Tvk = NHMSYS0000503532
 StartDate = 0501
 EndDate = 1031
-LastChanged = 20210525
+LastChanged = 20220720
 [EndMetadata]
