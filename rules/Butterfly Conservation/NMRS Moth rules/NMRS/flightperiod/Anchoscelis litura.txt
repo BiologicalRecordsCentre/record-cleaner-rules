@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Flight Period
+ShortName = 73.187 Anchoscelis litura (Brown-spot Pinion)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Anchoscelis litura (Brown-spot Pinion)
+Tvk = NHMSYS0021566568
+StartDate = 0807
+EndDate = 1115
+LastChanged = 20220720
+[EndMetadata]

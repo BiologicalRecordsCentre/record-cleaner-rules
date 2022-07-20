@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.188 Anchoscelis helvola (Flounced Chestnut)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Anchoscelis helvola (Flounced Chestnut)
+Tvk = NHMSYS0021566573
+StartDate = 17000101
+EndDate =
+LastChanged = 20220720
+[EndMetadata]

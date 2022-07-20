@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 73.193 Anchoscelis lunosa (Lunar Underwing)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Anchoscelis lunosa (Lunar Underwing)
+Tvk = NHMSYS0021566583
+StartDate = 17000101
+EndDate =
+LastChanged = 20220720
+[EndMetadata]

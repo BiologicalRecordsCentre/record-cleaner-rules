@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Flight Period
+ShortName = 73.188 Anchoscelis helvola (Flounced Chestnut)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Anchoscelis helvola (Flounced Chestnut)
+Tvk = NHMSYS0021566573
+StartDate = 0807
+EndDate = 1115
+LastChanged = 20220720
+[EndMetadata]

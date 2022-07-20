@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Flight Period
+ShortName = 35.006 Aproaerema vinella (Brighton Sober)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Aproaerema vinella (Brighton Sober)
+Tvk = NHMSYS0021372529
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20220720
+[EndMetadata]

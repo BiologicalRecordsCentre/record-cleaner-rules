@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.002 Aproaerema cinctella (White-streak Sober)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Aproaerema cinctella (White-streak Sober)
+Tvk = NHMSYS0021372499
+StartDate = 17000101
+EndDate =
+LastChanged = 20220720
+[EndMetadata]

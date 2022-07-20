@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 35.004 Aproaerema taeniolella (Silver-barred Sober)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Aproaerema taeniolella (Silver-barred Sober)
+Tvk = NHMSYS0021372524
+StartDate = 17000101
+EndDate =
+LastChanged = 20220720
+[EndMetadata]
