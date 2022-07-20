@@ -1,11 +1,11 @@
 [Metadata]
 TestType=PeriodWithinYear
 Group=Flight Period
-ShortName=Argynnis adippe
-Description=Checks date is within known flight period of Argynnis adippe
-ErrorMsg=Date is outside known flight period of Argynnis adippe
-Tvk=NHMSYS0021143558
+ShortName=Fabriciana adippe
+Description=Checks date is within known flight period of Fabriciana adippe
+ErrorMsg=Date is outside known flight period of Fabriciana adippe
+Tvk=NHMSYS0021459983
 StartDate=0601
 EndDate=0930
-LastChanged=20210608
+LastChanged=20220720
 [EndMetadata]

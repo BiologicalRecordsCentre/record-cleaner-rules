@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Species Range
-ShortName=Argynnis adippe 10km
-Description=Check coordinate against known 10km distribution of Argynnis adippe
-ErrorMsg=Coordinate outside known range for Argynnis adippe
+ShortName=Fabriciana adippe 10km
+Description=Check coordinate against known 10km distribution of Fabriciana adippe
+ErrorMsg=Coordinate outside known range for Fabriciana adippe
 DataFieldName=Species
-DataRecordId=NHMSYS0021143558
-LastChanged=20210901
+DataRecordId=NHMSYS0021459983
+LastChanged=20220720
 [EndMetadata]
 
 

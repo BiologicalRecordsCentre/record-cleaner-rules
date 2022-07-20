@@ -1,13 +1,13 @@
 [Metadata]
 TestType=Period
 Group=Recording Period
-ShortName=Argynnis adippe
-Description=Checks date is within known recording period of Argynnis adippe
-ErrorMsg=Date is outside known recording period of Argynnis adippe
-Tvk=NHMSYS0021143558
+ShortName=Fabriciana adippe
+Description=Checks date is within known recording period of Fabriciana adippe
+ErrorMsg=Date is outside known recording period of Fabriciana adippe
+Tvk=NHMSYS0021459983
 StartDate=17000101
 EndDate=
-LastChanged=20110328
+LastChanged=20220720
 [EndMetadata]
 
          
