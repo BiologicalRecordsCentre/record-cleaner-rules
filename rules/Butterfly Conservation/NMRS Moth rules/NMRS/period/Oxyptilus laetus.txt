@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 45.027 Oxyptilus laetus (Scarce Light Plume)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Oxyptilus laetus (Scarce Light Plume)
+Tvk = NHMSYS0000503532
+StartDate = 17000101
+EndDate =
+LastChanged = 20220720
+[EndMetadata]

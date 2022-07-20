@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Flight Period
+ShortName = 49.031 Zelotherses paleana (Timothy Tortrix)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Zelotherses paleana (Timothy Tortrix)
+Tvk = NHMSYS0021460118
+StartDate = 0501
+EndDate = 0831
+LastChanged = 20220720
+[EndMetadata]
