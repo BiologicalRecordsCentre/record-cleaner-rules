@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Moths 10km distribution
-ShortName=Agrochola macilenta 10km
-Description=Check coordinate against known 10km distribution of Agrochola macilenta
-ErrorMsg=Coordinate outside known range for Agrochola macilenta
+ShortName=Leptologia macilenta 10km
+Description=Check coordinate against known 10km distribution of Leptologia macilenta
+ErrorMsg=Coordinate outside known range for Leptologia macilenta
 DataFieldName=Species
-DataRecordId=NHMSYS0021144714
-LastChanged=20200404
+DataRecordId=NHMSYS0021566598
+LastChanged=20220720
 [EndMetadata]
 
 

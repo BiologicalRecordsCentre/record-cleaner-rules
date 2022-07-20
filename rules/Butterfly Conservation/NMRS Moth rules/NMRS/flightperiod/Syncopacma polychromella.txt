@@ -1,12 +1,12 @@
 [Metadata]
 TestType = PeriodWithinYear
 Group = Flight Period
-ShortName = 35.009 Syncopacma polychromella (African Sober)
+ShortName = 35.009 Aproaerema polychromella (African Sober)
 Description = Checks date is within known flight period
-ErrorMsg = Date is outside known flight period of Syncopacma polychromella (African Sober)
-Tvk = NHMSYS0000504431
+ErrorMsg = Date is outside known flight period of Aproaerema polychromella (African Sober)
+Tvk = NHMSYS0021372509
 StartDate = 0801
 EndDate = 1130
 ReverseRule = True
-LastChanged = 20210525
+LastChanged = 20220720
 [EndMetadata]

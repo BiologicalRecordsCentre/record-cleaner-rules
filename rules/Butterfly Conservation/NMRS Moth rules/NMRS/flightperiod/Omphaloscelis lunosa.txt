@@ -1,11 +1,11 @@
 [Metadata]
 TestType = PeriodWithinYear
 Group = Flight Period
-ShortName = 73.193 Omphaloscelis lunosa (Lunar Underwing)
+ShortName = 73.193 Anchoscelis lunosa (Lunar Underwing)
 Description = Checks date is within known flight period
-ErrorMsg = Date is outside known flight period of Omphaloscelis lunosa (Lunar Underwing)
-Tvk = NBNSYS0000006365
+ErrorMsg = Date is outside known flight period of Anchoscelis lunosa (Lunar Underwing)
+Tvk = NHMSYS0021566583
 StartDate = 0815
 EndDate = 1115
-LastChanged = 20210525
+LastChanged = 20220720
 [EndMetadata]

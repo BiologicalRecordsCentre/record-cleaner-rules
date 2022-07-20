@@ -1,11 +1,11 @@
 [Metadata]
 TestType = Period
 Group = Moths Recording Period
-ShortName = 73.192 Agrochola circellaris (Brick)
+ShortName = 73.192 Sunira circellaris (Brick)
 Description = Checks date is within known recording period
-ErrorMsg = Date is outside known recording period of Agrochola circellaris (Brick)
-Tvk = NBNSYS0000006357
+ErrorMsg = Date is outside known recording period of Sunira circellaris (Brick)
+Tvk = NHMSYS0021566608
 StartDate = 17000101
 EndDate =
-LastChanged = 20210521
+LastChanged = 20220720
 [EndMetadata]

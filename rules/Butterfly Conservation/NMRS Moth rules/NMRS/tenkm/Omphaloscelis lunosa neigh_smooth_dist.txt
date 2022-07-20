@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Moths 10km distribution
-ShortName=Omphaloscelis lunosa 10km
-Description=Check coordinate against known 10km distribution of Omphaloscelis lunosa
-ErrorMsg=Coordinate outside known range for Omphaloscelis lunosa
+ShortName=Anchoscelis lunosa 10km
+Description=Check coordinate against known 10km distribution of Anchoscelis lunosa
+ErrorMsg=Coordinate outside known range for Anchoscelis lunosa
 DataFieldName=Species
-DataRecordId=NBNSYS0000006365
-LastChanged=20200404
+DataRecordId=NHMSYS0021566583
+LastChanged=20220720
 [EndMetadata]
 
 

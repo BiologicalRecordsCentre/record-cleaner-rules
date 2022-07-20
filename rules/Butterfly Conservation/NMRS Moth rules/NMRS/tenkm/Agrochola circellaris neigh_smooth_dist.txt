@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Moths 10km distribution
-ShortName=Agrochola circellaris 10km
-Description=Check coordinate against known 10km distribution of Agrochola circellaris
-ErrorMsg=Coordinate outside known range for Agrochola circellaris
+ShortName=Sunira circellaris 10km
+Description=Check coordinate against known 10km distribution of Sunira circellaris
+ErrorMsg=Coordinate outside known range for Sunira circellaris
 DataFieldName=Species
-DataRecordId=NBNSYS0000006357
-LastChanged=20200404
+DataRecordId=NHMSYS0021566608
+LastChanged=20220720
 [EndMetadata]
 
 

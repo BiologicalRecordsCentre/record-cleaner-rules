@@ -1,11 +1,11 @@
 [Metadata]
 TestType = PeriodWithinYear
 Group = Flight Period
-ShortName = 73.191 Agrochola haematidea (Southern Chestnut)
+ShortName = 73.191 Anchoscelis haematidea (Southern Chestnut)
 Description = Checks date is within known flight period
-ErrorMsg = Date is outside known flight period of Agrochola haematidea (Southern Chestnut)
-Tvk = NHMSYS0000501172
+ErrorMsg = Date is outside known flight period of Anchoscelis haematidea (Southern Chestnut)
+Tvk = NHMSYS0021566578
 StartDate = 0921
 EndDate = 1031
-LastChanged = 20210525
+LastChanged = 20220720
 [EndMetadata]

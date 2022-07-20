@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Moths 10km distribution
-ShortName=Agrochola haematidea 10km
-Description=Check coordinate against known 10km distribution of Agrochola haematidea
-ErrorMsg=Coordinate outside known range for Agrochola haematidea
+ShortName=Anchoscelis haematidea 10km
+Description=Check coordinate against known 10km distribution of Anchoscelis haematidea
+ErrorMsg=Coordinate outside known range for Anchoscelis haematidea
 DataFieldName=Species
-DataRecordId=NHMSYS0000501172
-LastChanged=20200404
+DataRecordId=NHMSYS0021566578
+LastChanged=20220720
 [EndMetadata]
 
 

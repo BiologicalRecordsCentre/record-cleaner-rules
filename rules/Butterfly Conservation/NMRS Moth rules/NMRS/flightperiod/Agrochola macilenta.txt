@@ -1,11 +1,11 @@
 [Metadata]
 TestType = PeriodWithinYear
 Group = Flight Period
-ShortName = 73.190 Agrochola macilenta (Yellow-line Quaker)
+ShortName = 73.190 Leptologia macilenta (Yellow-line Quaker)
 Description = Checks date is within known flight period
-ErrorMsg = Date is outside known flight period of Agrochola macilenta (Yellow-line Quaker)
-Tvk = NHMSYS0021144714
+ErrorMsg = Date is outside known flight period of Leptologia macilenta (Yellow-line Quaker)
+Tvk = NHMSYS0021566598
 StartDate = 0901
 EndDate = 1215
-LastChanged = 20210525
+LastChanged = 20220720
 [EndMetadata]

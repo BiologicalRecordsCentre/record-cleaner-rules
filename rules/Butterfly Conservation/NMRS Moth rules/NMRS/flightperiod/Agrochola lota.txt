@@ -1,11 +1,11 @@
 [Metadata]
 TestType = PeriodWithinYear
 Group = Flight Period
-ShortName = 73.189 Agrochola lota (Red-line Quaker)
+ShortName = 73.189 Leptologia lota (Red-line Quaker)
 Description = Checks date is within known flight period
-ErrorMsg = Date is outside known flight period of Agrochola lota (Red-line Quaker)
-Tvk = NBNSYS0000006358
+ErrorMsg = Date is outside known flight period of Leptologia lota (Red-line Quaker)
+Tvk = NHMSYS0021566593
 StartDate = 0901
 EndDate = 1207
-LastChanged = 20210525
+LastChanged = 20220720
 [EndMetadata]

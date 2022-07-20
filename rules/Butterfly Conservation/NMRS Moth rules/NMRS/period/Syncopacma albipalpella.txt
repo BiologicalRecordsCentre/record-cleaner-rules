@@ -1,11 +1,11 @@
 [Metadata]
 TestType = Period
 Group = Moths Recording Period
-ShortName = 35.007 Syncopacma albipalpella (Slate Sober)
+ShortName = 35.007 Aproaerema albipalpella (Slate Sober)
 Description = Checks date is within known recording period
-ErrorMsg = Date is outside known recording period of Syncopacma albipalpella (Slate Sober)
-Tvk = NHMSYS0000504428
+ErrorMsg = Date is outside known recording period of Aproaerema albipalpella (Slate Sober)
+Tvk = NHMSYS0021372494
 StartDate = 17000101
 EndDate = 20111231
-LastChanged = 20210521
+LastChanged = 20220720
 [EndMetadata]

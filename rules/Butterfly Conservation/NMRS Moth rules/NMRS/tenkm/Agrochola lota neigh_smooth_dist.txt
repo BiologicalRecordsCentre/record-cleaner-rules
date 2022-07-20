@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Moths 10km distribution
-ShortName=Agrochola lota 10km
-Description=Check coordinate against known 10km distribution of Agrochola lota
-ErrorMsg=Coordinate outside known range for Agrochola lota
+ShortName=Leptologia lota 10km
+Description=Check coordinate against known 10km distribution of Leptologia lota
+ErrorMsg=Coordinate outside known range for Leptologia lota
 DataFieldName=Species
-DataRecordId=NBNSYS0000006358
-LastChanged=20200404
+DataRecordId=NHMSYS0021566593
+LastChanged=20220720
 [EndMetadata]
 
 

@@ -1,11 +1,11 @@
 [Metadata]
 TestType = Period
 Group = Moths Recording Period
-ShortName = 35.006 Syncopacma vinella (Brighton Sober)
+ShortName = 35.006 Aproaerema vinella (Brighton Sober)
 Description = Checks date is within known recording period
-ErrorMsg = Date is outside known recording period of Syncopacma vinella (Brighton Sober)
-Tvk = NHMSYS0000504435
+ErrorMsg = Date is outside known recording period of Aproaerema vinella (Brighton Sober)
+Tvk = NHMSYS0021372529
 StartDate = 17000101
 EndDate =
-LastChanged = 20210521
+LastChanged = 20220720
 [EndMetadata]

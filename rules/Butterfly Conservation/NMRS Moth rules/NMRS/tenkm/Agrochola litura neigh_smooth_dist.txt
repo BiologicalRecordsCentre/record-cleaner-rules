@@ -1,12 +1,12 @@
 [Metadata]
 TestType=WithoutPolygon
 Group=Moths 10km distribution
-ShortName=Agrochola litura 10km
-Description=Check coordinate against known 10km distribution of Agrochola litura
-ErrorMsg=Coordinate outside known range for Agrochola litura
+ShortName=Anchoscelis litura 10km
+Description=Check coordinate against known 10km distribution of Anchoscelis litura
+ErrorMsg=Coordinate outside known range for Anchoscelis litura
 DataFieldName=Species
-DataRecordId=NBNSYS0000006361
-LastChanged=20200404
+DataRecordId=NHMSYS0021566568
+LastChanged=20220720
 [EndMetadata]
 
 
