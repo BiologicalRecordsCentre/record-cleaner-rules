@@ -6,6 +6,6 @@ Description = Checks date is within known recording period
 ErrorMsg = Date is outside known recording period of Luffia lapidella (Grey Bagworm)
 Tvk = NHMSYS0000503105
 StartDate = 17000101
-EndDate = 19920812
-LastChanged = 20210521
+EndDate =
+LastChanged = 20220720
 [EndMetadata]
