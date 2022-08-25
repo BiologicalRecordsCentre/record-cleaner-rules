@@ -4,8 +4,8 @@ Group = Moths Recording Period
 ShortName = 73.227 Dryobotodes tenebrosa (Sombre Brocade)
 Description = Checks date is within known recording period
 ErrorMsg = Date is outside known recording period of Dryobotodes tenebrosa (Sombre Brocade)
-Tvk = NHMSYS0021144763
+Tvk = NHMSYS0020503121
 StartDate = 20060919
 EndDate =
-LastChanged = 20210521
+LastChanged = 20220811
 [EndMetadata]

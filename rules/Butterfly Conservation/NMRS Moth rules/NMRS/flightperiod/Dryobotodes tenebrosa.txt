@@ -4,8 +4,8 @@ Group = Flight Period
 ShortName = 73.227 Dryobotodes tenebrosa (Sombre Brocade)
 Description = Checks date is within known flight period
 ErrorMsg = Date is outside known flight period of Dryobotodes tenebrosa (Sombre Brocade)
-Tvk = NHMSYS0021144763
+Tvk = NHMSYS0020503121
 StartDate = 0915
 EndDate = 1031
-LastChanged = 20210525
+LastChanged = 20220811
 [EndMetadata]
