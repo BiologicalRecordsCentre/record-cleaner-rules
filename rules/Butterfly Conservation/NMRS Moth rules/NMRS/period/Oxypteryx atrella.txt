@@ -4,8 +4,8 @@ Group = Moths Recording Period
 ShortName = 35.081 Oxypteryx atrella (Two-spotted Neb)
 Description = Checks date is within known recording period
 ErrorMsg = Date is outside known recording period of Eulamprotes atrella (Two-spotted Neb)
-Tvk = NHMSYS0021142718
+Tvk = NHMSYS0021297334
 StartDate = 17000101
 EndDate =
-LastChanged = 20210521
+LastChanged = 20220810
 [EndMetadata]

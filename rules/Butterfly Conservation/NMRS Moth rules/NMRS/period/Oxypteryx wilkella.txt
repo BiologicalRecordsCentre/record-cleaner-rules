@@ -4,8 +4,8 @@ Group = Moths Recording Period
 ShortName = 35.079 Oxypteryx wilkella (Painted Neb)
 Description = Checks date is within known recording period
 ErrorMsg = Date is outside known recording period of Eulamprotes wilkella (Painted Neb)
-Tvk = NHMSYS0000502577
+Tvk = NHMSYS0021297319
 StartDate = 17000101
 EndDate =
-LastChanged = 20210521
+LastChanged = 20220810
 [EndMetadata]

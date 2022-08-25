@@ -4,8 +4,8 @@ Group = Moths Recording Period
 ShortName = 35.080 Oxypteryx unicolorella (Unmarked Neb)
 Description = Checks date is within known recording period
 ErrorMsg = Date is outside known recording period of Eulamprotes unicolorella (Unmarked Neb)
-Tvk = NHMSYS0021142717
+Tvk = NHMSYS0021297329
 StartDate = 17000101
 EndDate =
-LastChanged = 20210521
+LastChanged = 20220810
 [EndMetadata]
