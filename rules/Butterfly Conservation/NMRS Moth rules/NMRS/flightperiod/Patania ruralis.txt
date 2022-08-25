@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Flight Period
+ShortName = 63.038 Patania ruralis (Mother of Pearl)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Patania ruralis (Mother of Pearl)
+Tvk = NHMSYS0021460153
+StartDate = 0601
+EndDate = 1031
+LastChanged = 20220810
+[EndMetadata]

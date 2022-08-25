@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 49.323 Dichrorampha alpestrana (Spike-marked Drill)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Dichrorampha alpestrana (Spike-marked Drill)
+Tvk = NHMSYS0021561182
+StartDate = 17000101
+EndDate =
+LastChanged = 20220810
+[EndMetadata]

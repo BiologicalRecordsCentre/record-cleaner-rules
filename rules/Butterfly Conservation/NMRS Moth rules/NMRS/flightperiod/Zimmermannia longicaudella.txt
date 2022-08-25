@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Flight Period
+ShortName = 4.080 Zimmermannia longicaudella (New Oak-bark Pigmy)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Zimmermannia longicaudella (New Oak-bark Pigmy)
+Tvk = NHMSYS0021542673
+StartDate = 0701
+EndDate = 0731
+LastChanged = 20220809
+[EndMetadata]

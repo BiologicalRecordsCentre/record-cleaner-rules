@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Flight Period
+ShortName = 49.136 Neocochylis hybridella (White-bodied Conch)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Neocochylis hybridella (White-bodied Conch)
+Tvk = NHMSYS0021518607
+StartDate = 0601
+EndDate = 0930
+LastChanged = 20220810
+[EndMetadata]

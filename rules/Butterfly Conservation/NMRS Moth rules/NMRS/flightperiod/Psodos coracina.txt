@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Flight Period
+ShortName = 70.289 Psodos coracina (Black Mountain Moth)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Psodos coracina (Black Mountain Moth)
+Tvk = NHMSYS0021564092
+StartDate = 0521
+EndDate = 0807
+LastChanged = 20220811
+[EndMetadata]

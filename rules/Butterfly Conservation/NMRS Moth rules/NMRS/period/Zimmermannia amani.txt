@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 4.081 Zimmermannia amani (Elm-bark Pigmy)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Zimmermannia amani (Elm-bark Pigmy)
+Tvk = NHMSYS0021542678
+StartDate = 17000101
+EndDate =
+LastChanged = 20220809
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Moths Recording Period
+ShortName = 4.079 Zimmermannia atrifrontella (Oak-bark Pigmy)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Zimmermannia atrifrontella (Oak-bark Pigmy)
+Tvk = NHMSYS0021542668
+StartDate = 17000101
+EndDate =
+LastChanged = 20220809
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Flight Period
+ShortName = 4.078 Fomoria septembrella (Hypericum Pigmy)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Fomoria septembrella (Hypericum Pigmy)
+Tvk = NHMSYS0021542658
+StartDate = 0501
+EndDate = 0907
+LastChanged = 20220809
+[EndMetadata]

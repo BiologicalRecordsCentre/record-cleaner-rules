@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Flight Period
+ShortName = 72.084 Callistege mi (Mother Shipton)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Callistege mi (Mother Shipton)
+Tvk = NBNSYS0000006567
+StartDate = 0415
+EndDate = 0715
+LastChanged = 20220811
+[EndMetadata]

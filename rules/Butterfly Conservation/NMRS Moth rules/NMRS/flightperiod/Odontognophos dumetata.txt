@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Flight Period
+ShortName = 70.286 Odontognophos dumetata (Irish Annulet)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Odontognophos dumetata (Irish Annulet)
+Tvk = NHMSYS0000521663
+StartDate = 0815
+EndDate = 0915
+LastChanged = 20220811
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Flight Period
+ShortName = 49.323 Dichrorampha alpestrana (Spike-marked Drill)
+Description = Checks date is within known flight period
+ErrorMsg = Date is outside known flight period of Dichrorampha alpestrana (Spike-marked Drill)
+Tvk = NHMSYS0021561182
+StartDate = 0521
+EndDate = 0831
+LastChanged = 20220810
+[EndMetadata]

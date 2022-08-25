@@ -1,0 +1,11 @@
+[Metadata]
+TestType = Period
+Group = Recording Period
+ShortName = 4.076 Etainia decentella (Sycamore-seed Pigmy)
+Description = Checks date is within known recording period
+ErrorMsg = Date is outside known recording period of Etainia decentella (Sycamore-seed Pigmy)
+Tvk = NHMSYS0021542643
+StartDate = 17000101
+EndDate =
+LastChanged = 20220809
+[EndMetadata]
