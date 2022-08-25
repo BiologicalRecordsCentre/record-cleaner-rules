@@ -1,11 +1,11 @@
 [Metadata]
 TestType = PeriodWithinYear
 Group = Flight Period
-ShortName = 62.002 Aphomia zelleri (Twin-spot Honey Moth)
+ShortName = 62.002 Lamoria zelleri (Twin-spot Honey Moth)
 Description = Checks date is within known flight period
-ErrorMsg = Date is outside known flight period of Aphomia zelleri (Twin-spot Honey Moth)
-Tvk = NHMSYS0000501127
+ErrorMsg = Date is outside known flight period of Lamoria zelleri (Twin-spot Honey Moth)
+Tvk = NHMSYS0021460138
 StartDate = 0601
 EndDate = 0831
-LastChanged = 20210525
+LastChanged = 20220810
 [EndMetadata]

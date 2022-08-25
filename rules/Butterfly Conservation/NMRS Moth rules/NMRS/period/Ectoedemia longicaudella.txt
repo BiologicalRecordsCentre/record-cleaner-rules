@@ -1,11 +1,11 @@
 [Metadata]
 TestType = Period
 Group = Moths Recording Period
-ShortName = 4.080 Ectoedemia longicaudella (New Oak-bark Pigmy)
+ShortName = 4.080 Zimmermannia longicaudella (New Oak-bark Pigmy)
 Description = Checks date is within known recording period
-ErrorMsg = Date is outside known recording period of Ectoedemia longicaudella (New Oak-bark Pigmy)
-Tvk = NHMSYS0021142145
+ErrorMsg = Date is outside known recording period of Zimmermannia longicaudella (New Oak-bark Pigmy)
+Tvk = NHMSYS0021542673
 StartDate = 20090712
 EndDate =
-LastChanged = 20210521
+LastChanged = 20220809
 [EndMetadata]

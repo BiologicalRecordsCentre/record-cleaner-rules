@@ -1,11 +1,11 @@
 [Metadata]
 TestType = Period
 Group = Moths Recording Period
-ShortName = 73.085 Nyctobrya muralis (Marbled Green)
+ShortName = 73.085 Bryopsis muralis (Marbled Green)
 Description = Checks date is within known recording period
-ErrorMsg = Date is outside known recording period of Nyctobrya muralis (Marbled Green)
-Tvk = NHMSYS0021144559
+ErrorMsg = Date is outside known recording period of Bryopsis muralis (Marbled Green)
+Tvk = NHMSYS0021566088
 StartDate = 17000101
 EndDate =
-LastChanged = 20210521
+LastChanged = 20220811
 [EndMetadata]

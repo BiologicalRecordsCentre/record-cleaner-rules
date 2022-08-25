@@ -1,11 +1,11 @@
 [Metadata]
 TestType = PeriodWithinYear
 Group = Flight Period
-ShortName = 4.076 Ectoedemia decentella (Sycamore-seed Pigmy)
+ShortName = 4.076 Etainia decentella (Sycamore-seed Pigmy)
 Description = Checks date is within known flight period
-ErrorMsg = Date is outside known flight period of Ectoedemia decentella (Sycamore-seed Pigmy)
-Tvk = NBNSYS0100002913
+ErrorMsg = Date is outside known flight period of Etainia decentella (Sycamore-seed Pigmy)
+Tvk = NHMSYS0021542643
 StartDate = 0501
 EndDate = 0907
-LastChanged = 20210525
+LastChanged = 20220809
 [EndMetadata]

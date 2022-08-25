@@ -1,11 +1,11 @@
 [Metadata]
 TestType = Period
 Group = Moths Recording Period
-ShortName = 62.013 Moitrelia obductella (Kent Knot-horn)
+ShortName = 62.013 Uncinus obductella (Kent Knot-horn)
 Description = Checks date is within known recording period
-ErrorMsg = Date is outside known recording period of Moitrelia obductella (Kent Knot-horn)
-Tvk = NHMSYS0021143631
+ErrorMsg = Date is outside known recording period of Uncinus obductella (Kent Knot-horn)
+Tvk = NHMSYS0021562400
 StartDate = 17000101
 EndDate =
-LastChanged = 20210521
+LastChanged = 20220810
 [EndMetadata]

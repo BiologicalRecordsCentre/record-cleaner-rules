@@ -1,10 +1,10 @@
 [Metadata]
 TestType = Period
 Group = Moths Recording Period
-ShortName = 70.286 Gnophos dumetata dumetata (Irish Annulet)
+ShortName = 70.286 Odontognophos dumetata dumetata (Irish Annulet)
 Description = Checks date is within known recording period
-ErrorMsg = Date is outside known recording period of Gnophos dumetata dumetata (Irish Annulet)
-Tvk = NHMSYS0021144287
+ErrorMsg = Date is outside known recording period of Odontognophos dumetata dumetata (Irish Annulet)
+Tvk = NHMSYS0000503451
 StartDate = 19910801
 EndDate =
 LastChanged = 20210521

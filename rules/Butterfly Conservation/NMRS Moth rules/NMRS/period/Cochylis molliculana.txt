@@ -1,11 +1,11 @@
 [Metadata]
 TestType = Period
 Group = Moths Recording Period
-ShortName = 49.138 Cochylis molliculana (Ox-tongue Conch)
+ShortName = 49.138 Neocochylis molliculana (Ox-tongue Conch)
 Description = Checks date is within known recording period
-ErrorMsg = Date is outside known recording period of Cochylis molliculana (Ox-tongue Conch)
-Tvk = NHMSYS0000501796
+ErrorMsg = Date is outside known recording period of Neocochylis molliculana (Ox-tongue Conch)
+Tvk = NHMSYS0021518612
 StartDate = 17000101
 EndDate =
-LastChanged = 20210521
+LastChanged = 20220810
 [EndMetadata]

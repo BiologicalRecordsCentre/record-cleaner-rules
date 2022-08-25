@@ -1,11 +1,11 @@
 [Metadata]
 TestType = Period
 Group = Moths Recording Period
-ShortName = 4.077 Ectoedemia weaveri (Cowberry Pigmy)
+ShortName = 4.077 Fomoria weaveri (Cowberry Pigmy)
 Description = Checks date is within known recording period
-ErrorMsg = Date is outside known recording period of Ectoedemia weaveri (Cowberry Pigmy)
-Tvk = NBNSYS0100002918
+ErrorMsg = Date is outside known recording period of Fomoria weaveri (Cowberry Pigmy)
+Tvk = NHMSYS0021542653
 StartDate = 17000101
 EndDate =
-LastChanged = 20210521
+LastChanged = 20220809
 [EndMetadata]

@@ -1,11 +1,11 @@
 [Metadata]
 TestType = Period
 Group = Moths Recording Period
-ShortName = 49.137 Cochylis dubitana (Little Conch)
+ShortName = 49.137 Neocochylis dubitana (Little Conch)
 Description = Checks date is within known recording period
-ErrorMsg = Date is outside known recording period of Cochylis dubitana (Little Conch)
-Tvk = NHMSYS0021143145
+ErrorMsg = Date is outside known recording period of Neocochylis dubitana (Little Conch)
+Tvk = NHMSYS0021517987
 StartDate = 17000101
 EndDate =
-LastChanged = 20210521
+LastChanged = 20220810
 [EndMetadata]

@@ -1,11 +1,11 @@
 [Metadata]
 TestType = PeriodWithinYear
 Group = Flight Period
-ShortName = 73.085 Nyctobrya muralis (Marbled Green)
+ShortName = 73.085 Bryopsis muralis (Marbled Green)
 Description = Checks date is within known flight period
-ErrorMsg = Date is outside known flight period of Nyctobrya muralis (Marbled Green)
-Tvk = NHMSYS0021144559
+ErrorMsg = Date is outside known flight period of Bryopsis muralis (Marbled Green)
+Tvk = NHMSYS0021566088
 StartDate = 0621
 EndDate = 0930
-LastChanged = 20210525
+LastChanged = 20220811
 [EndMetadata]

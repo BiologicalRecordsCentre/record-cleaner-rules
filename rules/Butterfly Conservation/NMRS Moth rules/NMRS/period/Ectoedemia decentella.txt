@@ -1,11 +1,11 @@
 [Metadata]
 TestType = Period
-Group = Moths Recording Period
-ShortName = 4.076 Ectoedemia decentella (Sycamore-seed Pigmy)
+Group = Recording Period
+ShortName = 4.076 Etainia decentella (Sycamore-seed Pigmy)
 Description = Checks date is within known recording period
-ErrorMsg = Date is outside known recording period of Ectoedemia decentella (Sycamore-seed Pigmy)
-Tvk = NBNSYS0100002913
+ErrorMsg = Date is outside known recording period of Etainia decentella (Sycamore-seed Pigmy)
+Tvk = NHMSYS0021542643
 StartDate = 17000101
 EndDate =
-LastChanged = 20210521
+LastChanged = 20220809
 [EndMetadata]

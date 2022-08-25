@@ -1,11 +1,11 @@
 [Metadata]
 TestType = PeriodWithinYear
 Group = Flight Period
-ShortName = 4.074 Ectoedemia sericopeza (Norway-maple Pigmy)
+ShortName = 4.074 Etainia sericopeza (Norway-maple Pigmy)
 Description = Checks date is within known flight period
-ErrorMsg = Date is outside known flight period of Ectoedemia sericopeza (Norway-maple Pigmy)
-Tvk = NBNSYS0100002916
+ErrorMsg = Date is outside known flight period of Etainia sericopeza (Norway-maple Pigmy)
+Tvk = NHMSYS0021542633
 StartDate = 0421
 EndDate = 0907
-LastChanged = 20210525
+LastChanged = 20220809
 [EndMetadata]

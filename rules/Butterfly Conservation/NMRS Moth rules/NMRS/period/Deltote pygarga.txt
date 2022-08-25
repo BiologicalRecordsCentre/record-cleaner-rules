@@ -1,11 +1,11 @@
 [Metadata]
 TestType = Period
 Group = Moths Recording Period
-ShortName = 73.024 Deltote pygarga (Marbled White Spot)
+ShortName = 73.024 Protodeltote pygarga (Marbled White Spot)
 Description = Checks date is within known recording period
-ErrorMsg = Date is outside known recording period of Deltote pygarga (Marbled White Spot)
-Tvk = NHMSYS0021144484
+ErrorMsg = Date is outside known recording period of Protodeltote pygarga (Marbled White Spot)
+Tvk = NBNSYS0100004889
 StartDate = 17000101
 EndDate =
-LastChanged = 20210521
+LastChanged = 20220811
 [EndMetadata]

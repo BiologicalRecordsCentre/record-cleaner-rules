@@ -1,11 +1,11 @@
 [Metadata]
 TestType = PeriodWithinYear
 Group = Flight Period
-ShortName = 49.139 Cochylis atricapitana (Black-headed Conch)
+ShortName = 49.139 Cochylichroa atricapitana (Black-headed Conch)
 Description = Checks date is within known flight period
-ErrorMsg = Date is outside known flight period of Cochylis atricapitana (Black-headed Conch)
-Tvk = NHMSYS0000501792
+ErrorMsg = Date is outside known flight period of Cochylichroa atricapitana (Black-headed Conch)
+Tvk = NHMSYS0021560577
 StartDate = 0401
 EndDate = 0930
-LastChanged = 20210525
+LastChanged = 20220819
 [EndMetadata]
