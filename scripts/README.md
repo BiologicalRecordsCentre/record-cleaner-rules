@@ -15,6 +15,13 @@ Each subsequent row should contain the taxon-version key, Latin name, and
 a number from 1 to 5 indicating identification difficulty. The difficulty
 number can be omitted if not needed.
 
+**Proposal** Add a fourth column, ADDITIONAL, containing an integer, indicating
+the need and reason for manual verification. The additional number can be
+omittted if not needed. Where an additional number is needed but no
+identification difficulty, a comma must be added to indicate the empty field so
+the additional number is not mistaken for identification difficulty. Not yet
+implemented in the scripts.
+
 ### Difficulties
 A file named `difficulties.csv` shall list identification difficulty data in 
 2 columns, one row per identification difficulty. The first row must contain
@@ -25,6 +32,17 @@ ID,TEXT
 Each subsequent row contains the identification difficulty number, which
 can be from 1 to 5, followed by the text describing the difficulty. Put the 
 text in quotation marks ("") so that commas are not misunderstood.
+
+### Additional
+**Proposal** A file named `additional.csv` shall list reasons for manual
+verification in 2 columns, one row per reason. The first row must contain the
+headings as 
+```
+ID,TEXT
+```
+Each subsequent row contains a number followed by the text describing the
+reason. Put the text in quotation marks ("") so that commas are not
+misunderstood. Not yet implemented in the scripts.
 
 ### Period
 Rules indicating the recording period, for example if a species has been 
