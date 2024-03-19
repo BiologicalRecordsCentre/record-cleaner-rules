@@ -11,7 +11,7 @@ folder <- index$folder
 index <- index$V1
 
 
-for(i in 27:length(index)) {
+for(i in 1:length(index)) {
   
   scheme_index <- read.delim(index[i], header = FALSE)%>%
     mutate(V1 = gsub("#.+$", "", V1))
