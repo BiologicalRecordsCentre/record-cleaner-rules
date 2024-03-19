@@ -7,7 +7,6 @@ index <- read.delim("https://data.nbn.org.uk/recordcleaner/rules/servers.txt", h
          folder = gsub("^.+rules", "", V1),
          folder = gsub("/index.txt", "", folder, fixed = TRUE),
          folder = gsub("/", "", folder, fixed = TRUE))
-
 folder <- index$folder
 index <- index$V1
 
@@ -30,7 +29,7 @@ for(i in 27:length(index)) {
     temp <- tempfile()
 
     download.file(URLencode(scheme_index[j]),temp)
-    unzip(temp, list = FALSE, overwrite = TRUE, exdir = paste(file_location, "rules", folder[i], sep = "/"))
+    unzip(temp, list = FALSE, overwrite = TRUE, exdir = paste(file_location, "rules", folder[i], sep = "/"), unzip = "unzip")
     unlink(temp)
     print(paste("Complete", scheme_index[j], sep = ": "))
   
