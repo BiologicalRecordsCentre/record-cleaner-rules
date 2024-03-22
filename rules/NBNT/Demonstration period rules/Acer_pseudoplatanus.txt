@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Plant date range
+ShortName=Acer pseudoplatanus
+Description=Check date against known earliest date for Acer pseudoplatanus
+Tvk=NBNSYS0000003191
+ErrorMsg=Date outside range
+StartDate=16320101
+EndDate=
+LastChanged=20110322
+[EndMetadata]

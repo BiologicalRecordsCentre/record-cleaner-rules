@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Plant date range
+ShortName=Crassula helmsii
+Description=Check date against known earliest date for Crassula helmsii
+Tvk=NBNSYS0000004639
+ErrorMsg=Date outside range
+StartDate=19560101
+EndDate=
+LastChanged=20110322
+[EndMetadata]

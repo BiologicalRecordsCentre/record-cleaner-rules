@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Plant date range
+ShortName=Hesperis matronalis
+Description=Check date against known earliest date for Hesperis matronalis
+Tvk=NBNSYS0000002902
+ErrorMsg=Date outside range
+StartDate=18050101
+EndDate=
+LastChanged=20110322
+[EndMetadata]

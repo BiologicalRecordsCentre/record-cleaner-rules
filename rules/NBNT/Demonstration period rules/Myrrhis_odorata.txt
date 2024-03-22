@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Plant date range
+ShortName=Myrrhis odorata
+Description=Check date against known earliest date for Myrrhis odorata
+Tvk=NBNSYS0000003645
+ErrorMsg=Date outside range
+StartDate=17770101
+EndDate=
+LastChanged=20110322
+[EndMetadata]

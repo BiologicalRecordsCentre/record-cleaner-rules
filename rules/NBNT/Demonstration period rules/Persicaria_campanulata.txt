@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Plant date range
+ShortName=Persicaria campanulata
+Description=Check date against known earliest date for Persicaria campanulata
+Tvk=NHMSYS0000461600
+ErrorMsg=Date outside range
+StartDate=19330101
+EndDate=
+LastChanged=20110322
+[EndMetadata]

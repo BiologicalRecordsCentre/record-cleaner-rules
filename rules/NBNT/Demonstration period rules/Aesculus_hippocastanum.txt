@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Plant date range
+ShortName=Aesculus hippocastanum
+Description=Check date against known earliest date for Aesculus hippocastanum
+Tvk=NBNSYS0000004580
+ErrorMsg=Date outside range
+StartDate=18700101
+EndDate=
+LastChanged=20110322
+[EndMetadata]

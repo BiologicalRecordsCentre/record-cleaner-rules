@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Plant date range
+ShortName=Rhododendron ponticum
+Description=Check date against known earliest date for Rhododendron ponticum
+Tvk=NBNSYS0000003888
+ErrorMsg=Date outside range
+StartDate=18940101
+EndDate=
+LastChanged=20110322
+[EndMetadata]
