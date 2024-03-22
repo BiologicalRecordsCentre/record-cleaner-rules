@@ -1,2 +1,0 @@
-<basepath>/BMIG/BMIG_IDifficulty.zip#Millipedes, Centipedes and Woodlice ID Difficulty#<date>
-<basepath>/BMIG/BMIG Myriapod and Isopod rules.zip#Millipedes, Centipedes and Woodlice range, recording and seasonal periods, and additional rules#<date>
