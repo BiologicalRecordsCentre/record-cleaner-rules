@@ -1,2 +1,0 @@
-<basepath>/OBIRS/OBIRS_IDifficulty.zip#Grasshopper, Crickets and allied Insects ID Difficulty#<date>
-<basepath>/OBIRS/OBIRS Grasshopper and Cricket rules.zip#Grasshopper, Crickets and allied Insects range, recording and seasonal periods, and additional rules#<date>
