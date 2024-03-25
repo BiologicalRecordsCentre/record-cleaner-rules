@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Acorus gramineus 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Acorus gramineus
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Acorus gramineus
+DataFieldName=Species
+DataRecordId=NBNSYS0000014861
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+SP23
+SP73
+SU85
+SZ29
+TQ25
+
+[10km_Ireland]
+
+[10km_CI]
