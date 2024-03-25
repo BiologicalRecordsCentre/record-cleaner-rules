@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Acer japonicum 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Acer japonicum
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Acer japonicum
+DataFieldName=Species
+DataRecordId=NBNSYS0000042050
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+SS84
+
+[10km_Ireland]
+
+[10km_CI]
