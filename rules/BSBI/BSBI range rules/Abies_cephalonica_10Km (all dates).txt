@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Abies cephalonica 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Abies cephalonica
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Abies cephalonica
+DataFieldName=Species
+DataRecordId=NBNSYS0000034340
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+NS68
+SN58
+SU03
+TM49
+
+[10km_Ireland]
+
+[10km_CI]
