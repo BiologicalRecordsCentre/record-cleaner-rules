@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Achillea distans 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Achillea distans
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Achillea distans
+DataFieldName=Species
+DataRecordId=NBNSYS0000004454
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+NJ66
+NN95
+NS77
+NT16
+SJ71
+SJ88
+SK25
+SK27
+SK28
+SK35
+ST34
+ST43
+TA02
+TL04
+TQ08
+TQ18
+TQ27
+TQ46
+
+[10km_Ireland]
+
+[10km_CI]

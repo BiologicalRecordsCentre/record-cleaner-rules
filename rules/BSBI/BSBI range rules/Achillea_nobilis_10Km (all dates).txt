@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Achillea nobilis 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Achillea nobilis
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Achillea nobilis
+DataFieldName=Species
+DataRecordId=NBNSYS0000004455
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+NR72
+NT73
+SJ60
+SO83
+SP40
+SP50
+ST57
+SU88
+TF26
+TL04
+TL31
+
+[10km_Ireland]
+
+[10km_CI]

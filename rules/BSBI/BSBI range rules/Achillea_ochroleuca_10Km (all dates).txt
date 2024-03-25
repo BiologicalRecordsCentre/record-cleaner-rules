@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Achillea ochroleuca 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Achillea ochroleuca
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Achillea ochroleuca
+DataFieldName=Species
+DataRecordId=NBNSYS0200001652
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+
+[10km_Ireland]
+
+[10km_CI]
