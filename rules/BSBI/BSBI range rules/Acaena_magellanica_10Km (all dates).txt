@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Acaena magellanica 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Acaena magellanica
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Acaena magellanica
+DataFieldName=Species
+DataRecordId=NHMSYS0000455534
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+NT37
+NT43
+TL03
+
+[10km_Ireland]
+
+[10km_CI]

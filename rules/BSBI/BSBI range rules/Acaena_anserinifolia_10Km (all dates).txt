@@ -1,0 +1,47 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Acaena anserinifolia 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Acaena anserinifolia
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Acaena anserinifolia
+DataFieldName=Species
+DataRecordId=NHMSYS0000455532
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+HU43
+HU47
+NH08
+NH79
+NJ60
+NN62
+NO22
+NO59
+NT07
+NT90
+NZ33
+NZ43
+SC27
+SC49
+SE23
+SE78
+SJ38
+SO66
+SO75
+SO87
+SP30
+SS60
+ST17
+TF26
+TL03
+
+[10km_Ireland]
+G52
+J11
+J38
+L96
+V97
+W07
+
+[10km_CI]

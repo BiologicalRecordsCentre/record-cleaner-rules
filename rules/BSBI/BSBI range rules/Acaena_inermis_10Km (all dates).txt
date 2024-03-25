@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Acaena inermis 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Acaena inermis
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Acaena inermis
+DataFieldName=Species
+DataRecordId=NHMSYS0000455533
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+NG52
+NG53
+NH08
+NH79
+NM45
+NT03
+NT07
+NT12
+NT35
+NT45
+NT80
+NT90
+NY99
+SC26
+SC27
+SN72
+SU97
+SX68
+TQ05
+
+[10km_Ireland]
+
+[10km_CI]

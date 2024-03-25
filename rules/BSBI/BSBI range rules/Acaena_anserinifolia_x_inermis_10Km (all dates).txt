@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Acaena anserinifolia x inermis 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Acaena anserinifolia x inermis
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Acaena anserinifolia x inermis
+DataFieldName=Species
+DataRecordId=NBNSYS0000014912
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+NT95
+SO87
+
+[10km_Ireland]
+
+[10km_CI]
