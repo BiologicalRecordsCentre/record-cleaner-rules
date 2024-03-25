@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Agrostis gigantea x stolonifera 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Agrostis gigantea x stolonifera
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Agrostis gigantea x stolonifera
+DataFieldName=Species
+DataRecordId=NBNSYS0000013991
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+NN31
+NS57
+NS58
+NS59
+NZ14
+SE13
+SP24
+SU61
+TA05
+TQ38
+
+[10km_Ireland]
+
+[10km_CI]

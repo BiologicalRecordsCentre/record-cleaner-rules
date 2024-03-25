@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Agrostis exarata 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Agrostis exarata
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Agrostis exarata
+DataFieldName=Species
+DataRecordId=NHMSYS0000455682
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+SP93
+
+[10km_Ireland]
+
+[10km_CI]
