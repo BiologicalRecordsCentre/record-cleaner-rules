@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Abies nordmanniana 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Abies nordmanniana
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Abies nordmanniana
+DataFieldName=Species
+DataRecordId=NBNSYS0000034011
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+NH84
+NZ03
+SD88
+SN34
+SN35
+SN44
+SN45
+SN46
+SN55
+SN56
+SN57
+SN67
+SN68
+SN77
+SP92
+SS80
+ST61
+SU83
+SW64
+SW84
+SX05
+SY09
+SY89
+SZ08
+TL13
+TM34
+
+[10km_Ireland]
+
+[10km_CI]
