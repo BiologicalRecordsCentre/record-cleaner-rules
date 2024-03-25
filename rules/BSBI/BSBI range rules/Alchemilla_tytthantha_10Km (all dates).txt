@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Alchemilla tytthantha 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Alchemilla tytthantha
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Alchemilla tytthantha
+DataFieldName=Species
+DataRecordId=NBNSYS0000014448
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+NS56
+NS66
+NS67
+NS76
+NT42
+NT43
+NT75
+NT85
+
+[10km_Ireland]
+
+[10km_CI]
