@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Aconitum lycoctonum subsp. vulparia 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Aconitum lycoctonum subsp. vulparia
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Aconitum lycoctonum subsp. vulparia
+DataFieldName=Species
+DataRecordId=NHMSYS0100000362
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+ND25
+ND27
+NN69
+NT54
+NY38
+NZ03
+SD63
+SE03
+SE44
+SK07
+SK27
+SS93
+TM15
+TQ59
+
+[10km_Ireland]
+
+[10km_CI]
+WV38
