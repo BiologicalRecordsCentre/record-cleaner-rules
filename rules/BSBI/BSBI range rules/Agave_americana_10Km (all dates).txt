@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Agave americana 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Agave americana
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Agave americana
+DataFieldName=Species
+DataRecordId=NBNSYS0000013956
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+SV80
+SV81
+SW52
+TQ07
+
+[10km_Ireland]
+
+[10km_CI]
+WA50
+WA60
+WV38

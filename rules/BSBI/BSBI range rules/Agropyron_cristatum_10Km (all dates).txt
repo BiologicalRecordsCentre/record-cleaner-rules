@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Agropyron cristatum 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Agropyron cristatum
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Agropyron cristatum
+DataFieldName=Species
+DataRecordId=NHMSYS0000455654
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+TA11
+
+[10km_Ireland]
+
+[10km_CI]
