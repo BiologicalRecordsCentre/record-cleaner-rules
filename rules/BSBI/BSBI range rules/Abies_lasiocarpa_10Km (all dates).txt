@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Abies lasiocarpa 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Abies lasiocarpa
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Abies lasiocarpa
+DataFieldName=Species
+DataRecordId=NBNSYS0000042043
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+SD88
+
+[10km_Ireland]
+
+[10km_CI]
