@@ -1,7 +1,7 @@
 library(tidyverse)
 library(gert)
-library(keyring)
-
+library(gitcreds)
+# gitcreds_set()
 file_location <- "C:/Users/robhut/OneDrive - UKCEH/record-cleaner-rules/rules"
 
 index <- read.delim("https://data.nbn.org.uk/recordcleaner/rules/servers.txt", header = FALSE) %>%
@@ -31,23 +31,26 @@ for(i in 1:length(index)) {
     temp <- tempfile()
 
     download.file(URLencode(scheme_index[j]),temp)
+    zip_name <- gsub("http://data.nbn.org.uk/recordcleaner/rules/", "", scheme_index[j])
+    zip_name <- gsub(paste(folder[i], "/", sep = ""), "", zip_name)
+    zip_name <- gsub(".zip", "", zip_name)
+    print(zip_name)
+    
     unzip(temp, list = FALSE, overwrite = TRUE, exdir = paste(file_location, folder[i], sep = "/"), unzip = "unzip")
     unlink(temp)
-    all_files <- list.files(path = paste(file_location, folder[i], sep = "/"), pattern = "txt")
+    all_files <- list.files(path = paste(file_location, folder[i], zip_name, sep = "/"), pattern = "txt")
     if(length(all_files) == 0) next
     
     for(k in 1:length(all_files)) {
       
-      git_add(all_files[k])
+      git_add(paste(file_location, folder[i], zip_name, all_files[k], sep  = "/"))
       
     }
     
-    
-    git_commit_all(paste("Add files: ", gsub("http://data.nbn.org.uk/recordcleaner/rules/", "", scheme_index[j]), sep = ""))
-    git_push(password = key_set(service = 'GitHub', username = 'robin_hutchinson'))
-    print(paste("Complete", scheme_index[j], sep = ": "))
-    
-    
+      
+      git_commit_all(paste("Add files: ", gsub("http://data.nbn.org.uk/recordcleaner/rules/", "", scheme_index[j]), sep = ""))
+      git_push()
+      
     
   }
   
@@ -55,3 +58,4 @@ for(i in 1:length(index)) {
   print(paste("Complete", index[i], sep = ": "))
   
 }
+
