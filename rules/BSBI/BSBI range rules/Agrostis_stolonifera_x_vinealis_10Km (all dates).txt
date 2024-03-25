@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Agrostis stolonifera x vinealis 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Agrostis stolonifera x vinealis
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Agrostis stolonifera x vinealis
+DataFieldName=Species
+DataRecordId=NBNSYS0000014969
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+SW84
+
+[10km_Ireland]
+C40
+H43
+H84
+
+[10km_CI]
