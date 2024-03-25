@@ -46,12 +46,16 @@ for(i in 1:length(index)) {
       print(all_files[k])
       git_add(paste("rules", folder[i], zip_name, all_files[k], sep  = "/"))
 
-      git_commit_all(paste("Add files: ", folder[i], "/", zip_name, "/", all_files[k], sep = ""))
-      
+      if(grepl("0$", as.character(k))) {
+        
+        git_commit_all(paste("Add files: ", folder[i], "/", zip_name, " ", k, sep = ""))
+        git_push()
+        
+      }
     }
     
       
-      git_push()
+
       
     
   }
