@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Abies pinsapo 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Abies pinsapo
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Abies pinsapo
+DataFieldName=Species
+DataRecordId=NBNSYS0000042044
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+
+[10km_Ireland]
+
+[10km_CI]
