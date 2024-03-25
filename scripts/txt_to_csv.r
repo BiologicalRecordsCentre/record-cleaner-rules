@@ -1,8 +1,7 @@
 library(tidyverse)
-
 library(RODBC)
-
-
+library(gert)
+library(keyring)
 
 warehouse <- odbcConnect("PostgreSQL35W")
 
@@ -212,7 +211,10 @@ for(k in 1:length(folders)) {
         
       }
       
-     
+      git_add(.)
+      git_commit_all(paste("Add files: ", folder , sep = ""))
+      git_push(password = key_set(service = 'GitHub', username = 'robin_hutchinson'))
+      
       
     }
       
