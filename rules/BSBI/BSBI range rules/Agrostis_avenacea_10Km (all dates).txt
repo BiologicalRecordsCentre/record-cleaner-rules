@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Agrostis avenacea 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Agrostis avenacea
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Agrostis avenacea
+DataFieldName=Species
+DataRecordId=NHMSYS0000455670
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+NJ05
+NT53
+SE11
+SE13
+SE21
+SE32
+SE38
+SJ39
+SJ97
+SO94
+SP04
+SP38
+ST43
+ST53
+SU73
+TQ75
+
+[10km_Ireland]
+
+[10km_CI]
