@@ -43,12 +43,14 @@ for(i in 1:length(index)) {
     
     for(k in 1:length(all_files)) {
       
-      git_add(paste(file_location, folder[i], zip_name, all_files[k], sep  = "/"))
+      print(all_files[k])
+      git_add(paste("rules", folder[i], zip_name, all_files[k], sep  = "/"))
+
+      git_commit_all(paste("Add files: ", folder[i], "/", zip_name, "/", all_files[k], sep = ""))
       
     }
     
       
-      git_commit_all(paste("Add files: ", gsub("http://data.nbn.org.uk/recordcleaner/rules/", "", scheme_index[j]), sep = ""))
       git_push()
       
     
@@ -58,4 +60,5 @@ for(i in 1:length(index)) {
   print(paste("Complete", index[i], sep = ": "))
   
 }
+
 
