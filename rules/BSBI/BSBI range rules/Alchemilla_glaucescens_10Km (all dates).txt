@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Alchemilla glaucescens 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Alchemilla glaucescens
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Alchemilla glaucescens
+DataFieldName=Species
+DataRecordId=NBNSYS0000003372
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+NC22
+NH19
+NT27
+NT85
+NT95
+NY61
+NY82
+SD67
+SD68
+SD76
+SD77
+SD78
+SD86
+SD87
+SD88
+SD96
+SD97
+SD98
+SD99
+SE09
+SE19
+SU93
+
+[10km_Ireland]
+G73
+G83
+G95
+
+[10km_CI]

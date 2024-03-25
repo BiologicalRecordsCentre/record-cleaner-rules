@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Alchemilla monticola 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Alchemilla monticola
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Alchemilla monticola
+DataFieldName=Species
+DataRecordId=NBNSYS0000003377
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+NY73
+NY82
+NY83
+NY91
+NY92
+NZ01
+NZ02
+NZ12
+NZ13
+SP63
+TQ05
+TQ15
+
+[10km_Ireland]
+
+[10km_CI]
