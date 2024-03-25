@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Agapanthus praecox 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Agapanthus praecox
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Agapanthus praecox
+DataFieldName=Species
+DataRecordId=NBNSYS0000014650
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+NX40
+SC39
+SC49
+SV80
+SV81
+SV91
+SW83
+TQ57
+
+[10km_Ireland]
+
+[10km_CI]
+WV37
+WV55

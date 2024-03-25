@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Aesculus indica 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Aesculus indica
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Aesculus indica
+DataFieldName=Species
+DataRecordId=NHMSYS0000455626
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+SO66
+SS70
+SU97
+SZ08
+SZ09
+TL45
+TM02
+TQ23
+TQ28
+
+[10km_Ireland]
+
+[10km_CI]
