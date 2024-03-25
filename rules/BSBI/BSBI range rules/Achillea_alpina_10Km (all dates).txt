@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Achillea alpina 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Achillea alpina
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Achillea alpina
+DataFieldName=Species
+DataRecordId=NBNSYS0200001645
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+TA12
+
+[10km_Ireland]
+
+[10km_CI]

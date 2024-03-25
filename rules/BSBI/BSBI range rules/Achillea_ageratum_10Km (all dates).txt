@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=VascularPlants10Km (all dates)
+ShortName=Achillea ageratum 10Km (all dates)
+Description=Check coordinate against known 10Km (all dates) distribution of Achillea ageratum
+ErrorMsg = Coordinate is outside known 10Km (all dates) range of Achillea ageratum
+DataFieldName=Species
+DataRecordId=NBNSYS0200001644
+LastChanged=20101202
+[EndMetadata]
+
+[10km_GB]
+SP40
+
+[10km_Ireland]
+
+[10km_CI]
