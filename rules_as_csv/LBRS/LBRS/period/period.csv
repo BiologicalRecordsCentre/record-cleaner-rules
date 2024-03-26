@@ -1,12 +1,12 @@
 "taxon","tvk","start_day","start_month","start_year","end_day","end_month","end_year"
-"Thereva cinifera","NBNSYS0100005797","01","01","1992",,,
-"Villa venusta","NBNSYS0100005964",,,,"31","12","1958"
+"Atylotus plebeius","NBNSYS0000007877","01","01","1911",,,
+"Choerades gilvus","NBNSYS0100002378","01","01","1938","31","12","1951"
+"Dasypogon diadema","NBNSYS0000007913",,,,"31","12","1899"
 "Haematopota subcylindrica","NBNSYS0000042531","06","07","1987",,,
 "Hybomitra expollicata","NBNSYS0000007882","01","01","1909",,,
-"Atylotus plebeius","NBNSYS0000007877","01","01","1911",,,
-"Oxycera fallenii","NBNSYS0000007810","01","01","1997",,,
 "Machimus cowini","NHMSYS0020734171","01","01","1941",,,
 "Odontomyia hydroleon","NBNSYS0000007835","01","01","1986",,,
-"Dasypogon diadema","NBNSYS0000007913",,,,"31","12","1899"
-"Choerades gilvus","NBNSYS0100002378","01","01","1938","31","12","1951"
+"Oxycera fallenii","NBNSYS0000007810","01","01","1997",,,
 "Oxycera leonina","NBNSYS0000007812","06","07","1989",,,
+"Thereva cinifera","NBNSYS0100005797","01","01","1992",,,
+"Villa venusta","NBNSYS0100005964",,,,"31","12","1958"
