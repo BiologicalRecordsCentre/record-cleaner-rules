@@ -86,21 +86,14 @@ for(k in 1:length(folders)) {
           mutate(value_code = trimws(value_code)) %>%
           filter(!grepl("[[:alpha:]]", value_code))
         
-        msg <- temp %>%
-          filter(grepl("ErrorMsg", id, fixed = TRUE)) %>%
-          mutate(ErrorMsg = gsub("ErrorMsg", "", id),
-                 ErrorMsg = trimws(gsub("=", "", ErrorMsg))) %>%
-          select(ErrorMsg)
         
         write.csv(rules_new, paste(file_location, "/rules_as_csv/", folder, "/", gsub("txt$", "", file_name), "csv", sep = ""), na = "", row.names = FALSE)
         write.csv(codes, paste(file_location, "/rules_as_csv/", folder, "/difficulties_codes.csv", sep = ""), na = "", row.names = FALSE)
-        write.csv(msg, paste(file_location, "/rules_as_csv/", folder, "/difficulties_msg.csv", sep = ""), na = "", row.names = FALSE)
-        
+
         
         git_add(paste("rules_as_csv/", folder, "/", gsub("txt$", "", file_name), "csv", sep = ""))
         git_add(paste("rules_as_csv/", folder, "/difficulties_codes.csv", sep = ""))
-        git_add(paste("rules_as_csv/", folder, "/difficulties_msg.csv", sep = ""))
-        
+
         stat <- git_status() %>%
           filter(grepl("rules_as_csv", file),
                  staged == TRUE)
@@ -279,7 +272,7 @@ for(k in 1:length(folders)) {
           filter(!grepl("[[:alpha:]]", value_code))
         
         msg <- temp %>%
-          filter(grepl("ErrorMsg", additional, fixed = TRUE)) %>%
+          filter(grepl("^ErrorMsg", additional)) %>%
           mutate(ErrorMsg = gsub("ErrorMsg", "", additional),
                  ErrorMsg = trimws(gsub("=", "", ErrorMsg))) %>%
           select(ErrorMsg)
