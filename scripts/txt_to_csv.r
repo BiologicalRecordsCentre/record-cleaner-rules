@@ -307,3 +307,6 @@ for(k in 1:length(folders)) {
     }
       
 }
+
+stat <- git_status() %>%
+  filter(staged == TRUE)
