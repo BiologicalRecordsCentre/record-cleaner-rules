@@ -88,12 +88,12 @@ for(k in 1:length(folders)) {
           filter(!grepl("[[:alpha:]]", value_code))
         
         
-        write.csv(rules_new, paste(file_location, "/rules_as_csv/", folder, "/", gsub("txt$", "", file_name), "csv", sep = ""), na = "", row.names = FALSE)
-        write.csv(codes, paste(file_location, "/rules_as_csv/", folder, "/difficulties_codes.csv", sep = ""), na = "", row.names = FALSE)
+        write.csv(rules_new, paste(file_location, "/rules_as_csv/", folder, "/id_difficulty.csv", sep = ""), na = "", row.names = FALSE)
+        write.csv(codes, paste(file_location, "/rules_as_csv/", folder, "/difficulty_codes.csv", sep = ""), na = "", row.names = FALSE)
 
         
-        git_add(paste("rules_as_csv/", folder, "/", gsub("txt$", "", file_name), "csv", sep = ""))
-        git_add(paste("rules_as_csv/", folder, "/difficulties_codes.csv", sep = ""))
+        git_add(paste("rules_as_csv/", folder, "/id_difficulty.csv", sep = ""))
+        git_add(paste("rules_as_csv/", folder, "/difficulty_codes.csv", sep = ""))
 
         stat <- git_status() %>%
           filter(grepl("rules_as_csv", file),
@@ -101,7 +101,7 @@ for(k in 1:length(folders)) {
         print(stat)
         if(nrow(stat) != 0){
           
-        git_commit_all(paste("Add files: ", folder, "/", gsub("txt$", "", file_name), "csv" , sep = ""))
+        git_commit_all(paste("Order rows: ", folder, "/id_difficulty.csv" , sep = ""))
         git_push()
         
       }
@@ -154,7 +154,7 @@ for(k in 1:length(folders)) {
       }
       
       rules <- right_join(uksi, rules, by = "tvk")%>%
-        arrange(taxon., km100)
+        arrange(taxon, km100)
       
       write.csv(rules, paste(file_location, "/rules_as_csv/", folder, "/tenkm.csv", sep = ""), na = "", row.names = FALSE)
       git_add(paste("rules_as_csv/", folder, "/tenkm.csv", sep = ""))
@@ -164,7 +164,7 @@ for(k in 1:length(folders)) {
       print(stat)
       if(nrow(stat) != 0){
         
-        git_commit_all(paste("Add files: ", folder, "/tenkm.csv" , sep = ""))
+        git_commit_all(paste("Order rows: ", folder, "/tenkm.csv" , sep = ""))
        git_push()
       
       }
@@ -207,7 +207,7 @@ for(k in 1:length(folders)) {
       print(stat)
       if(nrow(stat) != 0){
         
-        git_commit_all(paste("Add files: ", folder, "/period.csv" , sep = ""))
+        git_commit_all(paste("Order rows: ", folder, "/period.csv" , sep = ""))
         git_push()
       
       }
@@ -249,7 +249,7 @@ for(k in 1:length(folders)) {
       print(stat)
       if(nrow(stat) != 0){
         
-        git_commit_all(paste("Add files: ", folder, "/periodwithinyear.csv" , sep = ""))
+        git_commit_all(paste("Order rows: ", folder, "/periodwithinyear.csv" , sep = ""))
         git_push()
       
       }
@@ -285,11 +285,11 @@ for(k in 1:length(folders)) {
           left_join(uksi, by = "tvk") %>%
           arrange(taxon)
         
-        write.csv(rules_new, paste(file_location, "/rules_as_csv/", folder, "/", gsub("txt$", "", file_name), "csv", sep = ""), na = "", row.names = FALSE)
+        write.csv(rules_new, paste(file_location, "/rules_as_csv/", folder, "/additional.csv", sep = ""), na = "", row.names = FALSE)
         write.csv(codes, paste(file_location, "/rules_as_csv/", folder, "/additional_codes.csv", sep = ""), na = "", row.names = FALSE)
         write.csv(msg, paste(file_location, "/rules_as_csv/", folder, "/additional_msg.csv", sep = ""), na = "", row.names = FALSE)
         
-        git_add(paste("rules_as_csv/", folder, "/", gsub("txt$", "", file_name), "csv", sep = ""))
+        git_add(paste("rules_as_csv/", folder, "/additional.csv", sep = ""))
         git_add(paste("rules_as_csv/", folder, "/additional_codes.csv", sep = ""))
         git_add(paste("rules_as_csv/", folder, "/additional_msg.csv", sep = ""))
         
@@ -299,7 +299,7 @@ for(k in 1:length(folders)) {
         
         if(nrow(stat) != 0){
           
-          git_commit_all(paste("Add files: ", folder, "/", gsub("txt$", "", file_name), "csv" , sep = ""))
+          git_commit_all(paste("Order rows: ", folder, "/additional.csv" , sep = ""))
         git_push()
         
         }
