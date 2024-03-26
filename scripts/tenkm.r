@@ -15,10 +15,14 @@ tenkm_rules = function(
 	  ))
 	}
 	
+  #Locate files
+  
+  
+  
 	# Read files
-	species_file = paste0("../rules/", schemes[[group]]$CSV_PATH, "/species.csv")
-	species = read.csv(species_file)
-	tenkm_file = paste0("../rules/", schemes[[group]]$CSV_PATH, "/tenkm.csv")
+	# species_file = paste0("../rules/", schemes[[group]]$CSV_PATH, "/species.csv")
+	# species = read.csv(species_file)
+	tenkm_file = paste0("../rules_as_csv/", schemes[[group]]$CSV_PATH, "/tenkm/tenkm.csv")
 	tenkms = read.csv(tenkm_file)
 	
 	output_folder = paste0("../rules/", schemes[[group]]$RULES_PATH, "/tenkm")
