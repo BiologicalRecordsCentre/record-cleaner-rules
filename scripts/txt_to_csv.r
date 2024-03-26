@@ -15,7 +15,7 @@ uksi <- sqlQuery(warehouse,
 
 close(warehouse)
 
-file_location <- "C:/Users/robhut/OneDrive - UKCEH/Indicia/record-cleaner-rules"
+file_location <- "C:/Users/robhut/OneDrive - UKCEH/record-cleaner-rules"
 
 folders <- as.data.frame(list.dirs(paste(file_location, "rules", sep = "/")))
 
@@ -23,7 +23,9 @@ colnames(folders) <- "folders"
 
 folders <- folders %>%
   filter(folders != paste(file_location, "rules", sep = "/"))%>%
-  mutate(folders = gsub(paste(file_location, "rules/", sep = "/"), "", folders))
+  mutate(folders = gsub(paste(file_location, "rules/", sep = "/"), "", folders)) %>%
+  filter(!grepl("^HRS/", folders),
+         !grepl("^SRS/", folders))
 
 folders <- unique(folders$folders)
 
@@ -48,7 +50,8 @@ for(k in 1:length(folders)) {
   colnames(file) <- "meta"
   file_type <- file %>%
       filter(grepl("TestType", meta)) %>%
-      separate(meta, into = c("title","value"),sep = "=")
+      separate(meta, into = c("title","value"),sep = "=") %>%
+    mutate(value = trimws(value))
   
   file_type <- unique(file_type$value)
 
@@ -76,7 +79,28 @@ for(k in 1:length(folders)) {
         rules_new <- bind_rows(values, rules) %>%
           left_join(uksi, by = "tvk") 
         
+        codes <- temp %>%
+          filter(grepl("=", id, fixed = TRUE)) %>%
+          separate(id, into = c("value_code","text"),sep = "=") %>%
+          mutate(value_code = as.numeric(trimws(value_code))) %>%
+          filter(!is.na(value_code))
+        
+        msg <- temp %>%
+          filter(grepl("ErrorMsg", id, fixed = TRUE)) %>%
+          separate(id, into = c("value_code","ErrorMsg"),sep = "=") %>%
+          mutate(ErrorMsg = trimws(ErrorMsg)) 
+        
         write.csv(rules_new, paste(file_location, "/rules_as_csv/", folder, "/", gsub("txt$", "", file_name), "csv", sep = ""), na = "", row.names = FALSE)
+        write.csv(codes, paste(file_location, "/rules_as_csv/", folder, "/difficulties_codes.csv", sep = ""), na = "", row.names = FALSE)
+        write.csv(msg, paste(file_location, "/rules_as_csv/", folder, "/difficulties_msg.csv", sep = ""), na = "", row.names = FALSE)
+        
+        
+        git_add(paste("rules_as_csv/", folder, "/", gsub("txt$", "", file_name), "csv", sep = ""))
+        git_add(paste("rules_as_csv/", folder, "/additional_codes.csv", sep = ""))
+        git_add(paste("rules_as_csv/", folder, "/additional_msg.csv", sep = ""))
+         
+        git_commit_all(paste("Add files: ", folder, "/", gsub("txt$", "", file_name), "csv" , sep = ""))
+        git_push()
         
       }
       
@@ -128,6 +152,9 @@ for(k in 1:length(folders)) {
       rules <- right_join(uksi, rules, by = "tvk")
       
       write.csv(rules, paste(file_location, "/rules_as_csv/", folder, "/tenkm.csv", sep = ""), na = "", row.names = FALSE)
+      git_add(paste("rules_as_csv/", folder, "/tenkm.csv", sep = ""))
+      git_commit_all(paste("Add files: ", folder, "/tenkm.csv" , sep = ""))
+      git_push()
       
     } else if(file_type == "Period") {
       
@@ -158,6 +185,14 @@ for(k in 1:length(folders)) {
       
       rule <- right_join(uksi, rules, by = "tvk")
       write.csv(rules, paste(file_location, "/rules_as_csv/", folder, "/period.csv", sep = ""), na = "", row.names = FALSE)
+      git_add(paste("rules_as_csv/", folder, "/period.csv", sep = ""))
+      
+      if(nrow(git_diff) != 0){
+        
+        git_commit_all(paste("Add files: ", folder, "/period.csv" , sep = ""))
+        git_push()
+      
+      }
       
     } else if(file_type == "PeriodWithinYear") {
       
@@ -187,7 +222,14 @@ for(k in 1:length(folders)) {
       rule <- right_join(uksi, rules, by = "tvk") %>%
         mutate(stage = "Adult")
       write.csv(rules, paste(file_location, "/rules_as_csv/", folder, "/periodwithinyear.csv", sep = ""), na = "", row.names = FALSE)
+      git_add(paste("rules_as_csv/", folder, "/periodwithinyear.csv", sep = ""))
       
+      if(nrow(git_diff) != 0){
+        
+        git_commit_all(paste("Add files: ", folder, "/periodwithinyear.csv" , sep = ""))
+        git_push()
+      
+      }
       
     } else if(file_type == "AncillarySpecies") {
       
@@ -204,18 +246,42 @@ for(k in 1:length(folders)) {
                  !grepl("[", additional, fixed = TRUE)) %>%
           separate(additional, into = c("tvk","value_code"),sep = ",") 
         
+        codes <- temp %>%
+          filter(grepl("=", additional, fixed = TRUE)) %>%
+          separate(additional, into = c("value_code","text"),sep = "=") %>%
+          mutate(value_code = as.numeric(trimws(value_code))) %>%
+          filter(!is.na(value_code))
+        
+        msg <- temp %>%
+          filter(grepl("ErrorMsg", additional, fixed = TRUE)) %>%
+          separate(additional, into = c("value_code","ErrorMsg"),sep = "=") %>%
+          mutate(ErrorMsg = trimws(ErrorMsg)) 
+        
         rules_new <- bind_rows(values, rules) %>%
           left_join(uksi, by = "tvk") 
         
         write.csv(rules_new, paste(file_location, "/rules_as_csv/", folder, "/", gsub("txt$", "", file_name), "csv", sep = ""), na = "", row.names = FALSE)
+        write.csv(codes, paste(file_location, "/rules_as_csv/", folder, "/additional_codes.csv", sep = ""), na = "", row.names = FALSE)
+        write.csv(msg, paste(file_location, "/rules_as_csv/", folder, "/additional_msg.csv", sep = ""), na = "", row.names = FALSE)
         
-      }
-      
-      git_add(.)
-      git_commit_all(paste("Add files: ", folder , sep = ""))
-      git_push(password = key_set(service = 'GitHub', username = 'robin_hutchinson'))
-      
+        git_add(paste("rules_as_csv/", folder, "/", gsub("txt$", "", file_name), "csv", sep = ""))
+        git_add(paste("rules_as_csv/", folder, "/additional_codes.csv", sep = ""))
+        git_add(paste("rules_as_csv/", folder, "/additional_msg.csv", sep = ""))
+        
+        if(nrow(git_diff) != 0){
+          
+          git_commit_all(paste("Add files: ", folder, "/", gsub("txt$", "", file_name), "csv" , sep = ""))
+        git_push()
+        
+        }
+        
+        
+        
+        }
+
       
     }
       
 }
+
+git_diff()
