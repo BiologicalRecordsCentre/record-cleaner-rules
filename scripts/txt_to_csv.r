@@ -78,7 +78,8 @@ for(k in 1:length(folders)) {
           filter(grepl("^...SYS", tvk))
         
         rules_new <- bind_rows(values, rules) %>%
-          left_join(uksi, by = "tvk") 
+          left_join(uksi, by = "tvk") %>%
+          arrange(taxon)
         
         codes <- temp %>%
           filter(grepl("=", id, fixed = TRUE)) %>%
@@ -152,7 +153,8 @@ for(k in 1:length(folders)) {
         
       }
       
-      rules <- right_join(uksi, rules, by = "tvk")
+      rules <- right_join(uksi, rules, by = "tvk")%>%
+        arrange(taxon., km100)
       
       write.csv(rules, paste(file_location, "/rules_as_csv/", folder, "/tenkm.csv", sep = ""), na = "", row.names = FALSE)
       git_add(paste("rules_as_csv/", folder, "/tenkm.csv", sep = ""))
@@ -194,7 +196,8 @@ for(k in 1:length(folders)) {
         rules <- bind_rows(rule, rules)
       }
       
-      rules <- right_join(uksi, rules, by = "tvk")
+      rules <- right_join(uksi, rules, by = "tvk")%>%
+        arrange(taxon)
       write.csv(rules, paste(file_location, "/rules_as_csv/", folder, "/period.csv", sep = ""), na = "", row.names = FALSE)
       git_add(paste("rules_as_csv/", folder, "/period.csv", sep = ""))
       
@@ -235,7 +238,8 @@ for(k in 1:length(folders)) {
       }
       
       rules <- right_join(uksi, rules, by = "tvk") %>%
-        mutate(stage = "Adult")
+        mutate(stage = "Adult")%>%
+        arrange(taxon, stage)
       write.csv(rules, paste(file_location, "/rules_as_csv/", folder, "/periodwithinyear.csv", sep = ""), na = "", row.names = FALSE)
       git_add(paste("rules_as_csv/", folder, "/periodwithinyear.csv", sep = ""))
       
@@ -278,7 +282,8 @@ for(k in 1:length(folders)) {
           select(ErrorMsg)
         
         rules_new <- bind_rows(values, rules) %>%
-          left_join(uksi, by = "tvk") 
+          left_join(uksi, by = "tvk") %>%
+          arrange(taxon)
         
         write.csv(rules_new, paste(file_location, "/rules_as_csv/", folder, "/", gsub("txt$", "", file_name), "csv", sep = ""), na = "", row.names = FALSE)
         write.csv(codes, paste(file_location, "/rules_as_csv/", folder, "/additional_codes.csv", sep = ""), na = "", row.names = FALSE)
@@ -298,7 +303,6 @@ for(k in 1:length(folders)) {
         git_push()
         
         }
-        
         
         
         }
