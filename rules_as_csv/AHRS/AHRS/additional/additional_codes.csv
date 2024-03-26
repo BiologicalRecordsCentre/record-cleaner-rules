@@ -1,0 +1,8 @@
+"value_code","text"
+"TestType","AncillarySpecies"
+"Group","Additional Verification"
+"ShortName","Check for aquatic Heteroptera species which always require verification"
+"Description","Check for aquatic Heteroptera species where verification is always required"
+"ErrorMsg","Records for this  aquatic Heteroptera species always requires verification"
+"ReverseRule","True"
+"LastChanged","20131206"
