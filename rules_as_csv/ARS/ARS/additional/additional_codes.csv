@@ -1,0 +1,8 @@
+"value_code","text"
+"TestType","AncillarySpecies"
+"Group","Additional Verification"
+"ShortName","Check for Auchenorrhyncha species that require additional verification"
+"Description","Check for Auchenorrhyncha species where additional verification is required"
+"ErrorMsg","Records for this Auchenorrhyncha species requires additional verification"
+"ReverseRule","True"
+"LastChanged","20130705"

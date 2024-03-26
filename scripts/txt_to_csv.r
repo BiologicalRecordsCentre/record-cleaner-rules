@@ -25,7 +25,8 @@ folders <- folders %>%
   filter(folders != paste(file_location, "rules", sep = "/"))%>%
   mutate(folders = gsub(paste(file_location, "rules/", sep = "/"), "", folders)) %>%
   filter(!grepl("^HRS/", folders),
-         !grepl("^SRS/", folders))
+         !grepl("^SRS/", folders),
+         !grepl("^PMRS/", folders))
 
 folders <- unique(folders$folders)
 
@@ -82,8 +83,8 @@ for(k in 1:length(folders)) {
         codes <- temp %>%
           filter(grepl("=", id, fixed = TRUE)) %>%
           separate(id, into = c("value_code","text"),sep = "=") %>%
-          mutate(value_code = as.numeric(trimws(value_code))) %>%
-          filter(!is.na(value_code))
+          mutate(value_code = trimws(value_code)) %>%
+          filter(grepl("[[:alpha:]]", value_code))
         
         msg <- temp %>%
           filter(grepl("ErrorMsg", id, fixed = TRUE)) %>%
@@ -98,9 +99,17 @@ for(k in 1:length(folders)) {
         git_add(paste("rules_as_csv/", folder, "/", gsub("txt$", "", file_name), "csv", sep = ""))
         git_add(paste("rules_as_csv/", folder, "/additional_codes.csv", sep = ""))
         git_add(paste("rules_as_csv/", folder, "/additional_msg.csv", sep = ""))
-         
+        
+        stat <- git_status() %>%
+          filter(grepl("rules_as_csv", file),
+                 staged == TRUE)
+        print(stat)
+        if(nrow(stat) != 0){
+          
         git_commit_all(paste("Add files: ", folder, "/", gsub("txt$", "", file_name), "csv" , sep = ""))
         git_push()
+        
+      }
         
       }
       
@@ -153,8 +162,16 @@ for(k in 1:length(folders)) {
       
       write.csv(rules, paste(file_location, "/rules_as_csv/", folder, "/tenkm.csv", sep = ""), na = "", row.names = FALSE)
       git_add(paste("rules_as_csv/", folder, "/tenkm.csv", sep = ""))
-      git_commit_all(paste("Add files: ", folder, "/tenkm.csv" , sep = ""))
-      git_push()
+      stat <- git_status() %>%
+        filter(grepl("rules_as_csv", file),
+               staged == TRUE)
+      print(stat)
+      if(nrow(stat) != 0){
+        
+        git_commit_all(paste("Add files: ", folder, "/tenkm.csv" , sep = ""))
+       git_push()
+      
+      }
       
     } else if(file_type == "Period") {
       
@@ -187,7 +204,11 @@ for(k in 1:length(folders)) {
       write.csv(rules, paste(file_location, "/rules_as_csv/", folder, "/period.csv", sep = ""), na = "", row.names = FALSE)
       git_add(paste("rules_as_csv/", folder, "/period.csv", sep = ""))
       
-      if(nrow(git_diff) != 0){
+      stat <- git_status() %>%
+        filter(grepl("rules_as_csv", file),
+               staged == TRUE)
+      print(stat)
+      if(nrow(stat) != 0){
         
         git_commit_all(paste("Add files: ", folder, "/period.csv" , sep = ""))
         git_push()
@@ -224,7 +245,11 @@ for(k in 1:length(folders)) {
       write.csv(rules, paste(file_location, "/rules_as_csv/", folder, "/periodwithinyear.csv", sep = ""), na = "", row.names = FALSE)
       git_add(paste("rules_as_csv/", folder, "/periodwithinyear.csv", sep = ""))
       
-      if(nrow(git_diff) != 0){
+      stat <- git_status() %>%
+        filter(grepl("rules_as_csv", file),
+               staged == TRUE)
+      print(stat)
+      if(nrow(stat) != 0){
         
         git_commit_all(paste("Add files: ", folder, "/periodwithinyear.csv" , sep = ""))
         git_push()
@@ -249,8 +274,8 @@ for(k in 1:length(folders)) {
         codes <- temp %>%
           filter(grepl("=", additional, fixed = TRUE)) %>%
           separate(additional, into = c("value_code","text"),sep = "=") %>%
-          mutate(value_code = as.numeric(trimws(value_code))) %>%
-          filter(!is.na(value_code))
+          mutate(value_code = trimws(value_code)) %>%
+          filter(grepl("[[:alpha:]]", value_code))
         
         msg <- temp %>%
           filter(grepl("ErrorMsg", additional, fixed = TRUE)) %>%
@@ -268,7 +293,11 @@ for(k in 1:length(folders)) {
         git_add(paste("rules_as_csv/", folder, "/additional_codes.csv", sep = ""))
         git_add(paste("rules_as_csv/", folder, "/additional_msg.csv", sep = ""))
         
-        if(nrow(git_diff) != 0){
+        stat <- git_status() %>%
+          filter(grepl("rules_as_csv", file),
+                 staged == TRUE)
+        
+        if(nrow(stat) != 0){
           
           git_commit_all(paste("Add files: ", folder, "/", gsub("txt$", "", file_name), "csv" , sep = ""))
         git_push()
@@ -284,4 +313,5 @@ for(k in 1:length(folders)) {
       
 }
 
-git_diff()
+
+    
