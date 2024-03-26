@@ -38,25 +38,6 @@ for(i in 1:length(index)) {
     
     unzip(temp, list = FALSE, overwrite = TRUE, exdir = paste(file_location, folder[i], sep = "/"), unzip = "unzip")
     unlink(temp)
-    all_files <- list.files(path = paste(file_location, folder[i], zip_name, sep = "/"), pattern = "txt")
-    if(length(all_files) == 0) next
-    
-    for(k in 1:length(all_files)) {
-      
-      print(all_files[k])
-      git_add(paste("rules", folder[i], zip_name, all_files[k], sep  = "/"))
-
-      if(grepl("0$", as.character(k))) {
-        
-        git_commit_all(paste("Add files: ", folder[i], "/", zip_name, " ", k, sep = ""))
-        git_push()
-        
-      }
-    }
-    
-      
-
-      
     
   }
   
@@ -64,5 +45,4 @@ for(i in 1:length(index)) {
   print(paste("Complete", index[i], sep = ": "))
   
 }
-
 
