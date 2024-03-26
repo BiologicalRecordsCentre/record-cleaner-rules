@@ -26,7 +26,8 @@ folders <- folders %>%
   mutate(folders = gsub(paste(file_location, "rules/", sep = "/"), "", folders)) %>%
   filter(!grepl("^HRS/", folders),
          !grepl("^SRS/", folders),
-         !grepl("^PMRS/", folders))
+         !grepl("^PMRS/", folders),
+         grepl("^DRN/", folders))
 
 folders <- unique(folders$folders)
 
