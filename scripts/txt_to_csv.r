@@ -194,7 +194,7 @@ for(k in 1:length(folders)) {
         rules <- bind_rows(rule, rules)
       }
       
-      rule <- right_join(uksi, rules, by = "tvk")
+      rules <- right_join(uksi, rules, by = "tvk")
       write.csv(rules, paste(file_location, "/rules_as_csv/", folder, "/period.csv", sep = ""), na = "", row.names = FALSE)
       git_add(paste("rules_as_csv/", folder, "/period.csv", sep = ""))
       
@@ -234,7 +234,7 @@ for(k in 1:length(folders)) {
         rules <- bind_rows(rule, rules)
       }
       
-      rule <- right_join(uksi, rules, by = "tvk") %>%
+      rules <- right_join(uksi, rules, by = "tvk") %>%
         mutate(stage = "Adult")
       write.csv(rules, paste(file_location, "/rules_as_csv/", folder, "/periodwithinyear.csv", sep = ""), na = "", row.names = FALSE)
       git_add(paste("rules_as_csv/", folder, "/periodwithinyear.csv", sep = ""))
@@ -307,5 +307,3 @@ for(k in 1:length(folders)) {
     }
       
 }
-
-
