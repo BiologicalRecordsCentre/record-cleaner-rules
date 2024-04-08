@@ -49,6 +49,9 @@ schemes = list(
 	Gelechiids = list(
 	  CSV_PATH = "GRS"
 	),
+	Hoverflies = list(
+	  CSV_PATH = "HRS"
+	),
 	LargeBrachycera = list(
 	  CSV_PATH = "LBRS"
 	),
@@ -73,8 +76,14 @@ schemes = list(
 	Orthopteroids = list(
 	  CSV_PATH = "OBIRS"
 	),
+	PlumeMoths = list(
+	  CSV_PATH = "PMRS"
+	),
 	Stoneflies = list(
 	  CSV_PATH = "PRS"
+	),
+	Spiders = list(
+	  CSV_PATH = "SRS"
 	),
 	TerrestrialHeteroptera = list(
 	  CSV_PATH = "THRS"

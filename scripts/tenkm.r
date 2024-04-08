@@ -2,6 +2,8 @@
 # Create WithoutPolygon rules from tenkm.csv
 #------------------------------------------------------------------------------
 
+library(rstudioapi)
+
 source("schemes.r")
 
 tenkm_rules = function(
@@ -18,14 +20,22 @@ tenkm_rules = function(
   #Locate files
   
   
+  wd <- gsub("/scripts", "", getwd())
+  folders <- list.dirs(wd)
   
-	# Read files
-	# species_file = paste0("../rules/", schemes[[group]]$CSV_PATH, "/species.csv")
-	# species = read.csv(species_file)
-	tenkm_file = paste0("../rules_as_csv/", schemes[[group]]$CSV_PATH, "/tenkm/tenkm.csv")
-	tenkms = read.csv(tenkm_file)
+  colnames(folders) <- "folders"
+  
+  folders <- folders %>%
+    filter(grepl("tenkm$", folders),
+           grepl(paste("/rules_as_csv/", schemes[[group]]$CSV_PATH, "/", sep = ""), folders))
+  dir <- folders$folders
 	
-	output_folder = paste0("../rules/", schemes[[group]]$RULES_PATH, "/tenkm")
+  # Read files
+
+	tenkm_file = paste0(dir, "/tenkm.csv")
+	tenkms = read.csv(tenkm_file)
+	output_folder <- gsub("/rules_as_csv/", "/rules_export/", dir)
+	
 	# Ensure the output directory exists.
 	dir.create(output_folder, showWarnings = FALSE)
 			
@@ -42,34 +52,21 @@ tenkm_rules = function(
 		tenkms = unique(tenkms)
 	}
 
-	# Check all tvk in tenkms are in species
-	tenkm_tvk = unique(tenkms$TVK)
-	chk_inds = which(!tenkm_tvk %in% species$TVK)
-	if(length(chk_inds) > 0){
-		warning(
-			"TVKs given below are present in tenkm.csv but are ",
-			"not present in species.csv (these species will be excluded):",
-			"\n\t", 
-			paste(tenkm_tvk[chk_inds], collapse="\n\t") , 
-			immediate. = TRUE
-		)
-		rm_inds = which(tenkms$TVK %in% tenkm_tvk[chk_inds])
-		tenkms = tenkms[-rm_inds,]
-	}
+
 				
 	# Print progress
 	cat("Creating tenkm rule files...\n")
 	flush.console()
 	
 	# Loop through species and create distribution rules
-	for(i in 1:nrow(species)){
+	for(i in 1:nrow(unique(tenkm$tvk))){
 		# Find indicies for distribution data of this species
-		tvk = species$TVK[i]
-		gr_inds = which(tenkms$TVK == tvk)
+		tvk = unique(tenkm$tvk)[i]
+		gr_inds = which(tenkms$tvk == tvk)
 		# If data found then create rule file
 		if(length(gr_inds) > 0){
 			# Extract species name
-			name = species$NAME[i]
+			name = unique(tenkm$name)[i]
 			# Print progress
 			cat(i, name,"\n")
 			flush.console()

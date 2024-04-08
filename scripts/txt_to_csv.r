@@ -15,7 +15,7 @@ uksi <- sqlQuery(warehouse,
 
 close(warehouse)
 
-file_location <- "C:/Users/robhut/OneDrive - UKCEH/record-cleaner-rules"
+file_location <- "C:/Users/robhut/OneDrive - UKCEH/Indicia/record-cleaner-rules"
 
 folders <- as.data.frame(list.dirs(paste(file_location, "rules", sep = "/")))
 
@@ -23,11 +23,7 @@ colnames(folders) <- "folders"
 
 folders <- folders %>%
   filter(folders != paste(file_location, "rules", sep = "/"))%>%
-  mutate(folders = gsub(paste(file_location, "rules/", sep = "/"), "", folders)) %>%
-  filter(!grepl("^HRS/", folders),
-         !grepl("^SRS/", folders),
-         !grepl("^PMRS/", folders),
-         grepl("^DRN/", folders))
+  mutate(folders = gsub(paste(file_location, "rules/", sep = "/"), "", folders))
 
 folders <- unique(folders$folders)
 
@@ -52,8 +48,7 @@ for(k in 1:length(folders)) {
   colnames(file) <- "meta"
   file_type <- file %>%
       filter(grepl("TestType", meta)) %>%
-      separate(meta, into = c("title","value"),sep = "=") %>%
-    mutate(value = trimws(value))
+      separate(meta, into = c("title","value"),sep = "=")
   
   file_type <- unique(file_type$value)
 
@@ -79,33 +74,9 @@ for(k in 1:length(folders)) {
           filter(grepl("^...SYS", tvk))
         
         rules_new <- bind_rows(values, rules) %>%
-          left_join(uksi, by = "tvk") %>%
-          arrange(taxon)
+          left_join(uksi, by = "tvk") 
         
-        codes <- temp %>%
-          filter(grepl("=", id, fixed = TRUE)) %>%
-          separate(id, into = c("value_code","text"),sep = "=") %>%
-          mutate(value_code = trimws(value_code)) %>%
-          filter(!grepl("[[:alpha:]]", value_code))
-        
-        
-        write.csv(rules_new, paste(file_location, "/rules_as_csv/", folder, "/id_difficulty.csv", sep = ""), na = "", row.names = FALSE)
-        write.csv(codes, paste(file_location, "/rules_as_csv/", folder, "/difficulty_codes.csv", sep = ""), na = "", row.names = FALSE)
-
-        
-        git_add(paste("rules_as_csv/", folder, "/id_difficulty.csv", sep = ""))
-        git_add(paste("rules_as_csv/", folder, "/difficulty_codes.csv", sep = ""))
-
-        stat <- git_status() %>%
-          filter(grepl("rules_as_csv", file),
-                 staged == TRUE)
-        print(stat)
-        if(nrow(stat) != 0){
-          
-        git_commit_all(paste("Order rows: ", folder, "/id_difficulty.csv" , sep = ""))
-        git_push()
-        
-      }
+        write.csv(rules_new, paste(file_location, "/rules_as_csv/", folder, "/", gsub("txt$", "", file_name), "csv", sep = ""), na = "", row.names = FALSE)
         
       }
       
@@ -154,21 +125,9 @@ for(k in 1:length(folders)) {
         
       }
       
-      rules <- right_join(uksi, rules, by = "tvk")%>%
-        arrange(taxon, km100)
+      rules <- right_join(uksi, rules, by = "tvk")
       
       write.csv(rules, paste(file_location, "/rules_as_csv/", folder, "/tenkm.csv", sep = ""), na = "", row.names = FALSE)
-      git_add(paste("rules_as_csv/", folder, "/tenkm.csv", sep = ""))
-      stat <- git_status() %>%
-        filter(grepl("rules_as_csv", file),
-               staged == TRUE)
-      print(stat)
-      if(nrow(stat) != 0){
-        
-        git_commit_all(paste("Order rows: ", folder, "/tenkm.csv" , sep = ""))
-       git_push()
-      
-      }
       
     } else if(file_type == "Period") {
       
@@ -197,21 +156,8 @@ for(k in 1:length(folders)) {
         rules <- bind_rows(rule, rules)
       }
       
-      rules <- right_join(uksi, rules, by = "tvk")%>%
-        arrange(taxon)
+      rule <- right_join(uksi, rules, by = "tvk")
       write.csv(rules, paste(file_location, "/rules_as_csv/", folder, "/period.csv", sep = ""), na = "", row.names = FALSE)
-      git_add(paste("rules_as_csv/", folder, "/period.csv", sep = ""))
-      
-      stat <- git_status() %>%
-        filter(grepl("rules_as_csv", file),
-               staged == TRUE)
-      print(stat)
-      if(nrow(stat) != 0){
-        
-        git_commit_all(paste("Order rows: ", folder, "/period.csv" , sep = ""))
-        git_push()
-      
-      }
       
     } else if(file_type == "PeriodWithinYear") {
       
@@ -238,22 +184,10 @@ for(k in 1:length(folders)) {
         rules <- bind_rows(rule, rules)
       }
       
-      rules <- right_join(uksi, rules, by = "tvk") %>%
-        mutate(stage = "Adult")%>%
-        arrange(taxon, stage)
+      rule <- right_join(uksi, rules, by = "tvk") %>%
+        mutate(stage = "Adult")
       write.csv(rules, paste(file_location, "/rules_as_csv/", folder, "/periodwithinyear.csv", sep = ""), na = "", row.names = FALSE)
-      git_add(paste("rules_as_csv/", folder, "/periodwithinyear.csv", sep = ""))
       
-      stat <- git_status() %>%
-        filter(grepl("rules_as_csv", file),
-               staged == TRUE)
-      print(stat)
-      if(nrow(stat) != 0){
-        
-        git_commit_all(paste("Order rows: ", folder, "/periodwithinyear.csv" , sep = ""))
-        git_push()
-      
-      }
       
     } else if(file_type == "AncillarySpecies") {
       
@@ -270,45 +204,33 @@ for(k in 1:length(folders)) {
                  !grepl("[", additional, fixed = TRUE)) %>%
           separate(additional, into = c("tvk","value_code"),sep = ",") 
         
-        codes <- temp %>%
-          filter(grepl("=", additional, fixed = TRUE)) %>%
-          separate(additional, into = c("value_code","text"),sep = "=") %>%
-          mutate(value_code = trimws(value_code)) %>%
-          filter(!grepl("[[:alpha:]]", value_code))
-        
-        msg <- temp %>%
-          filter(grepl("^ErrorMsg", additional)) %>%
-          mutate(ErrorMsg = gsub("ErrorMsg", "", additional),
-                 ErrorMsg = trimws(gsub("=", "", ErrorMsg))) %>%
-          select(ErrorMsg)
-        
         rules_new <- bind_rows(values, rules) %>%
-          left_join(uksi, by = "tvk") %>%
-          arrange(taxon)
+          left_join(uksi, by = "tvk") 
         
-        write.csv(rules_new, paste(file_location, "/rules_as_csv/", folder, "/additional.csv", sep = ""), na = "", row.names = FALSE)
-        write.csv(codes, paste(file_location, "/rules_as_csv/", folder, "/additional_codes.csv", sep = ""), na = "", row.names = FALSE)
-        write.csv(msg, paste(file_location, "/rules_as_csv/", folder, "/additional_msg.csv", sep = ""), na = "", row.names = FALSE)
+        write.csv(rules_new, paste(file_location, "/rules_as_csv/", folder, "/", gsub("txt$", "", file_name), "csv", sep = ""), na = "", row.names = FALSE)
         
-        git_add(paste("rules_as_csv/", folder, "/additional.csv", sep = ""))
-        git_add(paste("rules_as_csv/", folder, "/additional_codes.csv", sep = ""))
-        git_add(paste("rules_as_csv/", folder, "/additional_msg.csv", sep = ""))
-        
-        stat <- git_status() %>%
-          filter(grepl("rules_as_csv", file),
-                 staged == TRUE)
-        
-        if(nrow(stat) != 0){
-          
-          git_commit_all(paste("Order rows: ", folder, "/additional.csv" , sep = ""))
-        git_push()
-        
-        }
-        
-        
-        }
-
+      }
+      
+      git_add(.)
+      git_commit_all(paste("Add files: ", folder , sep = ""))
+      git_push(password = key_set(service = 'GitHub', username = 'robin_hutchinson'))
+      
       
     }
       
+}
+all_files <- list.files(path = paste(file_location, folder[i], zip_name, sep = "/"), pattern = "txt")
+if(length(all_files) == 0) next
+
+for(k in 1:length(all_files)) {
+  
+  print(all_files[k])
+  git_add(paste("rules", folder[i], zip_name, all_files[k], sep  = "/"))
+  
+  if(grepl("0$", as.character(k))) {
+    
+    git_commit_all(paste("Add files: ", folder[i], "/", zip_name, " ", k, sep = ""))
+    git_push()
+    
+  }
 }
