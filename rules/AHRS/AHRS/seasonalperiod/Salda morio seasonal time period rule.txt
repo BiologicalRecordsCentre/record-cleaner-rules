@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Salda morio seasonal check
+Description=Check date of record against known seasonal limit of Salda morio
+Tvk=NHMSYS0020309784
+ErrorMsg=Date outside known seasonal limit for Salda morio
+StartDate=0601
+EndDate=0930
+LastChanged=20131209
+[EndMetadata]
+

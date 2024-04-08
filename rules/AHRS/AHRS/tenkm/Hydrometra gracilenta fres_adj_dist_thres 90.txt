@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Hydrometra gracilenta 10km
+Description=Check coordinate agaist known 10km distribution of Hydrometra gracilenta
+ErrorMsg=Coordinate outside know range for Hydrometra gracilenta
+DataFieldName=Species
+DataRecordId=NHMSYS0000527547
+LastChanged=20130816
+[EndMetadata]
+
+
+[10km_GB]
+TG01
+TG02
+TG03
+TG11
+TG12
+TG13
+TG14
+TG20
+TG21
+TG22
+TG23
+TG30
+TG31
+TG32
+TG33
+TG40
+TG41
+TG42
+TG50
+TG51
+TM39
+TM46
+TM47
+TM49
+TM58
+TM59
+TQ20
+TQ40
+TQ60
+TQ80
+TQ91
+TR01
+TV49
+TV59
+TV69
+
+

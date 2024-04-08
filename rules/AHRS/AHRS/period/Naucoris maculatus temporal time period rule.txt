@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Naucoris maculatus temporal check
+Description=Check date of record agaist known temporal limit of Naucoris maculatus
+Tvk=NHMSYS0000583218
+ErrorMsg=Date outside known temporal limit for Naucoris maculatus
+StartDate=20040101
+EndDate=
+LastChanged=20131209
+[EndMetadata]
+

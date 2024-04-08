@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Naucoris maculatus 10km
+Description=Check coordinate agaist known 10km distribution of Naucoris maculatus
+ErrorMsg=Coordinate outside know range for Naucoris maculatus
+DataFieldName=Species
+DataRecordId=NHMSYS0000583218
+LastChanged=20130816
+[EndMetadata]
+
+
+[10km_GB]
+TQ80
+TR12
+TR23
+TR24
+TR27
+TR33
+TR34
+TR37
+TR46
+TR47
+
+

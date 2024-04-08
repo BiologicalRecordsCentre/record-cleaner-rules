@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Micronecta (Dichaetonecta) scholtzi seasonal check
+Description=Check date of record against known seasonal limit of Micronecta (Dichaetonecta) scholtzi
+Tvk=NHMSYS0020309454
+ErrorMsg=Date outside known seasonal limit for Micronecta (Dichaetonecta) scholtzi
+StartDate=0301
+EndDate=1130
+LastChanged=20131209
+[EndMetadata]
+

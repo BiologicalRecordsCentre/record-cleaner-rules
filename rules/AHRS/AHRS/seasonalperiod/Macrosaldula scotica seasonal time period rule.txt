@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Macrosaldula scotica seasonal check
+Description=Check date of record against known seasonal limit of Macrosaldula scotica
+Tvk=NHMSYS0020309408
+ErrorMsg=Date outside known seasonal limit for Macrosaldula scotica
+StartDate=0601
+EndDate=1031
+LastChanged=20131209
+[EndMetadata]
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Sigara (Subsigara) longipalis temporal check
+Description=Check date of record agaist known temporal limit of Sigara (Subsigara) longipalis
+Tvk=NHMSYS0020309837
+ErrorMsg=Date outside known temporal limit for Sigara (Subsigara) longipalis
+StartDate=20060101
+EndDate=
+LastChanged=20131209
+[EndMetadata]
+

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Cymatia rogenhoferi temporal check
+Description=Check date of record agaist known temporal limit of Cymatia rogenhoferi
+Tvk=NHMSYS0020063202
+ErrorMsg=Date outside known temporal limit for Cymatia rogenhoferi
+StartDate=20050101
+EndDate=
+LastChanged=20131209
+[EndMetadata]
+

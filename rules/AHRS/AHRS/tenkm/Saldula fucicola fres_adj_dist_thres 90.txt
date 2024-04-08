@@ -1,0 +1,56 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Saldula fucicola 10km
+Description=Check coordinate agaist known 10km distribution of Saldula fucicola
+ErrorMsg=Coordinate outside know range for Saldula fucicola
+DataFieldName=Species
+DataRecordId=NHMSYS0020309793
+LastChanged=20130816
+[EndMetadata]
+
+
+[10km_GB]
+NN72
+NN74
+NN75
+NN81
+NN82
+NN86
+NN91
+NN92
+NN94
+NN95
+NN96
+NO00
+NO01
+NO02
+NO03
+NO04
+NO06
+NO10
+NO11
+NO12
+NO13
+NO14
+NO15
+NO20
+NO23
+NO24
+NO25
+NO33
+NO34
+NO35
+NO45
+NO55
+NS89
+NS96
+NS97
+NS99
+NT06
+NT09
+NT16
+NT19
+NT25
+
+

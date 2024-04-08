@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Sigara (Subsigara) iactans temporal check
+Description=Check date of record agaist known temporal limit of Sigara (Subsigara) iactans
+Tvk=NHMSYS0020309836
+ErrorMsg=Date outside known temporal limit for Sigara (Subsigara) iactans
+StartDate=20050101
+EndDate=
+LastChanged=20131209
+[EndMetadata]
+

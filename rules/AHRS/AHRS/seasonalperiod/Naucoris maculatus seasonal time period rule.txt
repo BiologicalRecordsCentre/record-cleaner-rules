@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Naucoris maculatus seasonal check
+Description=Check date of record against known seasonal limit of Naucoris maculatus
+Tvk=NHMSYS0000583218
+ErrorMsg=Date outside known seasonal limit for Naucoris maculatus
+StartDate=0901
+EndDate=0930
+LastChanged=20131209
+[EndMetadata]
+

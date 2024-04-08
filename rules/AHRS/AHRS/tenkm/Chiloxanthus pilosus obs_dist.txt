@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Chiloxanthus pilosus 10km
+Description=Check coordinate agaist known 10km distribution of Chiloxanthus pilosus
+ErrorMsg=Coordinate outside know range for Chiloxanthus pilosus
+DataFieldName=Species
+DataRecordId=NHMSYS0020309071
+LastChanged=20130816
+[EndMetadata]
+
+
+[10km_GB]
+NU20
+SD09
+SH67
+TF49
+TM57
+
+

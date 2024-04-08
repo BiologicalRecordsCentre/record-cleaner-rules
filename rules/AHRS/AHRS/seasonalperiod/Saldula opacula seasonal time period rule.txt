@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Saldula opacula seasonal check
+Description=Check date of record against known seasonal limit of Saldula opacula
+Tvk=NHMSYS0020309795
+ErrorMsg=Date outside known seasonal limit for Saldula opacula
+StartDate=0401
+EndDate=0930
+LastChanged=20131209
+[EndMetadata]
+
