@@ -1,4 +1,4 @@
-"taxon","tvk","start_day","start_month","start_year","end_day","end_month","end_year"
-"Brachynotus sexdentatus","NBNSYS0000179885","01","01","1957","31","01","1957"
-"Callinectes sapidus","NBNSYS0000180030","30","09","1979","31","01","1982"
-"Eriocheir sinensis","NHMSYS0001593547","01","01","1935",,,
+taxon,tvk,start_day,start_month,start_year,end_day,end_month,end_year
+Brachynotus sexdentatus,NBNSYS0000179885,1,1,1957,31,1,1957
+Callinectes sapidus,NBNSYS0000180030,30,9,1979,31,1,1982
+Eriocheir sinensis,NHMSYS0001593547,1,1,1935,,,
