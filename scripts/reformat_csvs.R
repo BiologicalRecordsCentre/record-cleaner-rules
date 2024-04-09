@@ -1,5 +1,6 @@
 library(gert)
 library(tidyverse)
+library(data.table)
 file_location <- "C:/Users/robhut/OneDrive - UKCEH/record-cleaner-rules/rules_as_csv"
 
 folders <- as.data.frame(list.dirs(file_location))
@@ -43,7 +44,7 @@ for(k in 1:length(folders)) {
     if(length(which(colnames(df) %in% c("ErrorMsg", "text"))) != 0) {
       
 
-      write.csv(df, paste(folder, file, sep = "/"), row.names = FALSE, na = "", quote = c(which(colnames(df) %in% c("ErrorMsg", "text"))))
+      fwrite(df, paste(folder, file, sep = "/"), row.names = FALSE, na = "", quote = "auto")
                 
       
     } else {
