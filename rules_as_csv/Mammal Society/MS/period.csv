@@ -1,13 +1,13 @@
-"taxon","tvk","start_day","start_month","start_year","end_day","end_month","end_year"
-"Castor fiber","NBNSYS0000005107","01","05","2009",,,
-"Cervus nippon","NBNSYS0000005144","01","01","1800",,,
-"Glis glis","NHMSYS0000080215","01","01","1902",,,
-"Hydropotes inermis","NBNSYS0000005148","01","01","1945",,,
-"Macropus rufogriseus","NHMSYS0000080171","01","01","1940",,,
-"Muntiacus reevesi","NHMSYS0000080204","01","01","1893",,,
-"Myocastor coypus","NHMSYS0000080217","01","01","1929","31","12","1989"
-"Neovison vison","NHMSYS0020774297","01","01","1929",,,
-"Ondatra zibethicus","NBNSYS0000040193","01","01","1920","31","12","1937"
-"Rangifer tarandus","NBNSYS0000005183","01","01","1952",,,
-"Sciurus carolinensis","NHMSYS0000332764","01","01","1876",,,
-"Sus scrofa","NBNSYS0000005142","01","01","1990",,,
+taxon,tvk,start_day,start_month,start_year,end_day,end_month,end_year
+Castor fiber,NBNSYS0000005107,1,5,2009,,,
+Cervus nippon,NBNSYS0000005144,1,1,1800,,,
+Glis glis,NHMSYS0000080215,1,1,1902,,,
+Hydropotes inermis,NBNSYS0000005148,1,1,1945,,,
+Macropus rufogriseus,NHMSYS0000080171,1,1,1940,,,
+Muntiacus reevesi,NHMSYS0000080204,1,1,1893,,,
+Myocastor coypus,NHMSYS0000080217,1,1,1929,31,12,1989
+Neovison vison,NHMSYS0020774297,1,1,1929,,,
+Ondatra zibethicus,NBNSYS0000040193,1,1,1920,31,12,1937
+Rangifer tarandus,NBNSYS0000005183,1,1,1952,,,
+Sciurus carolinensis,NHMSYS0000332764,1,1,1876,,,
+Sus scrofa,NBNSYS0000005142,1,1,1990,,,
