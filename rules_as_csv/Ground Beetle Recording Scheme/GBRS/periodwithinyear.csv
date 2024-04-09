@@ -1,65 +1,65 @@
-"taxon","tvk","start_day","start_month","end_day","end_month","stage"
-"Acupalpus elegans","NBNSYS0000007436","01","05","30","09","Adult"
-"Agonum (Agonum) gracilipes","NHMSYS0001716596","01","05","30","09","Adult"
-"Amara (Paracelia) quenseli","NHMSYS0001716747","01","04","31","10","Adult"
-"Asaphidion pallipes","NBNSYS0000007206","01","04","30","09","Adult"
-"Bembidion (Actedium) pallidipenne","NBNSYS0100001927","01","03","30","11","Adult"
-"Bembidion (Bembidion) humerale","NBNSYS0100001928","01","04","31","10","Adult"
-"Bembidion (Bembidionetolitzkya) caeruleum","NHMSYS0001717147","01","04","31","08","Adult"
-"Bembidion (Notaphemphanes) ephippium","NBNSYS0100001950","01","03","31","10","Adult"
-"Blemus discus","NHMSYS0001717333","01","04","31","10","Adult"
-"Calosoma inquisitor","NBNSYS0000007143","01","04","31","08","Adult"
-"Calosoma sycophanta","NBNSYS0000007144","01","05","31","08","Adult"
-"Carabus (Autocarabus) auratus","NHMSYS0001717504","01","02","31","07","Adult"
-"Carabus (Hemicarabus) nitens","NHMSYS0001717516","01","03","31","08","Adult"
-"Carabus (Morphocarabus) monilis","NHMSYS0001717528","01","04","30","09","Adult"
-"Carabus (Oreocarabus) glabratus","NHMSYS0001717530","01","04","30","09","Adult"
-"Cicindela campestris","NBNSYS0000007122","01","02","30","11","Adult"
-"Cicindela hybrida","NBNSYS0000007124","01","03","31","10","Adult"
-"Cicindela maritima","NHMSYS0001717604","01","03","31","10","Adult"
-"Curtonotus alpinus","NHMSYS0001717776","01","05","30","09","Adult"
-"Cylindera germanica","NHMSYS0001717787","01","05","31","08","Adult"
-"Dicheirotrichus gustavii","NHMSYS0001717913","01","03","30","11","Adult"
-"Dicheirotrichus obsoletus","NBNSYS0000007416","01","03","30","11","Adult"
-"Drypta dentata","NBNSYS0000007488","01","03","31","07","Adult"
-"Elaphrus (Elaphrus) lapponicus","NHMSYS0001718039","01","04","31","10","Adult"
-"Eurynebria complanata","NHMSYS0001718164","01","05","31","12","Adult"
-"Harpalus (Cryptophonus) melancholicus","NHMSYS0001718348","01","05","30","09","Adult"
-"Harpalus (Cryptophonus) tenebrosus","NHMSYS0001718349","01","03","31","10","Adult"
-"Harpalus (Harpalus) dimidiatus","NBNSYS0100003340","01","04","31","10","Adult"
-"Harpalus (Harpalus) froelichii","NHMSYS0001718352","01","04","31","10","Adult"
-"Harpalus (Harpalus) honestus","NBNSYS0100003342","01","05","31","08","Adult"
-"Harpalus (Harpalus) laevipes","NHMSYS0001718353","01","04","31","08","Adult"
-"Harpalus (Harpalus) neglectus","NHMSYS0001718354","01","03","31","08","Adult"
-"Harpalus (Harpalus) pumilus","NHMSYS0001718355","01","03","30","09","Adult"
-"Harpalus (Harpalus) serripes","NHMSYS0001718357","01","04","31","10","Adult"
-"Harpalus (Harpalus) servus","NBNSYS0100003350","01","03","31","10","Adult"
-"Harpalus (Harpalus) smaragdinus","NBNSYS0100003351","01","03","31","10","Adult"
-"Harpalus (Pseudoophonus) griseus","NHMSYS0001718360","01","05","31","08","Adult"
-"Lebia (Lamprias) cyanocephala","NHMSYS0001718726","01","03","31","10","Adult"
-"Lebia (Lebia) cruxminor","NHMSYS0001718728","01","04","31","10","Adult"
-"Leistus (Pogonophorus) montanus","NHMSYS0001718800","01","05","31","10","Adult"
-"Miscodera arctica","NBNSYS0000007186","01","05","31","10","Adult"
-"Nebria (Boreonebria) nivalis","NHMSYS0001719101","01","04","30","09","Adult"
-"Nebria (Boreonebria) rufescens","NHMSYS0001719102","01","03","30","09","Adult"
-"Nebria (Paranebria) livida","NHMSYS0001719107","01","05","31","10","Adult"
-"Omophron limbatum","NHMSYS0001719291","01","02","31","10","Adult"
-"Ophonus (Metophonus) cordatus","NHMSYS0001719325","01","04","30","09","Adult"
-"Ophonus (Metophonus) laticollis","NHMSYS0001719326","01","04","31","10","Adult"
-"Ophonus (Metophonus) melletii","NHMSYS0001719327","01","04","31","12","Adult"
-"Ophonus (Metophonus) parallelus","NHMSYS0001719328","01","05","30","09","Adult"
-"Ophonus (Metophonus) puncticollis","NHMSYS0001719330","01","02","30","09","Adult"
-"Ophonus (Metophonus) rupicola","NHMSYS0001719332","01","03","31","10","Adult"
-"Ophonus (Ophonus) sabulicola","NHMSYS0001719338","01","04","30","09","Adult"
-"Ophonus (Ophonus) stictus","NHMSYS0001719339","01","04","30","09","Adult"
-"Patrobus septentrionis","NBNSYS0000007189","01","05","30","09","Adult"
-"Pelophila borealis","NBNSYS0000007151","01","06","31","08","Adult"
-"Perileptus areolatus","NBNSYS0000007190","01","04","30","09","Adult"
-"Pogonus littoralis","NBNSYS0000007275","01","04","30","09","Adult"
-"Pogonus luridipennis","NBNSYS0000007276","01","03","30","09","Adult"
-"Polistichus connexus","NHMSYS0001719662","01","05","30","09","Adult"
-"Sericoda quadripunctata","NHMSYS0001720084","01","04","31","10","Adult"
-"Thalassophilus longicornis","NBNSYS0000007193","01","04","30","09","Adult"
-"Trechus (Epaphius) rivularis","NHMSYS0001720409","01","06","30","09","Adult"
-"Trechus (Epaphius) secalis","NHMSYS0001720410","01","04","31","12","Adult"
-"Zabrus tenebrioides","NBNSYS0000007374","01","04","31","10","Adult"
+taxon,tvk,start_day,start_month,end_day,end_month,stage
+Acupalpus elegans,NBNSYS0000007436,1,5,30,9,Adult
+Agonum (Agonum) gracilipes,NHMSYS0001716596,1,5,30,9,Adult
+Amara (Paracelia) quenseli,NHMSYS0001716747,1,4,31,10,Adult
+Asaphidion pallipes,NBNSYS0000007206,1,4,30,9,Adult
+Bembidion (Actedium) pallidipenne,NBNSYS0100001927,1,3,30,11,Adult
+Bembidion (Bembidion) humerale,NBNSYS0100001928,1,4,31,10,Adult
+Bembidion (Bembidionetolitzkya) caeruleum,NHMSYS0001717147,1,4,31,8,Adult
+Bembidion (Notaphemphanes) ephippium,NBNSYS0100001950,1,3,31,10,Adult
+Blemus discus,NHMSYS0001717333,1,4,31,10,Adult
+Calosoma inquisitor,NBNSYS0000007143,1,4,31,8,Adult
+Calosoma sycophanta,NBNSYS0000007144,1,5,31,8,Adult
+Carabus (Autocarabus) auratus,NHMSYS0001717504,1,2,31,7,Adult
+Carabus (Hemicarabus) nitens,NHMSYS0001717516,1,3,31,8,Adult
+Carabus (Morphocarabus) monilis,NHMSYS0001717528,1,4,30,9,Adult
+Carabus (Oreocarabus) glabratus,NHMSYS0001717530,1,4,30,9,Adult
+Cicindela campestris,NBNSYS0000007122,1,2,30,11,Adult
+Cicindela hybrida,NBNSYS0000007124,1,3,31,10,Adult
+Cicindela maritima,NHMSYS0001717604,1,3,31,10,Adult
+Curtonotus alpinus,NHMSYS0001717776,1,5,30,9,Adult
+Cylindera germanica,NHMSYS0001717787,1,5,31,8,Adult
+Dicheirotrichus gustavii,NHMSYS0001717913,1,3,30,11,Adult
+Dicheirotrichus obsoletus,NBNSYS0000007416,1,3,30,11,Adult
+Drypta dentata,NBNSYS0000007488,1,3,31,7,Adult
+Elaphrus (Elaphrus) lapponicus,NHMSYS0001718039,1,4,31,10,Adult
+Eurynebria complanata,NHMSYS0001718164,1,5,31,12,Adult
+Harpalus (Cryptophonus) melancholicus,NHMSYS0001718348,1,5,30,9,Adult
+Harpalus (Cryptophonus) tenebrosus,NHMSYS0001718349,1,3,31,10,Adult
+Harpalus (Harpalus) dimidiatus,NBNSYS0100003340,1,4,31,10,Adult
+Harpalus (Harpalus) froelichii,NHMSYS0001718352,1,4,31,10,Adult
+Harpalus (Harpalus) honestus,NBNSYS0100003342,1,5,31,8,Adult
+Harpalus (Harpalus) laevipes,NHMSYS0001718353,1,4,31,8,Adult
+Harpalus (Harpalus) neglectus,NHMSYS0001718354,1,3,31,8,Adult
+Harpalus (Harpalus) pumilus,NHMSYS0001718355,1,3,30,9,Adult
+Harpalus (Harpalus) serripes,NHMSYS0001718357,1,4,31,10,Adult
+Harpalus (Harpalus) servus,NBNSYS0100003350,1,3,31,10,Adult
+Harpalus (Harpalus) smaragdinus,NBNSYS0100003351,1,3,31,10,Adult
+Harpalus (Pseudoophonus) griseus,NHMSYS0001718360,1,5,31,8,Adult
+Lebia (Lamprias) cyanocephala,NHMSYS0001718726,1,3,31,10,Adult
+Lebia (Lebia) cruxminor,NHMSYS0001718728,1,4,31,10,Adult
+Leistus (Pogonophorus) montanus,NHMSYS0001718800,1,5,31,10,Adult
+Miscodera arctica,NBNSYS0000007186,1,5,31,10,Adult
+Nebria (Boreonebria) nivalis,NHMSYS0001719101,1,4,30,9,Adult
+Nebria (Boreonebria) rufescens,NHMSYS0001719102,1,3,30,9,Adult
+Nebria (Paranebria) livida,NHMSYS0001719107,1,5,31,10,Adult
+Omophron limbatum,NHMSYS0001719291,1,2,31,10,Adult
+Ophonus (Metophonus) cordatus,NHMSYS0001719325,1,4,30,9,Adult
+Ophonus (Metophonus) laticollis,NHMSYS0001719326,1,4,31,10,Adult
+Ophonus (Metophonus) melletii,NHMSYS0001719327,1,4,31,12,Adult
+Ophonus (Metophonus) parallelus,NHMSYS0001719328,1,5,30,9,Adult
+Ophonus (Metophonus) puncticollis,NHMSYS0001719330,1,2,30,9,Adult
+Ophonus (Metophonus) rupicola,NHMSYS0001719332,1,3,31,10,Adult
+Ophonus (Ophonus) sabulicola,NHMSYS0001719338,1,4,30,9,Adult
+Ophonus (Ophonus) stictus,NHMSYS0001719339,1,4,30,9,Adult
+Patrobus septentrionis,NBNSYS0000007189,1,5,30,9,Adult
+Pelophila borealis,NBNSYS0000007151,1,6,31,8,Adult
+Perileptus areolatus,NBNSYS0000007190,1,4,30,9,Adult
+Pogonus littoralis,NBNSYS0000007275,1,4,30,9,Adult
+Pogonus luridipennis,NBNSYS0000007276,1,3,30,9,Adult
+Polistichus connexus,NHMSYS0001719662,1,5,30,9,Adult
+Sericoda quadripunctata,NHMSYS0001720084,1,4,31,10,Adult
+Thalassophilus longicornis,NBNSYS0000007193,1,4,30,9,Adult
+Trechus (Epaphius) rivularis,NHMSYS0001720409,1,6,30,9,Adult
+Trechus (Epaphius) secalis,NHMSYS0001720410,1,4,31,12,Adult
+Zabrus tenebrioides,NBNSYS0000007374,1,4,31,10,Adult
