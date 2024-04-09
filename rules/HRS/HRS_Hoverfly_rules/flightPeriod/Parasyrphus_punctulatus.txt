@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Parasyrphus punctulatus: check date is during flight period
+Description=Check date is during the known flight period for Parasyrphus punctulatus
+tvk = NBNSYS0000006947
+startDate = 0303
+endDate = 1107
+ErrorMsg = Date is outside flight period for Parasyrphus punctulatus
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0303
+endDate = 1107
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0303
+endDate = 1107

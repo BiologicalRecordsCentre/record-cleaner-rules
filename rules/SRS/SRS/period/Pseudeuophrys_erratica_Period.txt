@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Pseudeuophrys erratica
+Description=Checks date is within known recording period of Pseudeuophrys erratica
+ErrorMsg=Date is outside known recording period of Pseudeuophrys erratica
+Tvk=NBNSYS0100004904
+StartDate=18610101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

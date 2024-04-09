@@ -1,0 +1,42 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Cheilosia semifasciata: check grid is in range
+Description=Check grid is within known range of Cheilosia semifasciata
+ErrorMsg = Grid is outside known range of Cheilosia semifasciata
+DataFieldName = Species
+DataRecordId = NBNSYS0000006999
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+SH44
+SH47
+SH53
+SH54
+SH56
+SH57
+SH63
+SH64
+SH66
+SH70
+SH72
+SH75
+SH76
+SJ30
+SJ40
+SJ51
+SJ52
+SN69
+SN77
+ST71
+SU66
+SU68
+SW93
+TL65
+TQ04
+TQ57
+
+[10km_Ireland]
+G70
+V95

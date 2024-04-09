@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Savignia frontata: check date is during identifiable season
+Description=Check date is during known identifiable season for Savignia frontata
+tvk=NBNSYS0000009085
+ErrorMsg=Date is outside the normal season for adult or identifiable Savignia frontata
+DataFieldName=Stage
+StartDate=0117
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0101
+EndDate=1130
+
+Stage=Adult Female,Female
+StartDate=0118
+EndDate=1130

@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Episinus maculipes: check grid is in range
+Description=Check grid is in within range of Episinus maculipes
+ErrorMsg=Grid is outside known modern range of Episinus maculipes
+DataFieldName=Species
+DataRecordId=NBNSYS0000008864
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SO50
+ST59
+SU20
+SU21
+SX16
+SX25
+SX45
+SX84
+SY09
+SY18
+SY39
+SY77
+SZ07
+SZ57
+SZ59
+TR01

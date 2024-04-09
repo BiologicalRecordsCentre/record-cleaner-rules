@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Enoplognatha latimana: check date is during identifiable season
+Description=Check date is during known identifiable season for Enoplognatha latimana
+tvk=NBNSYS0000008903
+ErrorMsg=Date is outside the normal season for adult or identifiable Enoplognatha latimana
+DataFieldName=Stage
+StartDate=0522
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0518
+EndDate=0831
+
+Stage=Adult Female,Female
+StartDate=0618
+EndDate=0930

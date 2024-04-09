@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Trachyzelotes pedestris
+Description=Checks date is within known recording period of Trachyzelotes pedestris
+ErrorMsg=Date is outside known recording period of Trachyzelotes pedestris
+Tvk=NBNSYS0000008660
+StartDate=18900101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

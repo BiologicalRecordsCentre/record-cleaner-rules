@@ -1,0 +1,26 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Chrysotoxum vernale: check grid is in range
+Description=Check grid is within known range of Chrysotoxum vernale
+ErrorMsg = Grid is outside known range of Chrysotoxum vernale
+DataFieldName = Species
+DataRecordId = NBNSYS0000006899
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+SU00
+SU20
+SU30
+SU31
+SW43
+SX46
+SY78
+SY79
+SY88
+SY89
+SY98
+SZ08
+SZ09
+SZ19

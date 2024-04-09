@@ -1,0 +1,49 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Meioneta simplicitarsis: check grid is in range
+Description=Check grid is in within range of Meioneta simplicitarsis
+ErrorMsg=Grid is outside known modern range of Meioneta simplicitarsis
+DataFieldName=Species
+DataRecordId=NBNSYS0000009158
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+ST95
+SU04
+SU23
+SU27
+SU33
+SU42
+SU84
+SX95
+SY58
+SY66
+SY68
+SY88
+SZ57
+TL61
+TM11
+TM24
+TM44
+TQ08
+TQ10
+TQ48
+TQ57
+TQ58
+TQ66
+TQ67
+TQ68
+TQ77
+TQ78
+TQ85
+TQ86
+TQ88
+TQ89
+TQ95
+TQ99
+TR06
+TR07
+TR23
+TR35

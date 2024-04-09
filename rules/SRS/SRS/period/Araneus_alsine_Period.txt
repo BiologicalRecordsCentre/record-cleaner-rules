@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Araneus alsine
+Description=Checks date is within known recording period of Araneus alsine
+ErrorMsg=Date is outside known recording period of Araneus alsine
+Tvk=NBNSYS0000008940
+StartDate=18920101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

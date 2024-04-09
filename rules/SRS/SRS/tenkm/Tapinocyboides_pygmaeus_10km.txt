@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Tapinocyboides pygmaeus: check grid is in range
+Description=Check grid is in within range of Tapinocyboides pygmaeus
+ErrorMsg=Grid is outside known modern range of Tapinocyboides pygmaeus
+DataFieldName=Species
+DataRecordId=NBNSYS0000009064
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NO34
+NU02
+NZ33
+SU79
+TQ28

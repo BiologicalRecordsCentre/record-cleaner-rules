@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Dictyna major
+Description=Checks date is within known recording period of Dictyna major
+ErrorMsg=Date is outside known recording period of Dictyna major
+Tvk=NBNSYS0000008615
+StartDate=18930101
+EndDate=19981231
+LastChanged=20120316
+[EndMetadata]

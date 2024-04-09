@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Marasmarcha lunaedactyla seasonal check
+Description=Check date of record agaist known seasonal limit of Marasmarcha lunaedactyla
+Tvk=NHMSYS0000503165
+ErrorMsg=Date outside known seasonal limit for Marasmarcha lunaedactyla
+StartDate=0501
+EndDate=0831
+LastChanged=20140113
+[EndMetadata]
+

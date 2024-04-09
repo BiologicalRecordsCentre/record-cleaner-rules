@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Cicurina cicur
+Description=Checks date is within known recording period of Cicurina cicur
+ErrorMsg=Date is outside known recording period of Cicurina cicur
+Tvk=NBNSYS0000008846
+StartDate=18990101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Sitticus saltator: check grid is in range
+Description=Check grid is in within range of Sitticus saltator
+ErrorMsg=Grid is outside known modern range of Sitticus saltator
+DataFieldName=Species
+DataRecordId=NBNSYS0100005539
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NX40
+SD09
+SD33
+SJ18
+SM80
+SR89
+SS43
+SS58
+SS78
+SU60
+SU70
+SU84
+SU94
+SZ08
+TF94
+TG04
+TG42
+TM01
+TM11
+TM23
+TM46
+TQ91
+TQ98
+TR01
+TR02
+TR25
+TR35

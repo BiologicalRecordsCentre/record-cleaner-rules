@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Pellenes tripunctatus
+Description=Checks date is within known recording period of Pellenes tripunctatus
+ErrorMsg=Date is outside known recording period of Pellenes tripunctatus
+Tvk=NBNSYS0000008790
+StartDate=18880101
+EndDate=20001231
+LastChanged=20120316
+[EndMetadata]

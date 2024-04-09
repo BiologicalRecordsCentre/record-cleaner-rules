@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Trichoncus affinis: check grid is in range
+Description=Check grid is in within range of Trichoncus affinis
+ErrorMsg=Grid is outside known modern range of Trichoncus affinis
+DataFieldName=Species
+DataRecordId=NBNSYS0000009051
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU60
+SU70
+SZ79
+TM23
+TM33
+TM34
+TM44
+TM45
+TM47
+TR01
+TR05
+TR06
+TR15
+TR16

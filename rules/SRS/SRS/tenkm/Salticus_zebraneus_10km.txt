@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Salticus zebraneus: check grid is in range
+Description=Check grid is in within range of Salticus zebraneus
+ErrorMsg=Grid is outside known modern range of Salticus zebraneus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008759
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SO83
+SO84
+SU96
+TL30
+TL31
+TL71
+TL81
+TL82
+TM02
+TQ06
+TQ16
+TQ17
+TQ26
+TQ27
+TQ37
+TQ39
+TQ47
+TQ57
+TQ58
+TQ59
+TQ67
+TQ68
+TQ69
+TQ77
+TQ78
+TQ79
+TQ88
+TQ89

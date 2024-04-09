@@ -1,0 +1,42 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Pelecocera tricincta: check grid is in range
+Description=Check grid is within known range of Pelecocera tricincta
+ErrorMsg = Grid is outside known range of Pelecocera tricincta
+DataFieldName = Species
+DataRecordId = NBNSYS0000007073
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+ST11
+SU00
+SU10
+SU11
+SU20
+SU21
+SU30
+SU40
+SU76
+SU85
+SU91
+SU95
+SU96
+SX87
+SX88
+SX97
+SY09
+SY49
+SY78
+SY79
+SY88
+SY89
+SY98
+SY99
+SZ08
+SZ09
+SZ19
+SZ49
+TQ23
+TQ43

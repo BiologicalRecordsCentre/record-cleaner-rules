@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Theridion pinastri
+Description=Checks date is within known recording period of Theridion pinastri
+ErrorMsg=Date is outside known recording period of Theridion pinastri
+Tvk=NBNSYS0000008891
+StartDate=19770101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

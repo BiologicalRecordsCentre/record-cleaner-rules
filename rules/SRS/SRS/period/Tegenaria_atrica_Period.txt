@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Tegenaria atrica
+Description=Checks date is within known recording period of Tegenaria atrica
+ErrorMsg=Date is outside known recording period of Tegenaria atrica
+Tvk=NBNSYS0000008838
+StartDate=18860101
+EndDate=19971231
+LastChanged=20120316
+[EndMetadata]

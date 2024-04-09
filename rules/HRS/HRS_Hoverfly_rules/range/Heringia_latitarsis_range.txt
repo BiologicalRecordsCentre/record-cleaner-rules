@@ -1,0 +1,62 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Heringia latitarsis: check grid is in range
+Description=Check grid is within known range of Heringia latitarsis
+ErrorMsg = Grid is outside known range of Heringia latitarsis
+DataFieldName = Species
+DataRecordId = NBNSYS0100003449
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NT35
+SD20
+SE40
+SH53
+SK38
+SK55
+SK56
+SK67
+SN74
+SO22
+SP27
+ST13
+ST36
+ST45
+ST50
+ST67
+ST74
+SU10
+SU20
+SU51
+SU83
+SU84
+SU90
+SU98
+SX78
+SY79
+SY89
+SZ19
+TF91
+TL25
+TL57
+TL77
+TL79
+TL87
+TL89
+TL98
+TQ03
+TQ04
+TQ05
+TQ14
+TQ25
+TQ26
+TQ35
+TQ39
+TQ42
+TQ46
+TQ49
+TQ77
+TQ86
+TQ96

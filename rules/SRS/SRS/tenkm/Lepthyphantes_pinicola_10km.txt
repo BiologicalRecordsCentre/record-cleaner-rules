@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Lepthyphantes pinicola: check grid is in range
+Description=Check grid is in within range of Lepthyphantes pinicola
+ErrorMsg=Grid is outside known modern range of Lepthyphantes pinicola
+DataFieldName=Species
+DataRecordId=NBNSYS0000009222
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NC63
+NG96
+NH80
+NY10
+NY21
+NY22
+NY23
+NY31
+NY41
+NY90
+SD89
+SH65
+SH66
+SH76
+SH83

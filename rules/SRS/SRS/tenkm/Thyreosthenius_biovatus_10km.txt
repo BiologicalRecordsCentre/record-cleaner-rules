@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Thyreosthenius biovatus: check grid is in range
+Description=Check grid is in within range of Thyreosthenius biovatus
+ErrorMsg=Grid is outside known modern range of Thyreosthenius biovatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000009068
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NH80
+NJ01
+NN34
+NO49
+NO67
+NY21
+SD29
+SD47
+SH72
+SH76
+SK19
+SK58
+SN69
+SN96
+SS59
+ST11
+ST49
+SU84
+SU85
+SU86
+SU93
+SU94
+SU95
+SU96
+SU98
+SX89
+TQ16
+TQ65
+TQ75
+TQ86
+TR03
+TR05
+TR16
+TR34

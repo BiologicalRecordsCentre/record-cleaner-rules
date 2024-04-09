@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Hygrolycosa rubrofasciata
+Description=Checks date is within known recording period of Hygrolycosa rubrofasciata
+ErrorMsg=Date is outside known recording period of Hygrolycosa rubrofasciata
+Tvk=NBNSYS0000008807
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Crustulina sticta
+Description=Checks date is within known recording period of Crustulina sticta
+ErrorMsg=Date is outside known recording period of Crustulina sticta
+Tvk=NBNSYS0000008874
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

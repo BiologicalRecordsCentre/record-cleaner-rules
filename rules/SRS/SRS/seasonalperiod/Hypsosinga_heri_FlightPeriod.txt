@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Hypsosinga heri: check date is during identifiable season
+Description=Check date is during known identifiable season for Hypsosinga heri
+tvk=NBNSYS0000008959
+ErrorMsg=Date is outside the normal season for adult or identifiable Hypsosinga heri
+DataFieldName=Stage
+StartDate=0101
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]

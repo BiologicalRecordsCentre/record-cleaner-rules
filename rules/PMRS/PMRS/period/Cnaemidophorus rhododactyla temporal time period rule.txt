@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Cnaemidophorus rhododactyla temporal check
+Description=Check date of record against known temporal limit of Cnaemidophorus rhododactyla
+Tvk=NHMSYS0000501326
+ErrorMsg=Date outside known temporal limit for Cnaemidophorus rhododactyla
+StartDate=18000101
+EndDate=
+LastChanged=20140113
+[EndMetadata]
+

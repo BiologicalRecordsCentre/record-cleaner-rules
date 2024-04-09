@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Porrhomma errans: check grid is in range
+Description=Check grid is in within range of Porrhomma errans
+ErrorMsg=Grid is outside known modern range of Porrhomma errans
+DataFieldName=Species
+DataRecordId=NBNSYS0000009144
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NZ16
+NZ35
+SE44
+SE76
+SJ71
+SK50
+SK58
+SK60
+SK61
+SK82
+SO33
+SP36
+SP40
+SP46
+SP48
+SP94
+SU59
+SY58
+SY68
+TA09
+TL08
+TL11
+TL41
+TM22
+TQ27
+TQ78
+TQ88

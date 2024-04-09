@@ -1,0 +1,42 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Lejops vittatus: check grid is in range
+Description=Check grid is within known range of Lejops vittatus
+ErrorMsg = Grid is outside known range of Lejops vittatus
+DataFieldName = Species
+DataRecordId = NBNSYS0100003702
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+ST24
+ST27
+ST33
+ST43
+TG30
+TG40
+TG42
+TG50
+TL00
+TM59
+TQ40
+TQ47
+TQ48
+TQ57
+TQ64
+TQ67
+TQ77
+TQ78
+TQ88
+TQ91
+TQ92
+TQ96
+TQ97
+TQ99
+TR03
+TR06
+TR26
+TR35
+TV49
+TV59

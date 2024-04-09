@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Porrhomma egeria
+Description=Checks date is within known recording period of Porrhomma egeria
+ErrorMsg=Date is outside known recording period of Porrhomma egeria
+Tvk=NBNSYS0000009145
+StartDate=18940101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

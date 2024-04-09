@@ -1,0 +1,18 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Helophilus groenlandicus: check grid is in range
+Description=Check grid is within known range of Helophilus groenlandicus
+ErrorMsg = Grid is outside known range of Helophilus groenlandicus
+DataFieldName = Species
+DataRecordId = NBNSYS0000007055
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NC14
+NG20
+NG50
+NG54
+NG96
+NM48

@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Heringia pubescens: check date is during flight period
+Description=Check date is during the known flight period for Heringia pubescens
+tvk = NBNSYS0100003450
+startDate = 0422
+endDate = 0829
+ErrorMsg = Date is outside flight period for Heringia pubescens
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0422
+endDate = 0829
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0422
+endDate = 0829

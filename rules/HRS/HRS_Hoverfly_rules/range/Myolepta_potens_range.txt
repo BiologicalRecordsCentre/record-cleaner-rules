@@ -1,0 +1,16 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Myolepta potens: check grid is in range
+Description=Check grid is within known range of Myolepta potens
+ErrorMsg = Grid is outside known range of Myolepta potens
+DataFieldName = Species
+DataRecordId = NBNSYS0000007025
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+SO34
+ST33
+ST43
+ST57

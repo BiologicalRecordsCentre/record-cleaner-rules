@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Emmelina argoteles 10km
+Description=Check coordinate agaist known 10km distribution of Emmelina argoteles
+ErrorMsg=Coordinate outside know range for Emmelina argoteles
+DataFieldName=Species
+DataRecordId=NHMSYS0020732915
+LastChanged=20131009
+[EndMetadata]
+
+
+[10km_GB]
+TL46
+TL47
+TL48
+TL56
+TL57
+TL58
+TL66
+TL67
+TL68
+
+

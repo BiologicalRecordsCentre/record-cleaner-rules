@@ -1,0 +1,83 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Platycheirus sticticus: check grid is in range
+Description=Check grid is within known range of Platycheirus sticticus
+ErrorMsg = Grid is outside known range of Platycheirus sticticus
+DataFieldName = Species
+DataRecordId = NBNSYS0000006884
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NC80
+NH91
+NJ25
+NJ52
+NN55
+NO11
+NO29
+NO39
+NO43
+NO69
+NO89
+NX46
+NZ03
+NZ26
+SD37
+SD38
+SD48
+SD59
+SD65
+SE30
+SE31
+SE83
+SE86
+SE89
+SH37
+SH57
+SH75
+SJ56
+SJ78
+SK38
+SK48
+SK53
+SK55
+SK58
+SK80
+SK91
+SN75
+SO01
+SO02
+SO60
+SO64
+SO77
+SO91
+SP07
+SP51
+ST50
+ST66
+SU12
+SU20
+SU30
+SU56
+SU74
+SU97
+SW54
+SW84
+SX65
+TF18
+TG01
+TL00
+TL02
+TL23
+TL66
+TM46
+TQ09
+TQ13
+TQ24
+TQ47
+TQ57
+TQ65
+TQ75
+TR26

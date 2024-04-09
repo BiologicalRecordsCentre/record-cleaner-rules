@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Dipoena inornata: check grid is in range
+Description=Check grid is in within range of Dipoena inornata
+ErrorMsg=Grid is outside known modern range of Dipoena inornata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008868
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SH78
+SM70
+SN20
+SN69
+SS48
+SU10
+SU84
+SU85
+SU91
+SU95
+SU96
+SU97
+SW71
+SX84
+SY67
+SY87
+SY89
+SY97
+SY99
+SZ07
+TM34
+TM44
+TM46
+TM57
+TQ16
+TQ43
+TQ67

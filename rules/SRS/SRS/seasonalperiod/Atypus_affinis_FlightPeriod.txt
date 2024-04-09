@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Atypus affinis: check date is during identifiable season
+Description=Check date is during known identifiable season for Atypus affinis
+tvk=NBNSYS0000008608
+ErrorMsg=Date is outside the normal season for adult or identifiable Atypus affinis
+DataFieldName=Stage
+StartDate=0317
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0316
+EndDate=1130
+
+Stage=Adult Female,Female
+StartDate=0321
+EndDate=1130

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Centromerus minutissimus: check grid is in range
+Description=Check grid is in within range of Centromerus minutissimus
+ErrorMsg=Grid is outside known modern range of Centromerus minutissimus
+DataFieldName=Species
+DataRecordId=NBNSYS0100002236
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TL36

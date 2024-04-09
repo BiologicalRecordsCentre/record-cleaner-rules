@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Haplodrassus dalmatensis
+Description=Checks date is within known recording period of Haplodrassus dalmatensis
+ErrorMsg=Date is outside known recording period of Haplodrassus dalmatensis
+Tvk=NBNSYS0000008646
+StartDate=19440101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

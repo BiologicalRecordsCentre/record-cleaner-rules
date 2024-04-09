@@ -1,0 +1,79 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Mallota cimbiciformis: check grid is in range
+Description=Check grid is within known range of Mallota cimbiciformis
+ErrorMsg = Grid is outside known range of Mallota cimbiciformis
+DataFieldName = Species
+DataRecordId = NBNSYS0000007060
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NS75
+NZ33
+SD52
+SD53
+SE21
+SE51
+SE64
+SH46
+SH78
+SJ23
+SJ31
+SJ34
+SJ51
+SJ57
+SJ67
+SJ84
+SK01
+SK32
+SK65
+SK80
+SP09
+SP50
+SP70
+ST33
+ST57
+ST60
+ST61
+ST90
+ST96
+SU20
+SU30
+SU37
+SU46
+SU49
+SU68
+SU73
+SU78
+SU96
+SU97
+SW94
+SW97
+SY79
+TL02
+TL08
+TL09
+TL10
+TL31
+TL35
+TL45
+TL56
+TL79
+TM24
+TM37
+TQ08
+TQ15
+TQ16
+TQ17
+TQ19
+TQ27
+TQ28
+TQ29
+TQ35
+TQ36
+TQ39
+TQ47
+TQ49
+TQ59

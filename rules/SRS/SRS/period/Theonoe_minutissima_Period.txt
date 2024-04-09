@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Theonoe minutissima
+Description=Checks date is within known recording period of Theonoe minutissima
+ErrorMsg=Date is outside known recording period of Theonoe minutissima
+Tvk=NBNSYS0000008914
+StartDate=18950101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

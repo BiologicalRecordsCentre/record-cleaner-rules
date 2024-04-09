@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Hilaira excisa
+Description=Checks date is within known recording period of Hilaira excisa
+ErrorMsg=Date is outside known recording period of Hilaira excisa
+Tvk=NBNSYS0000009121
+StartDate=18960101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

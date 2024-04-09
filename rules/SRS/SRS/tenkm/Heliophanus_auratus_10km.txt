@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Heliophanus auratus: check grid is in range
+Description=Check grid is in within range of Heliophanus auratus
+ErrorMsg=Grid is outside known modern range of Heliophanus auratus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008762
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SY98
+TL90
+TL91
+TM00
+TM34

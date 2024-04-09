@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Diplocephalus permixtus
+Description=Checks date is within known recording period of Diplocephalus permixtus
+ErrorMsg=Date is outside known recording period of Diplocephalus permixtus
+Tvk=NBNSYS0000009087
+StartDate=18720101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

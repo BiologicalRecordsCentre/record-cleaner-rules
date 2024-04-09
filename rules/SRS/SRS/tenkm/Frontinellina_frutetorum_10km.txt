@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Frontinellina frutetorum: check grid is in range
+Description=Check grid is in within range of Frontinellina frutetorum
+ErrorMsg=Grid is outside known modern range of Frontinellina frutetorum
+DataFieldName=Species
+DataRecordId=NHMSYS0000354343
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TL45

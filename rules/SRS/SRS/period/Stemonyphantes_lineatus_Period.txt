@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Stemonyphantes lineatus
+Description=Checks date is within known recording period of Stemonyphantes lineatus
+ErrorMsg=Date is outside known recording period of Stemonyphantes lineatus
+Tvk=NBNSYS0000009205
+StartDate=18580101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

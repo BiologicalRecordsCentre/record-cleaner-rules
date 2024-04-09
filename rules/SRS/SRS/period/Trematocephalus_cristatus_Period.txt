@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Trematocephalus cristatus
+Description=Checks date is within known recording period of Trematocephalus cristatus
+ErrorMsg=Date is outside known recording period of Trematocephalus cristatus
+Tvk=NBNSYS0000009002
+StartDate=19590101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

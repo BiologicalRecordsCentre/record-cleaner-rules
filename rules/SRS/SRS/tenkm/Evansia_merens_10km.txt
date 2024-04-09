@@ -1,0 +1,56 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Evansia merens: check grid is in range
+Description=Check grid is in within range of Evansia merens
+ErrorMsg=Grid is outside known modern range of Evansia merens
+DataFieldName=Species
+DataRecordId=NBNSYS0000009054
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NH32
+NJ01
+NJ41
+NJ71
+NJ83
+NJ90
+NK02
+NN48
+NN65
+NN92
+NO06
+NO09
+NO15
+NO25
+NO40
+NO76
+NO88
+NO89
+NR49
+NS46
+NX09
+NX43
+NX89
+NY09
+NY31
+NZ14
+NZ51
+SD48
+SD57
+SE65
+SE71
+SE83
+SH77
+SJ16
+SJ43
+SJ88
+SJ96
+SK00
+SK01
+SK31
+SK39
+SK68
+ST14
+SU47

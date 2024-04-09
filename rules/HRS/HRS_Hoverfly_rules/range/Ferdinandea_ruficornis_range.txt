@@ -1,0 +1,58 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Ferdinandea ruficornis: check grid is in range
+Description=Check grid is within known range of Ferdinandea ruficornis
+ErrorMsg = Grid is outside known range of Ferdinandea ruficornis
+DataFieldName = Species
+DataRecordId = NBNSYS0000007008
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+SD74
+SE10
+SE68
+SH57
+SH78
+SH88
+SJ18
+SJ35
+SJ43
+SJ50
+SJ72
+SK26
+SK38
+SK60
+SO47
+SO77
+SO90
+SP09
+SP31
+SP34
+SP40
+SP60
+ST57
+SU02
+SU20
+SU21
+SU23
+SU30
+SU51
+SU66
+SU73
+SU81
+SY68
+SY78
+SY89
+TF01
+TF17
+TG30
+TL35
+TL82
+TQ05
+TQ34
+TQ41
+TQ47
+TQ49
+TQ57

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Meioneta beata: check date is during identifiable season
+Description=Check date is during known identifiable season for Meioneta beata
+tvk=NBNSYS0000009159
+ErrorMsg=Date is outside the normal season for adult or identifiable Meioneta beata
+DataFieldName=Stage
+StartDate=0220
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0121
+EndDate=0731
+
+Stage=Adult Female,Female
+StartDate=0417
+EndDate=0831

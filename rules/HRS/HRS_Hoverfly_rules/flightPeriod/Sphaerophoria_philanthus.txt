@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Sphaerophoria philanthus: check date is during flight period
+Description=Check date is during the known flight period for Sphaerophoria philanthus
+tvk = NBNSYS0000157031
+startDate = 0422
+endDate = 1014
+ErrorMsg = Date is outside flight period for Sphaerophoria philanthus
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0422
+endDate = 1014
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0422
+endDate = 1014

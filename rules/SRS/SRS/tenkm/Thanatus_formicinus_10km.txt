@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Thanatus formicinus: check grid is in range
+Description=Check grid is in within range of Thanatus formicinus
+ErrorMsg=Grid is outside known modern range of Thanatus formicinus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008753
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TF02

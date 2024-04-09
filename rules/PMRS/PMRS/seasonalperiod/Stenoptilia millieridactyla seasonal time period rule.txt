@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Stenoptilia millieridactyla seasonal check
+Description=Check date of record agaist known seasonal limit of Stenoptilia millieridactyla
+Tvk=NBNSYS0100005593
+ErrorMsg=Date outside known seasonal limit for Stenoptilia millieridactyla
+StartDate=0501
+EndDate=0930
+LastChanged=20140113
+[EndMetadata]
+

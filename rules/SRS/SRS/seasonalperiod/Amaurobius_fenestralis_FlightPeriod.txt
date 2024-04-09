@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Amaurobius fenestralis: check date is during identifiable season
+Description=Check date is during known identifiable season for Amaurobius fenestralis
+tvk=NBNSYS0000008610
+ErrorMsg=Date is outside the normal season for adult or identifiable Amaurobius fenestralis
+DataFieldName=Stage
+StartDate=0214
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0217
+EndDate=1130
+
+Stage=Adult Female,Female
+StartDate=0214
+EndDate=1130

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Diplocephalus graecus: check date is during identifiable season
+Description=Check date is during known identifiable season for Diplocephalus graecus
+tvk=NHMSYS0020774735
+ErrorMsg=Date is outside the normal season for adult or identifiable Diplocephalus graecus
+DataFieldName=Stage
+StartDate=0101
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]

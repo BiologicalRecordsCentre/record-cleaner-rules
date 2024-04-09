@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Zelotes petrensis: check grid is in range
+Description=Check grid is in within range of Zelotes petrensis
+ErrorMsg=Grid is outside known modern range of Zelotes petrensis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008658
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SO87
+SO88
+SU42
+SU46
+SU96
+TM44
+TM46
+TQ15
+TQ66
+TQ68

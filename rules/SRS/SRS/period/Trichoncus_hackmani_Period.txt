@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Trichoncus hackmani
+Description=Checks date is within known recording period of Trichoncus hackmani
+ErrorMsg=Date is outside known recording period of Trichoncus hackmani
+Tvk=NBNSYS0000009050
+StartDate=19560101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

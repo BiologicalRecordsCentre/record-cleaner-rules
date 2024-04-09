@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Bathyphantes setiger
+Description=Checks date is within known recording period of Bathyphantes setiger
+ErrorMsg=Date is outside known recording period of Bathyphantes setiger
+Tvk=NBNSYS0000009195
+StartDate=18930101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

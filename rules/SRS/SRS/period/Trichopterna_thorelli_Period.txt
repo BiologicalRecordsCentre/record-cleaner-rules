@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Trichopterna thorelli
+Description=Checks date is within known recording period of Trichopterna thorelli
+ErrorMsg=Date is outside known recording period of Trichopterna thorelli
+Tvk=NBNSYS0000009033
+StartDate=18590101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

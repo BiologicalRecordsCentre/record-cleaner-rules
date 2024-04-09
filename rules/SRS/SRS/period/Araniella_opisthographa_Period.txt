@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Araniella opisthographa
+Description=Checks date is within known recording period of Araniella opisthographa
+ErrorMsg=Date is outside known recording period of Araniella opisthographa
+Tvk=NBNSYS0100001625
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

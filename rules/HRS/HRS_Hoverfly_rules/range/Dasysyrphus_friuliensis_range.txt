@@ -1,0 +1,45 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Dasysyrphus friuliensis: check grid is in range
+Description=Check grid is within known range of Dasysyrphus friuliensis
+ErrorMsg = Grid is outside known range of Dasysyrphus friuliensis
+DataFieldName = Species
+DataRecordId = NBNSYS0000006902
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NH69
+NS99
+NT90
+NU00
+NY10
+NY35
+NY68
+NY69
+NY95
+NZ02
+NZ03
+NZ51
+SD53
+SE15
+SE20
+SE30
+SE58
+SE68
+SE89
+SE99
+SK17
+SK19
+SK26
+SK27
+SK29
+SK38
+SK39
+SK49
+SK55
+SK58
+SK66
+SK80
+SP37

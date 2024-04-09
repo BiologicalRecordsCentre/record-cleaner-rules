@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Pirata tenuitarsis
+Description=Checks date is within known recording period of Pirata tenuitarsis
+ErrorMsg=Date is outside known recording period of Pirata tenuitarsis
+Tvk=NBNSYS0000008824
+StartDate=19750101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

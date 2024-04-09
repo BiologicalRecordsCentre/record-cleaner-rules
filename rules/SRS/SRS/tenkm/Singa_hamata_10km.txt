@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Singa hamata: check grid is in range
+Description=Check grid is in within range of Singa hamata
+ErrorMsg=Grid is outside known modern range of Singa hamata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008960
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NC50
+NH59
+NH69
+NY25
+NY60
+SD28
+SD38
+SD48
+SE65
+SJ43
+SN66
+SN76
+SS98
+ST91
+SU30
+TL18
+TQ69
+TQ78
+TQ79
+TQ88
+TQ89
+TQ99

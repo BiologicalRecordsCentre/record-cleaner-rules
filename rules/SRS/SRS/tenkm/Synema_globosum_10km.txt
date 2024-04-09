@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Synema globosum: check grid is in range
+Description=Check grid is in within range of Synema globosum
+ErrorMsg=Grid is outside known modern range of Synema globosum
+DataFieldName=Species
+DataRecordId=NHMSYS0000354393
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TG20
+TM11
+TQ53

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Lathys nielseni
+Description=Checks date is within known recording period of Lathys nielseni
+ErrorMsg=Date is outside known recording period of Lathys nielseni
+Tvk=NBNSYS0000008622
+StartDate=19800101
+EndDate=19841231
+LastChanged=20120316
+[EndMetadata]

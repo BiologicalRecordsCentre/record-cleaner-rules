@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Entelecara errata
+Description=Checks date is within known recording period of Entelecara errata
+ErrorMsg=Date is outside known recording period of Entelecara errata
+Tvk=NBNSYS0000008998
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

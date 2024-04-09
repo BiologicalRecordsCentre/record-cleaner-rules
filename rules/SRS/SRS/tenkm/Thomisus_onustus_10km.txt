@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Thomisus onustus: check grid is in range
+Description=Check grid is in within range of Thomisus onustus
+ErrorMsg=Grid is outside known modern range of Thomisus onustus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008716
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU10
+SU20
+SU75
+SU82
+SU84
+SU85
+SU91
+SU93
+SU94
+SU95
+SU96
+SY89
+SY98
+SZ08
+SZ09
+SZ19
+TQ43

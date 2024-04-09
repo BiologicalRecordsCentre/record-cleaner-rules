@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Scotina palliardii: check grid is in range
+Description=Check grid is in within range of Scotina palliardii
+ErrorMsg=Grid is outside known modern range of Scotina palliardii
+DataFieldName=Species
+DataRecordId=NBNSYS0100005466
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SO80
+SU01
+SY89

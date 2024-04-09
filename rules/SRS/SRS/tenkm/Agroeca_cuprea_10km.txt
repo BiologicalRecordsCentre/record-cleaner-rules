@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Agroeca cuprea: check grid is in range
+Description=Check grid is in within range of Agroeca cuprea
+ErrorMsg=Grid is outside known modern range of Agroeca cuprea
+DataFieldName=Species
+DataRecordId=NBNSYS0000008703
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NO76
+SD20
+SD37
+SX73
+TL67
+TQ91
+TR02

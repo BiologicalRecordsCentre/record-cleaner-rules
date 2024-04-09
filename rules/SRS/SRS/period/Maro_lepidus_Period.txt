@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Maro lepidus
+Description=Checks date is within known recording period of Maro lepidus
+ErrorMsg=Date is outside known recording period of Maro lepidus
+Tvk=NBNSYS0000009165
+StartDate=19460101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

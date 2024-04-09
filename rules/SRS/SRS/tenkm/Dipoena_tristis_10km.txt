@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Dipoena tristis: check grid is in range
+Description=Check grid is in within range of Dipoena tristis
+ErrorMsg=Grid is outside known modern range of Dipoena tristis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008869
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU20
+SU84
+SU85
+SU91
+SU94
+SU96
+SX77
+SY08
+SY79
+SY89
+SY99
+TR15
+TR16

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Philodromus longipalpis: check date is during identifiable season
+Description=Check date is during known identifiable season for Philodromus longipalpis
+tvk=NBNSYS0100004566
+ErrorMsg=Date is outside the normal season for adult or identifiable Philodromus longipalpis
+DataFieldName=Stage
+StartDate=0323
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0523
+EndDate=0831
+
+Stage=Adult Female,Female
+StartDate=0422
+EndDate=0930

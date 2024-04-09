@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Pocota personata: check date is during flight period
+Description=Check date is during the known flight period for Pocota personata
+tvk = NBNSYS0000007109
+startDate = 0412
+endDate = 1102
+ErrorMsg = Date is outside flight period for Pocota personata
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0412
+endDate = 1102
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0412
+endDate = 1102

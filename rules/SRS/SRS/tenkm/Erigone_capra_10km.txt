@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Erigone capra: check grid is in range
+Description=Check grid is in within range of Erigone capra
+ErrorMsg=Grid is outside known modern range of Erigone capra
+DataFieldName=Species
+DataRecordId=NBNSYS0000009108
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+HU39
+HY22
+NC21
+NC24
+ND38
+NF66
+NH06
+NH80
+NH90
+NM52
+NN48
+NN75
+NO27
+NT23
+SC26
+SD86

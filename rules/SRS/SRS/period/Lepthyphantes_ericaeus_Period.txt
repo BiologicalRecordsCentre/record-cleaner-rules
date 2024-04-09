@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Lepthyphantes ericaeus
+Description=Checks date is within known recording period of Lepthyphantes ericaeus
+ErrorMsg=Date is outside known recording period of Lepthyphantes ericaeus
+Tvk=NBNSYS0000009220
+StartDate=18640101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

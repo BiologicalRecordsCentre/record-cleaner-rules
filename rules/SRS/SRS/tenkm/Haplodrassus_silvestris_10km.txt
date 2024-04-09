@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Haplodrassus silvestris: check grid is in range
+Description=Check grid is in within range of Haplodrassus silvestris
+ErrorMsg=Grid is outside known modern range of Haplodrassus silvestris
+DataFieldName=Species
+DataRecordId=NBNSYS0000008649
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SK51
+SO53
+SO77
+SP80
+SU96
+SU98
+TG33
+TL30
+TL40
+TL60
+TM02
+TM59
+TQ16
+TQ49
+TQ64
+TQ94
+TQ96
+TR05
+TR06
+TR15
+TR16

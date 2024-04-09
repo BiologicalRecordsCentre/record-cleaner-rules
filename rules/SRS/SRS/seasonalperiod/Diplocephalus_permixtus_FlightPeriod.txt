@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Diplocephalus permixtus: check date is during identifiable season
+Description=Check date is during known identifiable season for Diplocephalus permixtus
+tvk=NBNSYS0000009087
+ErrorMsg=Date is outside the normal season for adult or identifiable Diplocephalus permixtus
+DataFieldName=Stage
+StartDate=0214
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0220
+EndDate=1130
+
+Stage=Adult Female,Female
+StartDate=0219
+EndDate=1130

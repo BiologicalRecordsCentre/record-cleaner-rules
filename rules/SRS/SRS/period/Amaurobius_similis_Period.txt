@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Amaurobius similis
+Description=Checks date is within known recording period of Amaurobius similis
+ErrorMsg=Date is outside known recording period of Amaurobius similis
+Tvk=NBNSYS0000008611
+StartDate=18930101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

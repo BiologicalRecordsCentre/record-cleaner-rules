@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Platyptilia isodactylus temporal check
+Description=Check date of record against known temporal limit of Platyptilia isodactylus
+Tvk=NHMSYS0000503853
+ErrorMsg=Date outside known temporal limit for Platyptilia isodactylus
+StartDate=18000101
+EndDate=
+LastChanged=20140113
+[EndMetadata]
+

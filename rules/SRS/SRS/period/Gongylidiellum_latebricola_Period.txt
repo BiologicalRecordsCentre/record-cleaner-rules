@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Gongylidiellum latebricola
+Description=Checks date is within known recording period of Gongylidiellum latebricola
+ErrorMsg=Date is outside known recording period of Gongylidiellum latebricola
+Tvk=NBNSYS0000009074
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

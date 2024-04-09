@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Pelecopsis nemoralioides: check grid is in range
+Description=Check grid is in within range of Pelecopsis nemoralioides
+ErrorMsg=Grid is outside known modern range of Pelecopsis nemoralioides
+DataFieldName=Species
+DataRecordId=NBNSYS0000009038
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+HY32
+NS15
+NT28
+NT47
+NT58
+NT68
+SD20
+SD31
+SD33
+SH46
+SH52
+SJ08
+SJ18
+SJ29
+SM50
+SM70
+SM72
+SM81
+SN69
+SR99
+SS87
+ST81
+SX84
+SY58
+SY68
+TF74
+TG04
+TM00
+TM01
+TM11
+TM22
+TM34
+TM46
+TQ00
+TQ66
+TQ96
+TQ98
+TR02
+TR06
+TR35
+TR36

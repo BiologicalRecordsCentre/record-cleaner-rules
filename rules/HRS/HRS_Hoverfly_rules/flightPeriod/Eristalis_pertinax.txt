@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Eristalis pertinax: check date is during flight period
+Description=Check date is during the known flight period for Eristalis pertinax
+tvk = NBNSYS0000007052
+startDate = 0105
+endDate = 1218
+ErrorMsg = Date is outside flight period for Eristalis pertinax
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0105
+endDate = 1218
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0105
+endDate = 1218

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Arctosa perita
+Description=Checks date is within known recording period of Arctosa perita
+ErrorMsg=Date is outside known recording period of Arctosa perita
+Tvk=NBNSYS0000008819
+StartDate=18550101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

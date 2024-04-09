@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Aulonia albimana
+Description=Checks date is within known recording period of Aulonia albimana
+ErrorMsg=Date is outside known recording period of Aulonia albimana
+Tvk=NBNSYS0000008829
+StartDate=19360101
+EndDate=19851231
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Dysdera crocata
+Description=Checks date is within known recording period of Dysdera crocata
+ErrorMsg=Date is outside known recording period of Dysdera crocata
+Tvk=NBNSYS0000008632
+StartDate=18890101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Agdistis meridionalis seasonal check
+Description=Check date of record against known seasonal limit of Agdistis meridionalis
+Tvk=NBNSYS0100001387
+ErrorMsg=Date outside known seasonal limit for Agdistis meridionalis
+StartDate=0401
+EndDate=0930
+LastChanged=20140113
+[EndMetadata]
+

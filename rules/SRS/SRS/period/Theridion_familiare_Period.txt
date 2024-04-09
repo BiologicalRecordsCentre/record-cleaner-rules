@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Theridion familiare
+Description=Checks date is within known recording period of Theridion familiare
+ErrorMsg=Date is outside known recording period of Theridion familiare
+Tvk=NBNSYS0000008893
+StartDate=18990101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

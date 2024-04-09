@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Theridiosoma gemmosum: check date is during identifiable season
+Description=Check date is during known identifiable season for Theridiosoma gemmosum
+tvk=NBNSYS0000008965
+ErrorMsg=Date is outside the normal season for adult or identifiable Theridiosoma gemmosum
+DataFieldName=Stage
+StartDate=0416
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0420
+EndDate=0731
+
+Stage=Adult Female,Female
+StartDate=0424
+EndDate=0731

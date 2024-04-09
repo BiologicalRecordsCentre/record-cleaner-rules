@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Cheilosia pagana: check date is during flight period
+Description=Check date is during the known flight period for Cheilosia pagana
+tvk = NBNSYS0000006993
+startDate = 0205
+endDate = 1206
+ErrorMsg = Date is outside flight period for Cheilosia pagana
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0205
+endDate = 1206
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0205
+endDate = 1206

@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Ceratinopsis romana: check grid is in range
+Description=Check grid is in within range of Ceratinopsis romana
+ErrorMsg=Grid is outside known modern range of Ceratinopsis romana
+DataFieldName=Species
+DataRecordId=NBNSYS0000009052
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SD31
+SH43
+SH46
+SH52
+SJ18
+SJ29
+SJ30
+SM72
+SN00
+SN69
+SR89
+SR99
+SS43
+SS48
+SS49
+SS58
+SS78
+ST06
+ST25
+SZ79
+TQ91
+TR01
+TR02

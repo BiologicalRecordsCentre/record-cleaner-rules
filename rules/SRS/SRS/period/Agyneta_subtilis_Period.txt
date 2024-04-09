@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Agyneta subtilis
+Description=Checks date is within known recording period of Agyneta subtilis
+ErrorMsg=Date is outside known recording period of Agyneta subtilis
+Tvk=NBNSYS0000009148
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

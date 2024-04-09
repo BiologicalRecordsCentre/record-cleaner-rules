@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Lepthyphantes zimmermanni: check date is during identifiable season
+Description=Check date is during known identifiable season for Lepthyphantes zimmermanni
+tvk=NBNSYS0000009215
+ErrorMsg=Date is outside the normal season for adult or identifiable Lepthyphantes zimmermanni
+DataFieldName=Stage
+StartDate=0324
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0416
+EndDate=1031
+
+Stage=Adult Female,Female
+StartDate=0324
+EndDate=1231

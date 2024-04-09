@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Ero tuberculata: check grid is in range
+Description=Check grid is in within range of Ero tuberculata
+ErrorMsg=Grid is outside known modern range of Ero tuberculata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008861
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SD86
+SU10
+SU32
+SU56
+SU59
+SU95
+SU96
+SY09
+SY88
+SY89
+SZ08
+SZ19
+TL70
+TL91
+TL92
+TM02
+TM03
+TM11
+TM13
+TM17
+TM34
+TQ05
+TQ67
+TQ68
+TQ78
+TQ97
+TQ99

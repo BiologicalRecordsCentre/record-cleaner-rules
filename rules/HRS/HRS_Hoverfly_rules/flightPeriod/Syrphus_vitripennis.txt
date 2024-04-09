@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Syrphus vitripennis: check date is during flight period
+Description=Check date is during the known flight period for Syrphus vitripennis
+tvk = NBNSYS0000006966
+startDate = 0108
+endDate = 1220
+ErrorMsg = Date is outside flight period for Syrphus vitripennis
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0108
+endDate = 1220
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0108
+endDate = 1220

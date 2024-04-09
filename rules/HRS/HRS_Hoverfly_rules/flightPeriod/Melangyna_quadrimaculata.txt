@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Melangyna quadrimaculata: check date is during flight period
+Description=Check date is during the known flight period for Melangyna quadrimaculata
+tvk = NBNSYS0000006928
+startDate = 0224
+endDate = 1001
+ErrorMsg = Date is outside flight period for Melangyna quadrimaculata
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0224
+endDate = 1001
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0224
+endDate = 1001

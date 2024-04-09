@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Heringia brevidens: check date is during flight period
+Description=Check date is during the known flight period for Heringia brevidens
+tvk = NBNSYS0100003448
+startDate = 0425
+endDate = 0811
+ErrorMsg = Date is outside flight period for Heringia brevidens
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0425
+endDate = 0811
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0425
+endDate = 0811

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Platyptilia ochrodactyla seasonal check
+Description=Check date of record agaist known seasonal limit of Platyptilia ochrodactyla
+Tvk=NHMSYS0000503854
+ErrorMsg=Date outside known seasonal limit for Platyptilia ochrodactyla
+StartDate=0601
+EndDate=0831
+LastChanged=20140113
+[EndMetadata]
+

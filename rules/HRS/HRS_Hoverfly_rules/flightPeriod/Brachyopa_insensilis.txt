@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Brachyopa insensilis: check date is during flight period
+Description=Check date is during the known flight period for Brachyopa insensilis
+tvk = NBNSYS0000007013
+startDate = 0223
+endDate = 1201
+ErrorMsg = Date is outside flight period for Brachyopa insensilis
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0223
+endDate = 1201
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0223
+endDate = 1201

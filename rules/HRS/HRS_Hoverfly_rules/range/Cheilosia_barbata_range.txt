@@ -1,0 +1,63 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Cheilosia barbata: check grid is in range
+Description=Check grid is within known range of Cheilosia barbata
+ErrorMsg = Grid is outside known range of Cheilosia barbata
+DataFieldName = Species
+DataRecordId = NBNSYS0000006975
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+SJ72
+SP15
+SP17
+SP31
+SP35
+SP36
+SP41
+SP46
+SU12
+SU14
+SU49
+SU59
+SU67
+SU68
+SU71
+SU77
+SU78
+SU81
+SU85
+SU90
+SU93
+SU94
+SU95
+SZ58
+TL86
+TL87
+TQ04
+TQ05
+TQ14
+TQ15
+TQ16
+TQ25
+TQ26
+TQ35
+TQ36
+TQ55
+TQ56
+TQ57
+TQ58
+TQ65
+TQ66
+TQ67
+TQ94
+TQ95
+TR05
+TR13
+TR23
+TR24
+TR26
+TR34
+TR35

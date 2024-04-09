@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Marpissa nivoyi
+Description=Checks date is within known recording period of Marpissa nivoyi
+ErrorMsg=Date is outside known recording period of Marpissa nivoyi
+Tvk=NBNSYS0000008766
+StartDate=19060101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

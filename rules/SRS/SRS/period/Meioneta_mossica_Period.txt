@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Meioneta mossica
+Description=Checks date is within known recording period of Meioneta mossica
+ErrorMsg=Date is outside known recording period of Meioneta mossica
+Tvk=NBNSYS0100003946
+StartDate=19640101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

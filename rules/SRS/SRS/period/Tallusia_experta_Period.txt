@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Tallusia experta
+Description=Checks date is within known recording period of Tallusia experta
+ErrorMsg=Date is outside known recording period of Tallusia experta
+Tvk=NBNSYS0000009182
+StartDate=18930101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

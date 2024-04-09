@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Gonatium rubens
+Description=Checks date is within known recording period of Gonatium rubens
+ErrorMsg=Date is outside known recording period of Gonatium rubens
+Tvk=NBNSYS0000009017
+StartDate=18580101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

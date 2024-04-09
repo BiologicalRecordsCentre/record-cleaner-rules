@@ -1,0 +1,61 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Heringia pubescens: check grid is in range
+Description=Check grid is within known range of Heringia pubescens
+ErrorMsg = Grid is outside known range of Heringia pubescens
+DataFieldName = Species
+DataRecordId = NBNSYS0100003450
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NH80
+NH90
+NJ02
+NJ11
+NS77
+SD47
+SE21
+SE50
+SE51
+SJ23
+SJ43
+SJ55
+SK29
+SN68
+SO38
+SO53
+SO59
+SO60
+SO96
+SP07
+SP36
+SP50
+ST40
+ST50
+ST52
+ST71
+ST91
+SU20
+SU43
+SU50
+SU51
+SU94
+SU95
+SU97
+SY89
+TF00
+TF01
+TF10
+TF17
+TL46
+TL65
+TL66
+TL87
+TQ05
+TQ14
+TQ15
+TQ42
+TQ48
+TQ50

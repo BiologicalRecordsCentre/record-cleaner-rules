@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Erigone psychrophila
+Description=Checks date is within known recording period of Erigone psychrophila
+ErrorMsg=Date is outside known recording period of Erigone psychrophila
+Tvk=NBNSYS0000009110
+StartDate=19660101
+EndDate=19881231
+LastChanged=20120316
+[EndMetadata]

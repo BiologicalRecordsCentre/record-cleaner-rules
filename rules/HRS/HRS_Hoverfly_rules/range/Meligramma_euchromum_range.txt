@@ -1,0 +1,72 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Meligramma euchromum: check grid is in range
+Description=Check grid is within known range of Meligramma euchromum
+ErrorMsg = Grid is outside known range of Meligramma euchromum
+DataFieldName = Species
+DataRecordId = NBNSYS0100003973
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+SD47
+SH57
+SJ57
+SK35
+SK36
+SK39
+SO37
+SO53
+SP50
+SP60
+SP61
+SP86
+ST41
+ST47
+ST57
+ST66
+ST90
+ST93
+SU00
+SU02
+SU12
+SU30
+SU31
+SU33
+SU42
+SU49
+SU51
+SU61
+SU66
+SU67
+SU86
+SU93
+SU97
+SX56
+SY89
+SZ57
+TL10
+TL28
+TL65
+TM02
+TQ05
+TQ06
+TQ09
+TQ15
+TQ17
+TQ19
+TQ24
+TQ25
+TQ26
+TQ29
+TQ35
+TQ36
+TQ44
+TQ47
+TQ59
+TQ66
+TQ78
+TQ93
+TR15
+TR16

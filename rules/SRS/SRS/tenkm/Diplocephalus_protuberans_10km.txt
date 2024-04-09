@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Diplocephalus protuberans: check grid is in range
+Description=Check grid is in within range of Diplocephalus protuberans
+ErrorMsg=Grid is outside known modern range of Diplocephalus protuberans
+DataFieldName=Species
+DataRecordId=NBNSYS0000009092
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NU02
+SD68
+SD92
+SD99
+SE03
+SE04
+SE10
+SE11
+SE97
+SE98
+SH74
+SK07
+SO04
+SS84
+SU73
+TQ81

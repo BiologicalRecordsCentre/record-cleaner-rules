@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Diplostyla concolor
+Description=Checks date is within known recording period of Diplostyla concolor
+ErrorMsg=Date is outside known recording period of Diplostyla concolor
+Tvk=NBNSYS0000009198
+StartDate=18640101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Pardosa agricola
+Description=Checks date is within known recording period of Pardosa agricola
+ErrorMsg=Date is outside known recording period of Pardosa agricola
+Tvk=NBNSYS0000008792
+StartDate=18610101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

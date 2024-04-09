@@ -1,0 +1,14 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Eupeodes goeldlini: check grid is in range
+Description=Check grid is within known range of Eupeodes goeldlini
+ErrorMsg = Grid is outside known range of Eupeodes goeldlini
+DataFieldName = Species
+DataRecordId = NHMSYS0020978344
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+SY79
+SY89

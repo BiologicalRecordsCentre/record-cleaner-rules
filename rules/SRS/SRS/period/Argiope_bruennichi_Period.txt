@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Argiope bruennichi
+Description=Checks date is within known recording period of Argiope bruennichi
+ErrorMsg=Date is outside known recording period of Argiope bruennichi
+Tvk=NBNSYS0000008964
+StartDate=9070101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

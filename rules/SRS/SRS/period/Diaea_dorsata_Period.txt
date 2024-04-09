@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Diaea dorsata
+Description=Checks date is within known recording period of Diaea dorsata
+ErrorMsg=Date is outside known recording period of Diaea dorsata
+Tvk=NBNSYS0000008717
+StartDate=17360101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

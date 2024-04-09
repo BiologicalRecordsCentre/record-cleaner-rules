@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Haplodrassus umbratilis
+Description=Checks date is within known recording period of Haplodrassus umbratilis
+ErrorMsg=Date is outside known recording period of Haplodrassus umbratilis
+Tvk=NBNSYS0000008647
+StartDate=18000101
+EndDate=19901231
+LastChanged=20120316
+[EndMetadata]

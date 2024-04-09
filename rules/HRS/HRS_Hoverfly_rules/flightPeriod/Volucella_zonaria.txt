@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Volucella zonaria: check date is during flight period
+Description=Check date is during the known flight period for Volucella zonaria
+tvk = NBNSYS0000007098
+startDate = 0310
+endDate = 1111
+ErrorMsg = Date is outside flight period for Volucella zonaria
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0310
+endDate = 1111
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0310
+endDate = 1111

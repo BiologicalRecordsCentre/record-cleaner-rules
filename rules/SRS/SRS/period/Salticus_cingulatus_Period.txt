@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Salticus cingulatus
+Description=Checks date is within known recording period of Salticus cingulatus
+ErrorMsg=Date is outside known recording period of Salticus cingulatus
+Tvk=NBNSYS0000008757
+StartDate=18860101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

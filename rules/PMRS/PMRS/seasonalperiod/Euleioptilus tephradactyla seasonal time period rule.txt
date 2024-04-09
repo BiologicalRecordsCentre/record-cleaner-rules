@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Euleioptilus tephradactyla seasonal check
+Description=Check date of record agaist known seasonal limit of Euleioptilus tephradactyla
+Tvk=NBNSYS0100003104
+ErrorMsg=Date outside known seasonal limit for Euleioptilus tephradactyla
+StartDate=0501
+EndDate=0831
+LastChanged=20140113
+[EndMetadata]
+

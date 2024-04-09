@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Porrhomma cambridgei: check grid is in range
+Description=Check grid is in within range of Porrhomma cambridgei
+ErrorMsg=Grid is outside known modern range of Porrhomma cambridgei
+DataFieldName=Species
+DataRecordId=NBNSYS0100004848
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TQ10
+TQ29

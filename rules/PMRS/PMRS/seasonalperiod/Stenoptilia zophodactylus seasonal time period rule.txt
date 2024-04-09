@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Stenoptilia zophodactylus seasonal check
+Description=Check date of record against known seasonal limit of Stenoptilia zophodactylus
+Tvk=NHMSYS0000504317
+ErrorMsg=Date outside known seasonal limit for Stenoptilia zophodactylus
+StartDate=0501
+EndDate=1130
+LastChanged=20140113
+[EndMetadata]
+

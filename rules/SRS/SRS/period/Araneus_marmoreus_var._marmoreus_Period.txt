@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Araneus marmoreus var. marmoreus
+Description=Checks date is within known recording period of Araneus marmoreus var. marmoreus
+ErrorMsg=Date is outside known recording period of Araneus marmoreus var. marmoreus
+Tvk=NHMSYS0000841042
+StartDate=19460101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

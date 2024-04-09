@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Xysticus robustus: check grid is in range
+Description=Check grid is in within range of Xysticus robustus
+ErrorMsg=Grid is outside known modern range of Xysticus robustus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008731
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SY88

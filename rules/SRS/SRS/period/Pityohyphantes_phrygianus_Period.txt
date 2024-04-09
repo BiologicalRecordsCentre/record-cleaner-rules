@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Pityohyphantes phrygianus
+Description=Checks date is within known recording period of Pityohyphantes phrygianus
+ErrorMsg=Date is outside known recording period of Pityohyphantes phrygianus
+Tvk=NBNSYS0000009230
+StartDate=19740101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

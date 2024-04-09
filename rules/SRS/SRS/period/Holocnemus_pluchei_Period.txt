@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Holocnemus pluchei
+Description=Checks date is within known recording period of Holocnemus pluchei
+ErrorMsg=Date is outside known recording period of Holocnemus pluchei
+Tvk=NHMSYS0020953667
+StartDate=20060101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

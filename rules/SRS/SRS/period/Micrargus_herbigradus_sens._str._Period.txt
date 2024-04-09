@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Micrargus herbigradus sens. str.
+Description=Checks date is within known recording period of Micrargus herbigradus sens. str.
+ErrorMsg=Date is outside known recording period of Micrargus herbigradus sens. str.
+Tvk=NBNSYS0200000053
+StartDate=18820101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

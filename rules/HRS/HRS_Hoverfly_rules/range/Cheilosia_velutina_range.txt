@@ -1,0 +1,88 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Cheilosia velutina: check grid is in range
+Description=Check grid is within known range of Cheilosia velutina
+ErrorMsg = Grid is outside known range of Cheilosia velutina
+DataFieldName = Species
+DataRecordId = NBNSYS0000007002
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NT36
+NZ29
+SE30
+SE31
+SE60
+SE70
+SE74
+SE91
+SH46
+SJ35
+SJ94
+SK05
+SK38
+SK39
+SK44
+SK47
+SK48
+SK54
+SK67
+SO37
+SO60
+SO61
+SP09
+SP96
+SR99
+SS43
+ST47
+SU49
+SU50
+SU56
+SU66
+SU68
+SU78
+SU82
+SU95
+SX15
+SX99
+TF70
+TF84
+TG00
+TG24
+TG31
+TG33
+TG42
+TL03
+TL09
+TL18
+TL25
+TL77
+TL78
+TL87
+TL97
+TM02
+TM44
+TM59
+TQ01
+TQ05
+TQ07
+TQ09
+TQ17
+TQ21
+TQ25
+TQ26
+TQ36
+TQ46
+TQ47
+TQ48
+TQ57
+TQ65
+TQ67
+TQ68
+TQ77
+TQ88
+TQ89
+TR06
+TR34

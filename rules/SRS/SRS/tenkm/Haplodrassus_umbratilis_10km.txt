@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Haplodrassus umbratilis: check grid is in range
+Description=Check grid is in within range of Haplodrassus umbratilis
+ErrorMsg=Grid is outside known modern range of Haplodrassus umbratilis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008647
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TQ88

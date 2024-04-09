@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Sphaerophoria potentillae: check date is during flight period
+Description=Check date is during the known flight period for Sphaerophoria potentillae
+tvk = NBNSYS0000006963
+startDate = 0528
+endDate = 0709
+ErrorMsg = Date is outside flight period for Sphaerophoria potentillae
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0528
+endDate = 0709
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0528
+endDate = 0709

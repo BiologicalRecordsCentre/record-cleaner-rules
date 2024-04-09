@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Neriene montana
+Description=Checks date is within known recording period of Neriene montana
+ErrorMsg=Date is outside known recording period of Neriene montana
+Tvk=NBNSYS0100004234
+StartDate=18580101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

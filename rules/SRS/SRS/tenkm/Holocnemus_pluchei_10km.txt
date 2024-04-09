@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Holocnemus pluchei: check grid is in range
+Description=Check grid is in within range of Holocnemus pluchei
+ErrorMsg=Grid is outside known modern range of Holocnemus pluchei
+DataFieldName=Species
+DataRecordId=NHMSYS0020953667
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SP15

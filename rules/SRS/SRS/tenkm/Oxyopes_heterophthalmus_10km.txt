@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Oxyopes heterophthalmus: check grid is in range
+Description=Check grid is in within range of Oxyopes heterophthalmus
+ErrorMsg=Grid is outside known modern range of Oxyopes heterophthalmus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008791
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU84
+SU85
+SU86
+SU94
+SU95
+SU96
+TQ04

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Carorita limnaea: check grid is in range
+Description=Check grid is in within range of Carorita limnaea
+ErrorMsg=Grid is outside known modern range of Carorita limnaea
+DataFieldName=Species
+DataRecordId=NBNSYS0000009128
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SJ43
+SJ64
+SJ65

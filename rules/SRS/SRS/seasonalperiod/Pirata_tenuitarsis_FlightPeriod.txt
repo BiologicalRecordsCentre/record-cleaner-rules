@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Pirata tenuitarsis: check date is during identifiable season
+Description=Check date is during known identifiable season for Pirata tenuitarsis
+tvk=NBNSYS0000008824
+ErrorMsg=Date is outside the normal season for adult or identifiable Pirata tenuitarsis
+DataFieldName=Stage
+StartDate=0521
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0424
+EndDate=0630
+
+Stage=Adult Female,Female
+StartDate=0415
+EndDate=1031

@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Ozyptila scabricula: check grid is in range
+Description=Check grid is in within range of Ozyptila scabricula
+ErrorMsg=Grid is outside known modern range of Ozyptila scabricula
+DataFieldName=Species
+DataRecordId=NBNSYS0000008733
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SH78
+SK90
+SN69
+SU96
+TL77
+TL78
+TM34
+TQ96

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Typhochrestus simoni
+Description=Checks date is within known recording period of Typhochrestus simoni
+ErrorMsg=Date is outside known recording period of Typhochrestus simoni
+Tvk=NBNSYS0000009099
+StartDate=19650101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

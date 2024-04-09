@@ -1,0 +1,42 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Chamaesyrphus scaevoides: check grid is in range
+Description=Check grid is within known range of Chamaesyrphus scaevoides
+ErrorMsg = Grid is outside known range of Chamaesyrphus scaevoides
+DataFieldName = Species
+DataRecordId = NBNSYS0000007072
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NC23
+NC33
+NG85
+NG88
+NG95
+NG96
+NH06
+NH19
+NH33
+NH48
+NH66
+NH69
+NH79
+NH80
+NH81
+NH90
+NH91
+NH95
+NH96
+NJ01
+NJ02
+NN32
+NN55
+NN89
+NO08
+NO09
+NO18
+NO19
+NO28
+NO49

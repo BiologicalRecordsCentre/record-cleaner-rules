@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Taranucnus setosus: check date is during identifiable season
+Description=Check date is during known identifiable season for Taranucnus setosus
+tvk=NBNSYS0000009203
+ErrorMsg=Date is outside the normal season for adult or identifiable Taranucnus setosus
+DataFieldName=Stage
+StartDate=0317
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0101
+EndDate=1130
+
+Stage=Adult Female,Female
+StartDate=0218
+EndDate=1130

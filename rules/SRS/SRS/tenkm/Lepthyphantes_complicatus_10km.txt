@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Lepthyphantes complicatus: check grid is in range
+Description=Check grid is in within range of Lepthyphantes complicatus
+ErrorMsg=Grid is outside known modern range of Lepthyphantes complicatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000009226
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NG95
+NG96
+NH03
+NH46
+NH90
+NM98
+NN17
+NN25
+NN53
+NN64
+NN99
+NO53

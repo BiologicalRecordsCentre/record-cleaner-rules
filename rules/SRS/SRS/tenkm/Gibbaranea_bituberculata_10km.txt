@@ -1,0 +1,12 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Gibbaranea bituberculata: check grid is in range
+Description=Check grid is in within range of Gibbaranea bituberculata
+ErrorMsg=Grid is outside known modern range of Gibbaranea bituberculata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008934
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]

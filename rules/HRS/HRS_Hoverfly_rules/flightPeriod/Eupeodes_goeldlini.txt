@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Eupeodes goeldlini: check date is during flight period
+Description=Check date is during the known flight period for Eupeodes goeldlini
+tvk = NHMSYS0020978344
+startDate = 0624
+endDate = 0825
+ErrorMsg = Date is outside flight period for Eupeodes goeldlini
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0624
+endDate = 0825
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0624
+endDate = 0825

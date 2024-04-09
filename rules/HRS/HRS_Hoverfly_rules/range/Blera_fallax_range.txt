@@ -1,0 +1,23 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Blera fallax: check grid is in range
+Description=Check grid is within known range of Blera fallax
+ErrorMsg = Grid is outside known range of Blera fallax
+DataFieldName = Species
+DataRecordId = NBNSYS0000007099
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NH70
+NH81
+NH90
+NH91
+NH92
+NH94
+NJ00
+NJ01
+NJ02
+NJ05
+NO19

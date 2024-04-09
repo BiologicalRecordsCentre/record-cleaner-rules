@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Alopecosa fabrilis
+Description=Checks date is within known recording period of Alopecosa fabrilis
+ErrorMsg=Date is outside known recording period of Alopecosa fabrilis
+Tvk=NBNSYS0000008813
+StartDate=19000101
+EndDate=19901231
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Araneus marmoreus var. marmoreus: check date is during identifiable season
+Description=Check date is during known identifiable season for Araneus marmoreus var. marmoreus
+tvk=NHMSYS0000841042
+ErrorMsg=Date is outside the normal season for adult or identifiable Araneus marmoreus var. marmoreus
+DataFieldName=Stage
+StartDate=0622
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0823
+EndDate=0930
+
+Stage=Adult Female,Female
+StartDate=0724
+EndDate=0930

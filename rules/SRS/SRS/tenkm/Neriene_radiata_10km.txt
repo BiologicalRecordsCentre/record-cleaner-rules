@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Neriene radiata: check grid is in range
+Description=Check grid is in within range of Neriene radiata
+ErrorMsg=Grid is outside known modern range of Neriene radiata
+DataFieldName=Species
+DataRecordId=NBNSYS0000152322
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NG83
+NG85
+NG87
+NG96
+NH06
+NX16
+SO77
+SU93
+TL16

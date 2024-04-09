@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Agroeca brunnea
+Description=Checks date is within known recording period of Agroeca brunnea
+ErrorMsg=Date is outside known recording period of Agroeca brunnea
+Tvk=NBNSYS0000008699
+StartDate=18330101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

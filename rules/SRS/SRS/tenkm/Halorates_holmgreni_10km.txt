@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Halorates holmgreni: check grid is in range
+Description=Check grid is in within range of Halorates holmgreni
+ErrorMsg=Grid is outside known modern range of Halorates holmgreni
+DataFieldName=Species
+DataRecordId=NBNSYS0000009127
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NB10
+NC32
+NG86
+NG95
+NH01
+NH12
+NH13
+NH24
+NH90
+NJ00
+NN15
+NN17
+NN25
+NN48
+NN99
+NO28

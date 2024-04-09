@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Harpactea hombergi
+Description=Checks date is within known recording period of Harpactea hombergi
+ErrorMsg=Date is outside known recording period of Harpactea hombergi
+Tvk=NBNSYS0000008633
+StartDate=18580101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

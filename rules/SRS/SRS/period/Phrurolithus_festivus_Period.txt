@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Phrurolithus festivus
+Description=Checks date is within known recording period of Phrurolithus festivus
+ErrorMsg=Date is outside known recording period of Phrurolithus festivus
+Tvk=NBNSYS0000008697
+StartDate=18530101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

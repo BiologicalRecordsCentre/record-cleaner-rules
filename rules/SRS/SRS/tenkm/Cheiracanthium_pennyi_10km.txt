@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Cheiracanthium pennyi: check grid is in range
+Description=Check grid is in within range of Cheiracanthium pennyi
+ErrorMsg=Grid is outside known modern range of Cheiracanthium pennyi
+DataFieldName=Species
+DataRecordId=NBNSYS0000008695
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU00
+SU95
+SU96

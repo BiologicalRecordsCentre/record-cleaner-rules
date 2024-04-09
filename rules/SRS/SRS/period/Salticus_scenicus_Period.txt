@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Salticus scenicus
+Description=Checks date is within known recording period of Salticus scenicus
+ErrorMsg=Date is outside known recording period of Salticus scenicus
+Tvk=NBNSYS0000008756
+StartDate=18580101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

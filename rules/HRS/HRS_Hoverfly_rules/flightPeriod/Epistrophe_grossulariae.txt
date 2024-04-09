@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Epistrophe grossulariae: check date is during flight period
+Description=Check date is during the known flight period for Epistrophe grossulariae
+tvk = NBNSYS0000006913
+startDate = 0127
+endDate = 1212
+ErrorMsg = Date is outside flight period for Epistrophe grossulariae
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0127
+endDate = 1212
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0127
+endDate = 1212

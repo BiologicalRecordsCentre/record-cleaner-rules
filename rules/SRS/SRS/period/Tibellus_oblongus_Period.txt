@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Tibellus oblongus
+Description=Checks date is within known recording period of Tibellus oblongus
+ErrorMsg=Date is outside known recording period of Tibellus oblongus
+Tvk=NBNSYS0000008755
+StartDate=18860101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

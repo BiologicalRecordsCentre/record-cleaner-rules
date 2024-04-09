@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Achaearanea riparia: check date is during identifiable season
+Description=Check date is during known identifiable season for Achaearanea riparia
+tvk=NBNSYS0000008883
+ErrorMsg=Date is outside the normal season for adult or identifiable Achaearanea riparia
+DataFieldName=Stage
+StartDate=0422
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0422
+EndDate=0731
+
+Stage=Adult Female,Female
+StartDate=0525
+EndDate=0930

@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Haplodrassus dalmatensis: check grid is in range
+Description=Check grid is in within range of Haplodrassus dalmatensis
+ErrorMsg=Grid is outside known modern range of Haplodrassus dalmatensis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008646
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SH46
+SU94
+SW62
+SX84
+SY89
+SY98
+TM01
+TM11
+TM23
+TM46
+TM47
+TQ91
+TR23
+TR35
+TR36

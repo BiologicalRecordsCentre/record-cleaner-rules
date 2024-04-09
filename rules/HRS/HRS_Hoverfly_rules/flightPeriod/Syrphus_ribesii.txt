@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Syrphus ribesii: check date is during flight period
+Description=Check date is during the known flight period for Syrphus ribesii
+tvk = NBNSYS0000006964
+startDate = 0107
+endDate = 1222
+ErrorMsg = Date is outside flight period for Syrphus ribesii
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0107
+endDate = 1222
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0107
+endDate = 1222

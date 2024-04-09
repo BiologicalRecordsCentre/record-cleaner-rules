@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Micaria romana: check grid is in range
+Description=Check grid is in within range of Micaria romana
+ErrorMsg=Grid is outside known modern range of Micaria romana
+DataFieldName=Species
+DataRecordId=NBNSYS0000008670
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU70
+SX73
+SY66
+SY67
+SY77
+SY88
+TQ81

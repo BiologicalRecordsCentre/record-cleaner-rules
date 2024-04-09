@@ -1,0 +1,27 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Callicera spinolae: check grid is in range
+Description=Check grid is within known range of Callicera spinolae
+ErrorMsg = Grid is outside known range of Callicera spinolae
+DataFieldName = Species
+DataRecordId = NBNSYS0000006971
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+TF72
+TG12
+TG41
+TL34
+TL35
+TL45
+TL56
+TL60
+TM14
+TM16
+TM17
+TM18
+TM26
+TM45
+TM57

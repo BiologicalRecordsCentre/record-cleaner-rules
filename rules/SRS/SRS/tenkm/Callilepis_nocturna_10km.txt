@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Callilepis nocturna: check grid is in range
+Description=Check grid is in within range of Callilepis nocturna
+ErrorMsg=Grid is outside known modern range of Callilepis nocturna
+DataFieldName=Species
+DataRecordId=NBNSYS0000008668
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SM70
+SX73
+SZ38

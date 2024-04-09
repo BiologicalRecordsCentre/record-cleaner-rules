@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Epistrophe melanostoma: check date is during flight period
+Description=Check date is during the known flight period for Epistrophe melanostoma
+tvk = NBNSYS0000033212
+startDate = 0415
+endDate = 0929
+ErrorMsg = Date is outside flight period for Epistrophe melanostoma
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0415
+endDate = 0929
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0415
+endDate = 0929

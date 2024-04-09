@@ -1,0 +1,14 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Sphaerophoria bankowskae: check grid is in range
+Description=Check grid is within known range of Sphaerophoria bankowskae
+ErrorMsg = Grid is outside known range of Sphaerophoria bankowskae
+DataFieldName = Species
+DataRecordId = NBNSYS0000033254
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+SP85
+TL51

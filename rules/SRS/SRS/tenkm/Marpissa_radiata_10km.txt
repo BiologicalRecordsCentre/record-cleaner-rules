@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Marpissa radiata: check grid is in range
+Description=Check grid is in within range of Marpissa radiata
+ErrorMsg=Grid is outside known modern range of Marpissa radiata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008765
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SS69
+SS79
+TF62
+TF93
+TG31
+TG32
+TG42
+TL57
+TL66
+TL78
+TL79
+TL97
+TM07
+TM08
+TM09

@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Arctophila superbiens: check date is during flight period
+Description=Check date is during the known flight period for Arctophila superbiens
+tvk = NBNSYS0100001633
+startDate = 0120
+endDate = 1031
+ErrorMsg = Date is outside flight period for Arctophila superbiens
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0120
+endDate = 1031
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0120
+endDate = 1031

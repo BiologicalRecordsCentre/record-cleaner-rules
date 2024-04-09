@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Eumerus funeralis: check date is during flight period
+Description=Check date is during the known flight period for Eumerus funeralis
+tvk = NBNSYS0100027571
+startDate = 0111
+endDate = 1102
+ErrorMsg = Date is outside flight period for Eumerus funeralis
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0111
+endDate = 1102
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0111
+endDate = 1102

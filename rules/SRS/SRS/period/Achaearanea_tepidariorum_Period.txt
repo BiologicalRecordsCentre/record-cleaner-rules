@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Achaearanea tepidariorum
+Description=Checks date is within known recording period of Achaearanea tepidariorum
+ErrorMsg=Date is outside known recording period of Achaearanea tepidariorum
+Tvk=NBNSYS0000008884
+StartDate=18980101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

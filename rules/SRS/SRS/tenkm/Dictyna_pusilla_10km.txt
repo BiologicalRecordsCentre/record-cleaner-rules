@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Dictyna pusilla: check grid is in range
+Description=Check grid is in within range of Dictyna pusilla
+ErrorMsg=Grid is outside known modern range of Dictyna pusilla
+DataFieldName=Species
+DataRecordId=NBNSYS0000008614
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NH54
+NH91
+NH95
+NJ01
+NJ02
+NJ44
+NJ54
+NJ81
+NJ90
+NN86
+NO03
+NO09
+NO14
+NO29
+NO39
+NO49
+SE66
+SJ72
+SY89
+TL88
+TQ76
+TQ96
+TR05
+TR06

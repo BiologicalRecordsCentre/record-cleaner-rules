@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Eresus sandaliatus: check grid is in range
+Description=Check grid is in within range of Eresus sandaliatus
+ErrorMsg=Grid is outside known modern range of Eresus sandaliatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000189355
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SY89

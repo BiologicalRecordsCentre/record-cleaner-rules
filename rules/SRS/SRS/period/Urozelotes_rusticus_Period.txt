@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Urozelotes rusticus
+Description=Checks date is within known recording period of Urozelotes rusticus
+ErrorMsg=Date is outside known recording period of Urozelotes rusticus
+Tvk=NBNSYS0000008661
+StartDate=18860101
+EndDate=19941231
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Theridion tinctum
+Description=Checks date is within known recording period of Theridion tinctum
+ErrorMsg=Date is outside known recording period of Theridion tinctum
+Tvk=NBNSYS0000008897
+StartDate=18970101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

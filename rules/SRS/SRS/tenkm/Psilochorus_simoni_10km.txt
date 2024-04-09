@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Psilochorus simoni: check grid is in range
+Description=Check grid is in within range of Psilochorus simoni
+ErrorMsg=Grid is outside known modern range of Psilochorus simoni
+DataFieldName=Species
+DataRecordId=NBNSYS0000008640
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NM49
+NS15
+NS56
+NT27
+SE55
+SK08
+SO85
+SP04
+SP41
+SP43
+SR99
+SS54
+ST17
+ST45
+SU83
+SX45
+SY98
+TG20
+TL02
+TQ28
+TQ70

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Centromerus sylvaticus: check date is during identifiable season
+Description=Check date is during known identifiable season for Centromerus sylvaticus
+tvk=NBNSYS0000009167
+ErrorMsg=Date is outside the normal season for adult or identifiable Centromerus sylvaticus
+DataFieldName=Stage
+StartDate=0101
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0101
+EndDate=1231
+
+Stage=Adult Female,Female
+StartDate=0119
+EndDate=1231

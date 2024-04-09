@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Sitticus distinguendus
+Description=Checks date is within known recording period of Sitticus distinguendus
+ErrorMsg=Date is outside known recording period of Sitticus distinguendus
+Tvk=NHMSYS0020001406
+StartDate=20030101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

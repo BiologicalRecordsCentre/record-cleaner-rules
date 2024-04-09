@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Hahnia montana
+Description=Checks date is within known recording period of Hahnia montana
+ErrorMsg=Date is outside known recording period of Hahnia montana
+Tvk=NBNSYS0000008852
+StartDate=18370101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

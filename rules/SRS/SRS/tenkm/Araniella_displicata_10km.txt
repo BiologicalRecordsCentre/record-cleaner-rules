@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Araniella displicata: check grid is in range
+Description=Check grid is in within range of Araniella displicata
+ErrorMsg=Grid is outside known modern range of Araniella displicata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008954
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU72
+SU91
+SU95
+SU96
+TL03
+TL11
+TL14
+TL30
+TL63
+TQ64

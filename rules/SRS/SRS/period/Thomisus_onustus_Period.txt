@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Thomisus onustus
+Description=Checks date is within known recording period of Thomisus onustus
+ErrorMsg=Date is outside known recording period of Thomisus onustus
+Tvk=NBNSYS0000008716
+StartDate=18800101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

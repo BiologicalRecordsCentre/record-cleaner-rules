@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Centromerus cavernarum: check grid is in range
+Description=Check grid is in within range of Centromerus cavernarum
+ErrorMsg=Grid is outside known modern range of Centromerus cavernarum
+DataFieldName=Species
+DataRecordId=NBNSYS0000009180
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SK51
+SO81
+ST59
+ST79
+TL01
+TR16

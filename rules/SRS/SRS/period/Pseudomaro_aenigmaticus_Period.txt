@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Pseudomaro aenigmaticus
+Description=Checks date is within known recording period of Pseudomaro aenigmaticus
+ErrorMsg=Date is outside known recording period of Pseudomaro aenigmaticus
+Tvk=NBNSYS0000009135
+StartDate=19760101
+EndDate=19941231
+LastChanged=20120316
+[EndMetadata]

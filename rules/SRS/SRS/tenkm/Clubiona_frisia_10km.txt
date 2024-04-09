@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Clubiona frisia: check grid is in range
+Description=Check grid is in within range of Clubiona frisia
+ErrorMsg=Grid is outside known modern range of Clubiona frisia
+DataFieldName=Species
+DataRecordId=NBNSYS0100002487
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TF64
+TF84
+TG04
+TG42
+TG50
+TM46
+TR06

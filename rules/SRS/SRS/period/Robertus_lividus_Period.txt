@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Robertus lividus
+Description=Checks date is within known recording period of Robertus lividus
+ErrorMsg=Date is outside known recording period of Robertus lividus
+Tvk=NBNSYS0000008908
+StartDate=18620101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

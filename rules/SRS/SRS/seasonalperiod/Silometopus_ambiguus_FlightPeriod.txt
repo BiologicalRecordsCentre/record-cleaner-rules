@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Silometopus ambiguus: check date is during identifiable season
+Description=Check date is during known identifiable season for Silometopus ambiguus
+tvk=NBNSYS0000009043
+ErrorMsg=Date is outside the normal season for adult or identifiable Silometopus ambiguus
+DataFieldName=Stage
+StartDate=0219
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0219
+EndDate=1130
+
+Stage=Adult Female,Female
+StartDate=0213
+EndDate=1130

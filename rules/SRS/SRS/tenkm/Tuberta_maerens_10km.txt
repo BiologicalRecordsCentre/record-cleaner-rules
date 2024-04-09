@@ -1,0 +1,20 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Tuberta maerens: check grid is in range
+Description=Check grid is in within range of Tuberta maerens
+ErrorMsg=Grid is outside known modern range of Tuberta maerens
+DataFieldName=Species
+DataRecordId=NBNSYS0000008848
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SP31
+SP40
+SP50
+SU00
+SU26
+SU59
+SU96
+SU97

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Arctosa cinerea
+Description=Checks date is within known recording period of Arctosa cinerea
+ErrorMsg=Date is outside known recording period of Arctosa cinerea
+Tvk=NBNSYS0000008821
+StartDate=18360101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

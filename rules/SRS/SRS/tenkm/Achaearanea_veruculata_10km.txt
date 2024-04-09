@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Achaearanea veruculata: check grid is in range
+Description=Check grid is in within range of Achaearanea veruculata
+ErrorMsg=Grid is outside known modern range of Achaearanea veruculata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008886
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SV81

@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Acartauchenius scurrilis: check grid is in range
+Description=Check grid is in within range of Acartauchenius scurrilis
+ErrorMsg=Grid is outside known modern range of Acartauchenius scurrilis
+DataFieldName=Species
+DataRecordId=NBNSYS0000009048
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU73
+SU84
+SU94
+SX73
+TR01

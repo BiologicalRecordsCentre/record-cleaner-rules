@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Araneus alsine: check grid is in range
+Description=Check grid is in within range of Araneus alsine
+ErrorMsg=Grid is outside known modern range of Araneus alsine
+DataFieldName=Species
+DataRecordId=NBNSYS0000008940
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NH00
+NH21
+NH30
+NH31
+NH33
+NH43
+NN09
+NN18
+NN19
+NN28
+NN96
+SO77
+SU20
+SU32
+SU73
+SU91
+TF18
+TQ32
+TQ42
+TQ50

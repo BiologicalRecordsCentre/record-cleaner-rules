@@ -1,0 +1,65 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Anasimyia lunulata: check grid is in range
+Description=Check grid is within known range of Anasimyia lunulata
+ErrorMsg = Grid is outside known range of Anasimyia lunulata
+DataFieldName = Species
+DataRecordId = NBNSYS0000007042
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NC02
+NF71
+NF72
+NF76
+NJ91
+NT41
+NX15
+NX89
+NY43
+SC39
+SH29
+SH33
+SH38
+SH44
+SH46
+SH47
+SH48
+SH53
+SH58
+SH75
+SJ01
+SJ78
+SK53
+SM72
+SM73
+SM83
+SN03
+SN14
+SN24
+SN41
+SN44
+SN45
+SN55
+SN65
+SN66
+SN88
+SN90
+SO12
+SO80
+SO82
+SP38
+SS87
+ST21
+SU11
+SU20
+SU30
+SU84
+SU94
+SW32
+SX35
+SX67
+SX77
+SZ08

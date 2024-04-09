@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Halorates reprobus
+Description=Checks date is within known recording period of Halorates reprobus
+ErrorMsg=Date is outside known recording period of Halorates reprobus
+Tvk=NBNSYS0000009125
+StartDate=18900101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

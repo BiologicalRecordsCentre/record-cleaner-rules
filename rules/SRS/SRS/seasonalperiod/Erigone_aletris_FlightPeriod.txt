@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Erigone aletris: check date is during identifiable season
+Description=Check date is during known identifiable season for Erigone aletris
+tvk=NBNSYS0000009111
+ErrorMsg=Date is outside the normal season for adult or identifiable Erigone aletris
+DataFieldName=Stage
+StartDate=0416
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0116
+EndDate=1231
+
+Stage=Adult Female,Female
+StartDate=0422
+EndDate=1231

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Uloborus walckenaerius: check date is during identifiable season
+Description=Check date is during known identifiable season for Uloborus walckenaerius
+tvk=NBNSYS0000008627
+ErrorMsg=Date is outside the normal season for adult or identifiable Uloborus walckenaerius
+DataFieldName=Stage
+StartDate=0424
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0525
+EndDate=0731
+
+Stage=Adult Female,Female
+StartDate=0523
+EndDate=0630

@@ -1,0 +1,17 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Tuberta maerens: check date is during identifiable season
+Description=Check date is during known identifiable season for Tuberta maerens
+tvk=NBNSYS0000008848
+ErrorMsg=Date is outside the normal season for adult or identifiable Tuberta maerens
+DataFieldName=Stage
+StartDate=0523
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0716
+EndDate=0831

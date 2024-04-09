@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Taranucnus setosus
+Description=Checks date is within known recording period of Taranucnus setosus
+ErrorMsg=Date is outside known recording period of Taranucnus setosus
+Tvk=NBNSYS0000009203
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

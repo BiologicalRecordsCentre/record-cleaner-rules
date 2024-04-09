@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Cheilosia variabilis: check date is during flight period
+Description=Check date is during the known flight period for Cheilosia variabilis
+tvk = NBNSYS0000007001
+startDate = 0316
+endDate = 1102
+ErrorMsg = Date is outside flight period for Cheilosia variabilis
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0316
+endDate = 1102
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0316
+endDate = 1102

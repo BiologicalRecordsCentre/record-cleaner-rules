@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Erigone capra
+Description=Checks date is within known recording period of Erigone capra
+ErrorMsg=Date is outside known recording period of Erigone capra
+Tvk=NBNSYS0000009108
+StartDate=19600101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

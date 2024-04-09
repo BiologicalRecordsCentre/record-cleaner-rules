@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Cryptachaea blattea: check date is during identifiable season
+Description=Check date is during known identifiable season for Cryptachaea blattea
+tvk=NHMSYS0020953647
+ErrorMsg=Date is outside the normal season for adult or identifiable Cryptachaea blattea
+DataFieldName=Stage
+StartDate=0101
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]

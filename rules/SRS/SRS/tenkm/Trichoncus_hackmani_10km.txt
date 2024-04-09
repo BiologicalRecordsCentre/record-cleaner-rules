@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Trichoncus hackmani: check grid is in range
+Description=Check grid is in within range of Trichoncus hackmani
+ErrorMsg=Grid is outside known modern range of Trichoncus hackmani
+DataFieldName=Species
+DataRecordId=NBNSYS0000009050
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SZ49
+TM01
+TM11
+TM44

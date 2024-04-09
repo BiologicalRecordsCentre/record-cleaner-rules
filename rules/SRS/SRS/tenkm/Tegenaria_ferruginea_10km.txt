@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Tegenaria ferruginea: check grid is in range
+Description=Check grid is in within range of Tegenaria ferruginea
+ErrorMsg=Grid is outside known modern range of Tegenaria ferruginea
+DataFieldName=Species
+DataRecordId=NBNSYS0200000104
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SE74

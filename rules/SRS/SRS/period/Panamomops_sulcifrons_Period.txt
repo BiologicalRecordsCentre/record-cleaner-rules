@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Panamomops sulcifrons
+Description=Checks date is within known recording period of Panamomops sulcifrons
+ErrorMsg=Date is outside known recording period of Panamomops sulcifrons
+Tvk=NBNSYS0000009095
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

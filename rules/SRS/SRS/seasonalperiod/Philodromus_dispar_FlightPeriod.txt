@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Philodromus dispar: check date is during identifiable season
+Description=Check date is during known identifiable season for Philodromus dispar
+tvk=NBNSYS0000008741
+ErrorMsg=Date is outside the normal season for adult or identifiable Philodromus dispar
+DataFieldName=Stage
+StartDate=0416
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0417
+EndDate=0630
+
+Stage=Adult Female,Female
+StartDate=0416
+EndDate=0731

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Mastigusa arietina: check grid is in range
+Description=Check grid is in within range of Mastigusa arietina
+ErrorMsg=Grid is outside known modern range of Mastigusa arietina
+DataFieldName=Species
+DataRecordId=NBNSYS0000008850
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]

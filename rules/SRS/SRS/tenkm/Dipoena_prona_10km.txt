@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Dipoena prona: check grid is in range
+Description=Check grid is in within range of Dipoena prona
+ErrorMsg=Grid is outside known modern range of Dipoena prona
+DataFieldName=Species
+DataRecordId=NBNSYS0000008867
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SN69
+SU23
+TM46

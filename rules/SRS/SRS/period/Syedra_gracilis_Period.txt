@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Syedra gracilis
+Description=Checks date is within known recording period of Syedra gracilis
+ErrorMsg=Date is outside known recording period of Syedra gracilis
+Tvk=NBNSYS0000009166
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

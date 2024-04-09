@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Neriene emphana: check date is during identifiable season
+Description=Check date is during known identifiable season for Neriene emphana
+tvk=NBNSYS0100004233
+ErrorMsg=Date is outside the normal season for adult or identifiable Neriene emphana
+DataFieldName=Stage
+StartDate=0718
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]

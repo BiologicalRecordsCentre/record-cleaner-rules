@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Mecynargus paetulus: check grid is in range
+Description=Check grid is in within range of Mecynargus paetulus
+ErrorMsg=Grid is outside known modern range of Mecynargus paetulus
+DataFieldName=Species
+DataRecordId=NBNSYS0100003883
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NH46
+NH90
+NN48
+NN64
+NN99
+NO17

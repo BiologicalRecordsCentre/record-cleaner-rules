@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Tapinocyba mitis
+Description=Checks date is within known recording period of Tapinocyba mitis
+ErrorMsg=Date is outside known recording period of Tapinocyba mitis
+Tvk=NBNSYS0000009063
+StartDate=19440101
+EndDate=20011231
+LastChanged=20120316
+[EndMetadata]

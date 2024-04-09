@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Porrhomma rosenhaueri: check grid is in range
+Description=Check grid is in within range of Porrhomma rosenhaueri
+ErrorMsg=Grid is outside known modern range of Porrhomma rosenhaueri
+DataFieldName=Species
+DataRecordId=NBNSYS0000009140
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+ST18

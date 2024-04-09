@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Lophomma punctatum
+Description=Checks date is within known recording period of Lophomma punctatum
+ErrorMsg=Date is outside known recording period of Lophomma punctatum
+Tvk=NBNSYS0000009071
+StartDate=18380101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

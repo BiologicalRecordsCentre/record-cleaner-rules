@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Agroeca inopina
+Description=Checks date is within known recording period of Agroeca inopina
+ErrorMsg=Date is outside known recording period of Agroeca inopina
+Tvk=NBNSYS0000008701
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Lepthyphantes antroniensis
+Description=Checks date is within known recording period of Lepthyphantes antroniensis
+ErrorMsg=Date is outside known recording period of Lepthyphantes antroniensis
+Tvk=NBNSYS0000009225
+StartDate=19790101
+EndDate=19801231
+LastChanged=20120316
+[EndMetadata]

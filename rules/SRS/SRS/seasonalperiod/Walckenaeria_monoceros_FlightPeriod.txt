@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Walckenaeria monoceros: check date is during identifiable season
+Description=Check date is during known identifiable season for Walckenaeria monoceros
+tvk=NBNSYS0000008982
+ErrorMsg=Date is outside the normal season for adult or identifiable Walckenaeria monoceros
+DataFieldName=Stage
+StartDate=0119
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0123
+EndDate=1031
+
+Stage=Adult Female,Female
+StartDate=0101
+EndDate=1031

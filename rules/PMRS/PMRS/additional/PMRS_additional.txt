@@ -1,0 +1,31 @@
+[Metadata]
+TestType=AncillarySpecies
+Group=Additional Verification
+ShortName=Check for Pterophoridae species which always require verification
+Description=Check for Pterophoridae species where verification is always required
+ErrorMsg=Records for this Pterophoridae species always requires verification
+ReverseRule=True
+LastChanged=20140113
+[EndMetadata]
+
+[INI]
+1=Critical species, difficult to identify
+2=Very restricted geographically, difficult to identify
+3=Very rare migrant
+4=Very rare resident species
+5=Recently discovered species
+6=Recently rediscovered species
+7=Species is probably extinct
+
+[Data]
+NBNSYS0000027027,1
+NHMSYS0020732915,2
+NBNSYS0100003432,2
+NBNSYS0100004011,2
+NHMSYS0000503532,3
+NHMSYS0000503534,4
+NHMSYS0020547811,5
+NBNSYS0100005591,3
+NHMSYS0021002826,6
+NBNSYS0100005592,4
+NHMSYS0000504313,7

@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Dipoena torva: check grid is in range
+Description=Check grid is in within range of Dipoena torva
+ErrorMsg=Grid is outside known modern range of Dipoena torva
+DataFieldName=Species
+DataRecordId=NBNSYS0000008872
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NH31
+NH48
+NJ01
+NN55
+NO09
+NO19
+NO49

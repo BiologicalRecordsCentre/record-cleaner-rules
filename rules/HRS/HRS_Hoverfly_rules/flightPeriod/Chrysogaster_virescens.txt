@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Chrysogaster virescens: check date is during flight period
+Description=Check date is during the known flight period for Chrysogaster virescens
+tvk = NBNSYS0000007020
+startDate = 0206
+endDate = 1102
+ErrorMsg = Date is outside flight period for Chrysogaster virescens
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0206
+endDate = 1102
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0206
+endDate = 1102

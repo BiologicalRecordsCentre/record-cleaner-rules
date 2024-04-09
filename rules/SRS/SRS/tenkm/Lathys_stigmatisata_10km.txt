@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Lathys stigmatisata: check grid is in range
+Description=Check grid is in within range of Lathys stigmatisata
+ErrorMsg=Grid is outside known modern range of Lathys stigmatisata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008623
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SM62
+SM72
+TQ60
+TQ91
+TR01
+TR02
+TV59

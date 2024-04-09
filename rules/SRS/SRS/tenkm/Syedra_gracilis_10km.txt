@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Syedra gracilis: check grid is in range
+Description=Check grid is in within range of Syedra gracilis
+ErrorMsg=Grid is outside known modern range of Syedra gracilis
+DataFieldName=Species
+DataRecordId=NBNSYS0000009166
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SE54
+SK15
+SK70
+SP05
+SP06
+SP42
+SP85
+ST91
+SU28
+SU33
+SU49
+SU59
+SU88
+SY88
+TG21
+TL02
+TL03
+TL14
+TL25
+TL92
+TQ48
+TQ49
+TQ57
+TQ58
+TQ67

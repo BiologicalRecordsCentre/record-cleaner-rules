@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Floronia bucculenta
+Description=Checks date is within known recording period of Floronia bucculenta
+ErrorMsg=Date is outside known recording period of Floronia bucculenta
+Tvk=NBNSYS0000009202
+StartDate=18640101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

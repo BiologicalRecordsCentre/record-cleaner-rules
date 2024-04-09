@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Dipoena torva
+Description=Checks date is within known recording period of Dipoena torva
+ErrorMsg=Date is outside known recording period of Dipoena torva
+Tvk=NBNSYS0000008872
+StartDate=19480101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

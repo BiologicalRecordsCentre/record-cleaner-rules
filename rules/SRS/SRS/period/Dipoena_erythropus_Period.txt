@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Dipoena erythropus
+Description=Checks date is within known recording period of Dipoena erythropus
+ErrorMsg=Date is outside known recording period of Dipoena erythropus
+Tvk=NBNSYS0000008866
+StartDate=18850101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

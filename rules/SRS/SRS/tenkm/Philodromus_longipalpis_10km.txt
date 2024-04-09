@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Philodromus longipalpis: check grid is in range
+Description=Check grid is in within range of Philodromus longipalpis
+ErrorMsg=Grid is outside known modern range of Philodromus longipalpis
+DataFieldName=Species
+DataRecordId=NBNSYS0100004566
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+ST13
+ST57
+SU28
+SU33
+SU84
+SU96
+TL28
+TL40
+TL52
+TL62
+TL67
+TM11
+TQ15
+TQ16
+TQ17
+TQ26
+TQ38
+TQ43
+TQ57
+TQ58
+TQ86
+TQ95
+TQ99
+TR15

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Porrhomma sp. nov.: check date is during identifiable season
+Description=Check date is during known identifiable season for Porrhomma sp. nov.
+tvk=NHMSYS0020953703
+ErrorMsg=Date is outside the normal season for adult or identifiable Porrhomma sp. nov.
+DataFieldName=Stage
+StartDate=0101
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]

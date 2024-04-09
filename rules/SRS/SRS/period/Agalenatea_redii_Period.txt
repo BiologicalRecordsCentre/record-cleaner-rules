@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Agalenatea redii
+Description=Checks date is within known recording period of Agalenatea redii
+ErrorMsg=Date is outside known recording period of Agalenatea redii
+Tvk=NBNSYS0100001382
+StartDate=18640101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

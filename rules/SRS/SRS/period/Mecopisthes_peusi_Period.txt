@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Mecopisthes peusi
+Description=Checks date is within known recording period of Mecopisthes peusi
+ErrorMsg=Date is outside known recording period of Mecopisthes peusi
+Tvk=NBNSYS0000009046
+StartDate=19440101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

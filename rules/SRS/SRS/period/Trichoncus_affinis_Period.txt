@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Trichoncus affinis
+Description=Checks date is within known recording period of Trichoncus affinis
+ErrorMsg=Date is outside known recording period of Trichoncus affinis
+Tvk=NBNSYS0000009051
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

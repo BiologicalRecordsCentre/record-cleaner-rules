@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Wiehlea calcarifera
+Description=Checks date is within known recording period of Wiehlea calcarifera
+ErrorMsg=Date is outside known recording period of Wiehlea calcarifera
+Tvk=NBNSYS0000009130
+StartDate=19000101
+EndDate=19911231
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Maro lepidus: check date is during identifiable season
+Description=Check date is during known identifiable season for Maro lepidus
+tvk=NBNSYS0000009165
+ErrorMsg=Date is outside the normal season for adult or identifiable Maro lepidus
+DataFieldName=Stage
+StartDate=0319
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0516
+EndDate=0630
+
+Stage=Adult Female,Female
+StartDate=0519
+EndDate=1031

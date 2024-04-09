@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Pterophorus pentadactyla seasonal check
+Description=Check date of record against known seasonal limit of Pterophorus pentadactyla
+Tvk=NHMSYS0000503972
+ErrorMsg=Date outside known seasonal limit for Pterophorus pentadactyla
+StartDate=0501
+EndDate=0831
+LastChanged=20140113
+[EndMetadata]
+

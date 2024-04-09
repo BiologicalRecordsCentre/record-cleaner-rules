@@ -1,0 +1,66 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Parhelophilus consimilis: check grid is in range
+Description=Check grid is within known range of Parhelophilus consimilis
+ErrorMsg = Grid is outside known range of Parhelophilus consimilis
+DataFieldName = Species
+DataRecordId = NBNSYS0000007062
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NS75
+NS88
+NS98
+NT25
+NT42
+NT52
+NT64
+NU02
+NX26
+NX27
+NX55
+NX74
+SE50
+SH38
+SH44
+SH48
+SJ34
+SJ65
+SJ88
+SK28
+SK38
+SM72
+SM93
+SN14
+SN24
+SN56
+SN66
+SO05
+SP17
+SS59
+SS69
+SS79
+ST07
+ST32
+ST33
+ST34
+ST43
+ST44
+ST48
+SW96
+SY98
+SZ08
+TF49
+TG11
+TG31
+TG32
+TL03
+TL28
+TL99
+TQ09
+TR15
+
+[10km_Ireland]
+R55

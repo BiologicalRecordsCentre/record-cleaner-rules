@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Micaria subopaca: check grid is in range
+Description=Check grid is in within range of Micaria subopaca
+ErrorMsg=Grid is outside known modern range of Micaria subopaca
+DataFieldName=Species
+DataRecordId=NBNSYS0000008672
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU91
+SU95
+SU96
+SY99
+TG10
+TL66
+TL88
+TL93
+TM15
+TM34
+TQ05
+TQ06
+TQ17
+TQ42
+TQ43

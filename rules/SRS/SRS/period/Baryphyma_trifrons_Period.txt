@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Baryphyma trifrons
+Description=Checks date is within known recording period of Baryphyma trifrons
+ErrorMsg=Date is outside known recording period of Baryphyma trifrons
+Tvk=NBNSYS0000009015
+StartDate=18950101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

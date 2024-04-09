@@ -1,0 +1,12 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Diplocephalus graecus: check grid is in range
+Description=Check grid is in within range of Diplocephalus graecus
+ErrorMsg=Grid is outside known modern range of Diplocephalus graecus
+DataFieldName=Species
+DataRecordId=NHMSYS0020774735
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]

@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Clubiona juvenis: check grid is in range
+Description=Check grid is in within range of Clubiona juvenis
+ErrorMsg=Grid is outside known modern range of Clubiona juvenis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008690
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TF70
+TG30
+TG31
+TG32
+TG42
+TL66
+TL89
+TL91
+TM23
+TQ68
+TQ77
+TQ78
+TQ87

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Harpactea rubicunda
+Description=Checks date is within known recording period of Harpactea rubicunda
+ErrorMsg=Date is outside known recording period of Harpactea rubicunda
+Tvk=NBNSYS0000008634
+StartDate=19880101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Gnaphosa nigerrima
+Description=Checks date is within known recording period of Gnaphosa nigerrima
+ErrorMsg=Date is outside known recording period of Gnaphosa nigerrima
+Tvk=NBNSYS0000147833
+StartDate=19990101
+EndDate=19991231
+LastChanged=20120316
+[EndMetadata]

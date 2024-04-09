@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Parasyrphus lineola: check date is during flight period
+Description=Check date is during the known flight period for Parasyrphus lineola
+tvk = NBNSYS0100004457
+startDate = 0410
+endDate = 1002
+ErrorMsg = Date is outside flight period for Parasyrphus lineola
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0410
+endDate = 1002
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0410
+endDate = 1002

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Anyphaena sabina: check date is during identifiable season
+Description=Check date is during known identifiable season for Anyphaena sabina
+tvk=NHMSYS0020953641
+ErrorMsg=Date is outside the normal season for adult or identifiable Anyphaena sabina
+DataFieldName=Stage
+StartDate=0101
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]

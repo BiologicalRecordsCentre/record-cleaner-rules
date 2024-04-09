@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Euophrys frontalis: check date is during identifiable season
+Description=Check date is during known identifiable season for Euophrys frontalis
+tvk=NBNSYS0000008771
+ErrorMsg=Date is outside the normal season for adult or identifiable Euophrys frontalis
+DataFieldName=Stage
+StartDate=0221
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0323
+EndDate=0831
+
+Stage=Adult Female,Female
+StartDate=0323
+EndDate=0930

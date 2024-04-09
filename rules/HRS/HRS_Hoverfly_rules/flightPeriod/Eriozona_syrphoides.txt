@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Eriozona syrphoides: check date is during flight period
+Description=Check date is during the known flight period for Eriozona syrphoides
+tvk = NBNSYS0000006917
+startDate = 0511
+endDate = 1031
+ErrorMsg = Date is outside flight period for Eriozona syrphoides
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0511
+endDate = 1031
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0511
+endDate = 1031

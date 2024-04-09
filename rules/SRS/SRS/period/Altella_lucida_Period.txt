@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Altella lucida
+Description=Checks date is within known recording period of Altella lucida
+ErrorMsg=Date is outside known recording period of Altella lucida
+Tvk=NBNSYS0000008626
+StartDate=18800101
+EndDate=19711231
+LastChanged=20120316
+[EndMetadata]

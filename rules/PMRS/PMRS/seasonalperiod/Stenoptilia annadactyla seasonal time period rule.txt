@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Stenoptilia annadactyla seasonal check
+Description=Check date of record against known seasonal limit of Stenoptilia annadactyla
+Tvk=NHMSYS0020547811
+ErrorMsg=Date outside known seasonal limit for Stenoptilia annadactyla
+StartDate=0601
+EndDate=0831
+LastChanged=20140113
+[EndMetadata]
+

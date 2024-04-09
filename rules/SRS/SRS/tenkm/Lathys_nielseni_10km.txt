@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Lathys nielseni: check grid is in range
+Description=Check grid is in within range of Lathys nielseni
+ErrorMsg=Grid is outside known modern range of Lathys nielseni
+DataFieldName=Species
+DataRecordId=NBNSYS0000008622
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU84
+SU96
+TQ14
+TQ15

@@ -1,0 +1,30 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Eristalis cryptarum: check grid is in range
+Description=Check grid is within known range of Eristalis cryptarum
+ErrorMsg = Grid is outside known range of Eristalis cryptarum
+DataFieldName = Species
+DataRecordId = NBNSYS0000007048
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+ST21
+SU10
+SU11
+SU20
+SU21
+SU30
+SU31
+SW83
+SW84
+SW96
+SX25
+SX65
+SX67
+SX68
+SX77
+SY78
+SY88
+SZ08

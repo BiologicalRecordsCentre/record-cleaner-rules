@@ -1,0 +1,41 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Cheilosia nigripes: check grid is in range
+Description=Check grid is within known range of Cheilosia nigripes
+ErrorMsg = Grid is outside known range of Cheilosia nigripes
+DataFieldName = Species
+DataRecordId = NBNSYS0000006992
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NZ90
+SH77
+SO80
+SO90
+ST21
+ST54
+ST57
+ST75
+ST81
+SU42
+SU62
+SU71
+SU72
+SU81
+SU94
+SY98
+TQ04
+TQ05
+TQ14
+TQ15
+TQ25
+TQ35
+TQ37
+TQ45
+TQ47
+TQ66
+TR04
+TR14
+TR15

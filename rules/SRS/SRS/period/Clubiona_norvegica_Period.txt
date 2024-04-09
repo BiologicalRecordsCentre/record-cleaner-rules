@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Clubiona norvegica
+Description=Checks date is within known recording period of Clubiona norvegica
+ErrorMsg=Date is outside known recording period of Clubiona norvegica
+Tvk=NBNSYS0000008679
+StartDate=18970101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

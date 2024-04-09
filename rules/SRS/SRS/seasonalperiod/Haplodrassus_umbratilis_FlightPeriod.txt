@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Haplodrassus umbratilis: check date is during identifiable season
+Description=Check date is during known identifiable season for Haplodrassus umbratilis
+tvk=NBNSYS0000008647
+ErrorMsg=Date is outside the normal season for adult or identifiable Haplodrassus umbratilis
+DataFieldName=Stage
+StartDate=0325
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0325
+EndDate=0531
+
+Stage=Adult Female,Female
+StartDate=0325
+EndDate=0531

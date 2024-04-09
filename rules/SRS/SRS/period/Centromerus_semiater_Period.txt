@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Centromerus semiater
+Description=Checks date is within known recording period of Centromerus semiater
+ErrorMsg=Date is outside known recording period of Centromerus semiater
+Tvk=NBNSYS0100002237
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

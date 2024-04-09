@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Silometopus ambiguus
+Description=Checks date is within known recording period of Silometopus ambiguus
+ErrorMsg=Date is outside known recording period of Silometopus ambiguus
+Tvk=NBNSYS0000009043
+StartDate=18950101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

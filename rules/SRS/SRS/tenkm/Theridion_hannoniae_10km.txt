@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Theridion hannoniae: check grid is in range
+Description=Check grid is in within range of Theridion hannoniae
+ErrorMsg=Grid is outside known modern range of Theridion hannoniae
+DataFieldName=Species
+DataRecordId=NHMSYS0020953717
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SS89

@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Maro lepidus: check grid is in range
+Description=Check grid is in within range of Maro lepidus
+ErrorMsg=Grid is outside known modern range of Maro lepidus
+DataFieldName=Species
+DataRecordId=NBNSYS0000009165
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+ND15
+NX48
+SD86
+SH74
+SN66
+SN86

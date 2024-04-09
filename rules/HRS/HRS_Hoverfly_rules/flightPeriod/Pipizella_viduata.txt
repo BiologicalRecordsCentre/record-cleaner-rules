@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Pipizella viduata: check date is during flight period
+Description=Check date is during the known flight period for Pipizella viduata
+tvk = NBNSYS0100022723
+startDate = 0403
+endDate = 1115
+ErrorMsg = Date is outside flight period for Pipizella viduata
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0403
+endDate = 1115
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0403
+endDate = 1115

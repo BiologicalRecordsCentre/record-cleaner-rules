@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Ozyptila atomaria
+Description=Checks date is within known recording period of Ozyptila atomaria
+ErrorMsg=Date is outside known recording period of Ozyptila atomaria
+Tvk=NBNSYS0000008739
+StartDate=18450101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

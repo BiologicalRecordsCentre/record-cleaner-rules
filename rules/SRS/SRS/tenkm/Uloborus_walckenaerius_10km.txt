@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Uloborus walckenaerius: check grid is in range
+Description=Check grid is in within range of Uloborus walckenaerius
+ErrorMsg=Grid is outside known modern range of Uloborus walckenaerius
+DataFieldName=Species
+DataRecordId=NBNSYS0000008627
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU84
+SU91
+SU94
+SU95
+SU96
+SZ19

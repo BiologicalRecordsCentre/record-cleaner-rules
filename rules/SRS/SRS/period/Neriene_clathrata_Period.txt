@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Neriene clathrata
+Description=Checks date is within known recording period of Neriene clathrata
+ErrorMsg=Date is outside known recording period of Neriene clathrata
+Tvk=NBNSYS0100004232
+StartDate=18330101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

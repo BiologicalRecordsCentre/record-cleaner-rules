@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Scotinotylus evansi
+Description=Checks date is within known recording period of Scotinotylus evansi
+ErrorMsg=Date is outside known recording period of Scotinotylus evansi
+Tvk=NBNSYS0000009097
+StartDate=18930101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

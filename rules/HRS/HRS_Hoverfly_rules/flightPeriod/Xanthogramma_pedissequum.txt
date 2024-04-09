@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Xanthogramma pedissequum: check date is during flight period
+Description=Check date is during the known flight period for Xanthogramma pedissequum
+tvk = NBNSYS0000006968
+startDate = 0320
+endDate = 1102
+ErrorMsg = Date is outside flight period for Xanthogramma pedissequum
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0320
+endDate = 1102
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0320
+endDate = 1102

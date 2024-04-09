@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Notioscopus sarcinatus: check grid is in range
+Description=Check grid is in within range of Notioscopus sarcinatus
+ErrorMsg=Grid is outside known modern range of Notioscopus sarcinatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000009080
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NC50
+NH20
+NH22
+NH39
+NH59
+NH68
+NH77
+NH90
+NJ01
+NJ62
+NN55
+NY68
+NZ70
+NZ71
+SE05
+SH91
+SH95
+SJ65
+SJ72
+SK02
+SP09
+SP19
+ST11
+SU96
+TL97

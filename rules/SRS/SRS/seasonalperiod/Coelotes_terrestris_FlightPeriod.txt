@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Coelotes terrestris: check date is during identifiable season
+Description=Check date is during known identifiable season for Coelotes terrestris
+tvk=NBNSYS0000008845
+ErrorMsg=Date is outside the normal season for adult or identifiable Coelotes terrestris
+DataFieldName=Stage
+StartDate=0317
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0622
+EndDate=1031
+
+Stage=Adult Female,Female
+StartDate=0318
+EndDate=1031

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Araniella cucurbitina sens. lat.: check date is during identifiable season
+Description=Check date is during known identifiable season for Araniella cucurbitina sens. lat.
+tvk=NBNSYS0000008950
+ErrorMsg=Date is outside the normal season for adult or identifiable Araniella cucurbitina sens. lat.
+DataFieldName=Stage
+StartDate=0318
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0324
+EndDate=0630
+
+Stage=Adult Female,Female
+StartDate=0418
+EndDate=0831

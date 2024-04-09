@@ -1,0 +1,13 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Epistrophe ochrostoma: check grid is in range
+Description=Check grid is within known range of Epistrophe ochrostoma
+ErrorMsg = Grid is outside known range of Epistrophe ochrostoma
+DataFieldName = Species
+DataRecordId = NBNSYS0000033189
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+SH57

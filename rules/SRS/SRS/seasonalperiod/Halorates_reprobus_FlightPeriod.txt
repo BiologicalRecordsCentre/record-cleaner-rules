@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Halorates reprobus: check date is during identifiable season
+Description=Check date is during known identifiable season for Halorates reprobus
+tvk=NBNSYS0000009125
+ErrorMsg=Date is outside the normal season for adult or identifiable Halorates reprobus
+DataFieldName=Stage
+StartDate=0121
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0121
+EndDate=1130
+
+Stage=Adult Female,Female
+StartDate=0123
+EndDate=1031

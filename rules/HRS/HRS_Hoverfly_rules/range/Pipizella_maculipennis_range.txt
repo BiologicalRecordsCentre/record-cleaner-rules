@@ -1,0 +1,42 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Pipizella maculipennis: check grid is in range
+Description=Check grid is within known range of Pipizella maculipennis
+ErrorMsg = Grid is outside known range of Pipizella maculipennis
+DataFieldName = Species
+DataRecordId = NBNSYS0000007086
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NS18
+NX64
+NX98
+NY07
+SK93
+SO61
+SO62
+SP37
+SP50
+ST54
+ST79
+ST86
+SU51
+SU61
+SU65
+SU70
+SU82
+SU90
+SZ48
+SZ59
+SZ69
+TL87
+TM02
+TQ05
+TQ25
+TQ28
+TQ41
+TQ48
+TQ96
+TR01

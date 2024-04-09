@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Clubiona pseudoneglecta: check date is during identifiable season
+Description=Check date is during known identifiable season for Clubiona pseudoneglecta
+tvk=NBNSYS0100002489
+ErrorMsg=Date is outside the normal season for adult or identifiable Clubiona pseudoneglecta
+DataFieldName=Stage
+StartDate=0522
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0522
+EndDate=0630
+
+Stage=Adult Female,Female
+StartDate=0522
+EndDate=0630

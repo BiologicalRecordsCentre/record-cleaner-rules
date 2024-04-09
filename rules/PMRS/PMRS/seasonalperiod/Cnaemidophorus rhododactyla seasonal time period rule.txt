@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Cnaemidophorus rhododactyla seasonal check
+Description=Check date of record agaist known seasonal limit of Cnaemidophorus rhododactyla
+Tvk=NHMSYS0000501326
+ErrorMsg=Date outside known seasonal limit for Cnaemidophorus rhododactyla
+StartDate=0601
+EndDate=0831
+LastChanged=20140113
+[EndMetadata]
+

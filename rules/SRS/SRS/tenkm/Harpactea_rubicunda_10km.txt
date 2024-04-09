@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Harpactea rubicunda: check grid is in range
+Description=Check grid is in within range of Harpactea rubicunda
+ErrorMsg=Grid is outside known modern range of Harpactea rubicunda
+DataFieldName=Species
+DataRecordId=NBNSYS0000008634
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TQ57
+TQ67

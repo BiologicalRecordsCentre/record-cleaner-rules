@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Coleosoma floridanum: check grid is in range
+Description=Check grid is in within range of Coleosoma floridanum
+ErrorMsg=Grid is outside known modern range of Coleosoma floridanum
+DataFieldName=Species
+DataRecordId=NBNSYS0200000058
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SD46
+SK90
+TL15
+TL45

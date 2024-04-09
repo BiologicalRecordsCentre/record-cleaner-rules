@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Bolyphantes luteolus
+Description=Checks date is within known recording period of Bolyphantes luteolus
+ErrorMsg=Date is outside known recording period of Bolyphantes luteolus
+Tvk=NBNSYS0000009206
+StartDate=18580101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Centromerus dilutus
+Description=Checks date is within known recording period of Centromerus dilutus
+ErrorMsg=Date is outside known recording period of Centromerus dilutus
+Tvk=NBNSYS0000009171
+StartDate=18930101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

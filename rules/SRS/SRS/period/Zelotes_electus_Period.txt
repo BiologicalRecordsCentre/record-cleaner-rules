@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Zelotes electus
+Description=Checks date is within known recording period of Zelotes electus
+ErrorMsg=Date is outside known recording period of Zelotes electus
+Tvk=NBNSYS0000008654
+StartDate=18950101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

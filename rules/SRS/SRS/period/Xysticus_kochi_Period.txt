@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Xysticus kochi
+Description=Checks date is within known recording period of Xysticus kochi
+ErrorMsg=Date is outside known recording period of Xysticus kochi
+Tvk=NBNSYS0000008722
+StartDate=18780101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,29 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Cheilosia sahlbergi: check grid is in range
+Description=Check grid is within known range of Cheilosia sahlbergi
+ErrorMsg = Grid is outside known range of Cheilosia sahlbergi
+DataFieldName = Species
+DataRecordId = NBNSYS0000006997
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NH80
+NH82
+NH90
+NN15
+NN17
+NN43
+NN48
+NN53
+NN54
+NN57
+NN63
+NN64
+NN66
+NN89
+NN99
+NO17
+NO19

@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Gongylidiellum murcidum: check grid is in range
+Description=Check grid is in within range of Gongylidiellum murcidum
+ErrorMsg=Grid is outside known modern range of Gongylidiellum murcidum
+DataFieldName=Species
+DataRecordId=NBNSYS0000009075
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NX56
+SH47
+SH57
+SH77
+SJ72
+SO12
+ST25
+SY68
+TF90
+TL28
+TL56
+TL57
+TL98
+TL99
+TM07

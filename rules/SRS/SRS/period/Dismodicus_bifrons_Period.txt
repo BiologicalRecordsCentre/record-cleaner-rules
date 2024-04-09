@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Dismodicus bifrons
+Description=Checks date is within known recording period of Dismodicus bifrons
+ErrorMsg=Date is outside known recording period of Dismodicus bifrons
+Tvk=NBNSYS0000009005
+StartDate=18380101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

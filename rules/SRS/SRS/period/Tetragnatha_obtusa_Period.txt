@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Tetragnatha obtusa
+Description=Checks date is within known recording period of Tetragnatha obtusa
+ErrorMsg=Date is outside known recording period of Tetragnatha obtusa
+Tvk=NBNSYS0000008920
+StartDate=18980101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

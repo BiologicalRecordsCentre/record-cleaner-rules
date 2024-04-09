@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Neottiura bimaculata
+Description=Checks date is within known recording period of Neottiura bimaculata
+ErrorMsg=Date is outside known recording period of Neottiura bimaculata
+Tvk=NHMSYS0000355798
+StartDate=18640101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

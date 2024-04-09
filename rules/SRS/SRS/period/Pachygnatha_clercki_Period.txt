@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Pachygnatha clercki
+Description=Checks date is within known recording period of Pachygnatha clercki
+ErrorMsg=Date is outside known recording period of Pachygnatha clercki
+Tvk=NBNSYS0000008923
+StartDate=18580101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

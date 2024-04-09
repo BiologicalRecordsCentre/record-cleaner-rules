@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Drassyllus praeficus: check date is during identifiable season
+Description=Check date is during known identifiable season for Drassyllus praeficus
+tvk=NBNSYS0000008664
+ErrorMsg=Date is outside the normal season for adult or identifiable Drassyllus praeficus
+DataFieldName=Stage
+StartDate=0416
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0419
+EndDate=0731
+
+Stage=Adult Female,Female
+StartDate=0419
+EndDate=0731

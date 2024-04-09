@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Microdon analis: check date is during flight period
+Description=Check date is during the known flight period for Microdon analis
+tvk = NBNSYS0100004052
+startDate = 0203
+endDate = 1107
+ErrorMsg = Date is outside flight period for Microdon analis
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0203
+endDate = 1107
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0203
+endDate = 1107

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Sitticus pubescens: check date is during identifiable season
+Description=Check date is during known identifiable season for Sitticus pubescens
+tvk=NBNSYS0000008778
+ErrorMsg=Date is outside the normal season for adult or identifiable Sitticus pubescens
+DataFieldName=Stage
+StartDate=0322
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0214
+EndDate=0930
+
+Stage=Adult Female,Female
+StartDate=0320
+EndDate=0831

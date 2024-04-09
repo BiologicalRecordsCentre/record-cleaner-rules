@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Hybocoptus decollatus: check date is during identifiable season
+Description=Check date is during known identifiable season for Hybocoptus decollatus
+tvk=NBNSYS0000009011
+ErrorMsg=Date is outside the normal season for adult or identifiable Hybocoptus decollatus
+DataFieldName=Stage
+StartDate=0321
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0321
+EndDate=0531
+
+Stage=Adult Female,Female
+StartDate=0321
+EndDate=0731

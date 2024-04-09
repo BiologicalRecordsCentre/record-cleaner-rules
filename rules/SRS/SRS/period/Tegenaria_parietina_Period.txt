@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Tegenaria parietina
+Description=Checks date is within known recording period of Tegenaria parietina
+ErrorMsg=Date is outside known recording period of Tegenaria parietina
+Tvk=NBNSYS0000008839
+StartDate=18990101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

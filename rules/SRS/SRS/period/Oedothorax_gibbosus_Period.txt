@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Oedothorax gibbosus
+Description=Checks date is within known recording period of Oedothorax gibbosus
+ErrorMsg=Date is outside known recording period of Oedothorax gibbosus
+Tvk=NBNSYS0000009027
+StartDate=18380101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

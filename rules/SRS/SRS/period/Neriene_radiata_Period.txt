@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Neriene radiata
+Description=Checks date is within known recording period of Neriene radiata
+ErrorMsg=Date is outside known recording period of Neriene radiata
+Tvk=NBNSYS0000152322
+StartDate=19610101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

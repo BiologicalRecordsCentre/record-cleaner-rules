@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Walckenaeria stylifrons: check grid is in range
+Description=Check grid is in within range of Walckenaeria stylifrons
+ErrorMsg=Grid is outside known modern range of Walckenaeria stylifrons
+DataFieldName=Species
+DataRecordId=NBNSYS0000008979
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TL78

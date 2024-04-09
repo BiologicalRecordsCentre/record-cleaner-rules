@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Myolepta potens: check date is during flight period
+Description=Check date is during the known flight period for Myolepta potens
+tvk = NBNSYS0000007025
+startDate = 0614
+endDate = 0719
+ErrorMsg = Date is outside flight period for Myolepta potens
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0614
+endDate = 0719
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0614
+endDate = 0719

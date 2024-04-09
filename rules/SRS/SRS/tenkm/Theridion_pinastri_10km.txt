@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Theridion pinastri: check grid is in range
+Description=Check grid is in within range of Theridion pinastri
+ErrorMsg=Grid is outside known modern range of Theridion pinastri
+DataFieldName=Species
+DataRecordId=NBNSYS0000008891
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU96
+TL14
+TL15
+TL30
+TL40
+TM34
+TQ05
+TQ17
+TQ25
+TQ38
+TQ39
+TQ49
+TQ57
+TQ58
+TQ59
+TQ68
+TQ69

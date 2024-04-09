@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Carorita paludosa: check grid is in range
+Description=Check grid is in within range of Carorita paludosa
+ErrorMsg=Grid is outside known modern range of Carorita paludosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000009129
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TG31
+TG32
+TG42
+TL68

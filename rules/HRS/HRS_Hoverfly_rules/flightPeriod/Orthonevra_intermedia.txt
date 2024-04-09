@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Orthonevra intermedia: check date is during flight period
+Description=Check date is during the known flight period for Orthonevra intermedia
+tvk = NHMSYS0020978350
+startDate = 0703
+endDate = 0707
+ErrorMsg = Date is outside flight period for Orthonevra intermedia
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0703
+endDate = 0707
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0703
+endDate = 0707

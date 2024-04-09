@@ -1,0 +1,51 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Porrhomma campbelli: check grid is in range
+Description=Check grid is in within range of Porrhomma campbelli
+ErrorMsg=Grid is outside known modern range of Porrhomma campbelli
+DataFieldName=Species
+DataRecordId=NBNSYS0000009142
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NC73
+NH91
+NJ80
+NN31
+NN33
+NN48
+NO17
+NO19
+NT09
+NY62
+SD30
+SE46
+SE64
+SE77
+SH57
+SH61
+SH76
+SK00
+SK31
+SK41
+SN69
+SN87
+SO62
+SO67
+SP75
+ST11
+SU56
+SY78
+SY89
+TL08
+TL10
+TL13
+TL14
+TL40
+TL66
+TL95
+TM45
+TQ28
+TQ47

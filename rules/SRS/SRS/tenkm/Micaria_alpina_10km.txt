@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Micaria alpina: check grid is in range
+Description=Check grid is in within range of Micaria alpina
+ErrorMsg=Grid is outside known modern range of Micaria alpina
+DataFieldName=Species
+DataRecordId=NBNSYS0000008671
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NC52
+NH08
+NN48
+SH66

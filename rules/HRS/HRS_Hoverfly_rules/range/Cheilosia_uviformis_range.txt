@@ -1,0 +1,18 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Cheilosia uviformis: check grid is in range
+Description=Check grid is within known range of Cheilosia uviformis
+ErrorMsg = Grid is outside known range of Cheilosia uviformis
+DataFieldName = Species
+DataRecordId = NBNSYS0000033081
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NH70
+SE46
+SE74
+SE83
+SK27
+TL65

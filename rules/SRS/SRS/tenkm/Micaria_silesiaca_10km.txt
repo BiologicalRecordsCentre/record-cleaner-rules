@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Micaria silesiaca: check grid is in range
+Description=Check grid is in within range of Micaria silesiaca
+ErrorMsg=Grid is outside known modern range of Micaria silesiaca
+DataFieldName=Species
+DataRecordId=NBNSYS0000008673
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SO87
+SU46
+SU85
+SU94
+SU95
+SU96
+SY99
+TL88
+TM46
+TQ16

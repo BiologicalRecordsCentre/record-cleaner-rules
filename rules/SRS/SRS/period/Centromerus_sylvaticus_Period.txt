@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Centromerus sylvaticus
+Description=Checks date is within known recording period of Centromerus sylvaticus
+ErrorMsg=Date is outside known recording period of Centromerus sylvaticus
+Tvk=NBNSYS0000009167
+StartDate=18370101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

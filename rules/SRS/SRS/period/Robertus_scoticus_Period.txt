@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Robertus scoticus
+Description=Checks date is within known recording period of Robertus scoticus
+ErrorMsg=Date is outside known recording period of Robertus scoticus
+Tvk=NBNSYS0000008911
+StartDate=19130101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

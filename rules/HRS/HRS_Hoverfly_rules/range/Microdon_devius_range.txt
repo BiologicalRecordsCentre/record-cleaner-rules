@@ -1,0 +1,40 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Microdon devius: check grid is in range
+Description=Check grid is within known range of Microdon devius
+ErrorMsg = Grid is outside known range of Microdon devius
+DataFieldName = Species
+DataRecordId = NBNSYS0000007119
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+SH61
+SH63
+SH64
+SH71
+SH72
+SO77
+SP80
+SP90
+SU20
+SU49
+SU72
+SU73
+SU74
+SU78
+SU79
+SU81
+SU89
+TL98
+TM07
+TQ04
+TQ05
+TQ14
+TQ15
+TQ25
+TQ35
+TQ36
+TQ46
+TQ56

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Lepthyphantes beckeri: check grid is in range
+Description=Check grid is in within range of Lepthyphantes beckeri
+ErrorMsg=Grid is outside known modern range of Lepthyphantes beckeri
+DataFieldName=Species
+DataRecordId=NBNSYS0100003707
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TL07

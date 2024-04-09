@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Pipizella maculipennis: check date is during flight period
+Description=Check date is during the known flight period for Pipizella maculipennis
+tvk = NBNSYS0000007086
+startDate = 0526
+endDate = 0812
+ErrorMsg = Date is outside flight period for Pipizella maculipennis
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0526
+endDate = 0812
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0526
+endDate = 0812

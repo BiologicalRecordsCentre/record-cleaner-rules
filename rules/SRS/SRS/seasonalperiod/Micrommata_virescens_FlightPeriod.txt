@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Micrommata virescens: check date is during identifiable season
+Description=Check date is during known identifiable season for Micrommata virescens
+tvk=NBNSYS0000008715
+ErrorMsg=Date is outside the normal season for adult or identifiable Micrommata virescens
+DataFieldName=Stage
+StartDate=0420
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0221
+EndDate=0731
+
+Stage=Adult Female,Female
+StartDate=0317
+EndDate=1031

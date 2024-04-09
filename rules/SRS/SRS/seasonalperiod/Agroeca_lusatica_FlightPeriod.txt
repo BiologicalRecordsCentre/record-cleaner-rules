@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Agroeca lusatica: check date is during identifiable season
+Description=Check date is during known identifiable season for Agroeca lusatica
+tvk=NBNSYS0000008702
+ErrorMsg=Date is outside the normal season for adult or identifiable Agroeca lusatica
+DataFieldName=Stage
+StartDate=0123
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0921
+EndDate=1031
+
+Stage=Adult Female,Female
+StartDate=0219
+EndDate=1031

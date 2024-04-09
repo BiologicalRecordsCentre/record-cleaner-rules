@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Pterophorus galactodactyla seasonal check
+Description=Check date of record agaist known seasonal limit of Pterophorus galactodactyla
+Tvk=NHMSYS0000503971
+ErrorMsg=Date outside known seasonal limit for Pterophorus galactodactyla
+StartDate=0501
+EndDate=0731
+LastChanged=20140113
+[EndMetadata]
+

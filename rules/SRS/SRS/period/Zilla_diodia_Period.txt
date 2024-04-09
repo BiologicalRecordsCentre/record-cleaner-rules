@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Zilla diodia
+Description=Checks date is within known recording period of Zilla diodia
+ErrorMsg=Date is outside known recording period of Zilla diodia
+Tvk=NBNSYS0000008955
+StartDate=18530101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Oreonetides vaginatus
+Description=Checks date is within known recording period of Oreonetides vaginatus
+ErrorMsg=Date is outside known recording period of Oreonetides vaginatus
+Tvk=NBNSYS0000009186
+StartDate=18710101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

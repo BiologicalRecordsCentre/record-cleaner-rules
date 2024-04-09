@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Semljicola caliginosus: check grid is in range
+Description=Check grid is in within range of Semljicola caliginosus
+ErrorMsg=Grid is outside known modern range of Semljicola caliginosus
+DataFieldName=Species
+DataRecordId=NBNSYS0100005488
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NG95
+NG96
+NH80
+NJ92
+NT92
+NY20
+NY21
+NY63
+NY72
+NY83
+SD69
+SD78
+SD87
+SD89
+SD97

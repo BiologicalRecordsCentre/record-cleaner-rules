@@ -1,0 +1,18 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Eristalis similis: check grid is in range
+Description=Check grid is within known range of Eristalis similis
+ErrorMsg = Grid is outside known range of Eristalis similis
+DataFieldName = Species
+DataRecordId = NBNSYS0100003072
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NJ90
+NO69
+SK37
+SK38
+SP37
+TQ42

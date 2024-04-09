@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Phaeocedus braccatus: check grid is in range
+Description=Check grid is in within range of Phaeocedus braccatus
+ErrorMsg=Grid is outside known modern range of Phaeocedus braccatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008653
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU10
+SU73
+SU81
+SY88
+SZ57
+TM44
+TM45
+TQ14
+TQ40
+TQ60
+TQ66
+TQ75
+TV59

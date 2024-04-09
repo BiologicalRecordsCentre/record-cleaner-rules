@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Lepthyphantes angulatus
+Description=Checks date is within known recording period of Lepthyphantes angulatus
+ErrorMsg=Date is outside known recording period of Lepthyphantes angulatus
+Tvk=NBNSYS0000009224
+StartDate=18700101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

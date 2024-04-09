@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Hilaira frigida
+Description=Checks date is within known recording period of Hilaira frigida
+ErrorMsg=Date is outside known recording period of Hilaira frigida
+Tvk=NBNSYS0000009122
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

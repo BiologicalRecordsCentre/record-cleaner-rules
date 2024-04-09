@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Dolomedes fimbriatus
+Description=Checks date is within known recording period of Dolomedes fimbriatus
+ErrorMsg=Date is outside known recording period of Dolomedes fimbriatus
+Tvk=NBNSYS0000008831
+StartDate=18580101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

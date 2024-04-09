@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Ceratinopsis stativa
+Description=Checks date is within known recording period of Ceratinopsis stativa
+ErrorMsg=Date is outside known recording period of Ceratinopsis stativa
+Tvk=NBNSYS0000009053
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Mermessus maculata
+Description=Checks date is within known recording period of Mermessus maculata
+ErrorMsg=Date is outside known recording period of Mermessus maculata
+Tvk=NHMSYS0020953691
+StartDate=20070101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

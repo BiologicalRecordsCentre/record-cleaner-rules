@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Cyclosa conica
+Description=Checks date is within known recording period of Cyclosa conica
+ErrorMsg=Date is outside known recording period of Cyclosa conica
+Tvk=NBNSYS0000008963
+StartDate=18720101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

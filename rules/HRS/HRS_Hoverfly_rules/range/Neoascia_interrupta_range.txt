@@ -1,0 +1,90 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Neoascia interrupta: check grid is in range
+Description=Check grid is within known range of Neoascia interrupta
+ErrorMsg = Grid is outside known range of Neoascia interrupta
+DataFieldName = Species
+DataRecordId = NBNSYS0000007027
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NS48
+SD47
+SE30
+SE31
+SE40
+SE50
+SH77
+SK43
+SK48
+SK49
+SK53
+SK54
+SK63
+SK80
+SK96
+SP35
+SP36
+SP37
+SP40
+SP45
+SP97
+SU85
+SU97
+TF10
+TF20
+TF71
+TG30
+TL08
+TL09
+TL19
+TL28
+TL29
+TL39
+TL48
+TL56
+TL57
+TL58
+TL82
+TL91
+TL97
+TL98
+TL99
+TM01
+TM02
+TM11
+TM13
+TM26
+TM46
+TM47
+TM59
+TQ05
+TQ07
+TQ15
+TQ16
+TQ17
+TQ26
+TQ28
+TQ31
+TQ35
+TQ47
+TQ48
+TQ57
+TQ58
+TQ59
+TQ67
+TQ68
+TQ77
+TQ78
+TQ86
+TQ87
+TQ88
+TQ92
+TQ93
+TQ96
+TQ98
+TQ99
+TR01
+TR03

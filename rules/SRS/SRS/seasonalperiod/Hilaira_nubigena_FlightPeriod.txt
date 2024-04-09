@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Hilaira nubigena: check date is during identifiable season
+Description=Check date is during known identifiable season for Hilaira nubigena
+tvk=NBNSYS0000009123
+ErrorMsg=Date is outside the normal season for adult or identifiable Hilaira nubigena
+DataFieldName=Stage
+StartDate=0318
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0918
+EndDate=1031
+
+Stage=Adult Female,Female
+StartDate=0722
+EndDate=0831

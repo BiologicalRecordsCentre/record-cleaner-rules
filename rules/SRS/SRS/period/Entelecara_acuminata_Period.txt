@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Entelecara acuminata
+Description=Checks date is within known recording period of Entelecara acuminata
+ErrorMsg=Date is outside known recording period of Entelecara acuminata
+Tvk=NBNSYS0000008993
+StartDate=18780101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Textrix denticulata
+Description=Checks date is within known recording period of Textrix denticulata
+ErrorMsg=Date is outside known recording period of Textrix denticulata
+Tvk=NBNSYS0000008835
+StartDate=18580101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

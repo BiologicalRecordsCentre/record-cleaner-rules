@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Micrommata virescens
+Description=Checks date is within known recording period of Micrommata virescens
+ErrorMsg=Date is outside known recording period of Micrommata virescens
+Tvk=NBNSYS0000008715
+StartDate=17360101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

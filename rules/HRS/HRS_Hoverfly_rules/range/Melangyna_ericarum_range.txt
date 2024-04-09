@@ -1,0 +1,20 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Melangyna ericarum: check grid is in range
+Description=Check grid is within known range of Melangyna ericarum
+ErrorMsg = Grid is outside known range of Melangyna ericarum
+DataFieldName = Species
+DataRecordId = NBNSYS0000006925
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NC41
+NH72
+NH80
+NH91
+NN55
+NO18
+NO19
+NT87

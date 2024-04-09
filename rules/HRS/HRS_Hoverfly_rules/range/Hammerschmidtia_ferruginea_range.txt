@@ -1,0 +1,25 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Hammerschmidtia ferruginea: check grid is in range
+Description=Check grid is within known range of Hammerschmidtia ferruginea
+ErrorMsg = Grid is outside known range of Hammerschmidtia ferruginea
+DataFieldName = Species
+DataRecordId = NBNSYS0000007021
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NC45
+NC50
+NH45
+NH59
+NH79
+NH80
+NH81
+NH91
+NH93
+NH94
+NJ02
+NJ40
+NN79

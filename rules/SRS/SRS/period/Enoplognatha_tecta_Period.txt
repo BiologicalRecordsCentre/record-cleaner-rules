@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Enoplognatha tecta
+Description=Checks date is within known recording period of Enoplognatha tecta
+ErrorMsg=Date is outside known recording period of Enoplognatha tecta
+Tvk=NBNSYS0000008906
+StartDate=18880101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

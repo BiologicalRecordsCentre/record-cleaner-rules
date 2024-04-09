@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Glyphesis cottonae: check grid is in range
+Description=Check grid is in within range of Glyphesis cottonae
+ErrorMsg=Grid is outside known modern range of Glyphesis cottonae
+DataFieldName=Species
+DataRecordId=NBNSYS0000009081
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SJ43
+SJ56
+SJ57
+SJ66
+SU30

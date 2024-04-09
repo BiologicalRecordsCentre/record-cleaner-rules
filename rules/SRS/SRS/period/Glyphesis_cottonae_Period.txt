@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Glyphesis cottonae
+Description=Checks date is within known recording period of Glyphesis cottonae
+ErrorMsg=Date is outside known recording period of Glyphesis cottonae
+Tvk=NBNSYS0000009081
+StartDate=19000101
+EndDate=19991231
+LastChanged=20120316
+[EndMetadata]

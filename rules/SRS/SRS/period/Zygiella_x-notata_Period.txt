@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Zygiella x-notata
+Description=Checks date is within known recording period of Zygiella x-notata
+ErrorMsg=Date is outside known recording period of Zygiella x-notata
+Tvk=NBNSYS0000008931
+StartDate=18860101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Pachygnatha listeri: check date is during identifiable season
+Description=Check date is during known identifiable season for Pachygnatha listeri
+tvk=NBNSYS0000008924
+ErrorMsg=Date is outside the normal season for adult or identifiable Pachygnatha listeri
+DataFieldName=Stage
+StartDate=0319
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0325
+EndDate=1130
+
+Stage=Adult Female,Female
+StartDate=0420
+EndDate=1031

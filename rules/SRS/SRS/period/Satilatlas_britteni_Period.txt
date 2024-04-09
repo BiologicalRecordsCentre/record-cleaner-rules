@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Satilatlas britteni
+Description=Checks date is within known recording period of Satilatlas britteni
+ErrorMsg=Date is outside known recording period of Satilatlas britteni
+Tvk=NBNSYS0000009066
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

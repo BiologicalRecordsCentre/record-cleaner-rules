@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Cheilosia chrysocoma: check date is during flight period
+Description=Check date is during the known flight period for Cheilosia chrysocoma
+tvk = NBNSYS0000006978
+startDate = 0316
+endDate = 0622
+ErrorMsg = Date is outside flight period for Cheilosia chrysocoma
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0316
+endDate = 0622
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0316
+endDate = 0622

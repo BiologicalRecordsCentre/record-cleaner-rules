@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Philodromus margaritatus: check date is during identifiable season
+Description=Check date is during known identifiable season for Philodromus margaritatus
+tvk=NBNSYS0000008751
+ErrorMsg=Date is outside the normal season for adult or identifiable Philodromus margaritatus
+DataFieldName=Stage
+StartDate=0321
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]

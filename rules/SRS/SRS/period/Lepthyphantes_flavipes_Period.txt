@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Lepthyphantes flavipes
+Description=Checks date is within known recording period of Lepthyphantes flavipes
+ErrorMsg=Date is outside known recording period of Lepthyphantes flavipes
+Tvk=NBNSYS0000009218
+StartDate=18530101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

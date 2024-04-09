@@ -1,0 +1,70 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Cheilosia nebulosa: check grid is in range
+Description=Check grid is within known range of Cheilosia nebulosa
+ErrorMsg = Grid is outside known range of Cheilosia nebulosa
+DataFieldName = Species
+DataRecordId = NBNSYS0000006991
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NO13
+NY22
+NY25
+NZ14
+SC49
+SD37
+SD38
+SD47
+SD48
+SD53
+SD58
+SD70
+SE58
+SE69
+SE88
+SE89
+SH53
+SH61
+SH71
+SJ35
+SJ43
+SJ60
+SJ74
+SK73
+SM72
+SM93
+SN02
+SN90
+SO77
+SP37
+SP99
+SS64
+ST97
+SU20
+SU50
+SU51
+SU71
+SU73
+SU93
+SW84
+SX55
+SX56
+SX65
+SX76
+SZ08
+TF37
+TL66
+TL95
+TQ14
+TQ15
+TQ25
+TQ41
+TQ42
+TQ46
+TQ49
+TQ51
+TQ71
+TQ81

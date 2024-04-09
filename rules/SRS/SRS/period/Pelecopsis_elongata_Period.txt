@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Pelecopsis elongata
+Description=Checks date is within known recording period of Pelecopsis elongata
+ErrorMsg=Date is outside known recording period of Pelecopsis elongata
+Tvk=NBNSYS0000009040
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Meioneta saxatilis sens. str.
+Description=Checks date is within known recording period of Meioneta saxatilis sens. str.
+ErrorMsg=Date is outside known recording period of Meioneta saxatilis sens. str.
+Tvk=NBNSYS0200000055
+StartDate=19190101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Dolomedes plantarius: check grid is in range
+Description=Check grid is in within range of Dolomedes plantarius
+ErrorMsg=Grid is outside known modern range of Dolomedes plantarius
+DataFieldName=Species
+DataRecordId=NBNSYS0000008832
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SS69
+SS79
+TM07
+TQ60

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Baryphyma duffeyi: check grid is in range
+Description=Check grid is in within range of Baryphyma duffeyi
+ErrorMsg=Grid is outside known modern range of Baryphyma duffeyi
+DataFieldName=Species
+DataRecordId=NBNSYS0000009013
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TM02
+TM34
+TM35
+TM44
+TQ57
+TQ67
+TQ76
+TQ78
+TQ79

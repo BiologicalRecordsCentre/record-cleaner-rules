@@ -1,0 +1,46 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Platycheirus melanopsis: check grid is in range
+Description=Check grid is within known range of Platycheirus melanopsis
+ErrorMsg = Grid is outside known range of Platycheirus melanopsis
+DataFieldName = Species
+DataRecordId = NBNSYS0000006878
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NC10
+NC22
+NG30
+NH37
+NH38
+NH67
+NH80
+NH90
+NJ00
+NJ01
+NJ02
+NJ60
+NM39
+NN17
+NN22
+NN32
+NN33
+NN43
+NN48
+NN49
+NN53
+NN54
+NN55
+NN63
+NN64
+NN65
+NN75
+NN97
+NN99
+NO17
+NO19
+NY21
+NY31
+NY42

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Centromerus incilium
+Description=Checks date is within known recording period of Centromerus incilium
+ErrorMsg=Date is outside known recording period of Centromerus incilium
+Tvk=NBNSYS0000009174
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

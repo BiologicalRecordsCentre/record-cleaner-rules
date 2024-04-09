@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Mangora acalypha
+Description=Checks date is within known recording period of Mangora acalypha
+ErrorMsg=Date is outside known recording period of Mangora acalypha
+Tvk=NBNSYS0000008962
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

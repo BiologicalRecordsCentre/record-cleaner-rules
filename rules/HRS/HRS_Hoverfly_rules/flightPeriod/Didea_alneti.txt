@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Didea alneti: check date is during flight period
+Description=Check date is during the known flight period for Didea alneti
+tvk = NBNSYS0000006907
+startDate = 0514
+endDate = 0920
+ErrorMsg = Date is outside flight period for Didea alneti
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0514
+endDate = 0920
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0514
+endDate = 0920

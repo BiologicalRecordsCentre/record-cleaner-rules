@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Nesticus cellulanus
+Description=Checks date is within known recording period of Nesticus cellulanus
+ErrorMsg=Date is outside known recording period of Nesticus cellulanus
+Tvk=NBNSYS0000008915
+StartDate=18000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

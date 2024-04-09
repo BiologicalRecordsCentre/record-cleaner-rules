@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Criorhina floccosa: check date is during flight period
+Description=Check date is during the known flight period for Criorhina floccosa
+tvk = NBNSYS0000007107
+startDate = 0405
+endDate = 1007
+ErrorMsg = Date is outside flight period for Criorhina floccosa
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0405
+endDate = 1007
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0405
+endDate = 1007

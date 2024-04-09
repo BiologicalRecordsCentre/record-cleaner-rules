@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Tegenaria ferruginea: check date is during identifiable season
+Description=Check date is during known identifiable season for Tegenaria ferruginea
+tvk=NBNSYS0200000104
+ErrorMsg=Date is outside the normal season for adult or identifiable Tegenaria ferruginea
+DataFieldName=Stage
+StartDate=0422
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]

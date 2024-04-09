@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Porrhomma campbelli
+Description=Checks date is within known recording period of Porrhomma campbelli
+ErrorMsg=Date is outside known recording period of Porrhomma campbelli
+Tvk=NBNSYS0000009142
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

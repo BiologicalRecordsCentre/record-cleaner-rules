@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Eupeodes latifasciatus: check date is during flight period
+Description=Check date is during the known flight period for Eupeodes latifasciatus
+tvk = NBNSYS0100003109
+startDate = 0111
+endDate = 1217
+ErrorMsg = Date is outside flight period for Eupeodes latifasciatus
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0111
+endDate = 1217
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0111
+endDate = 1217

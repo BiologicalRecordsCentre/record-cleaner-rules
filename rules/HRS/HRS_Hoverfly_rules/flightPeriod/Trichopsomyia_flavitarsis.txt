@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Trichopsomyia flavitarsis: check date is during flight period
+Description=Check date is during the known flight period for Trichopsomyia flavitarsis
+tvk = NBNSYS0000007089
+startDate = 0424
+endDate = 0907
+ErrorMsg = Date is outside flight period for Trichopsomyia flavitarsis
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0424
+endDate = 0907
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0424
+endDate = 0907

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Leptothrix hardyi
+Description=Checks date is within known recording period of Leptothrix hardyi
+ErrorMsg=Date is outside known recording period of Leptothrix hardyi
+Tvk=NBNSYS0000009120
+StartDate=18480101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

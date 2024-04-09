@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Platyptilia calodactyla temporal check
+Description=Check date of record against known temporal limit of Platyptilia calodactyla
+Tvk=NHMSYS0000503851
+ErrorMsg=Date outside known temporal limit for Platyptilia calodactyla
+StartDate=18000101
+EndDate=
+LastChanged=20140113
+[EndMetadata]
+

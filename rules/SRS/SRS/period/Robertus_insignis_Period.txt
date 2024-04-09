@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Robertus insignis
+Description=Checks date is within known recording period of Robertus insignis
+ErrorMsg=Date is outside known recording period of Robertus insignis
+Tvk=NBNSYS0000008912
+StartDate=19000101
+EndDate=19881231
+LastChanged=20120316
+[EndMetadata]

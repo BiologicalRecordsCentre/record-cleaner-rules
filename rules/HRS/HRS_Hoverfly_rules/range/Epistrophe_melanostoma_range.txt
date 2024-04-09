@@ -1,0 +1,32 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Epistrophe melanostoma: check grid is in range
+Description=Check grid is within known range of Epistrophe melanostoma
+ErrorMsg = Grid is outside known range of Epistrophe melanostoma
+DataFieldName = Species
+DataRecordId = NBNSYS0000033212
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+SP80
+SU66
+SU71
+SU77
+SU85
+SU94
+SU95
+SY89
+TQ04
+TQ05
+TQ07
+TQ15
+TQ17
+TQ24
+TQ26
+TQ36
+TQ44
+TQ82
+TR04
+TR15

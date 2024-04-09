@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Araeoncus crassiceps
+Description=Checks date is within known recording period of Araeoncus crassiceps
+ErrorMsg=Date is outside known recording period of Araeoncus crassiceps
+Tvk=NBNSYS0000009094
+StartDate=18940101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

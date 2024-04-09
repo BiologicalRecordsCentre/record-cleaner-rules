@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Coleosoma floridanum
+Description=Checks date is within known recording period of Coleosoma floridanum
+ErrorMsg=Date is outside known recording period of Coleosoma floridanum
+Tvk=NBNSYS0200000058
+StartDate=19660101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

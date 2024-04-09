@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Nothophantes horridus: check grid is in range
+Description=Check grid is in within range of Nothophantes horridus
+ErrorMsg=Grid is outside known modern range of Nothophantes horridus
+DataFieldName=Species
+DataRecordId=NBNSYS0100004280
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SX45

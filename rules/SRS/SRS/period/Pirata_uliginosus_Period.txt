@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Pirata uliginosus
+Description=Checks date is within known recording period of Pirata uliginosus
+ErrorMsg=Date is outside known recording period of Pirata uliginosus
+Tvk=NBNSYS0000008826
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

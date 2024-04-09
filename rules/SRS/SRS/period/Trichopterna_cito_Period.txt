@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Trichopterna cito
+Description=Checks date is within known recording period of Trichopterna cito
+ErrorMsg=Date is outside known recording period of Trichopterna cito
+Tvk=NBNSYS0000009034
+StartDate=19560101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

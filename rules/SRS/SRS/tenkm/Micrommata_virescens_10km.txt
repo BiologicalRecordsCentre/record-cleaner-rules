@@ -1,0 +1,56 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Micrommata virescens: check grid is in range
+Description=Check grid is in within range of Micrommata virescens
+ErrorMsg=Grid is outside known modern range of Micrommata virescens
+DataFieldName=Species
+DataRecordId=NBNSYS0000008715
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NR49
+SD96
+SH64
+SO50
+SO62
+SO76
+SO77
+SO78
+SO80
+SO90
+SO91
+SP01
+SS92
+SS94
+ST13
+ST14
+ST49
+ST87
+ST91
+SU20
+SU21
+SU22
+SU24
+SU42
+SU82
+SU86
+SU90
+SU94
+SU95
+SY59
+SY89
+TL09
+TL77
+TQ28
+TQ42
+TQ43
+TQ47
+TQ64
+TQ73
+TQ81
+TQ83
+TR05
+TR15
+TR16

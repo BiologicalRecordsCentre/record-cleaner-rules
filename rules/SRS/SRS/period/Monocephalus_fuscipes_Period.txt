@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Monocephalus fuscipes
+Description=Checks date is within known recording period of Monocephalus fuscipes
+ErrorMsg=Date is outside known recording period of Monocephalus fuscipes
+Tvk=NBNSYS0000009069
+StartDate=18350101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

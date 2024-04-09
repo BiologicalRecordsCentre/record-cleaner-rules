@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Anyphaena sabina
+Description=Checks date is within known recording period of Anyphaena sabina
+ErrorMsg=Date is outside known recording period of Anyphaena sabina
+Tvk=NHMSYS0020953641
+StartDate=20110101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

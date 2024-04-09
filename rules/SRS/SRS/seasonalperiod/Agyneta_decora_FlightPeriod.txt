@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Agyneta decora: check date is during identifiable season
+Description=Check date is during known identifiable season for Agyneta decora
+tvk=NBNSYS0000009150
+ErrorMsg=Date is outside the normal season for adult or identifiable Agyneta decora
+DataFieldName=Stage
+StartDate=0417
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0419
+EndDate=0831
+
+Stage=Adult Female,Female
+StartDate=0422
+EndDate=0831

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Diplocentria bidentata
+Description=Checks date is within known recording period of Diplocentria bidentata
+ErrorMsg=Date is outside known recording period of Diplocentria bidentata
+Tvk=NBNSYS0000009101
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

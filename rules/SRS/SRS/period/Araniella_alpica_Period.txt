@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Araniella alpica
+Description=Checks date is within known recording period of Araniella alpica
+ErrorMsg=Date is outside known recording period of Araniella alpica
+Tvk=NBNSYS0000008953
+StartDate=18000101
+EndDate=19961231
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Haplodrassus soerenseni: check grid is in range
+Description=Check grid is in within range of Haplodrassus soerenseni
+ErrorMsg=Grid is outside known modern range of Haplodrassus soerenseni
+DataFieldName=Species
+DataRecordId=NBNSYS0000008648
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NH91
+NJ01

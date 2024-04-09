@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Pardosa trailli: check grid is in range
+Description=Check grid is in within range of Pardosa trailli
+ErrorMsg=Grid is outside known modern range of Pardosa trailli
+DataFieldName=Species
+DataRecordId=NBNSYS0000008805
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NG42
+NN48
+NN99
+NO19
+SH60
+SH61

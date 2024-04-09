@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Zodarion fuscum
+Description=Checks date is within known recording period of Zodarion fuscum
+ErrorMsg=Date is outside known recording period of Zodarion fuscum
+Tvk=NBNSYS0100006050
+StartDate=19970101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Larinioides sclopetarius
+Description=Checks date is within known recording period of Larinioides sclopetarius
+ErrorMsg=Date is outside known recording period of Larinioides sclopetarius
+Tvk=NBNSYS0000008943
+StartDate=18940101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Baryphyma gowerense
+Description=Checks date is within known recording period of Baryphyma gowerense
+ErrorMsg=Date is outside known recording period of Baryphyma gowerense
+Tvk=NBNSYS0000009014
+StartDate=18000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

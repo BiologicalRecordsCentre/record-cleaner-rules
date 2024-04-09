@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Achaearanea riparia: check grid is in range
+Description=Check grid is in within range of Achaearanea riparia
+ErrorMsg=Grid is outside known modern range of Achaearanea riparia
+DataFieldName=Species
+DataRecordId=NBNSYS0000008883
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NY33
+SE76
+SK79
+SK90
+SO83
+SP14
+SP91
+SU03
+TL11
+TL54
+TL84
+TL93
+TM09
+TM22
+TR25
+TR35

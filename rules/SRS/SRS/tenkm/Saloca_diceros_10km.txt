@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Saloca diceros: check grid is in range
+Description=Check grid is in within range of Saloca diceros
+ErrorMsg=Grid is outside known modern range of Saloca diceros
+DataFieldName=Species
+DataRecordId=NBNSYS0000009072
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SJ72
+SK07
+SK40
+SK58
+SK68
+SK72
+SK90
+SO25
+SP49
+SP59
+SP85
+SP96
+SU56
+SU59
+TL02
+TL03
+TL41
+TL44
+TL61
+TL63
+TL66
+TL73
+TM02
+TM13
+TM24
+TM35
+TM47
+TM49

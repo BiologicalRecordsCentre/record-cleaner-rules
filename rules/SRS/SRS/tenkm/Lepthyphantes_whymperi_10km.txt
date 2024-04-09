@@ -1,0 +1,57 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Lepthyphantes whymperi: check grid is in range
+Description=Check grid is in within range of Lepthyphantes whymperi
+ErrorMsg=Grid is outside known modern range of Lepthyphantes whymperi
+DataFieldName=Species
+DataRecordId=NBNSYS0000009212
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+HY40
+HY41
+NC11
+NC34
+NC43
+NC63
+NG42
+NG90
+NG95
+NG96
+NH01
+NH03
+NH08
+NH17
+NH24
+NH28
+NH34
+NH90
+NM77
+NN03
+NN13
+NN15
+NN16
+NN17
+NN20
+NN24
+NN25
+NN26
+NN46
+NN47
+NN48
+NN49
+NN50
+NN53
+NN58
+NN64
+NN97
+NN98
+NN99
+NO17
+NR57
+SH54
+SH55
+SH66
+SJ03

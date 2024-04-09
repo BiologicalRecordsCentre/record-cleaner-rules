@@ -1,0 +1,32 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Ozyptila nigrita: check grid is in range
+Description=Check grid is in within range of Ozyptila nigrita
+ErrorMsg=Grid is outside known modern range of Ozyptila nigrita
+DataFieldName=Species
+DataRecordId=NBNSYS0000008734
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SP80
+ST81
+ST87
+ST91
+SU23
+SU62
+SU71
+SU79
+SY49
+SY69
+SZ08
+SZ48
+TQ04
+TQ14
+TQ15
+TQ66
+TQ76
+TQ77
+TQ95
+TR35

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Amblyptilia punctidactyla temporal check
+Description=Check date of record against known temporal limit of Amblyptilia punctidactyla
+Tvk=NHMSYS0000501211
+ErrorMsg=Date outside known temporal limit for Amblyptilia punctidactyla
+StartDate=18000101
+EndDate=
+LastChanged=20140113
+[EndMetadata]
+

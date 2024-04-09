@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Macrargus carpenteri: check grid is in range
+Description=Check grid is in within range of Macrargus carpenteri
+ErrorMsg=Grid is outside known modern range of Macrargus carpenteri
+DataFieldName=Species
+DataRecordId=NBNSYS0000009190
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NH01
+NH17
+NH46
+NH80
+NJ00
+NJ30
+NM86
+NM98
+NN23
+NN48
+NN52
+NN61
+NN68
+NO09
+NO17
+NO37
+NY01
+NY73

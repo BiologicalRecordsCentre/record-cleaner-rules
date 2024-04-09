@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Amaurobius fenestralis
+Description=Checks date is within known recording period of Amaurobius fenestralis
+ErrorMsg=Date is outside known recording period of Amaurobius fenestralis
+Tvk=NBNSYS0000008610
+StartDate=18580101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

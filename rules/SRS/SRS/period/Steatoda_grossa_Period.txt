@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Steatoda grossa
+Description=Checks date is within known recording period of Steatoda grossa
+ErrorMsg=Date is outside known recording period of Steatoda grossa
+Tvk=NBNSYS0000008878
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

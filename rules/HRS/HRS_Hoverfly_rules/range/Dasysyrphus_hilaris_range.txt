@@ -1,0 +1,46 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Dasysyrphus hilaris: check grid is in range
+Description=Check grid is within known range of Dasysyrphus hilaris
+ErrorMsg = Grid is outside known range of Dasysyrphus hilaris
+DataFieldName = Species
+DataRecordId = NBNSYS0100022475
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NC50
+NH42
+NH53
+NH69
+NJ90
+SD20
+SD30
+SD47
+SD53
+SD63
+SD73
+SD81
+SD82
+SD92
+SE43
+SE68
+SJ76
+SJ99
+SK26
+SK28
+SK36
+SK48
+SK54
+SK55
+SK66
+SK77
+SP37
+SP91
+SS69
+ST19
+ST93
+SU20
+SU30
+SU33

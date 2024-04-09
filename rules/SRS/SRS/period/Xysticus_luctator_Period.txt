@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Xysticus luctator
+Description=Checks date is within known recording period of Xysticus luctator
+ErrorMsg=Date is outside known recording period of Xysticus luctator
+Tvk=NBNSYS0000008727
+StartDate=18540101
+EndDate=19951231
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Typhochrestus simoni: check grid is in range
+Description=Check grid is in within range of Typhochrestus simoni
+ErrorMsg=Grid is outside known modern range of Typhochrestus simoni
+DataFieldName=Species
+DataRecordId=NBNSYS0000009099
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SY67

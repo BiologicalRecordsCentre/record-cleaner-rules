@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Scotophaeus scutulatus
+Description=Checks date is within known recording period of Scotophaeus scutulatus
+ErrorMsg=Date is outside known recording period of Scotophaeus scutulatus
+Tvk=NBNSYS0000008652
+StartDate=19890101
+EndDate=20011231
+LastChanged=20120316
+[EndMetadata]

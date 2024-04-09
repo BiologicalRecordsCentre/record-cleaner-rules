@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Haplodrassus silvestris
+Description=Checks date is within known recording period of Haplodrassus silvestris
+ErrorMsg=Date is outside known recording period of Haplodrassus silvestris
+Tvk=NBNSYS0000008649
+StartDate=18330101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

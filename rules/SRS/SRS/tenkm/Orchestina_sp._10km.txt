@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Orchestina sp.: check grid is in range
+Description=Check grid is in within range of Orchestina sp.
+ErrorMsg=Grid is outside known modern range of Orchestina sp.
+DataFieldName=Species
+DataRecordId=NHMSYS0000355803
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TL93

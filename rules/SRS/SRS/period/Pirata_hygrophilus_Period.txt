@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Pirata hygrophilus
+Description=Checks date is within known recording period of Pirata hygrophilus
+ErrorMsg=Date is outside known recording period of Pirata hygrophilus
+Tvk=NBNSYS0000008825
+StartDate=18950101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

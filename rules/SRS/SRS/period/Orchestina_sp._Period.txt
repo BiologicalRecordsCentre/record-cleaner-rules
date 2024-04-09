@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Orchestina sp.
+Description=Checks date is within known recording period of Orchestina sp.
+ErrorMsg=Date is outside known recording period of Orchestina sp.
+Tvk=NHMSYS0000355803
+StartDate=19920101
+EndDate=19941231
+LastChanged=20120316
+[EndMetadata]

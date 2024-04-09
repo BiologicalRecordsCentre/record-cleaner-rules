@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Pachygnatha listeri
+Description=Checks date is within known recording period of Pachygnatha listeri
+ErrorMsg=Date is outside known recording period of Pachygnatha listeri
+Tvk=NBNSYS0000008924
+StartDate=18640101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

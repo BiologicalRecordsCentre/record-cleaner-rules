@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Pseudomaro aenigmaticus: check grid is in range
+Description=Check grid is in within range of Pseudomaro aenigmaticus
+ErrorMsg=Grid is outside known modern range of Pseudomaro aenigmaticus
+DataFieldName=Species
+DataRecordId=NBNSYS0000009135
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU33
+SU42
+SX44
+TL11

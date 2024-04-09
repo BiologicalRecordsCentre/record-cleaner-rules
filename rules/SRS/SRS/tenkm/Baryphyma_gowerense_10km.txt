@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Baryphyma gowerense: check grid is in range
+Description=Check grid is in within range of Baryphyma gowerense
+ErrorMsg=Grid is outside known modern range of Baryphyma gowerense
+DataFieldName=Species
+DataRecordId=NBNSYS0000009014
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SH33
+SH48
+SH57
+SN50
+SN69
+SS69
+SS79
+TG31
+TG32

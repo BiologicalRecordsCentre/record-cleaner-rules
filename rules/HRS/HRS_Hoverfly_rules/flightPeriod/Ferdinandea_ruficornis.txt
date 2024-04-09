@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Ferdinandea ruficornis: check date is during flight period
+Description=Check date is during the known flight period for Ferdinandea ruficornis
+tvk = NBNSYS0000007008
+startDate = 0402
+endDate = 0912
+ErrorMsg = Date is outside flight period for Ferdinandea ruficornis
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0402
+endDate = 0912
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0402
+endDate = 0912

@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Tiso aestivus: check grid is in range
+Description=Check grid is in within range of Tiso aestivus
+ErrorMsg=Grid is outside known modern range of Tiso aestivus
+DataFieldName=Species
+DataRecordId=NBNSYS0000009056
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NC43
+NC44
+NG74
+NG80
+NG94
+NG95
+NG96
+NH00
+NH01
+NH03
+NH04
+NH07
+NH13
+NH17
+NH24
+NH34
+NH38
+NH48
+NH90
+NJ00
+NN16
+NN24
+NN25
+NN29
+NN41
+NN46
+NN47
+NN48
+NN53
+NN54
+NN64
+NN96
+NN97
+NN98
+NN99
+NO07
+NO17
+SH66

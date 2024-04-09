@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Pardosa prativaga
+Description=Checks date is within known recording period of Pardosa prativaga
+ErrorMsg=Date is outside known recording period of Pardosa prativaga
+Tvk=NBNSYS0000008799
+StartDate=18900101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

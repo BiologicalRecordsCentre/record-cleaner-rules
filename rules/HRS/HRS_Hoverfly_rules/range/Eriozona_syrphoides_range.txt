@@ -1,0 +1,94 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Eriozona syrphoides: check grid is in range
+Description=Check grid is within known range of Eriozona syrphoides
+ErrorMsg = Grid is outside known range of Eriozona syrphoides
+DataFieldName = Species
+DataRecordId = NBNSYS0000006917
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NC50
+NC51
+NC52
+NG84
+NH05
+NH33
+NH45
+NH59
+NH64
+NH90
+NJ20
+NJ62
+NJ66
+NN46
+NN76
+NO64
+NS39
+NS68
+NS78
+NT31
+NT90
+NT91
+NX56
+NX89
+NX99
+NY11
+NY25
+NY44
+NY69
+NY79
+NZ00
+NZ02
+NZ03
+NZ04
+NZ50
+SC49
+SD29
+SD39
+SD46
+SD94
+SE06
+SE10
+SE15
+SE21
+SE58
+SE67
+SE69
+SE78
+SE89
+SH53
+SH63
+SH64
+SH67
+SH71
+SH72
+SH73
+SH74
+SH75
+SH83
+SH84
+SJ97
+SK29
+SK39
+SN02
+SN03
+SN61
+SN63
+SN64
+SN68
+SN69
+SN85
+SN90
+SO01
+SO38
+SO61
+SP37
+ST66
+ST70
+SU29
+SU50
+SU51
+SX88

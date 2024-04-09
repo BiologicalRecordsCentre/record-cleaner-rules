@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Pelecopsis parallela: check date is during identifiable season
+Description=Check date is during known identifiable season for Pelecopsis parallela
+tvk=NBNSYS0000009036
+ErrorMsg=Date is outside the normal season for adult or identifiable Pelecopsis parallela
+DataFieldName=Stage
+StartDate=0120
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0120
+EndDate=1130
+
+Stage=Adult Female,Female
+StartDate=0317
+EndDate=1130

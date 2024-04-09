@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Centromerus incilium: check grid is in range
+Description=Check grid is in within range of Centromerus incilium
+ErrorMsg=Grid is outside known modern range of Centromerus incilium
+DataFieldName=Species
+DataRecordId=NBNSYS0000009174
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU23
+SU25
+TL02
+TL03
+TL33
+TL34
+TL44
+TL78
+TL84
+TL89
+TL91
+TL92
+TM01
+TM02
+TM03
+TQ27
+TQ68
+TQ78
+TQ88
+TQ98
+TQ99
+TR35

@@ -1,0 +1,97 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Cheilosia mutabilis: check grid is in range
+Description=Check grid is within known range of Cheilosia mutabilis
+ErrorMsg = Grid is outside known range of Cheilosia mutabilis
+DataFieldName = Species
+DataRecordId = NBNSYS0000006989
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NH95
+NJ02
+NN95
+NY73
+SD20
+SD21
+SD47
+SD70
+SE11
+SE12
+SE13
+SE21
+SE30
+SE31
+SE33
+SE40
+SE42
+SE50
+SE74
+SE90
+SH46
+SH53
+SJ29
+SJ35
+SJ37
+SJ39
+SJ48
+SJ53
+SJ98
+SK33
+SK37
+SK38
+SK39
+SK44
+SK47
+SK48
+SK49
+SK53
+SK55
+SK58
+SK68
+SK70
+SK86
+SM72
+SO22
+SO24
+SO77
+ST19
+ST57
+ST76
+SU00
+SU02
+SU20
+SU21
+SU49
+SU51
+SU73
+SU82
+SU91
+SU97
+SW54
+SW85
+SX06
+SX55
+SX65
+SX83
+SX84
+SZ08
+SZ09
+TL03
+TL21
+TL81
+TL82
+TL98
+TM37
+TQ15
+TQ17
+TQ25
+TQ47
+TQ56
+TQ63
+TQ65
+TQ94
+TR05
+TR16

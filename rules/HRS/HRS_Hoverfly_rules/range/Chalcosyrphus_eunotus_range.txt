@@ -1,0 +1,42 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Chalcosyrphus eunotus: check grid is in range
+Description=Check grid is within known range of Chalcosyrphus eunotus
+ErrorMsg = Grid is outside known range of Chalcosyrphus eunotus
+DataFieldName = Species
+DataRecordId = NBNSYS0000007104
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+SH67
+SJ17
+SJ30
+SJ34
+SJ35
+SJ40
+SJ43
+SJ50
+SJ51
+SJ60
+SJ91
+SK01
+SK04
+SO32
+SO42
+SO46
+SO58
+SO72
+SO73
+SO75
+SO77
+SO78
+SO86
+SO87
+SP06
+SP13
+ST50
+ST66
+ST75
+SU49

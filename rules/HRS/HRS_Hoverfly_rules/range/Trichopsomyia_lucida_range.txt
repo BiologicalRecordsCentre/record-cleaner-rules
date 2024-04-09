@@ -1,0 +1,13 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Trichopsomyia lucida: check grid is in range
+Description=Check grid is within known range of Trichopsomyia lucida
+ErrorMsg = Grid is outside known range of Trichopsomyia lucida
+DataFieldName = Species
+DataRecordId = NHMSYS0020978356
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+TQ38

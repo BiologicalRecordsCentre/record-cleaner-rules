@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Sitticus pubescens
+Description=Checks date is within known recording period of Sitticus pubescens
+ErrorMsg=Date is outside known recording period of Sitticus pubescens
+Tvk=NBNSYS0000008778
+StartDate=18280101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

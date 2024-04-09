@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Thanatus striatus
+Description=Checks date is within known recording period of Thanatus striatus
+ErrorMsg=Date is outside known recording period of Thanatus striatus
+Tvk=NBNSYS0000008752
+StartDate=18980101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

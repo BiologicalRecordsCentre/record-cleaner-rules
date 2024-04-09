@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Donacochara speciosa: check grid is in range
+Description=Check grid is in within range of Donacochara speciosa
+ErrorMsg=Grid is outside known modern range of Donacochara speciosa
+DataFieldName=Species
+DataRecordId=NBNSYS0000009117
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SE51
+SH57
+SH76
+SJ72
+TA14
+TF70
+TF74
+TF91
+TG20
+TG30
+TG31
+TG32
+TG42
+TL44
+TL66
+TL68
+TL78
+TL99
+TM09
+TM47
+TQ57
+TQ78
+TR06

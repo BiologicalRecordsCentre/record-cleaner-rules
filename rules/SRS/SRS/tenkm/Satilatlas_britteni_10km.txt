@@ -1,0 +1,51 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Satilatlas britteni: check grid is in range
+Description=Check grid is in within range of Satilatlas britteni
+ErrorMsg=Grid is outside known modern range of Satilatlas britteni
+DataFieldName=Species
+DataRecordId=NBNSYS0000009066
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NC73
+NC74
+ND13
+ND36
+NG24
+NG43
+NG79
+NM66
+NM76
+NN35
+NX48
+SD34
+SD37
+SD45
+SD47
+SD66
+SH33
+SH44
+SH46
+SH48
+SH73
+SH74
+SJ56
+SN03
+SN13
+SN23
+SN44
+SN56
+SN65
+SN66
+SN70
+SN75
+SN76
+SN81
+SN87
+SO05
+SS69
+SU31
+SZ19

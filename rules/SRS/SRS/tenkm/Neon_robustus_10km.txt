@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Neon robustus: check grid is in range
+Description=Check grid is in within range of Neon robustus
+ErrorMsg=Grid is outside known modern range of Neon robustus
+DataFieldName=Species
+DataRecordId=NBNSYS0100004214
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NG42
+NH80
+NT27
+NT33
+NY01
+NY10
+NY11
+NY21
+NY31
+NY33
+NZ81
+SD96
+SH55
+SH61
+SH65
+SH66
+SH77
+SH78
+SH83
+SJ30
+SJ39
+SM72
+SN96
+SO00
+SO39
+SS94
+SY67
+SY77
+TM44
+TM45

@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Eristalis horticola: check date is during flight period
+Description=Check date is during the known flight period for Eristalis horticola
+tvk = NBNSYS0000007049
+startDate = 0206
+endDate = 1218
+ErrorMsg = Date is outside flight period for Eristalis horticola
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0206
+endDate = 1218
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0206
+endDate = 1218

@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Apostenus fuscus: check grid is in range
+Description=Check grid is in within range of Apostenus fuscus
+ErrorMsg=Grid is outside known modern range of Apostenus fuscus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008705
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TR01

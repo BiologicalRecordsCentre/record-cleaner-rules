@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Lepthyphantes expunctus
+Description=Checks date is within known recording period of Lepthyphantes expunctus
+ErrorMsg=Date is outside known recording period of Lepthyphantes expunctus
+Tvk=NBNSYS0000009228
+StartDate=18930101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

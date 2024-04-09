@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Agroeca dentigera: check grid is in range
+Description=Check grid is in within range of Agroeca dentigera
+ErrorMsg=Grid is outside known modern range of Agroeca dentigera
+DataFieldName=Species
+DataRecordId=NHMSYS0000354312
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SN69

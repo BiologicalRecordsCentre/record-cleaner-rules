@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Robertus arundineti: check date is during identifiable season
+Description=Check date is during known identifiable season for Robertus arundineti
+tvk=NBNSYS0000008909
+ErrorMsg=Date is outside the normal season for adult or identifiable Robertus arundineti
+DataFieldName=Stage
+StartDate=0416
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0418
+EndDate=1130
+
+Stage=Adult Female,Female
+StartDate=0323
+EndDate=1231

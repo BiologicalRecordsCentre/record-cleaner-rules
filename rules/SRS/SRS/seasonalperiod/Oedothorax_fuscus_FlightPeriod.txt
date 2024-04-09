@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Oedothorax fuscus: check date is during identifiable season
+Description=Check date is during known identifiable season for Oedothorax fuscus
+tvk=NBNSYS0000009029
+ErrorMsg=Date is outside the normal season for adult or identifiable Oedothorax fuscus
+DataFieldName=Stage
+StartDate=0221
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0416
+EndDate=1130
+
+Stage=Adult Female,Female
+StartDate=0215
+EndDate=1031

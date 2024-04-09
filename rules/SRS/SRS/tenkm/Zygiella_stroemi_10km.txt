@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Zygiella stroemi: check grid is in range
+Description=Check grid is in within range of Zygiella stroemi
+ErrorMsg=Grid is outside known modern range of Zygiella stroemi
+DataFieldName=Species
+DataRecordId=NBNSYS0000008933
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SO34
+SO65
+SP41
+SP50
+SP74
+SP86
+SU26
+SU32
+SU56
+SU59
+SU82
+SU83
+SU92
+SU94

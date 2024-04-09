@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Hahnia helveola
+Description=Checks date is within known recording period of Hahnia helveola
+ErrorMsg=Date is outside known recording period of Hahnia helveola
+Tvk=NBNSYS0000008856
+StartDate=18930101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

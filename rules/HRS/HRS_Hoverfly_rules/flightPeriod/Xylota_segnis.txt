@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Xylota segnis: check date is during flight period
+Description=Check date is during the known flight period for Xylota segnis
+tvk = NBNSYS0000007115
+startDate = 0108
+endDate = 1121
+ErrorMsg = Date is outside flight period for Xylota segnis
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0108
+endDate = 1121
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0108
+endDate = 1121

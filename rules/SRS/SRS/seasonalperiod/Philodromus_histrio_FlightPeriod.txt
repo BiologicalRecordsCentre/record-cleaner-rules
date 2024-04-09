@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Philodromus histrio: check date is during identifiable season
+Description=Check date is during known identifiable season for Philodromus histrio
+tvk=NBNSYS0000008748
+ErrorMsg=Date is outside the normal season for adult or identifiable Philodromus histrio
+DataFieldName=Stage
+StartDate=0417
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0125
+EndDate=0630
+
+Stage=Adult Female,Female
+StartDate=0416
+EndDate=0731

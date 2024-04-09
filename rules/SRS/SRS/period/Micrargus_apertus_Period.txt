@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Micrargus apertus
+Description=Checks date is within known recording period of Micrargus apertus
+ErrorMsg=Date is outside known recording period of Micrargus apertus
+Tvk=NBNSYS0000009077
+StartDate=19640101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Lepthyphantes insignis
+Description=Checks date is within known recording period of Lepthyphantes insignis
+ErrorMsg=Date is outside known recording period of Lepthyphantes insignis
+Tvk=NBNSYS0000009223
+StartDate=18000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

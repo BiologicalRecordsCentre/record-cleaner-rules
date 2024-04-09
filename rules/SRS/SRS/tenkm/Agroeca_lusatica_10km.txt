@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Agroeca lusatica: check grid is in range
+Description=Check grid is in within range of Agroeca lusatica
+ErrorMsg=Grid is outside known modern range of Agroeca lusatica
+DataFieldName=Species
+DataRecordId=NBNSYS0000008702
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TR02
+TR35

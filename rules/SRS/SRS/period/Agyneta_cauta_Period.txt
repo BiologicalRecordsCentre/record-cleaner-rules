@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Agyneta cauta
+Description=Checks date is within known recording period of Agyneta cauta
+ErrorMsg=Date is outside known recording period of Agyneta cauta
+Tvk=NBNSYS0000009151
+StartDate=18720101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

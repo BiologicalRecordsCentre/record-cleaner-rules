@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Minicia marginella: check grid is in range
+Description=Check grid is in within range of Minicia marginella
+ErrorMsg=Grid is outside known modern range of Minicia marginella
+DataFieldName=Species
+DataRecordId=NBNSYS0000033180
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TR33

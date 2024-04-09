@@ -1,0 +1,55 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Pocota personata: check grid is in range
+Description=Check grid is within known range of Pocota personata
+ErrorMsg = Grid is outside known range of Pocota personata
+DataFieldName = Species
+DataRecordId = NBNSYS0000007109
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+SE68
+SJ20
+SJ22
+SJ34
+SJ36
+SJ44
+SJ51
+SJ92
+SK12
+SK27
+SK38
+SK64
+SO77
+SO83
+SP34
+SP40
+SP41
+SP50
+ST33
+ST36
+ST41
+ST50
+SU20
+SU21
+SU30
+SU73
+SU97
+SX77
+SZ58
+TF47
+TL11
+TL21
+TL23
+TL35
+TL38
+TL45
+TL92
+TQ27
+TQ28
+TQ29
+TQ37
+TQ47
+TQ49

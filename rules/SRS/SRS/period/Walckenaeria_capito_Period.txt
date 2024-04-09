@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Walckenaeria capito
+Description=Checks date is within known recording period of Walckenaeria capito
+ErrorMsg=Date is outside known recording period of Walckenaeria capito
+Tvk=NBNSYS0000008976
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

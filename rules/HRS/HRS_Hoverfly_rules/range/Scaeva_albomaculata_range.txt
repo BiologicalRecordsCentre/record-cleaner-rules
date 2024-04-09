@@ -1,0 +1,14 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Scaeva albomaculata: check grid is in range
+Description=Check grid is within known range of Scaeva albomaculata
+ErrorMsg = Grid is outside known range of Scaeva albomaculata
+DataFieldName = Species
+DataRecordId = NBNSYS0000006949
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+SZ38
+TQ50

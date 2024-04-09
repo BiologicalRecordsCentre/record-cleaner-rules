@@ -1,0 +1,12 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Porrhomma sp. nov.: check grid is in range
+Description=Check grid is in within range of Porrhomma sp. nov.
+ErrorMsg=Grid is outside known modern range of Porrhomma sp. nov.
+DataFieldName=Species
+DataRecordId=NHMSYS0020953703
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]

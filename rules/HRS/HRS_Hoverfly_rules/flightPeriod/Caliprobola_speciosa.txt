@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Caliprobola speciosa: check date is during flight period
+Description=Check date is during the known flight period for Caliprobola speciosa
+tvk = NBNSYS0000007102
+startDate = 0503
+endDate = 0630
+ErrorMsg = Date is outside flight period for Caliprobola speciosa
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0503
+endDate = 0630
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0503
+endDate = 0630

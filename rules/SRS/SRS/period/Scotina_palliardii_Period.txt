@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Scotina palliardii
+Description=Checks date is within known recording period of Scotina palliardii
+ErrorMsg=Date is outside known recording period of Scotina palliardii
+Tvk=NBNSYS0100005466
+StartDate=19000101
+EndDate=20021231
+LastChanged=20120316
+[EndMetadata]

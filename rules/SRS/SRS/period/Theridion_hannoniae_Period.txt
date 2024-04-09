@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Theridion hannoniae
+Description=Checks date is within known recording period of Theridion hannoniae
+ErrorMsg=Date is outside known recording period of Theridion hannoniae
+Tvk=NHMSYS0020953717
+StartDate=20070101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

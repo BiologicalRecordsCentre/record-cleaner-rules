@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Pselnophorus heterodactyla temporal check
+Description=Check date of record against known temporal limit of Pselnophorus heterodactyla
+Tvk=NHMSYS0000503933
+ErrorMsg=Date outside known temporal limit for Pselnophorus heterodactyla
+StartDate=18000101
+EndDate=
+LastChanged=20140113
+[EndMetadata]
+

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Neon valentulus: check grid is in range
+Description=Check grid is in within range of Neon valentulus
+ErrorMsg=Grid is outside known modern range of Neon valentulus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008770
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TL57
+TM17

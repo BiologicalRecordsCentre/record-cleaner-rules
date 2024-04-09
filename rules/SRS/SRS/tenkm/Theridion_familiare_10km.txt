@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Theridion familiare: check grid is in range
+Description=Check grid is in within range of Theridion familiare
+ErrorMsg=Grid is outside known modern range of Theridion familiare
+DataFieldName=Species
+DataRecordId=NBNSYS0000008893
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NG83
+NN33
+SK52
+SK90
+SP03
+SS22
+SU04
+SU09
+SU26
+SU28
+SU59
+SU94
+TL16
+TL25
+TL45
+TL52
+TL82
+TL92
+TL93
+TM02
+TM03
+TM22
+TM35
+TM37
+TM59
+TQ92

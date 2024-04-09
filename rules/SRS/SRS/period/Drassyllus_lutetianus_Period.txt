@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Drassyllus lutetianus
+Description=Checks date is within known recording period of Drassyllus lutetianus
+ErrorMsg=Date is outside known recording period of Drassyllus lutetianus
+Tvk=NBNSYS0000008662
+StartDate=19250101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

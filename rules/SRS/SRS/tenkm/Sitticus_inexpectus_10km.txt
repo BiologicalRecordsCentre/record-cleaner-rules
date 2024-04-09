@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Sitticus inexpectus: check grid is in range
+Description=Check grid is in within range of Sitticus inexpectus
+ErrorMsg=Grid is outside known modern range of Sitticus inexpectus
+DataFieldName=Species
+DataRecordId=NBNSYS0100005537
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+ST06
+SU60
+SU70
+SZ49
+SZ59
+SZ69
+SZ89
+TL90
+TL91
+TM00
+TM01
+TM11
+TM13
+TM22
+TM23
+TM33
+TM34
+TM44
+TM45
+TM47
+TQ60
+TQ91
+TQ98
+TR01
+TR06
+TR09
+TR26
+TR35
+TR36
+TV59

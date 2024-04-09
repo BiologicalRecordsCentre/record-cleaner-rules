@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Pachygnatha degeeri
+Description=Checks date is within known recording period of Pachygnatha degeeri
+ErrorMsg=Date is outside known recording period of Pachygnatha degeeri
+Tvk=NBNSYS0000008925
+StartDate=18580101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,48 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Clubiona norvegica: check grid is in range
+Description=Check grid is in within range of Clubiona norvegica
+ErrorMsg=Grid is outside known modern range of Clubiona norvegica
+DataFieldName=Species
+DataRecordId=NBNSYS0000008679
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NC41
+NC61
+NN33
+NN45
+NY92
+SD56
+SD61
+SD66
+SD77
+SE15
+SH55
+SH64
+SH66
+SH73
+SH74
+SH75
+SH76
+SH85
+SH91
+SH96
+SJ01
+SK05
+SK27
+SN56
+SN65
+SN66
+SN69
+SN70
+SN75
+SN76
+SN77
+SN78
+SN81
+SN86
+SN87
+SN99

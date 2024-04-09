@@ -1,0 +1,56 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Xysticus bifasciatus: check grid is in range
+Description=Check grid is in within range of Xysticus bifasciatus
+ErrorMsg=Grid is outside known modern range of Xysticus bifasciatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008726
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NN74
+NN95
+NN96
+NO04
+NO36
+NT43
+SE65
+SH72
+SJ81
+SN80
+SO53
+SO76
+SO77
+SO80
+SO90
+SP04
+SP40
+SP92
+SP96
+ST83
+ST87
+ST94
+SU02
+SU22
+SU23
+SU25
+SU62
+SU71
+SU79
+SU88
+SU94
+SY59
+TL03
+TL81
+TQ04
+TQ15
+TQ17
+TQ25
+TQ45
+TQ56
+TQ61
+TQ66
+TQ86
+TQ95

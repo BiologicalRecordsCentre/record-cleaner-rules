@@ -1,0 +1,42 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Psilota anthracina: check grid is in range
+Description=Check grid is within known range of Psilota anthracina
+ErrorMsg = Grid is outside known range of Psilota anthracina
+DataFieldName = Species
+DataRecordId = NBNSYS0000007070
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+SK12
+SK32
+SK53
+SK93
+SP23
+SP37
+SP38
+ST50
+ST90
+SU20
+SU21
+SU22
+SU23
+SU30
+SU31
+SU78
+SU87
+SU96
+SU97
+SY89
+TL21
+TL60
+TQ05
+TQ06
+TQ17
+TQ27
+TQ29
+TQ59
+TQ68
+TR15

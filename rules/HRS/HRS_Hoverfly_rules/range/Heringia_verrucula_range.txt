@@ -1,0 +1,31 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Heringia verrucula: check grid is in range
+Description=Check grid is within known range of Heringia verrucula
+ErrorMsg = Grid is outside known range of Heringia verrucula
+DataFieldName = Species
+DataRecordId = NBNSYS0100003451
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NC50
+NJ01
+NN55
+NO12
+NO42
+NT26
+SD20
+SD92
+SE65
+SE89
+SO53
+SU20
+SU22
+SU51
+TF02
+TL66
+TL77
+TL79
+TQ23

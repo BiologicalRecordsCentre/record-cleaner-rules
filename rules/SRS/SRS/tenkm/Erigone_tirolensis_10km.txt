@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Erigone tirolensis: check grid is in range
+Description=Check grid is in within range of Erigone tirolensis
+ErrorMsg=Grid is outside known modern range of Erigone tirolensis
+DataFieldName=Species
+DataRecordId=NBNSYS0000009107
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NC44
+NC54
+NG74
+NG91
+NG95
+NG96
+NH01
+NH03
+NH04
+NH06
+NH11
+NH12
+NH13
+NH17
+NH24
+NH27
+NH37
+NH46
+NH90
+NJ00
+NJ10
+NN17
+NN31
+NN34
+NN44
+NN46
+NN47
+NN48
+NN53
+NN54
+NN57
+NN61
+NN64
+NN67
+NN68
+NN98
+NN99
+NO07
+NO09
+NO17
+NO28

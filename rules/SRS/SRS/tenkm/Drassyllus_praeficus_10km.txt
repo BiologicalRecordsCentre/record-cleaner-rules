@@ -1,0 +1,39 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Drassyllus praeficus: check grid is in range
+Description=Check grid is in within range of Drassyllus praeficus
+ErrorMsg=Grid is outside known modern range of Drassyllus praeficus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008664
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SH78
+SO51
+SO73
+ST81
+ST87
+ST91
+SU01
+SU03
+SU14
+SU23
+SU25
+SU42
+SU56
+SU62
+SU69
+SX73
+SX77
+SY59
+SY69
+SY78
+SY88
+SY89
+SY99
+SZ08
+TL78
+TQ15
+TQ81

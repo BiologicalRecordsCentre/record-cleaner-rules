@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Sitticus floricola: check grid is in range
+Description=Check grid is in within range of Sitticus floricola
+ErrorMsg=Grid is outside known modern range of Sitticus floricola
+DataFieldName=Species
+DataRecordId=NBNSYS0000008780
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NX66
+SJ35
+SJ43
+SJ56
+SJ57
+SJ65
+SJ66

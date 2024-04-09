@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Buckleria paludum seasonal check
+Description=Check date of record agaist known seasonal limit of Buckleria paludum
+Tvk=NBNSYS0000027027
+ErrorMsg=Date outside known seasonal limit for Buckleria paludum
+StartDate=0501
+EndDate=0930
+LastChanged=20140113
+[EndMetadata]
+

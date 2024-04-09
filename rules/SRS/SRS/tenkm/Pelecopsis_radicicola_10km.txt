@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Pelecopsis radicicola: check grid is in range
+Description=Check grid is in within range of Pelecopsis radicicola
+ErrorMsg=Grid is outside known modern range of Pelecopsis radicicola
+DataFieldName=Species
+DataRecordId=NBNSYS0000009041
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SO53
+ST45

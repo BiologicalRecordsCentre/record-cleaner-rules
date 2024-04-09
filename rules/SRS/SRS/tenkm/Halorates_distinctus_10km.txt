@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Halorates distinctus: check grid is in range
+Description=Check grid is in within range of Halorates distinctus
+ErrorMsg=Grid is outside known modern range of Halorates distinctus
+DataFieldName=Species
+DataRecordId=NBNSYS0000009126
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NN53
+NN59
+NT19
+SD50
+SD56
+SD85
+SE45
+SE63
+SH54
+SH76
+SH90
+SK11
+SK22
+SK32
+SK42
+SK43
+SK50
+SK51
+SK52
+SK61
+SK64
+SN65
+SN66
+SN75
+SN87
+SO12
+SO82
+SO85
+SP29
+TL29
+TL48
+TL59
+TM26
+TM28

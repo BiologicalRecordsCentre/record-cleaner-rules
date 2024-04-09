@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Alucita hexadactyla temporal check
+Description=Check date of record against known temporal limit of Alucita hexadactyla
+Tvk=NHMSYS0000501204
+ErrorMsg=Date outside known temporal limit for Alucita hexadactyla
+StartDate=18000101
+EndDate=
+LastChanged=20140113
+[EndMetadata]
+

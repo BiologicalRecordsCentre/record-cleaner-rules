@@ -1,0 +1,12 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Dipoena coracina: check grid is in range
+Description=Check grid is in within range of Dipoena coracina
+ErrorMsg=Grid is outside known modern range of Dipoena coracina
+DataFieldName=Species
+DataRecordId=NBNSYS0000008870
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]

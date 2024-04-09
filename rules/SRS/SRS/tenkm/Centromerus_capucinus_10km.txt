@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Centromerus capucinus: check grid is in range
+Description=Check grid is in within range of Centromerus capucinus
+ErrorMsg=Grid is outside known modern range of Centromerus capucinus
+DataFieldName=Species
+DataRecordId=NBNSYS0000009173
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU59
+SU88
+SZ79
+TL11
+TL16
+TM11
+TM22
+TQ67
+TQ78

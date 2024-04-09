@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Zelotes subterraneus: check grid is in range
+Description=Check grid is in within range of Zelotes subterraneus
+ErrorMsg=Grid is outside known modern range of Zelotes subterraneus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008659
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NH91
+NJ41
+NJ83
+NO27
+NO37
+NO38
+NO39
+NO88
+SD76
+SK15
+SK16
+SK17
+SN57
+SO50
+SY58
+SY67
+SZ57
+TM00
+TM01
+TM11
+TM23
+TM34
+TM44
+TM45
+TQ60
+TQ91
+TR06
+TR09
+TR15

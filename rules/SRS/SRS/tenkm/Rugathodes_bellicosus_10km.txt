@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Rugathodes bellicosus: check grid is in range
+Description=Check grid is in within range of Rugathodes bellicosus
+ErrorMsg=Grid is outside known modern range of Rugathodes bellicosus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008899
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NG33
+NH46
+NH91
+NJ41
+NJ62
+NT82
+NY10
+NY55
+SD27
+SD29
+SD47
+SD96
+SE10
+SJ30
+SK07
+SN86

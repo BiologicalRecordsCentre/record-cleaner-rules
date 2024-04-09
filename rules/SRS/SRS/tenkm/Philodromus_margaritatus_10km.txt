@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Philodromus margaritatus: check grid is in range
+Description=Check grid is in within range of Philodromus margaritatus
+ErrorMsg=Grid is outside known modern range of Philodromus margaritatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008751
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NH21
+NH22
+NH23
+NH31
+NH33
+NH39
+NJ01
+NN55
+SU10
+SU75
+SU91
+SX76
+SY98

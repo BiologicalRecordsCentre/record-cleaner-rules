@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Erigone atra
+Description=Checks date is within known recording period of Erigone atra
+ErrorMsg=Date is outside known recording period of Erigone atra
+Tvk=NBNSYS0000009103
+StartDate=18640101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

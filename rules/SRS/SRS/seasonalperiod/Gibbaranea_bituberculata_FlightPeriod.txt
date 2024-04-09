@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Gibbaranea bituberculata: check date is during identifiable season
+Description=Check date is during known identifiable season for Gibbaranea bituberculata
+tvk=NBNSYS0000008934
+ErrorMsg=Date is outside the normal season for adult or identifiable Gibbaranea bituberculata
+DataFieldName=Stage
+StartDate=0317
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]

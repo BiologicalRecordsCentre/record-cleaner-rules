@@ -1,0 +1,52 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Entelecara congenera: check grid is in range
+Description=Check grid is in within range of Entelecara congenera
+ErrorMsg=Grid is outside known modern range of Entelecara congenera
+DataFieldName=Species
+DataRecordId=NBNSYS0000008994
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SE23
+SE30
+SJ56
+SJ83
+SK12
+SK39
+SK41
+SK55
+SK67
+SK78
+SK86
+SK90
+SP31
+SP76
+SP87
+SP88
+ST78
+SU83
+SU84
+SU85
+SU95
+SU96
+SX56
+TF10
+TL31
+TL40
+TL42
+TL43
+TL54
+TL61
+TL71
+TL82
+TL88
+TL91
+TM12
+TQ09
+TQ15
+TQ28
+TQ78
+TQ95

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Merrifieldia baliodactylus temporal check
+Description=Check date of record against known temporal limit of Merrifieldia baliodactylus
+Tvk=NBNSYS0100004009
+ErrorMsg=Date outside known temporal limit for Merrifieldia baliodactylus
+StartDate=18000101
+EndDate=
+LastChanged=20140113
+[EndMetadata]
+

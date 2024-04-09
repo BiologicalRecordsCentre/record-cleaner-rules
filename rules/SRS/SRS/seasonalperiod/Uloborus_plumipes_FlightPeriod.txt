@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Uloborus plumipes: check date is during identifiable season
+Description=Check date is during known identifiable season for Uloborus plumipes
+tvk=NBNSYS0100005936
+ErrorMsg=Date is outside the normal season for adult or identifiable Uloborus plumipes
+DataFieldName=Stage
+StartDate=0101
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0321
+EndDate=0930
+
+Stage=Adult Female,Female
+StartDate=0219
+EndDate=1130

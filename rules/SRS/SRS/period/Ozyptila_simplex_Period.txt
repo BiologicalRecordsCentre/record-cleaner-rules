@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Ozyptila simplex
+Description=Checks date is within known recording period of Ozyptila simplex
+ErrorMsg=Date is outside known recording period of Ozyptila simplex
+Tvk=NBNSYS0000008738
+StartDate=18950101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Heliophanus cupreus
+Description=Checks date is within known recording period of Heliophanus cupreus
+ErrorMsg=Date is outside known recording period of Heliophanus cupreus
+Tvk=NBNSYS0000008760
+StartDate=18610101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

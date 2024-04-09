@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Neon valentulus: check date is during identifiable season
+Description=Check date is during known identifiable season for Neon valentulus
+tvk=NBNSYS0000008770
+ErrorMsg=Date is outside the normal season for adult or identifiable Neon valentulus
+DataFieldName=Stage
+StartDate=0325
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]

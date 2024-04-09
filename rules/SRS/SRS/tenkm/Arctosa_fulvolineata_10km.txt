@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Arctosa fulvolineata: check grid is in range
+Description=Check grid is in within range of Arctosa fulvolineata
+ErrorMsg=Grid is outside known modern range of Arctosa fulvolineata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008818
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU60
+SU70
+SZ39
+TF84
+TM01
+TM11
+TM22
+TM34
+TM44
+TQ96
+TQ98
+TR06

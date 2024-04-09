@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Meta bourneti: check grid is in range
+Description=Check grid is in within range of Meta bourneti
+ErrorMsg=Grid is outside known modern range of Meta bourneti
+DataFieldName=Species
+DataRecordId=NBNSYS0000008930
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SK66
+SO76
+SO84
+SO93
+SO94
+ST04
+ST14
+ST23
+ST34
+ST35
+ST42
+SU20
+SU30
+SU59
+TG10
+TL14
+TL51
+TL62
+TL82
+TL83
+TL86
+TL87
+TL88
+TL96
+TM24
+TM25
+TM26
+TQ16
+TQ17
+TQ27

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Sitticus distinguendus: check grid is in range
+Description=Check grid is in within range of Sitticus distinguendus
+ErrorMsg=Grid is outside known modern range of Sitticus distinguendus
+DataFieldName=Species
+DataRecordId=NHMSYS0020001406
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TQ57
+TQ67

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Araneus quadratus
+Description=Checks date is within known recording period of Araneus quadratus
+ErrorMsg=Date is outside known recording period of Araneus quadratus
+Tvk=NBNSYS0000008938
+StartDate=18620101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

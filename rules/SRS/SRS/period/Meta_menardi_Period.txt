@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Meta menardi
+Description=Checks date is within known recording period of Meta menardi
+ErrorMsg=Date is outside known recording period of Meta menardi
+Tvk=NBNSYS0000008929
+StartDate=18000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

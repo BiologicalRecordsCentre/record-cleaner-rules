@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Arctosa alpigena: check grid is in range
+Description=Check grid is in within range of Arctosa alpigena
+ErrorMsg=Grid is outside known modern range of Arctosa alpigena
+DataFieldName=Species
+DataRecordId=NBNSYS0000008822
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NH11
+NH17
+NH22
+NH24
+NH37
+NH90
+NJ00
+NN48
+NN89
+NN99

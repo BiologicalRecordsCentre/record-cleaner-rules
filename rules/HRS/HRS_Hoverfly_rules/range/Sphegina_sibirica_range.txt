@@ -1,0 +1,93 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Sphegina sibirica: check grid is in range
+Description=Check grid is within known range of Sphegina sibirica
+ErrorMsg = Grid is outside known range of Sphegina sibirica
+DataFieldName = Species
+DataRecordId = NBNSYS0000033089
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NG42
+NG82
+NG96
+NH56
+NH76
+NH80
+NH81
+NH90
+NH91
+NJ20
+NM83
+NM84
+NM93
+NM94
+NN00
+NN01
+NN04
+NN06
+NN09
+NN10
+NN11
+NN15
+NN19
+NN37
+NN50
+NN55
+NN64
+NN68
+NN69
+NN73
+NN74
+NN95
+NO03
+NR61
+NR71
+NR73
+NR74
+NR75
+NR86
+NS28
+NS29
+NS30
+NS34
+NS50
+NS52
+NS73
+NT14
+NT24
+NT30
+NT57
+NW97
+NX07
+NX26
+NX36
+NX39
+NX49
+NX78
+NX96
+NX97
+NY21
+NY33
+NZ00
+NZ50
+SE17
+SH64
+SH66
+SH67
+SH71
+SH72
+SJ42
+SJ91
+SN76
+SN77
+SN79
+SO03
+SO22
+SO59
+SO61
+SO77
+SS89
+SY89

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Araniella displicata
+Description=Checks date is within known recording period of Araniella displicata
+ErrorMsg=Date is outside known recording period of Araniella displicata
+Tvk=NBNSYS0000008954
+StartDate=19000101
+EndDate=20011231
+LastChanged=20120316
+[EndMetadata]

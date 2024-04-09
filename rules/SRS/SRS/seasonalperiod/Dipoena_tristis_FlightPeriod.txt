@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Dipoena tristis: check date is during identifiable season
+Description=Check date is during known identifiable season for Dipoena tristis
+tvk=NBNSYS0000008869
+ErrorMsg=Date is outside the normal season for adult or identifiable Dipoena tristis
+DataFieldName=Stage
+StartDate=0520
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0422
+EndDate=0731
+
+Stage=Adult Female,Female
+StartDate=0524
+EndDate=0731

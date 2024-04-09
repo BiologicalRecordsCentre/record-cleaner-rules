@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Lepthyphantes alacris
+Description=Checks date is within known recording period of Lepthyphantes alacris
+ErrorMsg=Date is outside known recording period of Lepthyphantes alacris
+Tvk=NBNSYS0000009211
+StartDate=18720101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

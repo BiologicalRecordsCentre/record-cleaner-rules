@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Thanatus vulgaris: check grid is in range
+Description=Check grid is in within range of Thanatus vulgaris
+ErrorMsg=Grid is outside known modern range of Thanatus vulgaris
+DataFieldName=Species
+DataRecordId=NBNSYS0100005789
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NT27
+TL16

@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Synageles venator: check grid is in range
+Description=Check grid is in within range of Synageles venator
+ErrorMsg=Grid is outside known modern range of Synageles venator
+DataFieldName=Species
+DataRecordId=NBNSYS0000008787
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SD32
+SK79
+SN40
+SS43
+SS49
+SS58
+SS78
+SS79
+ST25
+SY39
+SY49
+TF10
+TL09
+TL19
+TM33
+TQ48
+TQ57
+TQ58
+TQ91

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Alopecosa fabrilis: check date is during identifiable season
+Description=Check date is during known identifiable season for Alopecosa fabrilis
+tvk=NBNSYS0000008813
+ErrorMsg=Date is outside the normal season for adult or identifiable Alopecosa fabrilis
+DataFieldName=Stage
+StartDate=0824
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]

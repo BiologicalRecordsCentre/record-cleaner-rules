@@ -1,0 +1,55 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Bianor aurocinctus: check grid is in range
+Description=Check grid is in within range of Bianor aurocinctus
+ErrorMsg=Grid is outside known modern range of Bianor aurocinctus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008767
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NS48
+SE71
+SO50
+SO61
+SO90
+SP09
+ST59
+SY77
+TF26
+TL70
+TL80
+TM01
+TM22
+TQ05
+TQ06
+TQ16
+TQ37
+TQ38
+TQ39
+TQ43
+TQ45
+TQ48
+TQ49
+TQ57
+TQ58
+TQ63
+TQ64
+TQ66
+TQ67
+TQ68
+TQ75
+TQ76
+TQ78
+TQ79
+TQ81
+TQ84
+TQ88
+TQ89
+TQ93
+TQ94
+TQ97
+TR05
+TR06

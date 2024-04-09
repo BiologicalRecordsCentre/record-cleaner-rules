@@ -1,0 +1,37 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Anasimyia interpuncta: check grid is in range
+Description=Check grid is within known range of Anasimyia interpuncta
+ErrorMsg = Grid is outside known range of Anasimyia interpuncta
+DataFieldName = Species
+DataRecordId = NBNSYS0000007040
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+SM83
+SP87
+TG10
+TG30
+TL19
+TL21
+TL26
+TL28
+TL29
+TL44
+TL56
+TL57
+TL70
+TL78
+TL98
+TL99
+TM37
+TQ17
+TQ47
+TQ48
+TQ57
+TQ58
+TQ60
+TQ71
+TQ91

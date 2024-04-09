@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Pardosa palustris
+Description=Checks date is within known recording period of Pardosa palustris
+ErrorMsg=Date is outside known recording period of Pardosa palustris
+Tvk=NBNSYS0000008797
+StartDate=18870101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

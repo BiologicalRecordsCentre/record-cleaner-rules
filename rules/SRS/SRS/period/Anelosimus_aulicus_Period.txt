@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Anelosimus aulicus
+Description=Checks date is within known recording period of Anelosimus aulicus
+ErrorMsg=Date is outside known recording period of Anelosimus aulicus
+Tvk=NBNSYS0000008881
+StartDate=19090101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

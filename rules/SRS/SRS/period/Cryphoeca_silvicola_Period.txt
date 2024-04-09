@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Cryphoeca silvicola
+Description=Checks date is within known recording period of Cryphoeca silvicola
+ErrorMsg=Date is outside known recording period of Cryphoeca silvicola
+Tvk=NBNSYS0000008847
+StartDate=18620101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,12 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Hypsosinga heri: check grid is in range
+Description=Check grid is in within range of Hypsosinga heri
+ErrorMsg=Grid is outside known modern range of Hypsosinga heri
+DataFieldName=Species
+DataRecordId=NBNSYS0000008959
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]

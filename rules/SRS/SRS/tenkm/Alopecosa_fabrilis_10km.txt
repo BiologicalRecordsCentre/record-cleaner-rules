@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Alopecosa fabrilis: check grid is in range
+Description=Check grid is in within range of Alopecosa fabrilis
+ErrorMsg=Grid is outside known modern range of Alopecosa fabrilis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008813
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU84

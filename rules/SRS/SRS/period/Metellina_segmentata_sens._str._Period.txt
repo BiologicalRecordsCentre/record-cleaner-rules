@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Metellina segmentata sens. str.
+Description=Checks date is within known recording period of Metellina segmentata sens. str.
+ErrorMsg=Date is outside known recording period of Metellina segmentata sens. str.
+Tvk=NBNSYS0100004024
+StartDate=18800101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

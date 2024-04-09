@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Marpissa nivoyi: check grid is in range
+Description=Check grid is in within range of Marpissa nivoyi
+ErrorMsg=Grid is outside known modern range of Marpissa nivoyi
+DataFieldName=Species
+DataRecordId=NBNSYS0000008766
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NY25
+SD48
+SH46
+SN69
+SS78
+SS79
+SY18
+SY28
+SY39
+SY49
+SY78
+SY89
+TA41
+TF55
+TF64
+TF84
+TF94
+TR02
+TR23
+TR33
+TR35
+TR36

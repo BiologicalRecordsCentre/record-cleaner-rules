@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Clubiona pseudoneglecta: check grid is in range
+Description=Check grid is in within range of Clubiona pseudoneglecta
+ErrorMsg=Grid is outside known modern range of Clubiona pseudoneglecta
+DataFieldName=Species
+DataRecordId=NBNSYS0100002489
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TR35
+TR36

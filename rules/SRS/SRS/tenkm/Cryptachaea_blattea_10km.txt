@@ -1,0 +1,12 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Cryptachaea blattea: check grid is in range
+Description=Check grid is in within range of Cryptachaea blattea
+ErrorMsg=Grid is outside known modern range of Cryptachaea blattea
+DataFieldName=Species
+DataRecordId=NHMSYS0020953647
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]

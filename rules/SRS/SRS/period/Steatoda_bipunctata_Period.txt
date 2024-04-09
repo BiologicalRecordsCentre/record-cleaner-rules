@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Steatoda bipunctata
+Description=Checks date is within known recording period of Steatoda bipunctata
+ErrorMsg=Date is outside known recording period of Steatoda bipunctata
+Tvk=NBNSYS0000008877
+StartDate=18640101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

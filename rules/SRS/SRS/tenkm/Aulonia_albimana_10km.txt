@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Aulonia albimana: check grid is in range
+Description=Check grid is in within range of Aulonia albimana
+ErrorMsg=Grid is outside known modern range of Aulonia albimana
+DataFieldName=Species
+DataRecordId=NBNSYS0000008829
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SZ49

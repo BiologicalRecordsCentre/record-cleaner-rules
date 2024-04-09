@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Parasyrphus nigritarsis: check date is during flight period
+Description=Check date is during the known flight period for Parasyrphus nigritarsis
+tvk = NBNSYS0000006946
+startDate = 0429
+endDate = 0803
+ErrorMsg = Date is outside flight period for Parasyrphus nigritarsis
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0429
+endDate = 0803
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0429
+endDate = 0803

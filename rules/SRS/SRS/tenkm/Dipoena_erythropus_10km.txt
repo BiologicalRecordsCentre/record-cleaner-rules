@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Dipoena erythropus: check grid is in range
+Description=Check grid is in within range of Dipoena erythropus
+ErrorMsg=Grid is outside known modern range of Dipoena erythropus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008866
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU84
+SY67

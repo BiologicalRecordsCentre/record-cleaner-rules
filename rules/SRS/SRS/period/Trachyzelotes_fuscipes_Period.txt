@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Trachyzelotes fuscipes
+Description=Checks date is within known recording period of Trachyzelotes fuscipes
+ErrorMsg=Date is outside known recording period of Trachyzelotes fuscipes
+Tvk=NHMSYS0000354403
+StartDate=20030101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

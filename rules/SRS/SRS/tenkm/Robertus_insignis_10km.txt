@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Robertus insignis: check grid is in range
+Description=Check grid is in within range of Robertus insignis
+ErrorMsg=Grid is outside known modern range of Robertus insignis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008912
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TG32
+TG42

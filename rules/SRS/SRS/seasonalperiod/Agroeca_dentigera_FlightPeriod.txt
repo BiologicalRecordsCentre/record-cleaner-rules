@@ -1,0 +1,17 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Agroeca dentigera: check date is during identifiable season
+Description=Check date is during known identifiable season for Agroeca dentigera
+tvk=NHMSYS0000354312
+ErrorMsg=Date is outside the normal season for adult or identifiable Agroeca dentigera
+DataFieldName=Stage
+StartDate=0915
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0915
+EndDate=1031

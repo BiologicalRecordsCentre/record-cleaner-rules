@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Walckenaeria corniculans
+Description=Checks date is within known recording period of Walckenaeria corniculans
+ErrorMsg=Date is outside known recording period of Walckenaeria corniculans
+Tvk=NBNSYS0000008983
+StartDate=18000101
+EndDate=19961231
+LastChanged=20120316
+[EndMetadata]

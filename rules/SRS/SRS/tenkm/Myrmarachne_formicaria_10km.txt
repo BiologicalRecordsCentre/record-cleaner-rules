@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Myrmarachne formicaria: check grid is in range
+Description=Check grid is in within range of Myrmarachne formicaria
+ErrorMsg=Grid is outside known modern range of Myrmarachne formicaria
+DataFieldName=Species
+DataRecordId=NBNSYS0000008788
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU10
+SU20
+SU78
+SU87
+SU96
+SY18
+SY39
+SY49
+SY98
+SZ38
+SZ39
+SZ49
+SZ57
+TQ14
+TQ15
+TQ60
+TQ66
+TQ76
+TQ81
+TQ86
+TQ95
+TR05
+TR23

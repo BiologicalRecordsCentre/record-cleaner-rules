@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Araniella alpica: check grid is in range
+Description=Check grid is in within range of Araniella alpica
+ErrorMsg=Grid is outside known modern range of Araniella alpica
+DataFieldName=Species
+DataRecordId=NBNSYS0000008953
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SO62
+ST91

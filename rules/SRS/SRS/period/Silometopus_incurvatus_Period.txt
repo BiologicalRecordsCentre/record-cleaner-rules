@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Silometopus incurvatus
+Description=Checks date is within known recording period of Silometopus incurvatus
+ErrorMsg=Date is outside known recording period of Silometopus incurvatus
+Tvk=NBNSYS0000009045
+StartDate=18690101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

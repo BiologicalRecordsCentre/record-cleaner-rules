@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Pellenes tripunctatus: check date is during identifiable season
+Description=Check date is during known identifiable season for Pellenes tripunctatus
+tvk=NBNSYS0000008790
+ErrorMsg=Date is outside the normal season for adult or identifiable Pellenes tripunctatus
+DataFieldName=Stage
+StartDate=0415
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0415
+EndDate=0731
+
+Stage=Adult Female,Female
+StartDate=0523
+EndDate=0731

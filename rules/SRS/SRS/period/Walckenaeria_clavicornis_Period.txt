@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Walckenaeria clavicornis
+Description=Checks date is within known recording period of Walckenaeria clavicornis
+ErrorMsg=Date is outside known recording period of Walckenaeria clavicornis
+Tvk=NBNSYS0000008987
+StartDate=18960101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

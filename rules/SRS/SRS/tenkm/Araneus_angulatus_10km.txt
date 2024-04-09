@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Araneus angulatus: check grid is in range
+Description=Check grid is in within range of Araneus angulatus
+ErrorMsg=Grid is outside known modern range of Araneus angulatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008936
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SS21
+SU00
+SU10
+SU20
+SU22
+SU32
+SU42
+SU50
+SU54
+SU91
+SU92
+SU93
+SU96
+SW71
+SX06
+SX35
+SX44
+SX87
+SY09
+SY88
+SY89
+SY98
+SZ09
+SZ19
+SZ49
+TG02
+TQ13
+TQ16
+TQ50
+TQ77
+TQ91

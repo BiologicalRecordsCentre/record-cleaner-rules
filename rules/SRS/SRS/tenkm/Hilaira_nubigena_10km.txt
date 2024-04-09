@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Hilaira nubigena: check grid is in range
+Description=Check grid is in within range of Hilaira nubigena
+ErrorMsg=Grid is outside known modern range of Hilaira nubigena
+DataFieldName=Species
+DataRecordId=NBNSYS0000009123
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NG84
+NG95
+NH08
+NH37
+NJ01
+NN02
+NN33
+NN48
+NO68
+NS50
+NT92
+NY63
+NY82
+SD87
+SD89
+SD96
+SD97

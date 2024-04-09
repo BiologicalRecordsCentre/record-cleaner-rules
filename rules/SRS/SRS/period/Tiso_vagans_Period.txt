@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Tiso vagans
+Description=Checks date is within known recording period of Tiso vagans
+ErrorMsg=Date is outside known recording period of Tiso vagans
+Tvk=NBNSYS0000009055
+StartDate=18640101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

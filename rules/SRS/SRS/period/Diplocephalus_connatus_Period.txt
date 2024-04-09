@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Diplocephalus connatus
+Description=Checks date is within known recording period of Diplocephalus connatus
+ErrorMsg=Date is outside known recording period of Diplocephalus connatus
+Tvk=NBNSYS0000009089
+StartDate=19020101
+EndDate=19691231
+LastChanged=20120316
+[EndMetadata]

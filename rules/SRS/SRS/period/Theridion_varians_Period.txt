@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Theridion varians
+Description=Checks date is within known recording period of Theridion varians
+ErrorMsg=Date is outside known recording period of Theridion varians
+Tvk=NBNSYS0000008890
+StartDate=18520101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

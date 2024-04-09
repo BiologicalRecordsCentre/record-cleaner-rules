@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Segestria bavarica
+Description=Checks date is within known recording period of Segestria bavarica
+ErrorMsg=Date is outside known recording period of Segestria bavarica
+Tvk=NBNSYS0000008636
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Evarcha arcuata
+Description=Checks date is within known recording period of Evarcha arcuata
+ErrorMsg=Date is outside known recording period of Evarcha arcuata
+Tvk=NBNSYS0000008784
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

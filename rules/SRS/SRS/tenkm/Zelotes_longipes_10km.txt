@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Zelotes longipes: check grid is in range
+Description=Check grid is in within range of Zelotes longipes
+ErrorMsg=Grid is outside known modern range of Zelotes longipes
+DataFieldName=Species
+DataRecordId=NBNSYS0000008657
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU96
+SZ08
+TM11
+TR06

@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Cheilosia soror: check date is during flight period
+Description=Check date is during the known flight period for Cheilosia soror
+tvk = NBNSYS0000007000
+startDate = 0423
+endDate = 1202
+ErrorMsg = Date is outside flight period for Cheilosia soror
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0423
+endDate = 1202
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0423
+endDate = 1202

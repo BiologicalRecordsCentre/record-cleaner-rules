@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Saaristoa firma
+Description=Checks date is within known recording period of Saaristoa firma
+ErrorMsg=Date is outside known recording period of Saaristoa firma
+Tvk=NBNSYS0000009188
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

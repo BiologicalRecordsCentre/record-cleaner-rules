@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Wiehlea calcarifera: check grid is in range
+Description=Check grid is in within range of Wiehlea calcarifera
+ErrorMsg=Grid is outside known modern range of Wiehlea calcarifera
+DataFieldName=Species
+DataRecordId=NBNSYS0000009130
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+ST68
+TQ47
+TQ68

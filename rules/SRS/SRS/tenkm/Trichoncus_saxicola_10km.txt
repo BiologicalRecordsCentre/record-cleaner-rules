@@ -1,0 +1,29 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Trichoncus saxicola: check grid is in range
+Description=Check grid is in within range of Trichoncus saxicola
+ErrorMsg=Grid is outside known modern range of Trichoncus saxicola
+DataFieldName=Species
+DataRecordId=NBNSYS0000009049
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SP80
+SU01
+SU23
+SU42
+SU62
+SU79
+SY67
+SY78
+SY87
+SY89
+SY97
+TQ35
+TQ56
+TQ66
+TQ76
+TR23
+TR33

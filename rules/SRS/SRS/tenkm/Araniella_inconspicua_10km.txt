@@ -1,0 +1,52 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Araniella inconspicua: check grid is in range
+Description=Check grid is in within range of Araniella inconspicua
+ErrorMsg=Grid is outside known modern range of Araniella inconspicua
+DataFieldName=Species
+DataRecordId=NBNSYS0000008952
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SO39
+SO62
+SP37
+SP96
+ST45
+SU16
+SU26
+SU27
+SU69
+SU91
+SU98
+SZ49
+TF10
+TL10
+TL14
+TL30
+TL35
+TL52
+TL53
+TL64
+TL66
+TL77
+TL89
+TL91
+TL92
+TM14
+TM24
+TM34
+TM35
+TQ16
+TQ39
+TQ49
+TQ60
+TQ68
+TQ69
+TQ79
+TQ81
+TQ93
+TR15
+TR16

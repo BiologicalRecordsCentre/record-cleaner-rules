@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Araneus quadratus: check date is during identifiable season
+Description=Check date is during known identifiable season for Araneus quadratus
+tvk=NBNSYS0000008938
+ErrorMsg=Date is outside the normal season for adult or identifiable Araneus quadratus
+DataFieldName=Stage
+StartDate=0517
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0616
+EndDate=0930
+
+Stage=Adult Female,Female
+StartDate=0618
+EndDate=1031

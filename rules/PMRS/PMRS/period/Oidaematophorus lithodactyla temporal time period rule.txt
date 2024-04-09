@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Oidaematophorus lithodactyla temporal check
+Description=Check date of record against known temporal limit of Oidaematophorus lithodactyla
+Tvk=NHMSYS0000503464
+ErrorMsg=Date outside known temporal limit for Oidaematophorus lithodactyla
+StartDate=18000101
+EndDate=
+LastChanged=20140113
+[EndMetadata]
+

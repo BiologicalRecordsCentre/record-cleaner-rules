@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Bathyphantes gracilis
+Description=Checks date is within known recording period of Bathyphantes gracilis
+ErrorMsg=Date is outside known recording period of Bathyphantes gracilis
+Tvk=NBNSYS0000009192
+StartDate=18000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

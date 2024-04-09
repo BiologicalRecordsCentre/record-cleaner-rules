@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Volucella inflata: check date is during flight period
+Description=Check date is during the known flight period for Volucella inflata
+tvk = NBNSYS0000007096
+startDate = 0108
+endDate = 1105
+ErrorMsg = Date is outside flight period for Volucella inflata
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0108
+endDate = 1105
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0108
+endDate = 1105

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Kaestneria dorsalis
+Description=Checks date is within known recording period of Kaestneria dorsalis
+ErrorMsg=Date is outside known recording period of Kaestneria dorsalis
+Tvk=NBNSYS0000009196
+StartDate=18900101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

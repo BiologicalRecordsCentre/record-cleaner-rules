@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Maso sundevalli: check date is during identifiable season
+Description=Check date is during known identifiable season for Maso sundevalli
+tvk=NBNSYS0000009020
+ErrorMsg=Date is outside the normal season for adult or identifiable Maso sundevalli
+DataFieldName=Stage
+StartDate=0317
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0419
+EndDate=0831
+
+Stage=Adult Female,Female
+StartDate=0214
+EndDate=1031

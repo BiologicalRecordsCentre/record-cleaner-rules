@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Oxyopes heterophthalmus
+Description=Checks date is within known recording period of Oxyopes heterophthalmus
+ErrorMsg=Date is outside known recording period of Oxyopes heterophthalmus
+Tvk=NBNSYS0000008791
+StartDate=18550101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

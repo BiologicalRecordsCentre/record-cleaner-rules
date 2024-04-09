@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Nuctenea umbratica
+Description=Checks date is within known recording period of Nuctenea umbratica
+ErrorMsg=Date is outside known recording period of Nuctenea umbratica
+Tvk=NBNSYS0000008945
+StartDate=18640101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

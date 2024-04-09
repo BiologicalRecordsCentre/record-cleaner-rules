@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Erigone aletris: check grid is in range
+Description=Check grid is in within range of Erigone aletris
+ErrorMsg=Grid is outside known modern range of Erigone aletris
+DataFieldName=Species
+DataRecordId=NBNSYS0000009111
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NJ73
+NJ90
+NO40
+NO50
+NO52
+NO53
+NO60
+NO64
+NO76
+NO86
+NS98
+NT16
+NT17
+NT18
+NT26
+NT27
+NT28
+NT29
+NT37
+NT46
+NT47
+NT48
+NT49
+NT57
+NT58
+NT67
+NT69
+NT77
+SE82
+TQ37
+TQ38

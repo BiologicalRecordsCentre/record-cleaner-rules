@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Meta bourneti
+Description=Checks date is within known recording period of Meta bourneti
+ErrorMsg=Date is outside known recording period of Meta bourneti
+Tvk=NBNSYS0000008930
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Walckenaeria incisa
+Description=Checks date is within known recording period of Walckenaeria incisa
+ErrorMsg=Date is outside known recording period of Walckenaeria incisa
+Tvk=NBNSYS0000008977
+StartDate=18600101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

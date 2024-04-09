@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Neriene emphana
+Description=Checks date is within known recording period of Neriene emphana
+ErrorMsg=Date is outside known recording period of Neriene emphana
+Tvk=NBNSYS0100004233
+StartDate=20000101
+EndDate=20001231
+LastChanged=20120316
+[EndMetadata]

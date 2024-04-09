@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Stenoptilia aridus seasonal check
+Description=Check date of record against known seasonal limit of Stenoptilia aridus
+Tvk=NBNSYS0100005591
+ErrorMsg=Date outside known seasonal limit for Stenoptilia aridus
+StartDate=0601
+EndDate=0731
+LastChanged=20140113
+[EndMetadata]
+

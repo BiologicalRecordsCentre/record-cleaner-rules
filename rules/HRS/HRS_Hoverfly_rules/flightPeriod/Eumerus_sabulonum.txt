@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Eumerus sabulonum: check date is during flight period
+Description=Check date is during the known flight period for Eumerus sabulonum
+tvk = NBNSYS0000007066
+startDate = 0522
+endDate = 0912
+ErrorMsg = Date is outside flight period for Eumerus sabulonum
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0522
+endDate = 0912
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0522
+endDate = 0912

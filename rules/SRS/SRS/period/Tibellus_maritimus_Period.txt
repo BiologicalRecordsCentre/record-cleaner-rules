@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Tibellus maritimus
+Description=Checks date is within known recording period of Tibellus maritimus
+ErrorMsg=Date is outside known recording period of Tibellus maritimus
+Tvk=NBNSYS0000008754
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

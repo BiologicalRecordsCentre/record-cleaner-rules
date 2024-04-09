@@ -1,0 +1,36 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Didea alneti: check grid is in range
+Description=Check grid is within known range of Didea alneti
+ErrorMsg = Grid is outside known range of Didea alneti
+DataFieldName = Species
+DataRecordId = NBNSYS0000006907
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NH75
+NH81
+NH90
+NH95
+NN82
+NO02
+NS39
+NT24
+NY95
+SD47
+SK67
+SO51
+SO61
+SO77
+SO80
+SP09
+SP19
+SP27
+SY99
+TL92
+TQ47
+TQ57
+TQ94
+TR34

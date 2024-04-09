@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Gonatium paradoxum: check date is during identifiable season
+Description=Check date is during known identifiable season for Gonatium paradoxum
+tvk=NBNSYS0000009019
+ErrorMsg=Date is outside the normal season for adult or identifiable Gonatium paradoxum
+DataFieldName=Stage
+StartDate=0316
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0823
+EndDate=0930
+
+Stage=Adult Female,Female
+StartDate=0316
+EndDate=1031

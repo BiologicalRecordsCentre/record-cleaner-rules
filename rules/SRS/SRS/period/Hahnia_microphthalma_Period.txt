@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Hahnia microphthalma
+Description=Checks date is within known recording period of Hahnia microphthalma
+ErrorMsg=Date is outside known recording period of Hahnia microphthalma
+Tvk=NBNSYS0000008854
+StartDate=19750101
+EndDate=19761231
+LastChanged=20120316
+[EndMetadata]

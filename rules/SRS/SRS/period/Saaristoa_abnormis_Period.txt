@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Saaristoa abnormis
+Description=Checks date is within known recording period of Saaristoa abnormis
+ErrorMsg=Date is outside known recording period of Saaristoa abnormis
+Tvk=NBNSYS0000009187
+StartDate=18770101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

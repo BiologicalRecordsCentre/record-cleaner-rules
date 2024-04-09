@@ -1,0 +1,28 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Eupeodes lundbecki: check grid is in range
+Description=Check grid is within known range of Eupeodes lundbecki
+ErrorMsg = Grid is outside known range of Eupeodes lundbecki
+DataFieldName = Species
+DataRecordId = NBNSYS0100003111
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+HT93
+HU25
+HZ27
+NC41
+NF60
+NJ35
+NJ91
+NK06
+NX89
+SU84
+SU91
+TF94
+TQ01
+TQ16
+TQ42
+TQ43

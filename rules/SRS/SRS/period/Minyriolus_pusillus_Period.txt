@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Minyriolus pusillus
+Description=Checks date is within known recording period of Minyriolus pusillus
+ErrorMsg=Date is outside known recording period of Minyriolus pusillus
+Tvk=NBNSYS0000009059
+StartDate=18780101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

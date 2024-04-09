@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Cnephalocotes obscurus
+Description=Checks date is within known recording period of Cnephalocotes obscurus
+ErrorMsg=Date is outside known recording period of Cnephalocotes obscurus
+Tvk=NBNSYS0000009047
+StartDate=18280101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

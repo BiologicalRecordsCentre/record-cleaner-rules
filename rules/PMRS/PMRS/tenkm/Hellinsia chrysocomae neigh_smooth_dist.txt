@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Hellinsia chrysocomae 10km
+Description=Check coordinate agaist known 10km distribution of Hellinsia chrysocomae
+ErrorMsg=Coordinate outside know range for Hellinsia chrysocomae
+DataFieldName=Species
+DataRecordId=NBNSYS0100003432
+LastChanged=20131009
+[EndMetadata]
+
+
+[10km_GB]
+TQ82
+TQ83
+TQ84
+TQ92
+TQ93
+TQ94
+TQ95
+TQ96
+TQ97
+TR02
+TR03
+TR04
+TR05
+TR06
+TR07
+TR14
+TR15
+TR16
+TR24
+TR25
+TR26
+TR27
+
+

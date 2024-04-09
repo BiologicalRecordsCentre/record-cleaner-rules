@@ -1,0 +1,13 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Orthonevra intermedia: check grid is in range
+Description=Check grid is within known range of Orthonevra intermedia
+ErrorMsg = Grid is outside known range of Orthonevra intermedia
+DataFieldName = Species
+DataRecordId = NHMSYS0020978350
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+SJ57

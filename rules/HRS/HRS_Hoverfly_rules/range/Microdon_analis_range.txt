@@ -1,0 +1,68 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Microdon analis: check grid is in range
+Description=Check grid is within known range of Microdon analis
+ErrorMsg = Grid is outside known range of Microdon analis
+DataFieldName = Species
+DataRecordId = NBNSYS0100004052
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NC40
+NH22
+NH55
+NH59
+NH66
+NH69
+NH77
+NH80
+NH81
+NH84
+NH90
+NH91
+NH95
+NJ01
+NJ02
+NM92
+NN55
+NN65
+NN89
+NN96
+NO19
+SP60
+SP61
+ST91
+SU20
+SU21
+SU22
+SU23
+SU30
+SU50
+SU51
+SU66
+SU71
+SU75
+SU77
+SU82
+SU83
+SU84
+SU85
+SU86
+SU91
+SU93
+SU94
+SU95
+SU96
+SU97
+SY89
+SZ08
+SZ29
+SZ59
+TQ00
+TQ05
+TQ06
+TQ16
+TQ23
+TQ33

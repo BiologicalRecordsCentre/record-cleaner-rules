@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Eristalis similis: check date is during flight period
+Description=Check date is during the known flight period for Eristalis similis
+tvk = NBNSYS0100003072
+startDate = 0328
+endDate = 0706
+ErrorMsg = Date is outside flight period for Eristalis similis
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0328
+endDate = 0706
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0328
+endDate = 0706

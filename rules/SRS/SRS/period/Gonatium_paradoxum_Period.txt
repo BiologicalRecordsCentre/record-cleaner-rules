@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Gonatium paradoxum
+Description=Checks date is within known recording period of Gonatium paradoxum
+ErrorMsg=Date is outside known recording period of Gonatium paradoxum
+Tvk=NBNSYS0000009019
+StartDate=19540101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Xysticus cristatus
+Description=Checks date is within known recording period of Xysticus cristatus
+ErrorMsg=Date is outside known recording period of Xysticus cristatus
+Tvk=NBNSYS0000008720
+StartDate=18580101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

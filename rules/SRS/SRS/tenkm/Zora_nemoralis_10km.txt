@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Zora nemoralis: check grid is in range
+Description=Check grid is in within range of Zora nemoralis
+ErrorMsg=Grid is outside known modern range of Zora nemoralis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008712
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NH22
+NH32
+NH80
+NH91
+NJ01
+NN55
+SD48
+SE02
+SH72
+SK39
+SN77
+SO51

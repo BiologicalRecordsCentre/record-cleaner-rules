@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Megalepthyphantes collinus occidentalis: check grid is in range
+Description=Check grid is in within range of Megalepthyphantes collinus occidentalis
+ErrorMsg=Grid is outside known modern range of Megalepthyphantes collinus occidentalis
+DataFieldName=Species
+DataRecordId=NBNSYS0100003892
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TQ17
+TQ37
+TQ67
+TQ76
+TQ91
+TQ95
+TQ96
+TQ97
+TR06
+TR13
+TR16
+TR26

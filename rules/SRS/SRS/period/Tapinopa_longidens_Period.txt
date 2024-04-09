@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Tapinopa longidens
+Description=Checks date is within known recording period of Tapinopa longidens
+ErrorMsg=Date is outside known recording period of Tapinopa longidens
+Tvk=NBNSYS0000009201
+StartDate=18580101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

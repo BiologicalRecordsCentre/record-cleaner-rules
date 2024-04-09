@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Coelotes terrestris
+Description=Checks date is within known recording period of Coelotes terrestris
+ErrorMsg=Date is outside known recording period of Coelotes terrestris
+Tvk=NBNSYS0000008845
+StartDate=19060101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

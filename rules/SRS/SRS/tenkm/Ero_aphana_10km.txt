@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Ero aphana: check grid is in range
+Description=Check grid is in within range of Ero aphana
+ErrorMsg=Grid is outside known modern range of Ero aphana
+DataFieldName=Species
+DataRecordId=NBNSYS0000008860
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SK67
+ST71
+SU10
+SU56
+SU66
+SU67
+SU95
+SU96
+SX87
+SY88
+SY98
+SY99
+SZ08
+TL02
+TM24
+TQ02
+TQ08
+TQ09
+TQ16
+TQ27
+TQ37
+TQ48
+TQ57
+TQ58
+TQ67

@@ -1,0 +1,21 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Caliprobola speciosa: check grid is in range
+Description=Check grid is within known range of Caliprobola speciosa
+ErrorMsg = Grid is outside known range of Caliprobola speciosa
+DataFieldName = Species
+DataRecordId = NBNSYS0000007102
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+SK22
+SU10
+SU20
+SU21
+SU30
+SU40
+SU96
+SU97
+TQ06

@@ -1,0 +1,42 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Paragus tibialis: check grid is in range
+Description=Check grid is within known range of Paragus tibialis
+ErrorMsg = Grid is outside known range of Paragus tibialis
+DataFieldName = Species
+DataRecordId = NBNSYS0000006891
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NN50
+NO43
+NO69
+NT18
+NX05
+SH53
+SN68
+SO80
+SS58
+ST92
+SU02
+SU12
+SU22
+SU30
+SU40
+SU94
+SU95
+SU96
+SX77
+SY39
+SY59
+SY67
+SY88
+SY89
+SY98
+SY99
+SZ08
+SZ09
+SZ19
+SZ39

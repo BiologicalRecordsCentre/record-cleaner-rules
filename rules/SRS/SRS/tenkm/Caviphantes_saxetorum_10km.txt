@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Caviphantes saxetorum: check grid is in range
+Description=Check grid is in within range of Caviphantes saxetorum
+ErrorMsg=Grid is outside known modern range of Caviphantes saxetorum
+DataFieldName=Species
+DataRecordId=NBNSYS0000009132
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NJ01
+NN17
+NY56
+NY85
+SD57
+SH71
+SN57
+SN58
+SN67
+SN68
+SN77
+SO08
+ST09

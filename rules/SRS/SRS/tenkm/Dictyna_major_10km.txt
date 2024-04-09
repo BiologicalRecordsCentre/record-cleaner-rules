@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Dictyna major: check grid is in range
+Description=Check grid is in within range of Dictyna major
+ErrorMsg=Grid is outside known modern range of Dictyna major
+DataFieldName=Species
+DataRecordId=NBNSYS0000008615
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NG99
+NO53

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Poeciloneta variegata
+Description=Checks date is within known recording period of Poeciloneta variegata
+ErrorMsg=Date is outside known recording period of Poeciloneta variegata
+Tvk=NBNSYS0000009199
+StartDate=18370101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

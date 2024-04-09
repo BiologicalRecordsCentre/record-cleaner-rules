@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Zora armillata
+Description=Checks date is within known recording period of Zora armillata
+ErrorMsg=Date is outside known recording period of Zora armillata
+Tvk=NBNSYS0000008711
+StartDate=19000101
+EndDate=19801231
+LastChanged=20120316
+[EndMetadata]

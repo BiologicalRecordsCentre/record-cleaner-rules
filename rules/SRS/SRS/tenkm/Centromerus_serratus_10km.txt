@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Centromerus serratus: check grid is in range
+Description=Check grid is in within range of Centromerus serratus
+ErrorMsg=Grid is outside known modern range of Centromerus serratus
+DataFieldName=Species
+DataRecordId=NBNSYS0000009178
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SP42
+SS74
+ST59
+SU23
+TL81
+TM14
+TQ33
+TQ49
+TQ67
+TQ68

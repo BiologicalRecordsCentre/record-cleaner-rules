@@ -1,0 +1,82 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Myolepta dubia: check grid is in range
+Description=Check grid is within known range of Myolepta dubia
+ErrorMsg = Grid is outside known range of Myolepta dubia
+DataFieldName = Species
+DataRecordId = NBNSYS0100004156
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+SP50
+SP55
+ST43
+ST50
+ST51
+ST90
+SU03
+SU18
+SU20
+SU21
+SU22
+SU26
+SU30
+SU49
+SU62
+SU66
+SU67
+SU70
+SU75
+SU77
+SU90
+SU94
+SU96
+SU97
+SZ07
+SZ57
+SZ59
+TF00
+TL09
+TL14
+TL17
+TL25
+TL34
+TL35
+TL38
+TL45
+TL56
+TL57
+TL60
+TL66
+TL77
+TL85
+TL87
+TL88
+TL95
+TM07
+TQ00
+TQ05
+TQ06
+TQ07
+TQ09
+TQ15
+TQ16
+TQ17
+TQ19
+TQ25
+TQ27
+TQ28
+TQ29
+TQ37
+TQ47
+TQ49
+TQ52
+TQ59
+TQ61
+TQ67
+TQ78
+TQ88
+TQ98
+TR04

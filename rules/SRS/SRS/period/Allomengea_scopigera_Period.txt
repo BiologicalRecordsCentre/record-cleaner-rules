@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Allomengea scopigera
+Description=Checks date is within known recording period of Allomengea scopigera
+ErrorMsg=Date is outside known recording period of Allomengea scopigera
+Tvk=NBNSYS0000009240
+StartDate=18930101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

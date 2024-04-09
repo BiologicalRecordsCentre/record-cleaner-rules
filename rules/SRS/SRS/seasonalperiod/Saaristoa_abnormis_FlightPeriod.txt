@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Saaristoa abnormis: check date is during identifiable season
+Description=Check date is during known identifiable season for Saaristoa abnormis
+tvk=NBNSYS0000009187
+ErrorMsg=Date is outside the normal season for adult or identifiable Saaristoa abnormis
+DataFieldName=Stage
+StartDate=0416
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0415
+EndDate=1031
+
+Stage=Adult Female,Female
+StartDate=0416
+EndDate=0930

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Aphileta misera
+Description=Checks date is within known recording period of Aphileta misera
+ErrorMsg=Date is outside known recording period of Aphileta misera
+Tvk=NBNSYS0000009137
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

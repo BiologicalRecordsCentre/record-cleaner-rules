@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Trichopterna cito: check grid is in range
+Description=Check grid is in within range of Trichopterna cito
+ErrorMsg=Grid is outside known modern range of Trichopterna cito
+DataFieldName=Species
+DataRecordId=NBNSYS0000009034
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TM11
+TQ91
+TR01
+TR35

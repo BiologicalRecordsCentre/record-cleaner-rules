@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Drassyllus lutetianus: check grid is in range
+Description=Check grid is in within range of Drassyllus lutetianus
+ErrorMsg=Grid is outside known modern range of Drassyllus lutetianus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008662
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SN00
+SN45
+SN66
+SN69
+SU22
+SU46
+SU56
+SU76
+SY58
+SY67
+SY68
+SY88
+SY89
+TF26
+TM07
+TM22
+TM44
+TQ78
+TQ81
+TR01
+TR06
+TR33
+TR35

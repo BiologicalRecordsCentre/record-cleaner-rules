@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Capperia britanniodactyla seasonal check
+Description=Check date of record agaist known seasonal limit of Capperia britanniodactyla
+Tvk=NHMSYS0000501632
+ErrorMsg=Date outside known seasonal limit for Capperia britanniodactyla
+StartDate=0601
+EndDate=0831
+LastChanged=20140113
+[EndMetadata]
+

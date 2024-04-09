@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Sphaerophoria rueppellii: check date is during flight period
+Description=Check date is during the known flight period for Sphaerophoria rueppellii
+tvk = NBNSYS0000006958
+startDate = 0411
+endDate = 1126
+ErrorMsg = Date is outside flight period for Sphaerophoria rueppellii
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0411
+endDate = 1126
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0411
+endDate = 1126

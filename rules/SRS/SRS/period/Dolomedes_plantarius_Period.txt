@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Dolomedes plantarius
+Description=Checks date is within known recording period of Dolomedes plantarius
+ErrorMsg=Date is outside known recording period of Dolomedes plantarius
+Tvk=NBNSYS0000008832
+StartDate=19560101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

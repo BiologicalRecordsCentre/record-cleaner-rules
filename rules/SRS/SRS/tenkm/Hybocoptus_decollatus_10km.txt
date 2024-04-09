@@ -1,0 +1,36 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Hybocoptus decollatus: check grid is in range
+Description=Check grid is in within range of Hybocoptus decollatus
+ErrorMsg=Grid is outside known modern range of Hybocoptus decollatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000009011
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SO74
+SS54
+SS94
+SS96
+ST36
+SU22
+SW72
+SY18
+SY77
+SY88
+SY89
+SY98
+SZ07
+SZ57
+TQ14
+TQ81
+TQ85
+TQ86
+TQ95
+TR13
+TR14
+TR15
+TR25
+TR35

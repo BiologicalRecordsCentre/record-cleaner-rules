@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Pocadicnemis pumila sens. str.
+Description=Checks date is within known recording period of Pocadicnemis pumila sens. str.
+ErrorMsg=Date is outside known recording period of Pocadicnemis pumila sens. str.
+Tvk=NBNSYS0200000045
+StartDate=18580101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

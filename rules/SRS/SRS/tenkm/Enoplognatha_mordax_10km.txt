@@ -1,0 +1,38 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Enoplognatha mordax: check grid is in range
+Description=Check grid is in within range of Enoplognatha mordax
+ErrorMsg=Grid is outside known modern range of Enoplognatha mordax
+DataFieldName=Species
+DataRecordId=NBNSYS0000008905
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SN00
+ST36
+ST59
+SY98
+SZ19
+TF74
+TF84
+TG04
+TL80
+TL90
+TM00
+TM01
+TM11
+TM13
+TM22
+TM34
+TM44
+TQ57
+TQ67
+TQ78
+TQ88
+TQ89
+TQ98
+TQ99
+TR06
+TR09

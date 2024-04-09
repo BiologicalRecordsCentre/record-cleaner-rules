@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Stenoptilia pterodactyla temporal check
+Description=Check date of record against known temporal limit of Stenoptilia pterodactyla
+Tvk=NHMSYS0000504314
+ErrorMsg=Date outside known temporal limit for Stenoptilia pterodactyla
+StartDate=18000101
+EndDate=
+LastChanged=20140113
+[EndMetadata]
+

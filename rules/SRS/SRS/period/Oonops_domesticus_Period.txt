@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Oonops domesticus
+Description=Checks date is within known recording period of Oonops domesticus
+ErrorMsg=Date is outside known recording period of Oonops domesticus
+Tvk=NBNSYS0000008630
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

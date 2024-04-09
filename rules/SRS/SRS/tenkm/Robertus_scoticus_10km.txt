@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Robertus scoticus: check grid is in range
+Description=Check grid is in within range of Robertus scoticus
+ErrorMsg=Grid is outside known modern range of Robertus scoticus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008911
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NN55

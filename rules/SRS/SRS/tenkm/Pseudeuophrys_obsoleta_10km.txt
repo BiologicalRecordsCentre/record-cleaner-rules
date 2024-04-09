@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Pseudeuophrys obsoleta: check grid is in range
+Description=Check grid is in within range of Pseudeuophrys obsoleta
+ErrorMsg=Grid is outside known modern range of Pseudeuophrys obsoleta
+DataFieldName=Species
+DataRecordId=NBNSYS0100004906
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TG04
+TL91
+TM00
+TM01
+TM11
+TM23
+TM34
+TM44
+TM45
+TQ91
+TR01
+TR06
+TR09
+TR35
+TV59

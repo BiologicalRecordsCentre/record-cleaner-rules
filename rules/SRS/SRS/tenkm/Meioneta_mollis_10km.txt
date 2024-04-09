@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Meioneta mollis: check grid is in range
+Description=Check grid is in within range of Meioneta mollis
+ErrorMsg=Grid is outside known modern range of Meioneta mollis
+DataFieldName=Species
+DataRecordId=NBNSYS0000009156
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SJ29
+SM83
+SN14
+SO56
+SO85
+ST34
+ST36
+SU97
+SY67
+SY68
+TL08
+TL11
+TQ01
+TQ02
+TQ28
+TQ35
+TQ44
+TQ55
+TQ57
+TQ61
+TQ68
+TQ71
+TQ94

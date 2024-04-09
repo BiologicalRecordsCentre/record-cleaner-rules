@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Agyneta ramosa
+Description=Checks date is within known recording period of Agyneta ramosa
+ErrorMsg=Date is outside known recording period of Agyneta ramosa
+Tvk=NBNSYS0000009153
+StartDate=19060101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

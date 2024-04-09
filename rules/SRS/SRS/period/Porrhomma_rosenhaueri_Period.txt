@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Porrhomma rosenhaueri
+Description=Checks date is within known recording period of Porrhomma rosenhaueri
+ErrorMsg=Date is outside known recording period of Porrhomma rosenhaueri
+Tvk=NBNSYS0000009140
+StartDate=19710101
+EndDate=19971231
+LastChanged=20120316
+[EndMetadata]

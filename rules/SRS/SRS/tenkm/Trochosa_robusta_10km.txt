@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Trochosa robusta: check grid is in range
+Description=Check grid is in within range of Trochosa robusta
+ErrorMsg=Grid is outside known modern range of Trochosa robusta
+DataFieldName=Species
+DataRecordId=NBNSYS0000008815
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SK90
+SO91
+SV91
+SY39
+SZ57
+TF26
+TF49
+TL11
+TL14
+TL87
+TQ05
+TQ67
+TQ81
+TQ88

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Phrurolithus minimus: check date is during identifiable season
+Description=Check date is during known identifiable season for Phrurolithus minimus
+tvk=NBNSYS0000008698
+ErrorMsg=Date is outside the normal season for adult or identifiable Phrurolithus minimus
+DataFieldName=Stage
+StartDate=0323
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0316
+EndDate=0630
+
+Stage=Adult Female,Female
+StartDate=0423
+EndDate=0731

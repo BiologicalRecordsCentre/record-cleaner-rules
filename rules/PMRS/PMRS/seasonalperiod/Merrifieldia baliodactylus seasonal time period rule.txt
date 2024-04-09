@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Merrifieldia baliodactylus seasonal check
+Description=Check date of record agaist known seasonal limit of Merrifieldia baliodactylus
+Tvk=NBNSYS0100004009
+ErrorMsg=Date outside known seasonal limit for Merrifieldia baliodactylus
+StartDate=0601
+EndDate=0831
+LastChanged=20140113
+[EndMetadata]
+

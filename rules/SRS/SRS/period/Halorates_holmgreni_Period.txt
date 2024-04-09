@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Halorates holmgreni
+Description=Checks date is within known recording period of Halorates holmgreni
+ErrorMsg=Date is outside known recording period of Halorates holmgreni
+Tvk=NBNSYS0000009127
+StartDate=19220101
+EndDate=20021231
+LastChanged=20120316
+[EndMetadata]

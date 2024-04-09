@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Lessertia dentichelis: check grid is in range
+Description=Check grid is in within range of Lessertia dentichelis
+ErrorMsg=Grid is outside known modern range of Lessertia dentichelis
+DataFieldName=Species
+DataRecordId=NBNSYS0000009096
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SE01
+SH78
+SJ27
+SJ28
+SJ29
+SJ39
+SJ80
+SJ87
+SK38
+SK41
+SK50
+SK60
+SK68
+SO53
+SP09
+SP59
+SP94
+ST44
+SU77
+TL02
+TL14
+TQ37
+TQ38

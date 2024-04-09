@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Lepthyphantes beckeri: check date is during identifiable season
+Description=Check date is during known identifiable season for Lepthyphantes beckeri
+tvk=NBNSYS0100003707
+ErrorMsg=Date is outside the normal season for adult or identifiable Lepthyphantes beckeri
+DataFieldName=Stage
+StartDate=0215
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]

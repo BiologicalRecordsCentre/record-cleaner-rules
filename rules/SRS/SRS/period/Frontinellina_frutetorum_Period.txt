@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Frontinellina frutetorum
+Description=Checks date is within known recording period of Frontinellina frutetorum
+ErrorMsg=Date is outside known recording period of Frontinellina frutetorum
+Tvk=NHMSYS0000354343
+StartDate=20030101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

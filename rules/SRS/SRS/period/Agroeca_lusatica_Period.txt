@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Agroeca lusatica
+Description=Checks date is within known recording period of Agroeca lusatica
+ErrorMsg=Date is outside known recording period of Agroeca lusatica
+Tvk=NBNSYS0000008702
+StartDate=19380101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

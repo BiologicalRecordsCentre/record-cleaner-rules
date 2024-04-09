@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Chrysotoxum vernale: check date is during flight period
+Description=Check date is during the known flight period for Chrysotoxum vernale
+tvk = NBNSYS0000006899
+startDate = 0505
+endDate = 0814
+ErrorMsg = Date is outside flight period for Chrysotoxum vernale
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0505
+endDate = 0814
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0505
+endDate = 0814

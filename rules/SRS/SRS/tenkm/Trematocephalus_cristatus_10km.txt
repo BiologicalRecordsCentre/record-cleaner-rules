@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Trematocephalus cristatus: check grid is in range
+Description=Check grid is in within range of Trematocephalus cristatus
+ErrorMsg=Grid is outside known modern range of Trematocephalus cristatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000009002
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+
+SO76
+SO77
+SO86
+SO87
+SO88
+ST11
+ST59
+SU72
+SU93
+SX78
+TL40
+TQ02
+TQ05
+TQ14
+TQ15
+TQ16
+TQ25
+TQ33
+TQ35
+TQ42
+TQ43
+TQ44
+TQ56
+TQ61
+TQ64
+TQ66
+TQ71
+TQ72
+TQ85
+TQ95

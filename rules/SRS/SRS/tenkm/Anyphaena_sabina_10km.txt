@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Anyphaena sabina: check grid is in range
+Description=Check grid is in within range of Anyphaena sabina
+ErrorMsg=Grid is outside known modern range of Anyphaena sabina
+DataFieldName=Species
+DataRecordId=NHMSYS0020953641
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TQ38

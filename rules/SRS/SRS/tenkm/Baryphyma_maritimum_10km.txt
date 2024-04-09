@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Baryphyma maritimum: check grid is in range
+Description=Check grid is in within range of Baryphyma maritimum
+ErrorMsg=Grid is outside known modern range of Baryphyma maritimum
+DataFieldName=Species
+DataRecordId=NBNSYS0000009016
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SD32
+TA41
+TF55
+TF64
+TF74
+TF94
+TG04
+TG42
+TM46
+TM47
+TM57

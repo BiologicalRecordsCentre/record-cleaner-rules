@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Heliophanus dampfi
+Description=Checks date is within known recording period of Heliophanus dampfi
+ErrorMsg=Date is outside known recording period of Heliophanus dampfi
+Tvk=NBNSYS0000033218
+StartDate=19810101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

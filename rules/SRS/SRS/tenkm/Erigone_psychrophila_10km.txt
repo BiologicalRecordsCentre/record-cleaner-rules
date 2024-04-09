@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Erigone psychrophila: check grid is in range
+Description=Check grid is in within range of Erigone psychrophila
+ErrorMsg=Grid is outside known modern range of Erigone psychrophila
+DataFieldName=Species
+DataRecordId=NBNSYS0000009110
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NC35
+NG45
+NG95
+NG96
+NH17
+NH28
+NH37
+NO17
+NT92

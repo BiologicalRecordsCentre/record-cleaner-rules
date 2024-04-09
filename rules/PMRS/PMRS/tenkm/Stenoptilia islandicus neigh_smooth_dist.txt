@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Stenoptilia islandicus 10km
+Description=Check coordinate agaist known 10km distribution of Stenoptilia islandicus
+ErrorMsg=Coordinate outside know range for Stenoptilia islandicus
+DataFieldName=Species
+DataRecordId=NBNSYS0100005592
+LastChanged=20131009
+[EndMetadata]
+
+
+[10km_GB]
+NN42
+NN43
+NN44
+NN52
+NN53
+NN54
+NN62
+NN63
+NN64
+
+

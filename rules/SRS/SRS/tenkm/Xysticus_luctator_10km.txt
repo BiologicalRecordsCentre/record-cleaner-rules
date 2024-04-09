@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Xysticus luctator: check grid is in range
+Description=Check grid is in within range of Xysticus luctator
+ErrorMsg=Grid is outside known modern range of Xysticus luctator
+DataFieldName=Species
+DataRecordId=NBNSYS0000008727
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SP80

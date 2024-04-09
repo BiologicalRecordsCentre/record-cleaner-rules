@@ -1,0 +1,53 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Doros profuges: check grid is in range
+Description=Check grid is within known range of Doros profuges
+ErrorMsg = Grid is outside known range of Doros profuges
+DataFieldName = Species
+DataRecordId = NBNSYS0000146310
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NM42
+SD47
+SD48
+SH12
+SO77
+SS97
+ST33
+ST34
+ST43
+ST60
+ST81
+ST90
+ST91
+SU01
+SU02
+SU03
+SU13
+SU26
+SU71
+SU73
+SU81
+SU90
+TL18
+TQ01
+TQ14
+TQ15
+TQ16
+TQ25
+TQ30
+TQ40
+TQ41
+TQ50
+TQ52
+TQ60
+TQ67
+TQ78
+TQ88
+TV59
+
+[10km_Ireland]
+M30

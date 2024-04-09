@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Hellinsia chrysocomae temporal check
+Description=Check date of record against known temporal limit of Hellinsia chrysocomae
+Tvk=NBNSYS0100003432
+ErrorMsg=Date outside known temporal limit for Hellinsia chrysocomae
+StartDate=18000101
+EndDate=
+LastChanged=20140113
+[EndMetadata]
+

@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Cheilosia latifrons: check date is during flight period
+Description=Check date is during the known flight period for Cheilosia latifrons
+tvk = NBNSYS0100002330
+startDate = 0326
+endDate = 1102
+ErrorMsg = Date is outside flight period for Cheilosia latifrons
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0326
+endDate = 1102
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0326
+endDate = 1102

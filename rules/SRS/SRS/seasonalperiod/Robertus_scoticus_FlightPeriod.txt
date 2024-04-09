@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Robertus scoticus: check date is during identifiable season
+Description=Check date is during known identifiable season for Robertus scoticus
+tvk=NBNSYS0000008911
+ErrorMsg=Date is outside the normal season for adult or identifiable Robertus scoticus
+DataFieldName=Stage
+StartDate=0621
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0721
+EndDate=0831
+
+Stage=Adult Female,Female
+StartDate=0621
+EndDate=0831

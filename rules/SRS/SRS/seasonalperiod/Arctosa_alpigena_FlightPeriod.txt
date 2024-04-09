@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Arctosa alpigena: check date is during identifiable season
+Description=Check date is during known identifiable season for Arctosa alpigena
+tvk=NBNSYS0000008822
+ErrorMsg=Date is outside the normal season for adult or identifiable Arctosa alpigena
+DataFieldName=Stage
+StartDate=0421
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]

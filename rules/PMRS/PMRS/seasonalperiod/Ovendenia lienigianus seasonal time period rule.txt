@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Ovendenia lienigianus seasonal check
+Description=Check date of record agaist known seasonal limit of Ovendenia lienigianus
+Tvk=NBNSYS0100004367
+ErrorMsg=Date outside known seasonal limit for Ovendenia lienigianus
+StartDate=0601
+EndDate=0831
+LastChanged=20140113
+[EndMetadata]
+

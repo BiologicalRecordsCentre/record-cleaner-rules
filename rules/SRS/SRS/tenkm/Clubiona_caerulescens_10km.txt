@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Clubiona caerulescens: check grid is in range
+Description=Check grid is in within range of Clubiona caerulescens
+ErrorMsg=Grid is outside known modern range of Clubiona caerulescens
+DataFieldName=Species
+DataRecordId=NBNSYS0000008680
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NT09
+SD47
+SD57
+SO59
+SO91
+SP15

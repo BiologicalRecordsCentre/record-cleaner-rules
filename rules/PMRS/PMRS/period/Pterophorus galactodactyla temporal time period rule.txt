@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Pterophorus galactodactyla temporal check
+Description=Check date of record against known temporal limit of Pterophorus galactodactyla
+Tvk=NHMSYS0000503971
+ErrorMsg=Date outside known temporal limit for Pterophorus galactodactyla
+StartDate=18000101
+EndDate=
+LastChanged=20140113
+[EndMetadata]
+

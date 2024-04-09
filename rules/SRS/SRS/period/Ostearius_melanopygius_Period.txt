@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Ostearius melanopygius
+Description=Checks date is within known recording period of Ostearius melanopygius
+ErrorMsg=Date is outside known recording period of Ostearius melanopygius
+Tvk=NBNSYS0000009136
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

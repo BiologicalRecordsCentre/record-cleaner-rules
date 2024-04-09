@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Larinioides sclopetarius: check date is during identifiable season
+Description=Check date is during known identifiable season for Larinioides sclopetarius
+tvk=NBNSYS0000008943
+ErrorMsg=Date is outside the normal season for adult or identifiable Larinioides sclopetarius
+DataFieldName=Stage
+StartDate=0317
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0422
+EndDate=1031
+
+Stage=Adult Female,Female
+StartDate=0222
+EndDate=1031

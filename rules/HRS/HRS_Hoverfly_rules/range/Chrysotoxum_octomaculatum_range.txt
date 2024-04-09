@@ -1,0 +1,60 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Chrysotoxum octomaculatum: check grid is in range
+Description=Check grid is within known range of Chrysotoxum octomaculatum
+ErrorMsg = Grid is outside known range of Chrysotoxum octomaculatum
+DataFieldName = Species
+DataRecordId = NBNSYS0000006898
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+ST70
+ST70
+ST70
+SU10
+SU10
+SU10
+SU20
+SU20
+SU20
+SU30
+SU30
+SU30
+SU33
+SU33
+SU33
+SU73
+SU73
+SU73
+SU83
+SU83
+SU83
+SU84
+SU84
+SU84
+SU94
+SU94
+SU94
+SW84
+SW84
+SW84
+SY98
+SY98
+SY98
+SY99
+SY99
+SY99
+SZ08
+SZ08
+SZ08
+SZ09
+SZ09
+SZ09
+SZ19
+SZ19
+SZ19
+TQ78
+TQ78
+TQ78

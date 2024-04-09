@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Clubiona genevensis: check grid is in range
+Description=Check grid is in within range of Clubiona genevensis
+ErrorMsg=Grid is outside known modern range of Clubiona genevensis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008691
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SM72
+SW61

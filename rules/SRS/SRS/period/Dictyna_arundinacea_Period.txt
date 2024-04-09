@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Dictyna arundinacea
+Description=Checks date is within known recording period of Dictyna arundinacea
+ErrorMsg=Date is outside known recording period of Dictyna arundinacea
+Tvk=NBNSYS0000008613
+StartDate=18580101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

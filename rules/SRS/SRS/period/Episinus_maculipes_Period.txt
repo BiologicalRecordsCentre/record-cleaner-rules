@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Episinus maculipes
+Description=Checks date is within known recording period of Episinus maculipes
+ErrorMsg=Date is outside known recording period of Episinus maculipes
+Tvk=NBNSYS0000008864
+StartDate=19290101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

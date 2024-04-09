@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Meioneta fuscipalpa: check grid is in range
+Description=Check grid is in within range of Meioneta fuscipalpa
+ErrorMsg=Grid is outside known modern range of Meioneta fuscipalpa
+DataFieldName=Species
+DataRecordId=NBNSYS0100003945
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TL77

@@ -1,0 +1,22 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Steatoda albomaculata: check grid is in range
+Description=Check grid is in within range of Steatoda albomaculata
+ErrorMsg=Grid is outside known modern range of Steatoda albomaculata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008876
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SS87
+SU95
+SU96
+SY88
+TF94
+TL78
+TL88
+TM24
+TM34
+TM46

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Enoplognatha oelandica: check grid is in range
+Description=Check grid is in within range of Enoplognatha oelandica
+ErrorMsg=Grid is outside known modern range of Enoplognatha oelandica
+DataFieldName=Species
+DataRecordId=NBNSYS0000008907
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU96
+TQ39

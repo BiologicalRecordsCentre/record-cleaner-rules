@@ -1,0 +1,33 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Meioneta mossica: check grid is in range
+Description=Check grid is in within range of Meioneta mossica
+ErrorMsg=Grid is outside known modern range of Meioneta mossica
+DataFieldName=Species
+DataRecordId=NBNSYS0100003946
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NC51
+ND15
+ND39
+NH31
+NH32
+NH67
+NM63
+NM66
+NN54
+NO15
+NY22
+NY53
+SD61
+SD86
+SH73
+SH74
+SH92
+SK18
+SN54
+SN78
+SX67

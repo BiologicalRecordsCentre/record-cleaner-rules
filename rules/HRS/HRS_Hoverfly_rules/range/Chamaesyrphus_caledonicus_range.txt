@@ -1,0 +1,17 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Chamaesyrphus caledonicus: check grid is in range
+Description=Check grid is within known range of Chamaesyrphus caledonicus
+ErrorMsg = Grid is outside known range of Chamaesyrphus caledonicus
+DataFieldName = Species
+DataRecordId = NBNSYS0000007071
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NC23
+NH91
+NH95
+NH96
+NN45

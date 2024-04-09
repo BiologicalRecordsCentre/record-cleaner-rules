@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Trachyzelotes fuscipes: check date is during identifiable season
+Description=Check date is during known identifiable season for Trachyzelotes fuscipes
+tvk=NHMSYS0000354403
+ErrorMsg=Date is outside the normal season for adult or identifiable Trachyzelotes fuscipes
+DataFieldName=Stage
+StartDate=0316
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Meioneta mollis: check date is during identifiable season
+Description=Check date is during known identifiable season for Meioneta mollis
+tvk=NBNSYS0000009156
+ErrorMsg=Date is outside the normal season for adult or identifiable Meioneta mollis
+DataFieldName=Stage
+StartDate=0125
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0101
+EndDate=1231
+
+Stage=Adult Female,Female
+StartDate=0122
+EndDate=1231

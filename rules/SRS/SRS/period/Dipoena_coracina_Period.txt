@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Dipoena coracina
+Description=Checks date is within known recording period of Dipoena coracina
+ErrorMsg=Date is outside known recording period of Dipoena coracina
+Tvk=NBNSYS0000008870
+StartDate=18900101
+EndDate=19131231
+LastChanged=20120316
+[EndMetadata]

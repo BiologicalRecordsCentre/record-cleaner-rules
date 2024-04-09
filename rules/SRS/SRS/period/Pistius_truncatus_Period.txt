@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Pistius truncatus
+Description=Checks date is within known recording period of Pistius truncatus
+ErrorMsg=Date is outside known recording period of Pistius truncatus
+Tvk=NBNSYS0000008719
+StartDate=18960101
+EndDate=20011231
+LastChanged=20120316
+[EndMetadata]

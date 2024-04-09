@@ -1,0 +1,56 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Hypomma fulvum: check grid is in range
+Description=Check grid is in within range of Hypomma fulvum
+ErrorMsg=Grid is outside known modern range of Hypomma fulvum
+DataFieldName=Species
+DataRecordId=NBNSYS0000009008
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SJ72
+SJ82
+ST38
+TG04
+TG20
+TG30
+TG31
+TG32
+TG41
+TG42
+TL28
+TL56
+TL57
+TL66
+TL91
+TL99
+TM00
+TM03
+TM09
+TM11
+TM13
+TM17
+TM23
+TM36
+TM46
+TM47
+TM57
+TM59
+TQ48
+TQ57
+TQ58
+TQ66
+TQ67
+TQ68
+TQ78
+TQ82
+TQ86
+TQ87
+TQ92
+TQ96
+TQ98
+TR01
+TR06
+TR26

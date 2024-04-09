@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Porrhomma oblitum
+Description=Checks date is within known recording period of Porrhomma oblitum
+ErrorMsg=Date is outside known recording period of Porrhomma oblitum
+Tvk=NBNSYS0000009146
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

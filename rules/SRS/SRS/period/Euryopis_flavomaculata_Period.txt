@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Euryopis flavomaculata
+Description=Checks date is within known recording period of Euryopis flavomaculata
+ErrorMsg=Date is outside known recording period of Euryopis flavomaculata
+Tvk=NBNSYS0000008865
+StartDate=18520101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,18 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Centromerus levitarsis: check grid is in range
+Description=Check grid is in within range of Centromerus levitarsis
+ErrorMsg=Grid is outside known modern range of Centromerus levitarsis
+DataFieldName=Species
+DataRecordId=NBNSYS0000009170
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NM66
+NS69
+NS86
+NX48
+NX69
+NY25

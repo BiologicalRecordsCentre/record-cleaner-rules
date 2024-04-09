@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Philodromus emarginatus: check grid is in range
+Description=Check grid is in within range of Philodromus emarginatus
+ErrorMsg=Grid is outside known modern range of Philodromus emarginatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008749
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NG85
+NJ01
+NO09
+NO19
+SD38
+SU10
+SU21
+SU83
+SZ19

@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Segestria bavarica: check grid is in range
+Description=Check grid is in within range of Segestria bavarica
+ErrorMsg=Grid is outside known modern range of Segestria bavarica
+DataFieldName=Species
+DataRecordId=NBNSYS0000008636
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SH68
+SH78
+SH88
+ST35
+SU80
+SW61
+SW71
+SX73
+SX95
+SY08
+SY66
+SY77
+SZ07

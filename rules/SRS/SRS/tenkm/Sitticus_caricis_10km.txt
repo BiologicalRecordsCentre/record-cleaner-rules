@@ -1,0 +1,28 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Sitticus caricis: check grid is in range
+Description=Check grid is in within range of Sitticus caricis
+ErrorMsg=Grid is outside known modern range of Sitticus caricis
+DataFieldName=Species
+DataRecordId=NBNSYS0000008779
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NY52
+SH38
+SH47
+SU10
+SU30
+SU49
+SU73
+SU94
+SU95
+SU96
+SX73
+SY99
+TG01
+TG32
+TM07
+TM19

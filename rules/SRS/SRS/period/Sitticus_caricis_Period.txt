@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Sitticus caricis
+Description=Checks date is within known recording period of Sitticus caricis
+ErrorMsg=Date is outside known recording period of Sitticus caricis
+Tvk=NBNSYS0000008779
+StartDate=19070101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

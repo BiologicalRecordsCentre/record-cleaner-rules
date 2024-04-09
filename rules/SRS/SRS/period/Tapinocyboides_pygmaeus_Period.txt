@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Tapinocyboides pygmaeus
+Description=Checks date is within known recording period of Tapinocyboides pygmaeus
+ErrorMsg=Date is outside known recording period of Tapinocyboides pygmaeus
+Tvk=NBNSYS0000009064
+StartDate=19510101
+EndDate=19981231
+LastChanged=20120316
+[EndMetadata]

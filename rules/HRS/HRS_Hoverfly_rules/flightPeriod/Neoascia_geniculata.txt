@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Neoascia geniculata: check date is during flight period
+Description=Check date is during the known flight period for Neoascia geniculata
+tvk = NBNSYS0000007026
+startDate = 0330
+endDate = 1008
+ErrorMsg = Date is outside flight period for Neoascia geniculata
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0330
+endDate = 1008
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0330
+endDate = 1008

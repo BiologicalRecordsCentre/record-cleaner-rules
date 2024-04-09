@@ -1,0 +1,12 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Altella lucida: check grid is in range
+Description=Check grid is in within range of Altella lucida
+ErrorMsg=Grid is outside known modern range of Altella lucida
+DataFieldName=Species
+DataRecordId=NBNSYS0000008626
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]

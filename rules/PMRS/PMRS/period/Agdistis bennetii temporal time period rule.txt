@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Agdistis bennetii temporal check
+Description=Check date of record against known temporal limit of Agdistis bennetii
+Tvk=NHMSYS0000501029
+ErrorMsg=Date outside known temporal limit for Agdistis bennetii
+StartDate=18000101
+EndDate=
+LastChanged=20140113
+[EndMetadata]
+

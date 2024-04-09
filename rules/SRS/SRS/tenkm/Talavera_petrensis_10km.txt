@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Talavera petrensis: check grid is in range
+Description=Check grid is in within range of Talavera petrensis
+ErrorMsg=Grid is outside known modern range of Talavera petrensis
+DataFieldName=Species
+DataRecordId=NBNSYS0100005698
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NM39
+NX13
+NZ70
+SU94
+SU95
+SU96
+SX58
+SY58
+SY59
+SY88
+SY89
+TR16

@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Leucozona laternaria: check date is during flight period
+Description=Check date is during the known flight period for Leucozona laternaria
+tvk = NBNSYS0000006919
+startDate = 0108
+endDate = 0930
+ErrorMsg = Date is outside flight period for Leucozona laternaria
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0108
+endDate = 0930
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0108
+endDate = 0930

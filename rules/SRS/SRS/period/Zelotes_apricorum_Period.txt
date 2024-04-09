@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Zelotes apricorum
+Description=Checks date is within known recording period of Zelotes apricorum
+ErrorMsg=Date is outside known recording period of Zelotes apricorum
+Tvk=NBNSYS0100006044
+StartDate=18580101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

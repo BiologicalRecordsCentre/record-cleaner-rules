@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Erigonella hiemalis
+Description=Checks date is within known recording period of Erigonella hiemalis
+ErrorMsg=Date is outside known recording period of Erigonella hiemalis
+Tvk=NBNSYS0000009083
+StartDate=18360101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

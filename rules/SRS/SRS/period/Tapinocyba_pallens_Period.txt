@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Tapinocyba pallens
+Description=Checks date is within known recording period of Tapinocyba pallens
+ErrorMsg=Date is outside known recording period of Tapinocyba pallens
+Tvk=NBNSYS0000009061
+StartDate=18950101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

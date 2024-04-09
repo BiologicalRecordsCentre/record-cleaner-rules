@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Micrargus apertus: check date is during identifiable season
+Description=Check date is during known identifiable season for Micrargus apertus
+tvk=NBNSYS0000009077
+ErrorMsg=Date is outside the normal season for adult or identifiable Micrargus apertus
+DataFieldName=Stage
+StartDate=0318
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0417
+EndDate=0731
+
+Stage=Adult Female,Female
+StartDate=0318
+EndDate=1031

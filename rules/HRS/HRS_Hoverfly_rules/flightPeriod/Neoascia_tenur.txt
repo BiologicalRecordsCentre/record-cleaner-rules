@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Neoascia tenur: check date is during flight period
+Description=Check date is during the known flight period for Neoascia tenur
+tvk = NBNSYS0000007031
+startDate = 0112
+endDate = 1127
+ErrorMsg = Date is outside flight period for Neoascia tenur
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0112
+endDate = 1127
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0112
+endDate = 1127

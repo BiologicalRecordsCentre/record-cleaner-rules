@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Gnaphosa nigerrima: check grid is in range
+Description=Check grid is in within range of Gnaphosa nigerrima
+ErrorMsg=Grid is outside known modern range of Gnaphosa nigerrima
+DataFieldName=Species
+DataRecordId=NBNSYS0000147833
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SJ65

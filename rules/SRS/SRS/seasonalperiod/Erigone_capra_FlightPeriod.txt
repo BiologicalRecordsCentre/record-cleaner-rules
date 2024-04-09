@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Erigone capra: check date is during identifiable season
+Description=Check date is during known identifiable season for Erigone capra
+tvk=NBNSYS0000009108
+ErrorMsg=Date is outside the normal season for adult or identifiable Erigone capra
+DataFieldName=Stage
+StartDate=0319
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0418
+EndDate=0831
+
+Stage=Adult Female,Female
+StartDate=0418
+EndDate=0831

@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Porrhomma rosenhaueri: check date is during identifiable season
+Description=Check date is during known identifiable season for Porrhomma rosenhaueri
+tvk=NBNSYS0000009140
+ErrorMsg=Date is outside the normal season for adult or identifiable Porrhomma rosenhaueri
+DataFieldName=Stage
+StartDate=0415
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]

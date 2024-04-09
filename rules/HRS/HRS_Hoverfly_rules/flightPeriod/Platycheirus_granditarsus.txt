@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Platycheirus granditarsus: check date is during flight period
+Description=Check date is during the known flight period for Platycheirus granditarsus
+tvk = NBNSYS0100004762
+startDate = 0218
+endDate = 1217
+ErrorMsg = Date is outside flight period for Platycheirus granditarsus
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0218
+endDate = 1217
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0218
+endDate = 1217

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Centromerus semiater: check grid is in range
+Description=Check grid is in within range of Centromerus semiater
+ErrorMsg=Grid is outside known modern range of Centromerus semiater
+DataFieldName=Species
+DataRecordId=NBNSYS0100002237
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TG31
+TG32
+TG42

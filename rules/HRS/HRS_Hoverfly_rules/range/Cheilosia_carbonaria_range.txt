@@ -1,0 +1,80 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Cheilosia carbonaria: check grid is in range
+Description=Check grid is within known range of Cheilosia carbonaria
+ErrorMsg = Grid is outside known range of Cheilosia carbonaria
+DataFieldName = Species
+DataRecordId = NBNSYS0000006977
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+SJ56
+SJ58
+SK15
+SK35
+SO77
+SO81
+SO92
+SP50
+ST21
+ST40
+ST41
+ST43
+ST44
+ST47
+ST50
+ST53
+ST60
+ST61
+ST74
+ST90
+SU01
+SU02
+SU12
+SU20
+SU22
+SU30
+SU32
+SU33
+SU36
+SU46
+SU50
+SU51
+SU60
+SU66
+SU67
+SU71
+SU77
+SU81
+SU87
+SU92
+SU93
+SU95
+SU96
+SU97
+SX87
+SY59
+SY68
+SY69
+SY78
+SY79
+SY89
+SZ08
+SZ49
+TL08
+TL17
+TL30
+TQ15
+TQ16
+TQ23
+TQ24
+TQ26
+TQ33
+TQ42
+TQ47
+TQ51
+TQ64
+TQ66
+TQ88

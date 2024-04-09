@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Araneus alsine: check date is during identifiable season
+Description=Check date is during known identifiable season for Araneus alsine
+tvk=NBNSYS0000008940
+ErrorMsg=Date is outside the normal season for adult or identifiable Araneus alsine
+DataFieldName=Stage
+StartDate=0618
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0517
+EndDate=0930
+
+Stage=Adult Female,Female
+StartDate=0517
+EndDate=1031

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Xysticus lanio
+Description=Checks date is within known recording period of Xysticus lanio
+ErrorMsg=Date is outside known recording period of Xysticus lanio
+Tvk=NBNSYS0000008724
+StartDate=18720101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

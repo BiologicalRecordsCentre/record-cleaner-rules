@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Erigone welchi: check grid is in range
+Description=Check grid is in within range of Erigone welchi
+ErrorMsg=Grid is outside known modern range of Erigone welchi
+DataFieldName=Species
+DataRecordId=NBNSYS0000009109
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NX76
+SH74
+SK08
+SN87

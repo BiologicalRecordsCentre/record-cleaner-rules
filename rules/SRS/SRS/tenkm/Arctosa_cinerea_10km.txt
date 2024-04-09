@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Arctosa cinerea: check grid is in range
+Description=Check grid is in within range of Arctosa cinerea
+ErrorMsg=Grid is outside known modern range of Arctosa cinerea
+DataFieldName=Species
+DataRecordId=NBNSYS0000008821
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+
+NN95
+NO13
+NO39
+NT93
+NY35
+NY45
+NY53
+NY56
+SD56
+SD57
+SD67
+SD68
+SH70
+SH71
+SH80
+SN52
+SN57
+SN62
+SN67
+SN68
+SN73
+SN77
+SO08
+SO09
+SO14
+SO21
+SO24
+SO31
+ST39

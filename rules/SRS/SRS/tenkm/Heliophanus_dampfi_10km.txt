@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Heliophanus dampfi: check grid is in range
+Description=Check grid is in within range of Heliophanus dampfi
+ErrorMsg=Grid is outside known modern range of Heliophanus dampfi
+DataFieldName=Species
+DataRecordId=NBNSYS0000033218
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NS69
+NS79
+SN69

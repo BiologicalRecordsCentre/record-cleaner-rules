@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Meioneta simplicitarsis: check date is during identifiable season
+Description=Check date is during known identifiable season for Meioneta simplicitarsis
+tvk=NBNSYS0000009158
+ErrorMsg=Date is outside the normal season for adult or identifiable Meioneta simplicitarsis
+DataFieldName=Stage
+StartDate=0121
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0121
+EndDate=1130
+
+Stage=Adult Female,Female
+StartDate=0125
+EndDate=1130

@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Hyptiotes paradoxus: check grid is in range
+Description=Check grid is in within range of Hyptiotes paradoxus
+ErrorMsg=Grid is outside known modern range of Hyptiotes paradoxus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008628
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SD47
+SJ47
+SK58
+SO13
+SO51
+SO60
+SO61
+SO62
+SO88
+SS92
+ST46
+ST59
+SU20
+SU57
+SU67
+SU94
+SU97
+SX87
+SY18
+TQ03
+TQ13
+TQ15
+TQ66

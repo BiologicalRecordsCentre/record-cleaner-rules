@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Nothophantes horridus
+Description=Checks date is within known recording period of Nothophantes horridus
+ErrorMsg=Date is outside known recording period of Nothophantes horridus
+Tvk=NBNSYS0100004280
+StartDate=19890101
+EndDate=19971231
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Talavera aequipes
+Description=Checks date is within known recording period of Talavera aequipes
+ErrorMsg=Date is outside known recording period of Talavera aequipes
+Tvk=NBNSYS0100005697
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

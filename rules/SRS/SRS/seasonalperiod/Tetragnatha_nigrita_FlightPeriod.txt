@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Tetragnatha nigrita: check date is during identifiable season
+Description=Check date is during known identifiable season for Tetragnatha nigrita
+tvk=NBNSYS0000008921
+ErrorMsg=Date is outside the normal season for adult or identifiable Tetragnatha nigrita
+DataFieldName=Stage
+StartDate=0420
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0518
+EndDate=0731
+
+Stage=Adult Female,Female
+StartDate=0424
+EndDate=0831

@@ -1,0 +1,49 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Maro minutus: check grid is in range
+Description=Check grid is in within range of Maro minutus
+ErrorMsg=Grid is outside known modern range of Maro minutus
+DataFieldName=Species
+DataRecordId=NBNSYS0000009163
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+HU35
+ND15
+NH17
+NH32
+NH33
+NH91
+NJ01
+NJ16
+NJ83
+NN19
+NN48
+NO17
+NO32
+NO40
+NO53
+NR49
+NR57
+NS69
+NX69
+SD39
+SE63
+SH61
+SH71
+SH73
+SH92
+SJ23
+SJ43
+SK07
+SN25
+SN53
+SN54
+SN75
+SN77
+SO37
+SP06
+TL95
+TR05

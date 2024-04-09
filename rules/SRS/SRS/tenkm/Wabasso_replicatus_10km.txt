@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Wabasso replicatus: check grid is in range
+Description=Check grid is in within range of Wabasso replicatus
+ErrorMsg=Grid is outside known modern range of Wabasso replicatus
+DataFieldName=Species
+DataRecordId=NBNSYS0100005983
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NH80

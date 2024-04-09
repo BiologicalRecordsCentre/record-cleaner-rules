@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Allomengea vidua
+Description=Checks date is within known recording period of Allomengea vidua
+ErrorMsg=Date is outside known recording period of Allomengea vidua
+Tvk=NBNSYS0000009241
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

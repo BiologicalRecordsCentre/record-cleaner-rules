@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Mermessus maculata: check grid is in range
+Description=Check grid is in within range of Mermessus maculata
+ErrorMsg=Grid is outside known modern range of Mermessus maculata
+DataFieldName=Species
+DataRecordId=NHMSYS0020953691
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TQ38

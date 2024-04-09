@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Hahnia microphthalma: check date is during identifiable season
+Description=Check date is during known identifiable season for Hahnia microphthalma
+tvk=NBNSYS0000008854
+ErrorMsg=Date is outside the normal season for adult or identifiable Hahnia microphthalma
+DataFieldName=Stage
+StartDate=1115
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]

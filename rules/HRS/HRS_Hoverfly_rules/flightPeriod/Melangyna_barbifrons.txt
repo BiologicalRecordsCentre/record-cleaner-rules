@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Melangyna barbifrons: check date is during flight period
+Description=Check date is during the known flight period for Melangyna barbifrons
+tvk = NBNSYS0000006923
+startDate = 0314
+endDate = 0812
+ErrorMsg = Date is outside flight period for Melangyna barbifrons
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0314
+endDate = 0812
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0314
+endDate = 0812

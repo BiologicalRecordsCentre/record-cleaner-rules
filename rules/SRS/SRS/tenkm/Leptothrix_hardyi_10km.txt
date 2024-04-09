@@ -1,0 +1,57 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Leptothrix hardyi: check grid is in range
+Description=Check grid is in within range of Leptothrix hardyi
+ErrorMsg=Grid is outside known modern range of Leptothrix hardyi
+DataFieldName=Species
+DataRecordId=NBNSYS0000009120
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+HY21
+NC66
+NC73
+ND14
+ND15
+NG43
+NH06
+NN44
+NN69
+NN79
+NO33
+NO34
+NO37
+NO44
+NR26
+NS33
+NS45
+NT23
+NT48
+NX48
+NY25
+NY33
+NY63
+NY72
+NY82
+NY89
+NZ14
+NZ61
+NZ70
+NZ90
+SC48
+SE05
+SH46
+SH60
+SH61
+SH70
+SH71
+SJ16
+SJ43
+SJ48
+SK07
+SK09
+SN66
+SN74
+SO39

@@ -1,0 +1,49 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Gnaphosa leporina: check grid is in range
+Description=Check grid is in within range of Gnaphosa leporina
+ErrorMsg=Grid is outside known modern range of Gnaphosa leporina
+DataFieldName=Species
+DataRecordId=NBNSYS0000008667
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NG42
+NH01
+NH18
+NH88
+NJ01
+NN69
+NN79
+NN92
+NO06
+NO19
+NO36
+NO37
+NO44
+NY09
+NY21
+NY25
+NY26
+NY46
+NZ60
+NZ61
+NZ62
+NZ70
+NZ71
+SE14
+SE63
+SE66
+SE71
+SE79
+SE83
+SJ43
+SJ65
+SU95
+SU96
+SY89
+SY98
+SZ19
+TR01

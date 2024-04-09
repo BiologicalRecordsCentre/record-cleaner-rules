@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Crustulina sticta: check grid is in range
+Description=Check grid is in within range of Crustulina sticta
+ErrorMsg=Grid is outside known modern range of Crustulina sticta
+DataFieldName=Species
+DataRecordId=NBNSYS0000008874
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SK66
+SX87
+SY98
+SY99
+SZ08
+SZ79
+TA41
+TF49
+TF55
+TF56
+TF62
+TF64
+TF74
+TF91
+TF94
+TG04
+TL28
+TL57
+TL66
+TL77
+TL78
+TL79
+TL97
+TM08
+TM14
+TM19
+TQ91
+TR01

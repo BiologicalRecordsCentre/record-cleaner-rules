@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Marasmarcha lunaedactyla temporal check
+Description=Check date of record against known temporal limit of Marasmarcha lunaedactyla
+Tvk=NHMSYS0000503165
+ErrorMsg=Date outside known temporal limit for Marasmarcha lunaedactyla
+StartDate=18000101
+EndDate=
+LastChanged=20140113
+[EndMetadata]
+

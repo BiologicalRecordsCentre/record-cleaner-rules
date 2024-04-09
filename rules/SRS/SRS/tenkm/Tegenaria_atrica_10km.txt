@@ -1,0 +1,25 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Tegenaria atrica: check grid is in range
+Description=Check grid is in within range of Tegenaria atrica
+ErrorMsg=Grid is outside known modern range of Tegenaria atrica
+DataFieldName=Species
+DataRecordId=NBNSYS0000008838
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NH64
+NJ90
+NO42
+NU22
+SD30
+SE55
+SH46
+SS54
+ST74
+ST78
+TF19
+TQ28
+TQ37

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Sitticus saltator
+Description=Checks date is within known recording period of Sitticus saltator
+ErrorMsg=Date is outside known recording period of Sitticus saltator
+Tvk=NBNSYS0100005539
+StartDate=18990101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Hypsosinga heri
+Description=Checks date is within known recording period of Hypsosinga heri
+ErrorMsg=Date is outside known recording period of Hypsosinga heri
+Tvk=NBNSYS0000008959
+StartDate=18920101
+EndDate=19281231
+LastChanged=20120316
+[EndMetadata]

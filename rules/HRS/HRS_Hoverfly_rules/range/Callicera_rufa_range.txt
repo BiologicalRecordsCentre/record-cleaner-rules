@@ -1,0 +1,48 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Callicera rufa: check grid is in range
+Description=Check grid is within known range of Callicera rufa
+ErrorMsg = Grid is outside known range of Callicera rufa
+DataFieldName = Species
+DataRecordId = NBNSYS0000006970
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NG85
+NG87
+NG96
+NH06
+NH22
+NH23
+NH29
+NH31
+NH41
+NH48
+NH49
+NH51
+NH53
+NH55
+NH63
+NH77
+NH79
+NH81
+NH82
+NH89
+NH90
+NH91
+NH92
+NH96
+NJ01
+NJ02
+NN34
+NN45
+NN55
+NO01
+NO04
+NO09
+NO13
+NO19
+NO29
+NO49

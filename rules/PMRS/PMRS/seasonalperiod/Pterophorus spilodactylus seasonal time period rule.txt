@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Pterophorus spilodactylus seasonal check
+Description=Check date of record against known seasonal limit of Pterophorus spilodactylus
+Tvk=NHMSYS0000503973
+ErrorMsg=Date outside known seasonal limit for Pterophorus spilodactylus
+StartDate=0601
+EndDate=0831
+LastChanged=20140113
+[EndMetadata]
+

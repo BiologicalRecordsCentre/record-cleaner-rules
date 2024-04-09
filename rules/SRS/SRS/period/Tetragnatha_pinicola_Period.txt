@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Tetragnatha pinicola
+Description=Checks date is within known recording period of Tetragnatha pinicola
+ErrorMsg=Date is outside known recording period of Tetragnatha pinicola
+Tvk=NBNSYS0000008918
+StartDate=18920101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

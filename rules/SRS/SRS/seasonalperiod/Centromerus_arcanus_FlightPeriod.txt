@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Centromerus arcanus: check date is during identifiable season
+Description=Check date is during known identifiable season for Centromerus arcanus
+tvk=NBNSYS0000009169
+ErrorMsg=Date is outside the normal season for adult or identifiable Centromerus arcanus
+DataFieldName=Stage
+StartDate=0317
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0417
+EndDate=1031
+
+Stage=Adult Female,Female
+StartDate=0101
+EndDate=1031

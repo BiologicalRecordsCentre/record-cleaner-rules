@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Evansia merens
+Description=Checks date is within known recording period of Evansia merens
+ErrorMsg=Date is outside known recording period of Evansia merens
+Tvk=NBNSYS0000009054
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

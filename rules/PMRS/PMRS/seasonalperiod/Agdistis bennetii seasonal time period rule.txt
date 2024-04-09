@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Agdistis bennetii seasonal check
+Description=Check date of record agaist known seasonal limit of Agdistis bennetii
+Tvk=NHMSYS0000501029
+ErrorMsg=Date outside known seasonal limit for Agdistis bennetii
+StartDate=0501
+EndDate=0930
+LastChanged=20140113
+[EndMetadata]
+

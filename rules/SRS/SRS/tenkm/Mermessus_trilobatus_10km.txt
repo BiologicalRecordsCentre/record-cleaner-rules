@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Mermessus trilobatus: check grid is in range
+Description=Check grid is in within range of Mermessus trilobatus
+ErrorMsg=Grid is outside known modern range of Mermessus trilobatus
+DataFieldName=Species
+DataRecordId=NHMSYS0020953697
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TQ37
+TQ67

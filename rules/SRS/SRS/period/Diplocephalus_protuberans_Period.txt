@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Diplocephalus protuberans
+Description=Checks date is within known recording period of Diplocephalus protuberans
+ErrorMsg=Date is outside known recording period of Diplocephalus protuberans
+Tvk=NBNSYS0000009092
+StartDate=19000101
+EndDate=20011231
+LastChanged=20120316
+[EndMetadata]

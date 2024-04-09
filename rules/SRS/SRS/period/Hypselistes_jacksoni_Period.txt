@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Hypselistes jacksoni
+Description=Checks date is within known recording period of Hypselistes jacksoni
+ErrorMsg=Date is outside known recording period of Hypselistes jacksoni
+Tvk=NBNSYS0000009025
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

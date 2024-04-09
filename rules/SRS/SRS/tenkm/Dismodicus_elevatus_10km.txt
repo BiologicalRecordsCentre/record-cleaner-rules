@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Dismodicus elevatus: check grid is in range
+Description=Check grid is in within range of Dismodicus elevatus
+ErrorMsg=Grid is outside known modern range of Dismodicus elevatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000009006
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NH91
+NJ01
+NT90

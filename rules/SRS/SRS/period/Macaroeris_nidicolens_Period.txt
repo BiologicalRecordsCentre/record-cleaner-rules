@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Macaroeris nidicolens
+Description=Checks date is within known recording period of Macaroeris nidicolens
+ErrorMsg=Date is outside known recording period of Macaroeris nidicolens
+Tvk=NBNSYS0200000077
+StartDate=20020101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

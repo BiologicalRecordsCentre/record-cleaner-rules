@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Zora silvestris: check date is during identifiable season
+Description=Check date is during known identifiable season for Zora silvestris
+tvk=NBNSYS0000008713
+ErrorMsg=Date is outside the normal season for adult or identifiable Zora silvestris
+DataFieldName=Stage
+StartDate=0517
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]

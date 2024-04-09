@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Linyphia hortensis
+Description=Checks date is within known recording period of Linyphia hortensis
+ErrorMsg=Date is outside known recording period of Linyphia hortensis
+Tvk=NBNSYS0000009232
+StartDate=18580101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

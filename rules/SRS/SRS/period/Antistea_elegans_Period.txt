@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Antistea elegans
+Description=Checks date is within known recording period of Antistea elegans
+ErrorMsg=Date is outside known recording period of Antistea elegans
+Tvk=NBNSYS0000008851
+StartDate=18610101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

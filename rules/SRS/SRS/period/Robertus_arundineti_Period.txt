@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Robertus arundineti
+Description=Checks date is within known recording period of Robertus arundineti
+ErrorMsg=Date is outside known recording period of Robertus arundineti
+Tvk=NBNSYS0000008909
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

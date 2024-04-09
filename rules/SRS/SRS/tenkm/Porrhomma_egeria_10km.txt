@@ -1,0 +1,35 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Porrhomma egeria: check grid is in range
+Description=Check grid is in within range of Porrhomma egeria
+ErrorMsg=Grid is outside known modern range of Porrhomma egeria
+DataFieldName=Species
+DataRecordId=NBNSYS0000009145
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NJ83
+NJ86
+NN92
+NT11
+NT26
+NT27
+NT57
+NY89
+SD47
+SE11
+SK07
+SK38
+SN68
+SO51
+SO61
+SP31
+SP48
+SS53
+SU59
+TF10
+TL02
+TL11
+TQ68

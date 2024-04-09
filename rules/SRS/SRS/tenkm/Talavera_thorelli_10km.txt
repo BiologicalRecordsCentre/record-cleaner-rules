@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Talavera thorelli: check grid is in range
+Description=Check grid is in within range of Talavera thorelli
+ErrorMsg=Grid is outside known modern range of Talavera thorelli
+DataFieldName=Species
+DataRecordId=NBNSYS0100005699
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TR23

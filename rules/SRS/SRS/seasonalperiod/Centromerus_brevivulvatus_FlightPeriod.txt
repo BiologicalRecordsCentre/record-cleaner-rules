@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Centromerus brevivulvatus: check date is during identifiable season
+Description=Check date is during known identifiable season for Centromerus brevivulvatus
+tvk=NBNSYS0100002235
+ErrorMsg=Date is outside the normal season for adult or identifiable Centromerus brevivulvatus
+DataFieldName=Stage
+StartDate=0819
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]

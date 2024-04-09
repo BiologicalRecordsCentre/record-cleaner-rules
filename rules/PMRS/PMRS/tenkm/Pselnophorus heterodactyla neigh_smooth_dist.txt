@@ -1,0 +1,50 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Pselnophorus heterodactyla 10km
+Description=Check coordinate agaist known 10km distribution of Pselnophorus heterodactyla
+ErrorMsg=Coordinate outside know range for Pselnophorus heterodactyla
+DataFieldName=Species
+DataRecordId=NHMSYS0000503933
+LastChanged=20131009
+[EndMetadata]
+
+
+[10km_GB]
+NN63
+NN64
+NN65
+NN66
+NN73
+NN74
+NN75
+NN76
+NN77
+NN83
+NN84
+NN85
+NN86
+NN87
+NN95
+NN96
+NN97
+NS73
+NS74
+NS75
+NS83
+NS84
+NS85
+NS93
+NS94
+NS95
+SO80
+SO81
+SO82
+SO90
+SO91
+SO92
+SP00
+SP01
+SP02
+
+

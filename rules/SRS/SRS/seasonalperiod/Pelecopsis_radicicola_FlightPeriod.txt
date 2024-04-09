@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Pelecopsis radicicola: check date is during identifiable season
+Description=Check date is during known identifiable season for Pelecopsis radicicola
+tvk=NBNSYS0000009041
+ErrorMsg=Date is outside the normal season for adult or identifiable Pelecopsis radicicola
+DataFieldName=Stage
+StartDate=0624
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]

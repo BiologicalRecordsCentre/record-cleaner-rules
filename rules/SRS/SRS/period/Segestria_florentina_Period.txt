@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Segestria florentina
+Description=Checks date is within known recording period of Segestria florentina
+ErrorMsg=Date is outside known recording period of Segestria florentina
+Tvk=NBNSYS0000008637
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

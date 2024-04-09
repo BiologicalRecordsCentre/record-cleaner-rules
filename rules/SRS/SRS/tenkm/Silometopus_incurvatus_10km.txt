@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Silometopus incurvatus: check grid is in range
+Description=Check grid is in within range of Silometopus incurvatus
+ErrorMsg=Grid is outside known modern range of Silometopus incurvatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000009045
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NJ06
+NJ90
+NJ91
+NK02
+NK15
+NR35
+NT48
+NT58
+NT67
+NT68
+NZ52
+NZ53
+NZ62
+NZ72

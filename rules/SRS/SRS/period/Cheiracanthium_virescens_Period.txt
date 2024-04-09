@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Cheiracanthium virescens
+Description=Checks date is within known recording period of Cheiracanthium virescens
+ErrorMsg=Date is outside known recording period of Cheiracanthium virescens
+Tvk=NBNSYS0000008696
+StartDate=18750101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

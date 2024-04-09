@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Centromerus persimilis
+Description=Checks date is within known recording period of Centromerus persimilis
+ErrorMsg=Date is outside known recording period of Centromerus persimilis
+Tvk=NBNSYS0000009181
+StartDate=19160101
+EndDate=19611231
+LastChanged=20120316
+[EndMetadata]

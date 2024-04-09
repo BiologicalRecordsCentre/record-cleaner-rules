@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Psilochorus simoni
+Description=Checks date is within known recording period of Psilochorus simoni
+ErrorMsg=Date is outside known recording period of Psilochorus simoni
+Tvk=NBNSYS0000008640
+StartDate=19380101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

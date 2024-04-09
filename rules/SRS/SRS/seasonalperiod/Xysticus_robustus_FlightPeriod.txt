@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Xysticus robustus: check date is during identifiable season
+Description=Check date is during known identifiable season for Xysticus robustus
+tvk=NBNSYS0000008731
+ErrorMsg=Date is outside the normal season for adult or identifiable Xysticus robustus
+DataFieldName=Stage
+StartDate=0624
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]

@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Helophilus affinis: check date is during flight period
+Description=Check date is during the known flight period for Helophilus affinis
+tvk = NBNSYS0000042363
+startDate = 0803
+endDate = 0812
+ErrorMsg = Date is outside flight period for Helophilus affinis
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0803
+endDate = 0812
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0803
+endDate = 0812

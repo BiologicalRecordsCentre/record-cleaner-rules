@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Lathys humilis
+Description=Checks date is within known recording period of Lathys humilis
+ErrorMsg=Date is outside known recording period of Lathys humilis
+Tvk=NBNSYS0000008621
+StartDate=18900101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

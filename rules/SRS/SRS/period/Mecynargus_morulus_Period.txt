@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Mecynargus morulus
+Description=Checks date is within known recording period of Mecynargus morulus
+ErrorMsg=Date is outside known recording period of Mecynargus morulus
+Tvk=NBNSYS0100003882
+StartDate=18960101
+EndDate=20021231
+LastChanged=20120316
+[EndMetadata]

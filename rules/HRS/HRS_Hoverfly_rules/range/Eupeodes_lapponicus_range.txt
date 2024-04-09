@@ -1,0 +1,26 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Eupeodes lapponicus: check grid is in range
+Description=Check grid is within known range of Eupeodes lapponicus
+ErrorMsg = Grid is outside known range of Eupeodes lapponicus
+DataFieldName = Species
+DataRecordId = NBNSYS0100003108
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NC80
+NH59
+NH81
+NN95
+NO10
+NO12
+NO19
+ST11
+SU20
+SX47
+SX88
+SY79
+SZ29
+TF10

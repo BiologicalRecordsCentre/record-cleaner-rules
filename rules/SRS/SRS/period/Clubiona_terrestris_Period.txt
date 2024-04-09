@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Clubiona terrestris
+Description=Checks date is within known recording period of Clubiona terrestris
+ErrorMsg=Date is outside known recording period of Clubiona terrestris
+Tvk=NBNSYS0000008683
+StartDate=18580101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

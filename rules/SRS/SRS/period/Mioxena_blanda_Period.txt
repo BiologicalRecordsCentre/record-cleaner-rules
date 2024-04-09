@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Mioxena blanda
+Description=Checks date is within known recording period of Mioxena blanda
+ErrorMsg=Date is outside known recording period of Mioxena blanda
+Tvk=NBNSYS0000009131
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

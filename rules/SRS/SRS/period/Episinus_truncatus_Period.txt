@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Episinus truncatus
+Description=Checks date is within known recording period of Episinus truncatus
+ErrorMsg=Date is outside known recording period of Episinus truncatus
+Tvk=NBNSYS0000008863
+StartDate=19220101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

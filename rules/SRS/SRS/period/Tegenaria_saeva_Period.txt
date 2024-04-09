@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Tegenaria saeva
+Description=Checks date is within known recording period of Tegenaria saeva
+ErrorMsg=Date is outside known recording period of Tegenaria saeva
+Tvk=NBNSYS0000008837
+StartDate=18800101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

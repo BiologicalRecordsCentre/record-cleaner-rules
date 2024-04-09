@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Gonatium paradoxum: check grid is in range
+Description=Check grid is in within range of Gonatium paradoxum
+ErrorMsg=Grid is outside known modern range of Gonatium paradoxum
+DataFieldName=Species
+DataRecordId=NBNSYS0000009019
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TQ15
+TQ66
+TR16

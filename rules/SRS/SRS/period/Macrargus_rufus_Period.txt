@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Macrargus rufus
+Description=Checks date is within known recording period of Macrargus rufus
+ErrorMsg=Date is outside known recording period of Macrargus rufus
+Tvk=NBNSYS0000009189
+StartDate=18340101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

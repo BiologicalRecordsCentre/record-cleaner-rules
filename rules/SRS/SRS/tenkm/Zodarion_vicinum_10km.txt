@@ -1,0 +1,14 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Zodarion vicinum: check grid is in range
+Description=Check grid is in within range of Zodarion vicinum
+ErrorMsg=Grid is outside known modern range of Zodarion vicinum
+DataFieldName=Species
+DataRecordId=NBNSYS0100006052
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TR23
+TR33

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Microctenonyx subitaneus
+Description=Checks date is within known recording period of Microctenonyx subitaneus
+ErrorMsg=Date is outside known recording period of Microctenonyx subitaneus
+Tvk=NBNSYS0000009065
+StartDate=18950101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

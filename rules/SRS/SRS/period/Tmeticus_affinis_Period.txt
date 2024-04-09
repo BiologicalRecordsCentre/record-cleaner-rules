@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Tmeticus affinis
+Description=Checks date is within known recording period of Tmeticus affinis
+ErrorMsg=Date is outside known recording period of Tmeticus affinis
+Tvk=NBNSYS0000009003
+StartDate=18540101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,60 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Eupeodes nielseni: check grid is in range
+Description=Check grid is within known range of Eupeodes nielseni
+ErrorMsg = Grid is outside known range of Eupeodes nielseni
+DataFieldName = Species
+DataRecordId = NBNSYS0100003112
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NC52
+NH66
+NH69
+NH80
+NH81
+NH90
+NH91
+NH92
+NH96
+NJ01
+NJ02
+NJ17
+NJ40
+NJ90
+NN19
+NN32
+NN45
+NN55
+NN58
+NN65
+NN95
+NO06
+NO08
+NO11
+NO19
+NO28
+NO29
+NO49
+NS33
+NT27
+NT77
+NT90
+SJ57
+SK36
+SO22
+ST70
+SU00
+SU01
+SU20
+SU84
+SU85
+SY59
+SY68
+SY79
+SY89
+SY99
+TL87
+TM46

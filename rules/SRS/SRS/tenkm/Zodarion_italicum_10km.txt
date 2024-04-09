@@ -1,0 +1,41 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Zodarion italicum: check grid is in range
+Description=Check grid is in within range of Zodarion italicum
+ErrorMsg=Grid is outside known modern range of Zodarion italicum
+DataFieldName=Species
+DataRecordId=NBNSYS0000008641
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU40
+SU66
+SU88
+SU98
+TL92
+TM23
+TQ07
+TQ09
+TQ17
+TQ18
+TQ27
+TQ37
+TQ38
+TQ40
+TQ47
+TQ48
+TQ57
+TQ58
+TQ67
+TQ68
+TQ76
+TQ77
+TQ78
+TQ87
+TQ88
+TQ95
+TQ98
+TR13
+TR23

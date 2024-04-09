@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Ceratinella brevis
+Description=Checks date is within known recording period of Ceratinella brevis
+ErrorMsg=Date is outside known recording period of Ceratinella brevis
+Tvk=NBNSYS0000008967
+StartDate=18350101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

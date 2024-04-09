@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Theridion melanurum
+Description=Checks date is within known recording period of Theridion melanurum
+ErrorMsg=Date is outside known recording period of Theridion melanurum
+Tvk=NBNSYS0000008894
+StartDate=18900101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

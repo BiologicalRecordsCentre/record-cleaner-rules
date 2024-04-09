@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Gongylidiellum vivum
+Description=Checks date is within known recording period of Gongylidiellum vivum
+ErrorMsg=Date is outside known recording period of Gongylidiellum vivum
+Tvk=NBNSYS0000009073
+StartDate=18820101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

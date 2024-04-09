@@ -1,0 +1,30 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Phrurolithus minimus: check grid is in range
+Description=Check grid is in within range of Phrurolithus minimus
+ErrorMsg=Grid is outside known modern range of Phrurolithus minimus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008698
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SD57
+SK15
+SO90
+SP08
+SP60
+SZ57
+TL18
+TL81
+TM02
+TQ35
+TQ66
+TQ78
+TQ85
+TQ88
+TR03
+TR05
+TR15
+TR16

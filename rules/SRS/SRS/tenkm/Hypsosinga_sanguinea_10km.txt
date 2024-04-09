@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Hypsosinga sanguinea: check grid is in range
+Description=Check grid is in within range of Hypsosinga sanguinea
+ErrorMsg=Grid is outside known modern range of Hypsosinga sanguinea
+DataFieldName=Species
+DataRecordId=NBNSYS0000008958
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SK00
+SO87
+SP06
+SU20
+SU66
+SU73
+SU75
+SU85
+SU91
+SU94
+SU95
+SU96
+SU98
+SX87
+TL03
+TQ04
+TQ08
+TQ14
+TQ15
+TQ16
+TQ42
+TQ43
+TQ56
+TQ66
+TQ75
+TQ76
+TR05
+TR15
+TR16
+TR35

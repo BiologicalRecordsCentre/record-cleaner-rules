@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Metellina mengei
+Description=Checks date is within known recording period of Metellina mengei
+ErrorMsg=Date is outside known recording period of Metellina mengei
+Tvk=NBNSYS0000008927
+StartDate=1110101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

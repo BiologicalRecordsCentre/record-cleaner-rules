@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Thyreosthenius biovatus
+Description=Checks date is within known recording period of Thyreosthenius biovatus
+ErrorMsg=Date is outside known recording period of Thyreosthenius biovatus
+Tvk=NBNSYS0000009068
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

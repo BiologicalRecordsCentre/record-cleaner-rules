@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Thanatus formicinus
+Description=Checks date is within known recording period of Thanatus formicinus
+ErrorMsg=Date is outside known recording period of Thanatus formicinus
+Tvk=NBNSYS0000008753
+StartDate=18940101
+EndDate=19941231
+LastChanged=20120316
+[EndMetadata]

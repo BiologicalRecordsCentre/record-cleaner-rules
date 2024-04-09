@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Xysticus luctuosus: check grid is in range
+Description=Check grid is in within range of Xysticus luctuosus
+ErrorMsg=Grid is outside known modern range of Xysticus luctuosus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008729
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SN30
+SO59
+SO77
+ST13
+SY79

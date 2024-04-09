@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Agyneta olivacea
+Description=Checks date is within known recording period of Agyneta olivacea
+ErrorMsg=Date is outside known recording period of Agyneta olivacea
+Tvk=NBNSYS0000009152
+StartDate=19870101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

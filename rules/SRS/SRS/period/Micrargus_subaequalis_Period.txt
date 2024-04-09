@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Micrargus subaequalis
+Description=Checks date is within known recording period of Micrargus subaequalis
+ErrorMsg=Date is outside known recording period of Micrargus subaequalis
+Tvk=NBNSYS0000009078
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

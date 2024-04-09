@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Linyphia triangularis
+Description=Checks date is within known recording period of Linyphia triangularis
+ErrorMsg=Date is outside known recording period of Linyphia triangularis
+Tvk=NBNSYS0000009231
+StartDate=18000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

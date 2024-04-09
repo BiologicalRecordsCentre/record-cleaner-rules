@@ -1,0 +1,53 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Episinus truncatus: check grid is in range
+Description=Check grid is in within range of Episinus truncatus
+ErrorMsg=Grid is outside known modern range of Episinus truncatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008863
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SH78
+SP06
+SS58
+SS92
+ST16
+ST36
+ST57
+SU10
+SU83
+SU84
+SU85
+SU91
+SU95
+SU96
+SV81
+SV91
+SW75
+SW87
+SX45
+SX78
+SX84
+SX87
+SY18
+SY28
+SY39
+SY67
+SY78
+SY89
+SY98
+SY99
+SZ08
+SZ19
+SZ57
+TQ16
+TQ55
+TQ56
+TQ80
+TQ81
+TQ88
+TR02
+TR23

@@ -1,0 +1,15 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Sphaerophoria potentillae: check grid is in range
+Description=Check grid is within known range of Sphaerophoria potentillae
+ErrorMsg = Grid is outside known range of Sphaerophoria potentillae
+DataFieldName = Species
+DataRecordId = NBNSYS0000006963
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+SS31
+SS51
+SX06

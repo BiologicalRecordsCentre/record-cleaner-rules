@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Gibbaranea gibbosa: check date is during identifiable season
+Description=Check date is during known identifiable season for Gibbaranea gibbosa
+tvk=NBNSYS0000008935
+ErrorMsg=Date is outside the normal season for adult or identifiable Gibbaranea gibbosa
+DataFieldName=Stage
+StartDate=0416
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0421
+EndDate=0630
+
+Stage=Adult Female,Female
+StartDate=0320
+EndDate=0731

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Satilatlas britteni: check date is during identifiable season
+Description=Check date is during known identifiable season for Satilatlas britteni
+tvk=NBNSYS0000009066
+ErrorMsg=Date is outside the normal season for adult or identifiable Satilatlas britteni
+DataFieldName=Stage
+StartDate=0418
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0213
+EndDate=0531
+
+Stage=Adult Female,Female
+StartDate=0317
+EndDate=0630

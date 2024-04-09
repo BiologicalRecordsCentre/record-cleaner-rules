@@ -1,0 +1,51 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Walckenaeria incisa: check grid is in range
+Description=Check grid is in within range of Walckenaeria incisa
+ErrorMsg=Grid is outside known modern range of Walckenaeria incisa
+DataFieldName=Species
+DataRecordId=NBNSYS0000008977
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NJ16
+NZ51
+SD30
+SE66
+SE74
+SE76
+SH44
+SH47
+SJ18
+SJ23
+SJ49
+SJ66
+SJ72
+SK02
+SK39
+SK41
+SK49
+SK51
+SK57
+SK58
+SK59
+SK82
+SN25
+SN67
+SO77
+SP25
+SP47
+SP96
+TF26
+TF56
+TL02
+TL03
+TL89
+TQ33
+TQ68
+TQ81
+TQ96
+TR15
+TR16

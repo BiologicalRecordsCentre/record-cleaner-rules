@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Theridion impressum
+Description=Checks date is within known recording period of Theridion impressum
+ErrorMsg=Date is outside known recording period of Theridion impressum
+Tvk=NBNSYS0000008888
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

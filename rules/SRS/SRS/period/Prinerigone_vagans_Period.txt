@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Prinerigone vagans
+Description=Checks date is within known recording period of Prinerigone vagans
+ErrorMsg=Date is outside known recording period of Prinerigone vagans
+Tvk=NBNSYS0000009112
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

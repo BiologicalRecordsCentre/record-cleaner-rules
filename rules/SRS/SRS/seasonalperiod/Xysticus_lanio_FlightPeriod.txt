@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Xysticus lanio: check date is during identifiable season
+Description=Check date is during known identifiable season for Xysticus lanio
+tvk=NBNSYS0000008724
+ErrorMsg=Date is outside the normal season for adult or identifiable Xysticus lanio
+DataFieldName=Stage
+StartDate=0417
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0316
+EndDate=0630
+
+Stage=Adult Female,Female
+StartDate=0417
+EndDate=0731

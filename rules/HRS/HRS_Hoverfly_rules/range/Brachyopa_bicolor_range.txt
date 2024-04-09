@@ -1,0 +1,48 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Brachyopa bicolor: check grid is in range
+Description=Check grid is within known range of Brachyopa bicolor
+ErrorMsg = Grid is outside known range of Brachyopa bicolor
+DataFieldName = Species
+DataRecordId = NBNSYS0000007012
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NC80
+NS47
+SJ50
+SJ51
+SN91
+SO24
+SO77
+SO94
+SU02
+SU16
+SU20
+SU21
+SU30
+SU66
+SU73
+SU97
+TF00
+TF91
+TL09
+TL10
+TL18
+TL21
+TL25
+TL35
+TL54
+TL66
+TL77
+TL86
+TM34
+TM45
+TQ05
+TQ06
+TQ13
+TQ17
+TQ33
+TQ59

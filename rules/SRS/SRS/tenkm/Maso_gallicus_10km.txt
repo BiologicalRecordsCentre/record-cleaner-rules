@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Maso gallicus: check grid is in range
+Description=Check grid is in within range of Maso gallicus
+ErrorMsg=Grid is outside known modern range of Maso gallicus
+DataFieldName=Species
+DataRecordId=NBNSYS0000009021
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SK90
+SN69
+SY18
+TF00
+TF10
+TF70
+TL56
+TL57
+TL66
+TL79
+TM09
+TQ91
+TR01
+TR02
+TR13
+TR23
+TR34
+TR35
+TR36

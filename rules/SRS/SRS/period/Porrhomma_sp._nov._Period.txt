@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Porrhomma sp. nov.
+Description=Checks date is within known recording period of Porrhomma sp. nov.
+ErrorMsg=Date is outside known recording period of Porrhomma sp. nov.
+Tvk=NHMSYS0020953703
+StartDate=
+EndDate=
+LastChanged=20120316
+[EndMetadata]

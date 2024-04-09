@@ -1,0 +1,57 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Evarcha arcuata: check grid is in range
+Description=Check grid is in within range of Evarcha arcuata
+ErrorMsg=Grid is outside known modern range of Evarcha arcuata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008784
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SE70
+SH64
+SK02
+SK89
+SN69
+SO77
+SO91
+SP40
+SU00
+SU10
+SU11
+SU20
+SU21
+SU30
+SU32
+SU66
+SU73
+SU75
+SU76
+SU77
+SU82
+SU83
+SU84
+SU85
+SU86
+SU91
+SU93
+SU94
+SU95
+SU96
+SU98
+SX77
+SY89
+SY98
+SY99
+SZ09
+SZ19
+SZ29
+SZ39
+TF26
+TQ04
+TQ05
+TQ16
+TQ42
+TQ43

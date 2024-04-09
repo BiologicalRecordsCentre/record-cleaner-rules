@@ -1,0 +1,22 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Cheilosia psilophthalma: check grid is in range
+Description=Check grid is within known range of Cheilosia psilophthalma
+ErrorMsg = Grid is outside known range of Cheilosia psilophthalma
+DataFieldName = Species
+DataRecordId = NBNSYS0000042524
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+SD47
+SE74
+SE85
+SE88
+SH58
+SK17
+SK38
+ST57
+TL87
+TL88

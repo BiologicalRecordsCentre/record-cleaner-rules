@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Walckenaeria capito: check date is during identifiable season
+Description=Check date is during known identifiable season for Walckenaeria capito
+tvk=NBNSYS0000008976
+ErrorMsg=Date is outside the normal season for adult or identifiable Walckenaeria capito
+DataFieldName=Stage
+StartDate=0325
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0121
+EndDate=1231
+
+Stage=Adult Female,Female
+StartDate=0325
+EndDate=1231

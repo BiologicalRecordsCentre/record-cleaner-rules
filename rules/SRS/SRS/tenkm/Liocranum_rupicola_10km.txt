@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Liocranum rupicola: check grid is in range
+Description=Check grid is in within range of Liocranum rupicola
+ErrorMsg=Grid is outside known modern range of Liocranum rupicola
+DataFieldName=Species
+DataRecordId=NBNSYS0000008709
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SH78
+SN44
+SO30
+SO51
+SO80
+SP01
+SR99
+SS84
+SS94
+ST45
+ST86
+ST88
+ST97
+ST98
+SU09
+SW71
+SX45
+SX55
+SX94
+SY66
+SY67
+SY97

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Dictyna latens
+Description=Checks date is within known recording period of Dictyna latens
+ErrorMsg=Date is outside known recording period of Dictyna latens
+Tvk=NBNSYS0000008617
+StartDate=18820101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

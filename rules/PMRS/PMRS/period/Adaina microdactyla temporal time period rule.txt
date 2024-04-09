@@ -1,0 +1,12 @@
+[Metadata]
+TestType=Period
+Group=Recording Period
+ShortName=Adaina microdactyla temporal check
+Description=Check date of record against known temporal limit of Adaina microdactyla
+Tvk=NHMSYS0000500988
+ErrorMsg=Date outside known temporal limit for Adaina microdactyla
+StartDate=18000101
+EndDate=
+LastChanged=20140113
+[EndMetadata]
+

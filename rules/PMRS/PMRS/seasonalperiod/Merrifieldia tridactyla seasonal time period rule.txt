@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Merrifieldia tridactyla seasonal check
+Description=Check date of record agaist known seasonal limit of Merrifieldia tridactyla
+Tvk=NBNSYS0100004011
+ErrorMsg=Date outside known seasonal limit for Merrifieldia tridactyla
+StartDate=0501
+EndDate=0930
+LastChanged=20140113
+[EndMetadata]
+

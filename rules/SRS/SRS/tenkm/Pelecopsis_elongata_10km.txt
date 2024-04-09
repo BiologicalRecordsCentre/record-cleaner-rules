@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Pelecopsis elongata: check grid is in range
+Description=Check grid is in within range of Pelecopsis elongata
+ErrorMsg=Grid is outside known modern range of Pelecopsis elongata
+DataFieldName=Species
+DataRecordId=NBNSYS0000009040
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NH90
+NH91
+NJ01
+NN55

@@ -1,0 +1,40 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Entelecara omissa: check grid is in range
+Description=Check grid is in within range of Entelecara omissa
+ErrorMsg=Grid is outside known modern range of Entelecara omissa
+DataFieldName=Species
+DataRecordId=NBNSYS0000008997
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SJ72
+TF70
+TF74
+TF90
+TF91
+TF93
+TG00
+TG23
+TG30
+TG31
+TG32
+TG42
+TL57
+TL66
+TL68
+TL77
+TL79
+TL97
+TL98
+TM07
+TM08
+TM17
+TM19
+TM37
+TM47
+TM49
+TM59
+TR35

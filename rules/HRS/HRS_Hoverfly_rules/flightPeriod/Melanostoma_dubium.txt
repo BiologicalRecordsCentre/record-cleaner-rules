@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Melanostoma dubium: check date is during flight period
+Description=Check date is during the known flight period for Melanostoma dubium
+tvk = NBNSYS0000006865
+startDate = 0308
+endDate = 0908
+ErrorMsg = Date is outside flight period for Melanostoma dubium
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0308
+endDate = 0908
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0308
+endDate = 0908

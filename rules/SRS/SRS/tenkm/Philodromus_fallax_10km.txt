@@ -1,0 +1,26 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Philodromus fallax: check grid is in range
+Description=Check grid is in within range of Philodromus fallax
+ErrorMsg=Grid is outside known modern range of Philodromus fallax
+DataFieldName=Species
+DataRecordId=NBNSYS0000008747
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SD20
+SH36
+SH53
+SN69
+SS58
+SS79
+ST25
+SZ08
+TF55
+TF64
+TF74
+TM46
+TQ91
+TR06

@@ -1,0 +1,42 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Argenna patula: check grid is in range
+Description=Check grid is in within range of Argenna patula
+ErrorMsg=Grid is outside known modern range of Argenna patula
+DataFieldName=Species
+DataRecordId=NBNSYS0000008625
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NX54
+SD20
+SJ18
+SS49
+SU70
+TF55
+TF74
+TF94
+TG04
+TL90
+TM00
+TM11
+TM22
+TM23
+TM34
+TM44
+TM46
+TM47
+TQ57
+TQ67
+TQ77
+TQ78
+TQ86
+TQ87
+TQ88
+TQ96
+TR01
+TR06
+TR36
+TV59

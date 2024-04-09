@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Drassyllus pusillus
+Description=Checks date is within known recording period of Drassyllus pusillus
+ErrorMsg=Date is outside known recording period of Drassyllus pusillus
+Tvk=NBNSYS0000008663
+StartDate=18610101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

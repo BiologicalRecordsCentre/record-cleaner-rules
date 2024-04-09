@@ -1,0 +1,65 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Sphaerophoria virgata: check grid is in range
+Description=Check grid is within known range of Sphaerophoria virgata
+ErrorMsg = Grid is outside known range of Sphaerophoria virgata
+DataFieldName = Species
+DataRecordId = NBNSYS0000006961
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NC52
+NC64
+NG43
+NH10
+NH69
+NH80
+NH90
+NH91
+NH92
+NH96
+NJ01
+NJ02
+NJ25
+NN22
+NN45
+NN50
+NN55
+NN68
+NO12
+NO18
+NO19
+NO49
+NT90
+NY46
+SD81
+SD90
+SH27
+SJ56
+SN88
+SN90
+SN97
+SO07
+SO53
+SO77
+SP15
+SU00
+SU02
+SU66
+SU73
+SU82
+SU83
+SU84
+SU91
+SU94
+SU95
+SU96
+SY49
+SY89
+SZ09
+SZ29
+TQ05
+TQ06
+TQ53

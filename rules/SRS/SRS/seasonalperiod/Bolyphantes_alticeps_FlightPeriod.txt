@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Bolyphantes alticeps: check date is during identifiable season
+Description=Check date is during known identifiable season for Bolyphantes alticeps
+tvk=NBNSYS0000009207
+ErrorMsg=Date is outside the normal season for adult or identifiable Bolyphantes alticeps
+DataFieldName=Stage
+StartDate=0718
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0722
+EndDate=1031
+
+Stage=Adult Female,Female
+StartDate=0722
+EndDate=1031

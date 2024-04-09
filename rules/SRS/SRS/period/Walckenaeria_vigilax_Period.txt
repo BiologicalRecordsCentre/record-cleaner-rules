@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Walckenaeria vigilax
+Description=Checks date is within known recording period of Walckenaeria vigilax
+ErrorMsg=Date is outside known recording period of Walckenaeria vigilax
+Tvk=NBNSYS0000008989
+StartDate=18520101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

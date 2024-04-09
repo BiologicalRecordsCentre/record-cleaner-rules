@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Gnaphosa lugubris: check date is during identifiable season
+Description=Check date is during known identifiable season for Gnaphosa lugubris
+tvk=NBNSYS0000008665
+ErrorMsg=Date is outside the normal season for adult or identifiable Gnaphosa lugubris
+DataFieldName=Stage
+StartDate=0424
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0424
+EndDate=0731
+
+Stage=Adult Female,Female
+StartDate=0424
+EndDate=0930

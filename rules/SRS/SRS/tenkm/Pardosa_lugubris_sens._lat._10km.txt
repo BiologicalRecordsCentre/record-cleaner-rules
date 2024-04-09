@@ -1,0 +1,21 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Pardosa lugubris sens. str.: check grid is in range
+Description=Check grid is in within range of Pardosa lugubris sens. str.
+ErrorMsg=Grid is outside known modern range of Pardosa lugubris sens. str.
+DataFieldName=Species
+DataRecordId=NHMSYS0020001408
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NC50
+NH22
+NH31
+NH32
+NH59
+NH91
+NJ01
+SD96
+SO95

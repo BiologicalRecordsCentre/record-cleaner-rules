@@ -1,0 +1,80 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Platycheirus immarginatus: check grid is in range
+Description=Check grid is within known range of Platycheirus immarginatus
+ErrorMsg = Grid is outside known range of Platycheirus immarginatus
+DataFieldName = Species
+DataRecordId = NBNSYS0000006876
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NB24
+NB56
+NF76
+NG77
+NH54
+NH55
+NH69
+NL58
+NM39
+NM49
+NO11
+NO22
+NR64
+NS98
+NT48
+NX15
+NX95
+NX96
+NY00
+NY06
+NZ37
+SD32
+SD47
+SD48
+SE92
+SH12
+SH39
+SH46
+SH53
+SH67
+SJ27
+SN00
+SN30
+SN31
+SN40
+SN50
+SN57
+SN58
+SR99
+SS49
+SS59
+SS78
+SS87
+ST27
+ST28
+ST59
+SU40
+SU50
+SU60
+SW84
+SX64
+SY28
+SY39
+SZ08
+SZ39
+SZ49
+TA02
+TA31
+TF49
+TL80
+TQ57
+TQ67
+TQ76
+TQ77
+TQ87
+TQ96
+TR06
+TR36

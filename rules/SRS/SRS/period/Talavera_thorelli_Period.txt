@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Talavera thorelli
+Description=Checks date is within known recording period of Talavera thorelli
+ErrorMsg=Date is outside known recording period of Talavera thorelli
+Tvk=NBNSYS0100005699
+StartDate=19880101
+EndDate=19881231
+LastChanged=20120316
+[EndMetadata]

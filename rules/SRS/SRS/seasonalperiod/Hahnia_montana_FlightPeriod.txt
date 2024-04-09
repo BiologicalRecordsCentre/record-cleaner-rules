@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Hahnia montana: check date is during identifiable season
+Description=Check date is during known identifiable season for Hahnia montana
+tvk=NBNSYS0000008852
+ErrorMsg=Date is outside the normal season for adult or identifiable Hahnia montana
+DataFieldName=Stage
+StartDate=0120
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0525
+EndDate=1031
+
+Stage=Adult Female,Female
+StartDate=0101
+EndDate=1231

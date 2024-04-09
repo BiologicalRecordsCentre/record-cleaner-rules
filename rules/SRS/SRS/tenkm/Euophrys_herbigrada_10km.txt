@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Euophrys herbigrada: check grid is in range
+Description=Check grid is in within range of Euophrys herbigrada
+ErrorMsg=Grid is outside known modern range of Euophrys herbigrada
+DataFieldName=Species
+DataRecordId=NBNSYS0000008772
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SW61
+SX45
+SX97

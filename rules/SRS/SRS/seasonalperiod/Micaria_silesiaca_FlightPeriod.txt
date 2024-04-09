@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Micaria silesiaca: check date is during identifiable season
+Description=Check date is during known identifiable season for Micaria silesiaca
+tvk=NBNSYS0000008673
+ErrorMsg=Date is outside the normal season for adult or identifiable Micaria silesiaca
+DataFieldName=Stage
+StartDate=0421
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0420
+EndDate=0630
+
+Stage=Adult Female,Female
+StartDate=0316
+EndDate=0630

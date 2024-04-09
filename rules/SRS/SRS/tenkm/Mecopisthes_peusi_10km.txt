@@ -1,0 +1,27 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Mecopisthes peusi: check grid is in range
+Description=Check grid is in within range of Mecopisthes peusi
+ErrorMsg=Grid is outside known modern range of Mecopisthes peusi
+DataFieldName=Species
+DataRecordId=NBNSYS0000009046
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+
+NX95
+SD20
+SD31
+SD32
+SD33
+SH36
+SH43
+SH46
+SJ08
+SJ18
+SJ29
+SN69
+SY66
+SY98

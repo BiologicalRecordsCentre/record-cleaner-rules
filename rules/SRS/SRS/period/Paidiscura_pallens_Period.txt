@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Paidiscura pallens
+Description=Checks date is within known recording period of Paidiscura pallens
+ErrorMsg=Date is outside known recording period of Paidiscura pallens
+Tvk=NBNSYS0100004384
+StartDate=18370101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

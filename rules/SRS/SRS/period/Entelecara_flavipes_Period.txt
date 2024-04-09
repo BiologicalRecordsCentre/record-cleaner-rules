@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Entelecara flavipes
+Description=Checks date is within known recording period of Entelecara flavipes
+ErrorMsg=Date is outside known recording period of Entelecara flavipes
+Tvk=NBNSYS0000008996
+StartDate=18400101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

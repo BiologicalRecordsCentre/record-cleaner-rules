@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Erigone welchi
+Description=Checks date is within known recording period of Erigone welchi
+ErrorMsg=Date is outside known recording period of Erigone welchi
+Tvk=NBNSYS0000009109
+StartDate=19110101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,16 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Pellenes tripunctatus: check grid is in range
+Description=Check grid is in within range of Pellenes tripunctatus
+ErrorMsg=Grid is outside known modern range of Pellenes tripunctatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008790
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SY67
+SY68
+TR01
+TR02

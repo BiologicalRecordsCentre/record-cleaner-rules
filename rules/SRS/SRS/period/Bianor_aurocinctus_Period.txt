@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Bianor aurocinctus
+Description=Checks date is within known recording period of Bianor aurocinctus
+ErrorMsg=Date is outside known recording period of Bianor aurocinctus
+Tvk=NBNSYS0000008767
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

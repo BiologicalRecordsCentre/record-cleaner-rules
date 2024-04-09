@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Dasysyrphus hilaris: check date is during flight period
+Description=Check date is during the known flight period for Dasysyrphus hilaris
+tvk = NBNSYS0100022475
+startDate = 0415
+endDate = 0710
+ErrorMsg = Date is outside flight period for Dasysyrphus hilaris
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0415
+endDate = 0710
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0415
+endDate = 0710

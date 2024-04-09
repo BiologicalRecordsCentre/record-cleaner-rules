@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Centromerus capucinus
+Description=Checks date is within known recording period of Centromerus capucinus
+ErrorMsg=Date is outside known recording period of Centromerus capucinus
+Tvk=NBNSYS0000009173
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

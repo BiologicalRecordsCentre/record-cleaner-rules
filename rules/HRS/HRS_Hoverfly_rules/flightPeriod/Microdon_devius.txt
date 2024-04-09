@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Microdon devius: check date is during flight period
+Description=Check date is during the known flight period for Microdon devius
+tvk = NBNSYS0000007119
+startDate = 0520
+endDate = 0714
+ErrorMsg = Date is outside flight period for Microdon devius
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0520
+endDate = 0714
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0520
+endDate = 0714

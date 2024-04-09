@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Drassyllus lutetianus: check date is during identifiable season
+Description=Check date is during known identifiable season for Drassyllus lutetianus
+tvk=NBNSYS0000008662
+ErrorMsg=Date is outside the normal season for adult or identifiable Drassyllus lutetianus
+DataFieldName=Stage
+StartDate=0420
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0422
+EndDate=0630
+
+Stage=Adult Female,Female
+StartDate=0424
+EndDate=0630

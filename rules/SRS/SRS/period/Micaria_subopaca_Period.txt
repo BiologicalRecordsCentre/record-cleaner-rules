@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Micaria subopaca
+Description=Checks date is within known recording period of Micaria subopaca
+ErrorMsg=Date is outside known recording period of Micaria subopaca
+Tvk=NBNSYS0000008672
+StartDate=18000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Tegenaria picta: check grid is in range
+Description=Check grid is in within range of Tegenaria picta
+ErrorMsg=Grid is outside known modern range of Tegenaria picta
+DataFieldName=Species
+DataRecordId=NBNSYS0000008843
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SZ89
+TQ01
+TQ35

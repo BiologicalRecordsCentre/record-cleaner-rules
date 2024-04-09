@@ -1,0 +1,13 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Zora silvestris: check grid is in range
+Description=Check grid is in within range of Zora silvestris
+ErrorMsg=Grid is outside known modern range of Zora silvestris
+DataFieldName=Species
+DataRecordId=NBNSYS0000008713
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SK66

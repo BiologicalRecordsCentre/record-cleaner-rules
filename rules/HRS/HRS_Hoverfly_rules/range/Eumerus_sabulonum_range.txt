@@ -1,0 +1,59 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Eumerus sabulonum: check grid is in range
+Description=Check grid is within known range of Eumerus sabulonum
+ErrorMsg = Grid is outside known range of Eumerus sabulonum
+DataFieldName = Species
+DataRecordId = NBNSYS0000007066
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NS33
+NX25
+SH12
+SH22
+SH32
+SH33
+SH43
+SH46
+SH53
+SH57
+SM70
+SM72
+SM81
+SM82
+SM83
+SN04
+SN10
+SN14
+SN20
+SN35
+SN46
+SS09
+SS10
+SS11
+SS21
+SS22
+SS43
+SS48
+SS49
+SS58
+SW43
+SW53
+SW54
+SW61
+SW64
+SW75
+SX04
+SX05
+SX08
+SX19
+SX73
+SX76
+SX83
+SY18
+SY98
+SZ08
+SZ09

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Misumena vatia: check date is during identifiable season
+Description=Check date is during known identifiable season for Misumena vatia
+tvk=NBNSYS0000008718
+ErrorMsg=Date is outside the normal season for adult or identifiable Misumena vatia
+DataFieldName=Stage
+StartDate=0416
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0419
+EndDate=0630
+
+Stage=Adult Female,Female
+StartDate=0416
+EndDate=0831

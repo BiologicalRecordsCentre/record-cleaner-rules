@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Pardosa paludicola: check grid is in range
+Description=Check grid is in within range of Pardosa paludicola
+ErrorMsg=Grid is outside known modern range of Pardosa paludicola
+DataFieldName=Species
+DataRecordId=NBNSYS0000008806
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+ST31
+ST44
+TL28

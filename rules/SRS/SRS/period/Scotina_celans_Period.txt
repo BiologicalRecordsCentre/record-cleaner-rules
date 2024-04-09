@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Scotina celans
+Description=Checks date is within known recording period of Scotina celans
+ErrorMsg=Date is outside known recording period of Scotina celans
+Tvk=NBNSYS0000008706
+StartDate=18610101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

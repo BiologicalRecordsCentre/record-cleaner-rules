@@ -1,0 +1,19 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Maro sublestus: check grid is in range
+Description=Check grid is in within range of Maro sublestus
+ErrorMsg=Grid is outside known modern range of Maro sublestus
+DataFieldName=Species
+DataRecordId=NBNSYS0000009164
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+ND05
+NH80
+NX66
+NX67
+TG30
+TL68
+TL97

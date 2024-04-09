@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Glyphesis servulus: check grid is in range
+Description=Check grid is in within range of Glyphesis servulus
+ErrorMsg=Grid is outside known modern range of Glyphesis servulus
+DataFieldName=Species
+DataRecordId=NBNSYS0000009082
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SH64
+SM92
+SM93
+SN31
+SO25
+SO50
+SO53
+SP09
+SS59
+SS79
+TL57
+TL66

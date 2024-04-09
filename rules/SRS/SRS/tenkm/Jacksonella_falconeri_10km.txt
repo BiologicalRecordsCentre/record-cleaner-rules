@@ -1,0 +1,46 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Jacksonella falconeri: check grid is in range
+Description=Check grid is in within range of Jacksonella falconeri
+ErrorMsg=Grid is outside known modern range of Jacksonella falconeri
+DataFieldName=Species
+DataRecordId=NBNSYS0000009134
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+HY21
+ND15
+NG24
+NG62
+NH08
+NH18
+NH22
+NH33
+NH80
+NH90
+NJ65
+NN18
+NN48
+NR26
+NR49
+NR78
+SD65
+SH48
+SH73
+SJ43
+SJ99
+SK41
+SK51
+SM93
+SN69
+SO23
+SO46
+SO47
+SP94
+ST38
+SY98
+TL11
+TR15
+TR23

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Tegenaria picta: check date is during identifiable season
+Description=Check date is during known identifiable season for Tegenaria picta
+tvk=NBNSYS0000008843
+ErrorMsg=Date is outside the normal season for adult or identifiable Tegenaria picta
+DataFieldName=Stage
+StartDate=0322
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0521
+EndDate=0630
+
+Stage=Adult Female,Female
+StartDate=0518
+EndDate=0930

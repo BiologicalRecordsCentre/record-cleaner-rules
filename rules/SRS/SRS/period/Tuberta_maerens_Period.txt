@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Tuberta maerens
+Description=Checks date is within known recording period of Tuberta maerens
+ErrorMsg=Date is outside known recording period of Tuberta maerens
+Tvk=NBNSYS0000008848
+StartDate=18620101
+EndDate=19961231
+LastChanged=20120316
+[EndMetadata]

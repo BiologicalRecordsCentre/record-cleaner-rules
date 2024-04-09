@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Neon pictus: check grid is in range
+Description=Check grid is in within range of Neon pictus
+ErrorMsg=Grid is outside known modern range of Neon pictus
+DataFieldName=Species
+DataRecordId=NBNSYS0100004213
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SZ59
+TQ91
+TR01

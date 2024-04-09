@@ -1,0 +1,24 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Phlegra fasciata: check grid is in range
+Description=Check grid is in within range of Phlegra fasciata
+ErrorMsg=Grid is outside known modern range of Phlegra fasciata
+DataFieldName=Species
+DataRecordId=NBNSYS0000008786
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SS48
+SS58
+SS78
+SS88
+SY67
+SZ08
+SZ49
+TQ91
+TR01
+TR02
+TR35
+TR36

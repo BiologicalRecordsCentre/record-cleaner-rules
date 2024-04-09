@@ -1,0 +1,56 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Parasyrphus nigritarsis: check grid is in range
+Description=Check grid is within known range of Parasyrphus nigritarsis
+ErrorMsg = Grid is outside known range of Parasyrphus nigritarsis
+DataFieldName = Species
+DataRecordId = NBNSYS0000006946
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NC50
+NH45
+NH55
+NH59
+NH66
+NH80
+NJ02
+NJ12
+NJ35
+NN62
+NO19
+NY02
+NY03
+NY10
+NY21
+NY35
+NY53
+NY55
+NY56
+NY62
+NY94
+SD86
+SE68
+SE69
+SJ50
+SK25
+SM90
+SM91
+SN01
+SN10
+SN14
+SN24
+SN57
+SO22
+SO23
+SO60
+SS09
+SU31
+SU60
+SW71
+TL78
+
+[10km_Ireland]
+N19

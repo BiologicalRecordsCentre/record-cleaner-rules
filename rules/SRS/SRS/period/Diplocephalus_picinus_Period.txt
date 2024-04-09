@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Diplocephalus picinus
+Description=Checks date is within known recording period of Diplocephalus picinus
+ErrorMsg=Date is outside known recording period of Diplocephalus picinus
+Tvk=NBNSYS0000009091
+StartDate=18380101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

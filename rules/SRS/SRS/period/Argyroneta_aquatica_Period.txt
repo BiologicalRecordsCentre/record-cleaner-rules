@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Argyroneta aquatica
+Description=Checks date is within known recording period of Argyroneta aquatica
+ErrorMsg=Date is outside known recording period of Argyroneta aquatica
+Tvk=NBNSYS0000008833
+StartDate=18000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

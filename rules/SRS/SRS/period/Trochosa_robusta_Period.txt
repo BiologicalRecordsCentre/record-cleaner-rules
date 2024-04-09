@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Trochosa robusta
+Description=Checks date is within known recording period of Trochosa robusta
+ErrorMsg=Date is outside known recording period of Trochosa robusta
+Tvk=NBNSYS0000008815
+StartDate=19090101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Xysticus sabulosus
+Description=Checks date is within known recording period of Xysticus sabulosus
+ErrorMsg=Date is outside known recording period of Xysticus sabulosus
+Tvk=NBNSYS0000008728
+StartDate=18930101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Entelecara erythropus
+Description=Checks date is within known recording period of Entelecara erythropus
+ErrorMsg=Date is outside known recording period of Entelecara erythropus
+Tvk=NBNSYS0000008995
+StartDate=18610101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

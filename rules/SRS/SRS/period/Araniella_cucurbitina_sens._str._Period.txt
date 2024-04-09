@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Araniella cucurbitina sens. str.
+Description=Checks date is within known recording period of Araniella cucurbitina sens. str.
+ErrorMsg=Date is outside known recording period of Araniella cucurbitina sens. str.
+Tvk=NBNSYS0200000063
+StartDate=18580101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

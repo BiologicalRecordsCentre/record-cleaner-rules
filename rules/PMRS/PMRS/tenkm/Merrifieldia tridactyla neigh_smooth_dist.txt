@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Species Range
+ShortName=Merrifieldia tridactyla 10km
+Description=Check coordinate agaist known 10km distribution of Merrifieldia tridactyla
+ErrorMsg=Coordinate outside know range for Merrifieldia tridactyla
+DataFieldName=Species
+DataRecordId=NBNSYS0100004011
+LastChanged=20131009
+[EndMetadata]
+
+
+[10km_GB]
+SW52
+SW61
+SW62
+SW71
+SW72
+SW81
+SW82
+TF60
+TF61
+TF62
+TF70
+TF71
+TF72
+TF80
+TF81
+TF82
+
+

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Neoscona adianta: check date is during identifiable season
+Description=Check date is during known identifiable season for Neoscona adianta
+tvk=NBNSYS0000008947
+ErrorMsg=Date is outside the normal season for adult or identifiable Neoscona adianta
+DataFieldName=Stage
+StartDate=0517
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0524
+EndDate=0831
+
+Stage=Adult Female,Female
+StartDate=0523
+EndDate=0930

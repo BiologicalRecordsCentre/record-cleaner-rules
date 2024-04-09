@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Araneus triguttatus
+Description=Checks date is within known recording period of Araneus triguttatus
+ErrorMsg=Date is outside known recording period of Araneus triguttatus
+Tvk=NBNSYS0000142208
+StartDate=18640101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

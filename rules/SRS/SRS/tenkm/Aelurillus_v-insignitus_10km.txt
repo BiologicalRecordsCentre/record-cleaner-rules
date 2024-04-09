@@ -1,0 +1,37 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Aelurillus v-insignitus: check grid is in range
+Description=Check grid is in within range of Aelurillus v-insignitus
+ErrorMsg=Grid is outside known modern range of Aelurillus v-insignitus
+DataFieldName=Species
+DataRecordId=NBNSYS0100001425
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NT27
+NT28
+SM62
+ST25
+SU10
+SU73
+SU75
+SU83
+SU85
+SU86
+SU93
+SU94
+SU95
+SU96
+SW32
+SW61
+SX73
+SY78
+SY98
+SZ08
+SZ19
+TL78
+TQ04
+TQ16
+TR01

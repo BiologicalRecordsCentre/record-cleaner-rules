@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Neon robustus
+Description=Checks date is within known recording period of Neon robustus
+ErrorMsg=Date is outside known recording period of Neon robustus
+Tvk=NBNSYS0100004214
+StartDate=19820101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

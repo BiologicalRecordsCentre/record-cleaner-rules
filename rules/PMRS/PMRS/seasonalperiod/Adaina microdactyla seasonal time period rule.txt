@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Adaina microdactyla seasonal check
+Description=Check date of record agaist known seasonal limit of Adaina microdactyla
+Tvk=NHMSYS0000500988
+ErrorMsg=Date outside known seasonal limit for Adaina microdactyla
+StartDate=0401
+EndDate=0930
+LastChanged=20140113
+[EndMetadata]
+

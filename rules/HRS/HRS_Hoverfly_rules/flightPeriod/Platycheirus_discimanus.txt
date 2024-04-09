@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Platycheirus discimanus: check date is during flight period
+Description=Check date is during the known flight period for Platycheirus discimanus
+tvk = NBNSYS0000006874
+startDate = 0326
+endDate = 1001
+ErrorMsg = Date is outside flight period for Platycheirus discimanus
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0326
+endDate = 1001
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0326
+endDate = 1001

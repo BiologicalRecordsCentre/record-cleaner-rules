@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Platyptilia calodactyla seasonal check
+Description=Check date of record agaist known seasonal limit of Platyptilia calodactyla
+Tvk=NHMSYS0000503851
+ErrorMsg=Date outside known seasonal limit for Platyptilia calodactyla
+StartDate=0601
+EndDate=0831
+LastChanged=20140113
+[EndMetadata]
+

@@ -1,0 +1,34 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Neriene furtiva: check grid is in range
+Description=Check grid is in within range of Neriene furtiva
+ErrorMsg=Grid is outside known modern range of Neriene furtiva
+DataFieldName=Species
+DataRecordId=NBNSYS0000033140
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+ST11
+ST21
+ST22
+ST55
+SU10
+SU11
+SU20
+SU84
+SU85
+SU91
+SU94
+SU95
+SU96
+SX75
+SY79
+SY98
+SY99
+SZ08
+SZ19
+TQ04
+TQ05
+TQ24

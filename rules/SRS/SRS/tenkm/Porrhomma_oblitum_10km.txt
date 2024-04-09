@@ -1,0 +1,48 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Porrhomma oblitum: check grid is in range
+Description=Check grid is in within range of Porrhomma oblitum
+ErrorMsg=Grid is outside known modern range of Porrhomma oblitum
+DataFieldName=Species
+DataRecordId=NBNSYS0000009146
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SE54
+SJ03
+SJ43
+SJ72
+SK01
+SN40
+SO25
+SO34
+SO63
+SP50
+SP77
+SP87
+SP96
+ST78
+SU06
+SU09
+SY59
+TG32
+TL10
+TL16
+TL17
+TL18
+TL20
+TL25
+TL28
+TL30
+TL40
+TL41
+TL44
+TL53
+TL63
+TL72
+TL82
+TL89
+TM09
+TM49

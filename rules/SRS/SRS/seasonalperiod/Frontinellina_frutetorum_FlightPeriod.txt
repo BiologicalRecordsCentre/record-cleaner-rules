@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Frontinellina frutetorum: check date is during identifiable season
+Description=Check date is during known identifiable season for Frontinellina frutetorum
+tvk=NHMSYS0000354343
+ErrorMsg=Date is outside the normal season for adult or identifiable Frontinellina frutetorum
+DataFieldName=Stage
+StartDate=0818
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]

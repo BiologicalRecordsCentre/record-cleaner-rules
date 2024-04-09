@@ -1,0 +1,13 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Helophilus affinis: check grid is in range
+Description=Check grid is within known range of Helophilus affinis
+ErrorMsg = Grid is outside known range of Helophilus affinis
+DataFieldName = Species
+DataRecordId = NBNSYS0000042363
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+HZ27

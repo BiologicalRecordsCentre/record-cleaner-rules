@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Eristalis rupium: check date is during flight period
+Description=Check date is during the known flight period for Eristalis rupium
+tvk = NBNSYS0000007053
+startDate = 0316
+endDate = 1006
+ErrorMsg = Date is outside flight period for Eristalis rupium
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0316
+endDate = 1006
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0316
+endDate = 1006

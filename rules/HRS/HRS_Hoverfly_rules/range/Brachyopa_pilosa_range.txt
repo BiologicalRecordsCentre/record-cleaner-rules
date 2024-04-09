@@ -1,0 +1,57 @@
+[Metadata]
+TestType = WithoutPolygon
+Group = Hoverflies
+ShortName=Brachyopa pilosa: check grid is in range
+Description=Check grid is within known range of Brachyopa pilosa
+ErrorMsg = Grid is outside known range of Brachyopa pilosa
+DataFieldName = Species
+DataRecordId = NBNSYS0000007014
+LastChanged = 20090615
+[EndMetadata]
+
+[10km_GB]
+NC50
+NH33
+NH52
+NH59
+NH64
+NH67
+NH94
+SO02
+SO32
+SO77
+SP09
+SP21
+SP27
+SP31
+SP91
+ST57
+SU20
+SU21
+SU26
+SU30
+SU49
+SU73
+SU83
+SU95
+SU96
+SU97
+SU98
+SY89
+SZ08
+TL10
+TL17
+TL19
+TL25
+TQ01
+TQ04
+TQ05
+TQ09
+TQ14
+TQ15
+TQ16
+TQ19
+TQ29
+TQ35
+TQ45
+TQ54

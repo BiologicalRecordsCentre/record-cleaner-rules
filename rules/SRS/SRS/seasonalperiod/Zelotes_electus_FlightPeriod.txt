@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Zelotes electus: check date is during identifiable season
+Description=Check date is during known identifiable season for Zelotes electus
+tvk=NBNSYS0000008654
+ErrorMsg=Date is outside the normal season for adult or identifiable Zelotes electus
+DataFieldName=Stage
+StartDate=0324
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0219
+EndDate=1031
+
+Stage=Adult Female,Female
+StartDate=0324
+EndDate=1031

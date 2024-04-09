@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Rugathodes bellicosus
+Description=Checks date is within known recording period of Rugathodes bellicosus
+ErrorMsg=Date is outside known recording period of Rugathodes bellicosus
+Tvk=NBNSYS0000008899
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

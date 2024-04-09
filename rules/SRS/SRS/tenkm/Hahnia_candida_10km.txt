@@ -1,0 +1,15 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Hahnia candida: check grid is in range
+Description=Check grid is in within range of Hahnia candida
+ErrorMsg=Grid is outside known modern range of Hahnia candida
+DataFieldName=Species
+DataRecordId=NBNSYS0000008853
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SU70
+SY58
+TQ01

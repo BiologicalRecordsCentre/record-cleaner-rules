@@ -1,0 +1,23 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Mioxena blanda: check grid is in range
+Description=Check grid is in within range of Mioxena blanda
+ErrorMsg=Grid is outside known modern range of Mioxena blanda
+DataFieldName=Species
+DataRecordId=NBNSYS0000009131
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SH12
+SJ48
+SU59
+SW62
+SX47
+SX87
+TL14
+TM11
+TM22
+TQ00
+TQ68

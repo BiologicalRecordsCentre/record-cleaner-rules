@@ -1,0 +1,43 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Xysticus sabulosus: check grid is in range
+Description=Check grid is in within range of Xysticus sabulosus
+ErrorMsg=Grid is outside known modern range of Xysticus sabulosus
+DataFieldName=Species
+DataRecordId=NBNSYS0000008728
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+NC76
+NJ01
+NN69
+NN92
+NN95
+NO06
+NO19
+NY25
+NY26
+NY89
+NZ60
+NZ61
+NZ70
+NZ71
+SH46
+SJ43
+SK01
+SO39
+SO77
+SO88
+SU20
+SU53
+SU66
+SU95
+SU96
+SY88
+SY98
+SZ08
+SZ19
+TM46
+TQ05

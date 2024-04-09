@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Latithorax faustus
+Description=Checks date is within known recording period of Latithorax faustus
+ErrorMsg=Date is outside known recording period of Latithorax faustus
+Tvk=NBNSYS0000009115
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

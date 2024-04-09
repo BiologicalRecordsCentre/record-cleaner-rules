@@ -1,0 +1,14 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Zodarion vicinum: check date is during identifiable season
+Description=Check date is during known identifiable season for Zodarion vicinum
+tvk=NBNSYS0100006052
+ErrorMsg=Date is outside the normal season for adult or identifiable Zodarion vicinum
+DataFieldName=Stage
+StartDate=0422
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]

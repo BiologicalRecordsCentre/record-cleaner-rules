@@ -1,0 +1,12 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Seasonal Period
+ShortName=Platyptilia gonodactyla seasonal check
+Description=Check date of record agaist known seasonal limit of Platyptilia gonodactyla
+Tvk=NHMSYS0000503852
+ErrorMsg=Date outside known seasonal limit for Platyptilia gonodactyla
+StartDate=0501
+EndDate=1031
+LastChanged=20140113
+[EndMetadata]
+

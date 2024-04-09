@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Porrhomma pallidum: check date is during identifiable season
+Description=Check date is during known identifiable season for Porrhomma pallidum
+tvk=NBNSYS0000009141
+ErrorMsg=Date is outside the normal season for adult or identifiable Porrhomma pallidum
+DataFieldName=Stage
+StartDate=0317
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0323
+EndDate=1031
+
+Stage=Adult Female,Female
+StartDate=0318
+EndDate=0930

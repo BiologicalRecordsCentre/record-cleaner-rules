@@ -1,0 +1,20 @@
+[Metadata]
+TestType = PeriodWithinYear
+Group = Hoverflies
+ShortName=Scaeva mecogramma: check date is during flight period
+Description=Check date is during the known flight period for Scaeva mecogramma
+tvk = NBNSYS0000006950
+startDate = 0820
+endDate = 0820
+ErrorMsg = Date is outside flight period for Scaeva mecogramma
+LastChanged = 20090615
+[EndMetadata]
+
+[Data]
+Stage = All
+startDate = 0820
+endDate = 0820
+
+Stage=Adult,Adult Male,Adult Female,Male,Female
+startDate = 0820
+endDate = 0820

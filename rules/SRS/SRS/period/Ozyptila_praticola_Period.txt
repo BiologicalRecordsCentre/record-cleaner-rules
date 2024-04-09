@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Ozyptila praticola
+Description=Checks date is within known recording period of Ozyptila praticola
+ErrorMsg=Date is outside known recording period of Ozyptila praticola
+Tvk=NBNSYS0000008736
+StartDate=18450101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

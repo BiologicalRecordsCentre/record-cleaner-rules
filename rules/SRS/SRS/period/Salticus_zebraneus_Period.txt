@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Salticus zebraneus
+Description=Checks date is within known recording period of Salticus zebraneus
+ErrorMsg=Date is outside known recording period of Salticus zebraneus
+Tvk=NBNSYS0000008759
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

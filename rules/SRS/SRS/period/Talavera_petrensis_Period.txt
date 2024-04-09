@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Talavera petrensis
+Description=Checks date is within known recording period of Talavera petrensis
+ErrorMsg=Date is outside known recording period of Talavera petrensis
+Tvk=NBNSYS0100005698
+StartDate=18900101
+EndDate=
+LastChanged=20120316
+[EndMetadata]

@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Baryphyma duffeyi: check date is during identifiable season
+Description=Check date is during known identifiable season for Baryphyma duffeyi
+tvk=NBNSYS0000009013
+ErrorMsg=Date is outside the normal season for adult or identifiable Baryphyma duffeyi
+DataFieldName=Stage
+StartDate=0421
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0421
+EndDate=0531
+
+Stage=Adult Female,Female
+StartDate=0421
+EndDate=0731

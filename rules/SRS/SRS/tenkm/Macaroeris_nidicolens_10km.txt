@@ -1,0 +1,17 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Macaroeris nidicolens: check grid is in range
+Description=Check grid is in within range of Macaroeris nidicolens
+ErrorMsg=Grid is outside known modern range of Macaroeris nidicolens
+DataFieldName=Species
+DataRecordId=NBNSYS0200000077
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+TQ06
+TQ38
+TQ47
+TQ57
+TQ67

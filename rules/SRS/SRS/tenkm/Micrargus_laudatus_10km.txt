@@ -1,0 +1,31 @@
+[Metadata]
+TestType=WithoutPolygon
+Group=Spiders Distribution
+ShortName=Micrargus laudatus: check grid is in range
+Description=Check grid is in within range of Micrargus laudatus
+ErrorMsg=Grid is outside known modern range of Micrargus laudatus
+DataFieldName=Species
+DataRecordId=NBNSYS0000009079
+LastChanged=20120316
+[EndMetadata]
+
+[10km_GB]
+SH54
+SH78
+SH88
+SK77
+SM72
+SO88
+SP94
+SW61
+SY39
+SY67
+SY78
+SY97
+TL11
+TQ80
+TQ91
+TR01
+TR02
+TR06
+TR36

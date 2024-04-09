@@ -1,0 +1,21 @@
+[Metadata]
+TestType=PeriodWithinYear
+Group=Spiders Identifiable Season
+ShortName=Metellina merianae: check date is during identifiable season
+Description=Check date is during known identifiable season for Metellina merianae
+tvk=NBNSYS0000008928
+ErrorMsg=Date is outside the normal season for adult or identifiable Metellina merianae
+DataFieldName=Stage
+StartDate=0317
+EndDate=1231
+LastChanged=20120311
+[EndMetadata]
+
+[Data]
+Stage=Adult Male,Male
+StartDate=0317
+EndDate=1031
+
+Stage=Adult Female,Female
+StartDate=0317
+EndDate=1031

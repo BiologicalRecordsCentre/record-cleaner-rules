@@ -1,0 +1,11 @@
+[Metadata]
+TestType=Period
+Group=Spiders Recording Period
+ShortName=Philodromus collinus
+Description=Checks date is within known recording period of Philodromus collinus
+ErrorMsg=Date is outside known recording period of Philodromus collinus
+Tvk=NBNSYS0000008746
+StartDate=19000101
+EndDate=
+LastChanged=20120316
+[EndMetadata]
