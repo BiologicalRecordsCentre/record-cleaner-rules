@@ -1,21 +1,21 @@
-"tvk","value_code","taxon"
-"NBNSYS0100002378","2","Choerades gilvus"
-"NBNSYS0000007803","2","Clitellaria ephippium"
-"NBNSYS0000007913","2","Dasypogon diadema"
-"NHMSYS0020734197","2","Haematopota italica"
-"NHMSYS0020734199","2","Haematopota sp. A"
-"NHMSYS0020734200","2","Haematopota sp. B"
-"NBNSYS0000148975","2","Hybomitra solstitialis"
-"NBNSYS0000007903","2","Neoitamus cothurnatus"
-"NBNSYS0100004212","2","Neomochtherus pallipes"
-"NBNSYS0000007810","2","Oxycera fallenii"
-"NBNSYS0000007812","2","Oxycera leonina"
-"NBNSYS0000033213","2","Oxycera varipes"
-"NBNSYS0100004993","2","Ptiolina nigra"
-"NBNSYS0000007854","2","Ptiolina obscura"
-"NBNSYS0000007845","2","Solva varia"
-"NBNSYS0000007839","2","Stratiomys chamaeleon"
-"NBNSYS0000007888","2","Tabanus bovinus"
-"NHMSYS0020734206","2","Tabanus spodopterus"
-"NBNSYS0100005964","2","Villa venusta"
-"NBNSYS0000007848","2","Xylophagus junki"
+tvk,code,taxon
+NBNSYS0100002378,2,Choerades gilvus
+NBNSYS0000007803,2,Clitellaria ephippium
+NBNSYS0000007913,2,Dasypogon diadema
+NHMSYS0020734197,2,Haematopota italica
+NHMSYS0020734199,2,Haematopota sp. A
+NHMSYS0020734200,2,Haematopota sp. B
+NBNSYS0000148975,2,Hybomitra solstitialis
+NBNSYS0000007903,2,Neoitamus cothurnatus
+NBNSYS0100004212,2,Neomochtherus pallipes
+NBNSYS0000007810,2,Oxycera fallenii
+NBNSYS0000007812,2,Oxycera leonina
+NBNSYS0000033213,2,Oxycera varipes
+NBNSYS0100004993,2,Ptiolina nigra
+NBNSYS0000007854,2,Ptiolina obscura
+NBNSYS0000007845,2,Solva varia
+NBNSYS0000007839,2,Stratiomys chamaeleon
+NBNSYS0000007888,2,Tabanus bovinus
+NHMSYS0020734206,2,Tabanus spodopterus
+NBNSYS0100005964,2,Villa venusta
+NBNSYS0000007848,2,Xylophagus junki
