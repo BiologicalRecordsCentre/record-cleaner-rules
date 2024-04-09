@@ -1,30 +1,30 @@
-"tvk","value_code","taxon"
-"NHMSYS0000080178","3","Barbastella barbastellus"
-"NHMSYS0000528006","5","Eptesicus fuscus"
-"NHMSYS0000528007","5","Eptesicus nilssonii"
-"NHMSYS0000528008","4","Eptesicus serotinus"
-"NHMSYS0020774288","5","Hypsugo savii"
-"NHMSYS0020774291","5","Lasiurus (Lasiurus) cinereus"
-"NBNSYS0000040730","3","Myotis"
-"NHMSYS0020636762","5","Myotis alcathoe"
-"NHMSYS0000528024","4","Myotis bechsteinii"
-"NHMSYS0000528026","5","Myotis brandtii"
-"NHMSYS0000528028","4","Myotis daubentonii"
-"NHMSYS0000528029","5","Myotis lucifugus"
-"NHMSYS0000080182","4","Myotis myotis"
-"NHMSYS0000080183","5","Myotis mystacinus"
-"NHMSYS0000080184","4","Myotis nattereri"
-"NHMSYS0000080185","4","Nyctalus leisleri"
-"NHMSYS0000080186","3","Nyctalus noctula"
-"NBNSYS0000136578","1","Pipistrellus"
-"NHMSYS0000377112","5","Pipistrellus kuhlii"
-"NHMSYS0000080187","3","Pipistrellus nathusii"
-"NHMSYS0020001355","3","Pipistrellus pipistrellus sensu stricto"
-"NBNSYS0100004720","3","Pipistrellus pygmaeus"
-"NBNSYS0000136687","3","Plecotus"
-"NBNSYS0000005102","5","Plecotus auritus"
-"NBNSYS0000005103","5","Plecotus austriacus"
-"NBNSYS0000137324","1","Rhinolophus"
-"NHMSYS0000080176","3","Rhinolophus ferrumequinum"
-"NHMSYS0000080177","3","Rhinolophus hipposideros"
-"NBNSYS0000005095","5","Vespertilio murinus"
+tvk,code,taxon
+NHMSYS0000080178,3,Barbastella barbastellus
+NHMSYS0000528006,5,Eptesicus fuscus
+NHMSYS0000528007,5,Eptesicus nilssonii
+NHMSYS0000528008,4,Eptesicus serotinus
+NHMSYS0020774288,5,Hypsugo savii
+NHMSYS0020774291,5,Lasiurus (Lasiurus) cinereus
+NBNSYS0000040730,3,Myotis
+NHMSYS0020636762,5,Myotis alcathoe
+NHMSYS0000528024,4,Myotis bechsteinii
+NHMSYS0000528026,5,Myotis brandtii
+NHMSYS0000528028,4,Myotis daubentonii
+NHMSYS0000528029,5,Myotis lucifugus
+NHMSYS0000080182,4,Myotis myotis
+NHMSYS0000080183,5,Myotis mystacinus
+NHMSYS0000080184,4,Myotis nattereri
+NHMSYS0000080185,4,Nyctalus leisleri
+NHMSYS0000080186,3,Nyctalus noctula
+NBNSYS0000136578,1,Pipistrellus
+NHMSYS0000377112,5,Pipistrellus kuhlii
+NHMSYS0000080187,3,Pipistrellus nathusii
+NHMSYS0020001355,3,Pipistrellus pipistrellus sensu stricto
+NBNSYS0100004720,3,Pipistrellus pygmaeus
+NBNSYS0000136687,3,Plecotus
+NBNSYS0000005102,5,Plecotus auritus
+NBNSYS0000005103,5,Plecotus austriacus
+NBNSYS0000137324,1,Rhinolophus
+NHMSYS0000080176,3,Rhinolophus ferrumequinum
+NHMSYS0000080177,3,Rhinolophus hipposideros
+NBNSYS0000005095,5,Vespertilio murinus
