@@ -1,6 +1,6 @@
 taxon,tvk,start_day,start_month,end_day,end_month,stage
-Brachychaeteuma bagnalli,NBNSYS0000011357,1,9,30,6,Adult
-Brachychaeteuma bradeae,NBNSYS0000011358,1,9,30,6,Adult
-Lamyctes emarginatus,NHMSYS0000570579,1,1,30,11,Adult
-Metaiulus pratensis,NBNSYS0000039488,1,3,31,5,Adult
-Nothogeophilus turki,MM0001Z1ZT0011Z1,1,4,30,6,Adult
+Brachychaeteuma bagnalli,NBNSYS0000011357,1,9,30,6,mature
+Brachychaeteuma bradeae,NBNSYS0000011358,1,9,30,6,mature
+Lamyctes emarginatus,NHMSYS0000570579,1,1,30,11,mature
+Metaiulus pratensis,NBNSYS0000039488,1,3,31,5,mature
+Nothogeophilus turki,MM0001Z1ZT0011Z1,1,4,30,6,mature
