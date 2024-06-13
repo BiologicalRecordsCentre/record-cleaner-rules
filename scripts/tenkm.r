@@ -4,8 +4,6 @@
 
 library(rstudioapi)
 
-source("schemes.r")
-
 tenkm_rules = function(
   group = NULL # String, taxonomic group to build rules for.
 ){
@@ -17,24 +15,27 @@ tenkm_rules = function(
 	  ))
 	}
 	
-  #Locate files
   
-  
-  wd <- gsub("/scripts", "", getwd())
-  folders <- list.dirs(wd)
-  
-  colnames(folders) <- "folders"
-  
-  folders <- folders %>%
-    filter(grepl("tenkm$", folders),
-           grepl(paste("/rules_as_csv/", schemes[[group]]$CSV_PATH, "/", sep = ""), folders))
-  dir <- folders$folders
-	
   # Read files
-
-	tenkm_file = paste0(dir, "/tenkm.csv")
-	tenkms = read.csv(tenkm_file)
-	output_folder <- gsub("/rules_as_csv/", "/rules_export/", dir)
+  species_file = paste0("rules_as_csv/", schemes[[group]]$scheme, "/",schemes[[group]]$rule_group, "/id_difficulty.csv")
+  species = read.csv(species_file)
+	tenkm_file = paste0("rules_as_csv/", schemes[[group]]$scheme, "/",schemes[[group]]$rule_group, "/tenkm.csv")
+	tenkm = read.csv(tenkm_file)
+	
+	a <- strsplit(tenkm$km10, " ")
+	max_len <- max(sapply(a, length))
+	for(i in 1:max_len){
+	  tenkm[,paste0("col", i)] <- sapply(a, "[", i)
+	}
+	
+	tenkm <- tenkm %>%
+	  select(-km10, -coord_system) %>%
+	  pivot_longer(cols = c("col1":paste("col", as.character(max_len), sep = "")), names_to = "rm_col", values_to = "km10", values_drop_na = TRUE) %>%
+	  select(taxon, tvk, km100, km10) %>%
+	  mutate(GRIDREF = paste(km100, km10, sep = "")) %>%
+	  select(taxon, tvk, GRIDREF)
+	
+	output_folder <- paste0("rules/", schemes[[group]]$scheme, "/",schemes[[group]]$rule_group, "/tenkm")
 	
 	# Ensure the output directory exists.
 	dir.create(output_folder, showWarnings = FALSE)
@@ -44,12 +45,12 @@ tenkm_rules = function(
 	flush.console()
 	
 	# Check for duplicated rows
-	if(nrow(tenkms) != nrow(unique(tenkms))){
+	if(nrow(tenkm) != nrow(unique(tenkm))){
 		warning(
 			"tenkm.csv contains duplicated rows (duplicates will be excluded)",
 			immediate. = TRUE
 		)
-		tenkms = unique(tenkms)
+		tenkm = unique(tenkm)
 	}
 
 
@@ -59,21 +60,21 @@ tenkm_rules = function(
 	flush.console()
 	
 	# Loop through species and create distribution rules
-	for(i in 1:nrow(unique(tenkm$tvk))){
+	for(i in 1:length(unique(tenkm$tvk))){
 		# Find indicies for distribution data of this species
 		tvk = unique(tenkm$tvk)[i]
-		gr_inds = which(tenkms$tvk == tvk)
+		gr_inds = which(tenkm$tvk == tvk)
 		# If data found then create rule file
 		if(length(gr_inds) > 0){
 			# Extract species name
-			name = unique(tenkm$name)[i]
+			name = unique(tenkm$taxon)[i]
 			# Print progress
 			cat(i, name,"\n")
 			flush.console()
 			
 			# Create rule file
 			write_tenkm(
-				gridrefs = tenkms$GRIDREF[gr_inds],
+				gridrefs = tenkm$GRIDREF[gr_inds],
 				group,
 				name,
 				tvk, 
@@ -87,7 +88,7 @@ tenkm_rules = function(
 	flush.console()
 	
 	# Output files if assigned to an object
-	return(invisible(list(NAMES = species, DIST = tenkms)))
+	return(invisible(list(NAMES = species, DIST = tenkm)))
 }
 
 

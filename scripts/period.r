@@ -2,8 +2,6 @@
 # Create Period rules from period.csv
 #------------------------------------------------------------------------------
 
-source("schemes.r")
-
 period_rules = function(
   group = NULL # String, taxonomic group to build rules for.
 ){
@@ -16,12 +14,12 @@ period_rules = function(
 	}
 	
 	# Read files
-	species_file = paste0("../rules/", schemes[[group]]$CSV_PATH, "/species.csv")
+	species_file = paste0("rules_as_csv/", schemes[[group]]$scheme, "/",schemes[[group]]$rule_group, "/id_difficulty.csv")
 	species = read.csv(species_file)
-	period_file = paste0("../rules/", schemes[[group]]$CSV_PATH, "/period.csv")
+	period_file = paste0("rules_as_csv/", schemes[[group]]$scheme, "/",schemes[[group]]$rule_group, "/period.csv")
 	periods = read.csv(period_file)
 	
-	output_folder = paste0("../rules/", schemes[[group]]$RULES_PATH, "/period")
+	output_folder = paste0("rules/", schemes[[group]]$scheme, "/",schemes[[group]]$rule_group, "/period")
 	# Ensure the output directory exists.
 	dir.create(output_folder, showWarnings = FALSE)
 			
@@ -38,8 +36,8 @@ period_rules = function(
 	}
 						
 	# Check all tvk referenced in periods are in species
-	period_tvk = unique(periods$TVK)
-	chk_inds = which(!period_tvk %in% species$TVK)
+	period_tvk = unique(periods$tvk)
+	chk_inds = which(!period_tvk %in% species$tvk)
 	if(length(chk_inds) > 0){
 		warning(
 			"TVKs given below are present in period.csv but are ",
@@ -48,7 +46,7 @@ period_rules = function(
 			paste(period_tvk[chk_inds], collapse="\n\t"), 
 			immediate. = TRUE
 		)
-		rm_inds = which(periods$TVK %in% period_tvk[chk_inds])
+		rm_inds = which(periods$tvk %in% period_tvk[chk_inds])
 		periods = periods[-rm_inds,]
 	}
 		
@@ -64,12 +62,12 @@ period_rules = function(
 	# Loop through rows in temporal file and create temporal rule files
 	for(i in 1:nrow(periods)){
 		# Format start and end into dates
-		if(is.na(periods$YEAR[i])){
+		if(is.na(periods$start_year[i]) | periods$start_year[i] == ""){
 			strt = NA
 		} else {
-			strt_year = periods$YEAR[i]
-			strt_month = ifelse(is.na(periods$MONTH[i]),01, periods$MONTH[i])
-			strt_day = ifelse(is.na(periods$DAY[i]), 01, periods$DAY[i])
+			strt_year = periods$start_year[i]
+			strt_month = ifelse(is.na(periods$start_month[i]),01, periods$start_month[i])
+			strt_day = ifelse(is.na(periods$start_day[i]), 01, periods$start_day[i])
 			strt_date = as.Date(
 				paste(strt_day, strt_month, strt_year, sep="/"), 
 				"%d/%m/%Y"
@@ -77,15 +75,15 @@ period_rules = function(
 			strt = format(strt_date,"%Y%m%d")
 		}
 		
-		if(is.na(periods$YEAR2[i])){
+		if(is.na(periods$end_year[i])| periods$end_year[i] == ""){
 			end = NA
 		} else {
-			end_year = periods$YEAR2[i]
-			end_month = ifelse(is.na(periods$MONTH2[i]), 12, periods$MONTH2[i])
+			end_year = periods$end_year[i]
+			end_month = ifelse(is.na(periods$end_month[i]), 12, periods$end_month[i])
 			end_day = ifelse(
-				is.na(periods$DAY2[i]), 
+				is.na(periods$end_day[i]), 
 				month_day[end_month],
-				periods$DAY2[i]
+				periods$end_day[i]
 			)
 			end_date = as.Date(
 				paste(end_day, end_month, end_year, sep="/"), 
@@ -100,9 +98,9 @@ period_rules = function(
 	  }
 	  
 	  # Extract species name
-		tvk = periods$TVK[i]
-		spp_info = species[species$TVK == periods$TVK[i],]
-		name = spp_info$NAME
+		tvk = periods$tvk[i]
+		spp_info = species[species$tvk == periods$tvk[i],]
+		name = spp_info$taxon
 
 		# Print progress
 		cat(i, name,"\n")

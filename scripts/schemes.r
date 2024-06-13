@@ -2,97 +2,132 @@
 # their rules.
 schemes = list(
 	AquaticHeteroptera = list(
-		CSV_PATH = "AHRS"
+	  scheme = "Aquatic Heteroptera Recording Scheme",
+	  rule_group = "AHRS"
 		),
 	Auchenorrhyncha = list(
-	  CSV_PATH = "ARS"
+	  scheme = "Auchenorrhyncha Recording Scheme",
+	  rule_group = "ARS"
 	),
 	Bryophytes = list(
-	  CSV_PATH = "BBS"
+	  scheme = "British Bryological Society",
+	  rule_group = "BBS"
 	),
 	Butterflies = list(
-		CSV_PATH = "BC"
+	  scheme = "Butterfly Conservation",
+	  rule_group = "BC"
 	),
 	Lichen = list(
-	  CSV_PATH = "BLS"
+	  scheme = "British Lichen Society",
+	  rule_group = "BLS"
 	),
 	MyriapodsAndIsopods = list(
-	  CSV_PATH = "BMIG"
+	  scheme = "British Myriapod and Isopod Group",
+	  rule_group = "BMIG"
 	),
 	Algae = list(
-	  CSV_PATH = "BPS"
+	  scheme = "British Phycological Society",
+	  rule_group = "BPS"
 	),
 	Plants = list(
-	  CSV_PATH = "BSBI"
+	  scheme = "Botanical Society of Britain and Ireland",
+	  rule_group = "BSBI"
 	),
 	Birds = list(
-	  CSV_PATH = "BTO"
+	  scheme = "British Trust for Ornithology",
+	  rule_group = "BTO"
 	),
   BeesWaspsAndAnts = list(
-	  CSV_PATH = "BWARS"
+    scheme = "Bees, Wasps and Ants Recording Scheme",
+    rule_group = "BWARS"
 	),
 	Cladocera = list(
-	  CSV_PATH = "CIG"
+	  scheme = "Cladocera Interest Group",
+	  rule_group = "Cladocera"
+	),
+	Daphnia = list(
+	  scheme = "Cladocera Interest Group",
+	  rule_group = "Daphnia"
 	),
 	Chloropidae = list(
-	  CSV_PATH = "DF"
+	  scheme = "Chloropidae Recording Scheme",
+	  rule_group = "CRS"
 	),
 	Odonata = list(
-	  CSV_PATH = "DRN"
+	  scheme = "Dragonfly Recording Scheme",
+	  rule_group = "DRS"
 	),
 	Mayflies = list(
-	  CSV_PATH = "ERS"
+	  scheme = "Ephemeroptera Recording Scheme",
+	  rule_group = "ERS"
 	),
 	GroundBeetles = list(
-	  CSV_PATH = "GBRS"
+	  scheme = "Ground Beetle Recording Scheme",
+	  rule_group = "GBRS"
 	),
 	Gelechiids = list(
-	  CSV_PATH = "GRS"
+	  scheme = "Gelechiid Recording Scheme",
+	  rule_group = "GRS"
 	),
 	Hoverflies = list(
-	  CSV_PATH = "HRS"
+	  scheme = "Hoverfly Recording Scheme",
+	  rule_group = "HRS"
 	),
-	LargeBrachycera = list(
-	  CSV_PATH = "LBRS"
+	SoldierfliesAndAllies = list(
+	  scheme = "Soldierflies and Allies Recording Scheme",
+	  rule_group = "SARS"
 	),
 	Marine = list(
-	  CSV_PATH = "MBA"
+	  scheme = "Marine Biological Association",
+	  rule_group = "MBA"
 	),
 	Mammals = list(
-	  CSV_PATH = "MS"
+	  scheme = "Mammal Society",
+	  rule_group = "MS"
 	),
 	Bats = list(
-	  CSV_PATH = "MSB"
-	),
-	AmphibiansAndReptiles = list(
-	  CSV_PATH = "NARRS"
-	),
-	Test = list(
-	  CSV_PATH = "NBNT"
+	  scheme = "Mammal Society",
+	  rule_group = "Bats"
 	),
 	Moths = list(
-	  CSV_PATH = "NMRS"
+	  scheme = "Butterfly Conservation",
+	  rule_group = "NMRS"
 	),
-	Orthopteroids = list(
-	  CSV_PATH = "OBIRS"
+	AmphibiansAndReptiles = list(
+	  scheme = "National Amphibian and Reptile Recording Scheme",
+	  rule_group = "NARRS"
+	),
+	Test = list(
+	  scheme = "National Biodiversity Network Trust",
+	  rule_group = "Demonstration"
+	),
+	GrasshoppersAndAllies = list(
+	  scheme = "Grasshoppers and Allies Recording Scheme",
+	  rule_group = "GARS"
 	),
 	PlumeMoths = list(
-	  CSV_PATH = "PMRS"
+	  scheme = "Plume Moth Recording Scheme",
+	  rule_group = "PMRS"
 	),
 	Stoneflies = list(
-	  CSV_PATH = "PRS"
+	  scheme = "Plecoptera Recording Scheme",
+	  rule_group = "PRS"
 	),
 	Spiders = list(
-	  CSV_PATH = "SRS"
+	  scheme = "Spider Recording Scheme",
+	  rule_group = "SRS"
 	),
 	TerrestrialHeteroptera = list(
-	  CSV_PATH = "THRS"
+	  scheme = "Terrestrial Heteroptera Recording Scheme",
+	  rule_group = "THRS"
 	),
 	Caddisflies = list(
-	  CSV_PATH = "TRS"
+	  scheme = "Trichoptera Recording Scheme",
+	  rule_group = "TRS"
 	),
 	Ladybirds = list(
-	  CSV_PATH = "UKLS"
+	  scheme = "UK Ladybird Survey",
+	  rule_group = "UKLS"
 	)
 )
 

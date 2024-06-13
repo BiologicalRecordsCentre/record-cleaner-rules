@@ -2,8 +2,6 @@
 # Create Period rules from period.csv
 #------------------------------------------------------------------------------
 
-source("schemes.r")
-
 idifficulty_rules = function(
   group = NULL # String, taxonomic group to build rules for.
 ){
@@ -16,37 +14,35 @@ idifficulty_rules = function(
 	}
 	
 	# Read files
-	species_file = paste0("../rules/", schemes[[group]]$CSV_PATH, "/species.csv")
+	species_file = paste0("rules_as_csv/", schemes[[group]]$scheme, "/",schemes[[group]]$rule_group, "/id_difficulty.csv")
 	species = read.csv(species_file)
 	difficulty_file = paste0(
-		"../rules/", 
-		schemes[[group]]$CSV_PATH, 
-		"/difficulties.csv"
+	  "rules_as_csv/", schemes[[group]]$scheme, "/",schemes[[group]]$rule_group, "/difficulty_codes.csv"
 	)
 	difficulties = read.csv(difficulty_file)
 	
-	output_folder = paste0("../rules/", schemes[[group]]$IDIFF_PATH)
+	output_folder = paste0("rules/", schemes[[group]]$scheme, "/",schemes[[group]]$rule_group, "/id_difficulty")
 	# Ensure the output directory exists.
-	dir.create(output_folder, showWarnings = FALSE)
+	dir.create(output_folder, showWarnings = FALSE, recursive = TRUE)
 			
 	# Cross-check files
 	cat("Checking files...\n")
 	flush.console()	
 
 	# Remove species for which there is no ID_DIFF.
-	species = species[!is.na(species$ID_DIFF),]
+	species = species[!is.na(species$code),]
 	
-	species_idiff = unique(species$ID_DIFF)
-	chk_inds = which(!species_idiff %in% difficulties$ID)
+	species_idiff = unique(species$code)
+	chk_inds = which(!species_idiff %in% difficulties$code)
 	if(length(chk_inds) > 0){
 		warning(
-			"ID_DIFFs given below are present in species.csv but are ",
+			"Codes given below are present in species.csv but are ",
 			"not present in difficulties.csv (corresponding species will be excluded):",
 			"\n\t", 
 			paste(species_idiff[chk_inds], collapse="\n\t"), 
 			immediate. = TRUE
 		)
-		rm_inds = which(species$ID_DIFF %in% species_idiff[chk_inds])
+		rm_inds = which(species$code %in% species_idiff[chk_inds])
 		species = species[-rm_inds,]
 	}
 
@@ -70,7 +66,7 @@ idifficulty_rules = function(
 		f_header = c(
 			"[Metadata]",
 			"TestType=IdentificationDifficulty",
-			paste("Organisation=", schemes[[group]]$ORG, sep=""),
+			paste("Organisation=", schemes[[group]]$scheme, sep=""),
 			paste("LastChanged=", format(Sys.Date()," %Y%m%d"), sep=""),
 			"[EndMetadata]\n"
 		)	
@@ -83,11 +79,11 @@ idifficulty_rules = function(
 			""
 		)
 		writeLines(f_msg, con = f_con)
-			
+
 		# Write species id difficulty part of file
 		f_idiff = c(
 			"[DATA]",
-			apply(species[c("TVK", "ID_DIFF")], 1, paste, collapse = "=")
+			apply(species[c("tvk", "code")], 1, paste, collapse = "=")
 		)
 		writeLines(f_idiff, con = f_con)
 		

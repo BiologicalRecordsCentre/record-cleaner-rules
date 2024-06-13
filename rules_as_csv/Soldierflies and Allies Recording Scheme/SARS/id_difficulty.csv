@@ -1,4 +1,4 @@
-tvk,value_code,taxon
+tvk,code,taxon
 NBNSYS0000007795,3,Beris chalybata
 NBNSYS0000007796,2,Beris clavipes
 NBNSYS0000007797,3,Beris fuscipes
@@ -98,7 +98,6 @@ NBNSYS0000007908,2,Laphria flava
 NBNSYS0000007911,2,Leptogaster cylindrica
 NBNSYS0000007912,3,Leptogaster guttiventris
 NBNSYS0000007913,4,Dasypogon diadema
-NBNSYS0000007914,2,Violet Black-legged Robberfly
 NBNSYS0000007914,2,Dioctria atricapilla
 NBNSYS0000007915,2,Dioctria baumhaueri
 NBNSYS0000007916,3,Dioctria cothurnata
