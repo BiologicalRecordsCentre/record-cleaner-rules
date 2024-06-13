@@ -1,7 +1,6 @@
 name: Produce-all-txt-files
 on:
-  schedule:
-    - cron: "13 0 */2 * *" # Every two days at 12:13 AM
+  push
 
 jobs:
   generate-data:
