@@ -130,7 +130,7 @@ write_period = function(
 	# Build filename
 	filename = file.path(
 		output_folder,
-		paste0(gsub("[./\\]", "", name),".txt")
+		paste0(gsub("[./\\]", "", gsub('[[:punct:] ]+',' ',name)),".txt") ###### FIX!
 	)
 
 	# Build file content
