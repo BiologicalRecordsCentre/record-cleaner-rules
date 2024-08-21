@@ -10,7 +10,7 @@
 name: R
 
 on:
-  workflow_dispatch:
+  push
 
 jobs:
    changed_files:
