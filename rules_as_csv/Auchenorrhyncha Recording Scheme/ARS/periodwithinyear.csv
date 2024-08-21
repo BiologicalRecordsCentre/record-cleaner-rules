@@ -1,0 +1,354 @@
+taxon,tvk,start_day,start_month,end_day,end_month,stage
+Acanthodelphax denticauda,NHMSYS0020705529,1,4,31,10,mature
+Adarrus (Adarrus) multinotatus,NHMSYS0020705532,1,5,31,10,mature
+Agallia brachyptera,NHMSYS0020442286,1,7,31,10,mature
+Agallia consobrina,NHMSYS0020705177,1,6,31,10,mature
+Aguriahana stellulata,NHMSYS0020705182,1,6,31,10,mature
+Alebra albostriella,NHMSYS0020705184,1,6,31,10,mature
+Alebra coryli,NHMSYS0020705185,1,6,30,9,mature
+Alebra viridis,NHMSYS0020745855,1,7,31,10,mature
+Alebra wahlbergi,NHMSYS0020705186,1,5,30,9,mature
+Allygidius (Allygidius) commutatus,NHMSYS0020705188,1,6,31,10,mature
+Allygus mixtus,NHMSYS0020705189,1,6,31,10,mature
+Allygus modestus,NHMSYS0020705190,1,6,31,10,mature
+Alnetoidea alneti,NHMSYS0020705191,1,5,31,10,mature
+Anaceratagallia venosa,NHMSYS0020917128,1,7,31,10,mature
+Anakelisia fasciata,NHMSYS0020705193,1,7,31,10,mature
+Anakelisia perspicillata,NHMSYS0020705194,1,7,31,10,mature
+Anoscopus albifrons,NHMSYS0020322280,1,6,31,10,mature
+Anoscopus albiger,NHMSYS0020705213,1,6,30,11,mature
+Anoscopus duffieldi,NHMSYS0020322282,1,6,30,9,mature
+Anoscopus flavostriatus,NHMSYS0020705216,1,7,30,11,mature
+Anoscopus histrionicus,NHMSYS0020705217,1,6,30,9,mature
+Anoscopus limicola,NHMSYS0020917141,1,7,30,9,mature
+Anoscopus serratulae,NHMSYS0020705219,1,7,31,10,mature
+Aphrodes aestuarinus,NHMSYS0020442289,1,7,30,9,mature
+Aphrodes aestuarinus,NHMSYS0020442289,1,7,30,9,mature
+Aphrodes bicincta,NHMSYS0020705214,1,6,31,10,mature
+Aphrodes makarovi,NHMSYS0020705218,1,6,31,10,mature
+Aphrophora alni,NHMSYS0020705221,1,6,31,10,mature
+Aphrophora major,NHMSYS0020705222,1,7,30,9,mature
+Aphrophora pectoralis,NHMSYS0020705223,1,6,30,9,mature
+Aphrophora salicina,NHMSYS0020705224,1,6,31,10,mature
+Arocephalus (Ariellus) punctum,NHMSYS0020705229,1,6,31,10,mature
+Arthaldeus pascuellus,NHMSYS0020705231,1,5,31,10,mature
+Arthaldeus striifrons,NHMSYS0020705232,1,6,31,10,mature
+Asiraca clavicornis,NHMSYS0020442293,1,4,31,10,mature
+Athysanus argentarius,NHMSYS0020705240,1,6,30,9,mature
+Austroagallia sinuata,NHMSYS0020442294,1,6,30,9,mature
+Austroasca vittata,NHMSYS0020442295,1,5,31,10,mature
+Balclutha saltuella,NBNSYS0100001908,1,6,31,10,mature
+Batracomorphus allionii,NHMSYS0020745850,1,6,30,9,mature
+Batracomorphus irroratus,NBNSYS0100001917,1,6,30,9,mature
+Calligypona reyi,NHMSYS0020442299,1,6,30,9,mature
+Centrotus cornutus,NHMSYS0020705258,1,5,31,8,mature
+Cercopis vulnerata,NHMSYS0020705260,1,5,31,7,mature
+Chloriona dorsata,NHMSYS0020442301,1,5,31,8,mature
+Chloriona glaucescens,NHMSYS0020705263,1,5,30,9,mature
+Chloriona smaragdula,NHMSYS0020705264,1,5,30,9,mature
+Chloriona unicolor,NHMSYS0020705265,1,5,31,8,mature
+Chloriona vasconica,NHMSYS0020442302,1,5,30,9,mature
+Chlorita dumosa,NHMSYS0020442303,1,5,31,10,mature
+Chlorita viridula,NBNSYS0000010620,1,7,30,9,mature
+Cicadella lasiocarpae,NHMSYS0020442305,1,6,30,9,mature
+Cicadella viridis,NHMSYS0020705270,1,7,31,10,mature
+Cicadetta montana,NBNSYS0000010417,1,5,31,7,mature
+Cicadula (Cicadula) flori,NHMSYS0020705274,1,6,31,10,mature
+Cicadula (Cicadula) persimilis,NHMSYS0020705278,1,6,31,10,mature
+Cicadula (Cicadula) quadrinotata,NHMSYS0020705279,1,6,31,10,mature
+Cicadula (Cicadula) quinquenotata,NHMSYS0020705280,1,7,31,10,mature
+Cicadula (Cicadula) saturata,NHMSYS0020705281,1,7,31,10,mature
+Cicadula (Cyperana) intermedia,NHMSYS0020705276,1,7,31,10,mature
+Cicadula (Cyperana) ornata,NHMSYS0020705277,1,7,30,9,mature
+Cicadula (Henriana) frontalis,NHMSYS0020705275,1,7,31,10,mature
+Cicadula aurantipes,NHMSYS0020705273,1,7,31,10,mature
+Cixius (Acanthocixius) cambricus,NHMSYS0020705284,1,5,30,9,mature
+Cixius (Acanthocixius) similis,NHMSYS0020705289,1,5,31,8,mature
+Cixius (Ceratocixius) caledonicus,NHMSYS0020705283,1,5,30,9,mature
+Cixius (Ceratocixius) cunicularius,NHMSYS0020705285,1,5,30,9,mature
+Cixius (Ceratocixius) remotus,NHMSYS0020705288,1,5,30,9,mature
+Cixius (Ceratocixius) simplex,NHMSYS0020705290,1,6,31,10,mature
+Cixius (Paracixius) distinguendus,NHMSYS0020705286,1,6,31,10,mature
+Cixius nervosus,NHMSYS0020705287,1,5,30,9,mature
+Colladonus torneellus,NHMSYS0020705292,1,5,31,8,mature
+Conomelus anceps,NHMSYS0020705295,1,6,31,10,mature
+Conosanus obsoletus,NHMSYS0020705297,1,7,31,10,mature
+Cosmotettix (Airosus) costalis,NHMSYS0020705300,1,6,31,10,mature
+Cosmotettix (Cosmotettix) caudatus,NHMSYS0020705299,1,6,30,9,mature
+Cosmotettix (Cosmotettix) panzeri,NHMSYS0020705301,1,7,31,10,mature
+Criomorphus albomarginatus,NHMSYS0020705311,1,5,31,7,mature
+Criomorphus moestus,NHMSYS0020442316,1,5,31,7,mature
+Criomorphus williamsi,NHMSYS0020442317,1,5,31,7,mature
+Delphacinus mesomelas,NHMSYS0020705320,1,5,30,9,mature
+Delphax crassicornis,NHMSYS0020745860,1,6,30,9,mature
+Delphax pulchellus,NHMSYS0020705324,1,6,30,9,mature
+Deltocephalus maculiceps,NHMSYS0020705326,1,6,30,9,mature
+Deltocephalus pulicaris,NHMSYS0020705327,1,5,31,10,mature
+Dicranotropis (Dicranotropis) hamata,NHMSYS0020705330,1,4,31,10,mature
+Dicranotropis (Leimonodite) divergens,NHMSYS0020705329,1,4,31,10,mature
+Ditropis pteridis,NHMSYS0020705337,1,5,31,8,mature
+Doratura impudica,NBNSYS0000010503,1,6,30,9,mature
+Doratura stylata,NHMSYS0020705339,1,6,31,10,mature
+Dryodurgades antoniae,NHMSYS0020745852,1,8,30,11,mature
+Ebarrius cognatus,NHMSYS0020442320,1,7,30,9,mature
+Edwardsiana alnicola,NHMSYS0020442321,1,6,31,8,mature
+Edwardsiana avellanae,NHMSYS0020705351,1,6,31,10,mature
+Edwardsiana bergmanni,NHMSYS0020705352,1,6,30,9,mature
+Edwardsiana candidula,NHMSYS0020705353,1,5,31,10,mature
+Edwardsiana crataegi,NHMSYS0020705354,1,5,31,10,mature
+Edwardsiana diversa,NHMSYS0020705355,1,6,31,10,mature
+Edwardsiana flavescens,NHMSYS0020705356,1,5,31,10,mature
+Edwardsiana frustrator,NHMSYS0020705357,1,5,31,10,mature
+Edwardsiana geometrica,NHMSYS0020705358,1,6,31,10,mature
+Edwardsiana ishidai,NHMSYS0020442322,1,5,31,10,mature
+Edwardsiana lanternae,NHMSYS0020442323,1,6,30,9,mature
+Edwardsiana lethierryi,NHMSYS0020705359,1,6,31,10,mature
+Edwardsiana nigriloba,NHMSYS0020705361,1,6,31,8,mature
+Edwardsiana plebeja,NHMSYS0020705362,1,6,31,10,mature
+Edwardsiana prunicola,NHMSYS0020705363,1,6,31,10,mature
+Edwardsiana rosae,NHMSYS0020705364,1,5,31,10,mature
+Edwardsiana rosaesugans,NHMSYS0020442324,1,7,30,9,mature
+Edwardsiana salicicola,NHMSYS0020705365,1,6,31,10,mature
+Edwardsiana spinigera,NHMSYS0020705366,1,6,30,9,mature
+Edwardsiana tersa,NHMSYS0020442325,1,5,30,9,mature
+Elymana kozhevnikovi,NBNSYS0100002955,1,7,30,9,mature
+Elymana sulphurella,NHMSYS0020705368,1,6,31,10,mature
+Emelyanoviana contraria,NHMSYS0020442329,1,8,30,9,mature
+Emelyanoviana mollicula,NHMSYS0020705370,1,5,31,10,mature
+Empoasca pteridis,NHMSYS0020705543,1,8,31,10,mature
+Erotettix cyane,NHMSYS0020977145,1,7,30,9,mature
+Errastunus ocellaris,NHMSYS0020705533,1,5,31,10,mature
+Erythria (Erythria) aureola,NHMSYS0020705552,1,5,31,10,mature
+Erzaleus metrius,NHMSYS0020977210,1,6,31,10,mature
+Euconomelus lepidus,NHMSYS0020705554,1,6,31,10,mature
+Euides speciosa,NHMSYS0020705556,1,5,31,8,mature
+Eupterycyba jucunda,NHMSYS0020705560,1,6,31,10,mature
+Eupteryx artemisiae,NHMSYS0020705562,1,5,31,10,mature
+Eupteryx atropunctata,NHMSYS0020705563,1,5,31,10,mature
+Eupteryx aurata,NHMSYS0020705564,1,5,31,10,mature
+Eupteryx cyclops,NHMSYS0020705565,1,5,31,10,mature
+Eupteryx decemnotata,NHMSYS0020745857,1,5,31,10,mature
+Eupteryx filicum,NHMSYS0020705566,1,6,31,10,mature
+Eupteryx florida,NHMSYS0020705567,1,5,31,10,mature
+Eupteryx heydenii,NHMSYS0020705568,1,6,30,9,mature
+Eupteryx melissae,NHMSYS0020705569,1,5,31,10,mature
+Eupteryx notata,NHMSYS0020705570,1,5,31,10,mature
+Eupteryx origani,NHMSYS0020705571,1,6,31,10,mature
+Eupteryx signatipennis,NHMSYS0020705572,1,6,31,10,mature
+Eupteryx stachydearum,NHMSYS0020705573,1,5,31,10,mature
+Eupteryx tenella,NHMSYS0020705574,1,5,31,10,mature
+Eupteryx thoulessi,NHMSYS0020705575,1,6,31,10,mature
+Eupteryx urticae,NHMSYS0020705576,1,5,31,10,mature
+Eupteryx vittata,NHMSYS0020705577,1,5,31,10,mature
+Eurhadina concinna,NHMSYS0020705579,1,6,31,10,mature
+Eurhadina kirschbaumi,NHMSYS0020442333,1,6,30,9,mature
+Eurhadina loewii,NHMSYS0020705580,1,6,30,9,mature
+Eurhadina pulchella,NHMSYS0020705581,1,6,31,10,mature
+Eurhadina ribauti,NHMSYS0020442334,1,5,31,10,mature
+Eurybregma nigrolineata,NHMSYS0020705583,1,4,31,7,mature
+Eurysa brunnea,NBNSYS0100003166,1,5,31,7,mature
+Eurysa lineata,NHMSYS0020705585,1,5,31,7,mature
+Eurysanoides douglasi,NHMSYS0020977194,1,5,31,7,mature
+Eurysula lurida,NHMSYS0020442336,1,5,30,9,mature
+Euscelidius schenckii,NHMSYS0020442337,1,7,31,10,mature
+Euscelidius variegatus,NHMSYS0020442338,1,7,31,10,mature
+Euscelis incisus,NHMSYS0020705589,1,3,31,12,mature
+Euscelis lineolatus,NHMSYS0020705590,1,5,30,9,mature
+Euscelis ohausi,NHMSYS0020442339,1,6,31,10,mature
+Euscelis venosus,NBNSYS0000010554,1,7,30,9,mature
+Evacanthus acuminatus,NHMSYS0020705592,1,6,30,9,mature
+Evacanthus interruptus,NHMSYS0020705593,1,6,31,10,mature
+Fagocyba carri,NHMSYS0020705595,1,5,30,9,mature
+Fagocyba cruenta,NHMSYS0020705596,1,5,31,10,mature
+Fieberiella florii,NBNSYS0100003194,1,7,31,10,mature
+Fieberiella septentrionalis,NHMSYS0020973331,1,7,31,10,mature
+Florodelphax leptosoma sensu stricto,NHMSYS0020924615,1,4,31,10,mature
+Florodelphax paryphasma,NHMSYS0020442341,1,5,30,9,mature
+Forcipata citrinella,NHMSYS0020705603,1,5,31,10,mature
+Forcipata forcipata,NHMSYS0020705604,1,6,31,10,mature
+Gargara genistae,NHMSYS0020705606,1,6,31,10,mature
+Graphocephala fennahi,NHMSYS0020705608,1,7,31,10,mature
+Graphocraerus ventralis,NHMSYS0020705610,1,5,30,9,mature
+Gravesteiniella boldi,NHMSYS0020705612,1,5,31,10,mature
+Grypotes puncticollis,NHMSYS0020705614,1,6,31,10,mature
+Hardya melanopsis,NHMSYS0020705617,1,3,31,10,mature
+Hephathus nanus,NHMSYS0020442343,1,6,31,8,mature
+Hyledelphax elegantula,NHMSYS0020705627,1,4,30,9,mature
+Iassus lanio,NHMSYS0020705629,1,6,30,11,mature
+Iassus scutellaris,NHMSYS0020442411,1,6,31,10,mature
+Idiocerus lituratus,NHMSYS0020705638,1,7,31,10,mature
+Idiocerus similis,NHMSYS0020705643,1,7,31,10,mature
+Idiocerus stigmaticalis,NHMSYS0020705644,1,6,30,9,mature
+Idiodonus cruentatus,NHMSYS0020705649,1,7,31,10,mature
+Issus coleoptratus,NHMSYS0020705653,1,6,31,10,mature
+Issus muscaeformis,NHMSYS0020442413,1,5,31,8,mature
+Jassargus (Arrailus) flori,NHMSYS0020705656,1,6,31,10,mature
+Jassargus (Sayetus) sursumflexus,NHMSYS0020705657,1,6,31,10,mature
+Jassargus distinguendus,NBNSYS0000010517,1,5,31,10,mature
+Javesella (Javesella) discolor,NHMSYS0020705659,1,5,31,7,mature
+Javesella (Javesella) dubia,NHMSYS0020705660,1,4,31,10,mature
+Javesella (Javesella) forcipata,NHMSYS0020705661,1,5,31,8,mature
+Javesella (Javesella) obscurella,NHMSYS0020705662,1,4,30,9,mature
+Javesella (Javesella) pellucida,NHMSYS0020705663,1,4,31,10,mature
+Kelisia guttula,NHMSYS0020705666,1,6,31,10,mature
+Kelisia guttulifera,NHMSYS0020705667,1,7,31,10,mature
+Kelisia occirrega,NHMSYS0020745859,1,7,31,10,mature
+Kelisia pallidula,NHMSYS0020705668,1,7,31,10,mature
+Kelisia punctulum,NHMSYS0020705669,1,7,31,10,mature
+Kelisia ribauti,NHMSYS0020705670,1,7,31,10,mature
+Kelisia sabulicola,NHMSYS0020705671,1,7,31,10,mature
+Kelisia vittipennis,NHMSYS0020705672,1,7,31,10,mature
+Kosswigianella exigua,NHMSYS0020705675,1,3,31,10,mature
+Kyboasca bipunctata,NHMSYS0020442415,1,6,30,9,mature
+Kybos butleri,NHMSYS0020705679,1,6,31,10,mature
+Kybos calyculus,NHMSYS0020442416,1,6,31,8,mature
+Kybos populi,NHMSYS0020705680,1,6,31,10,mature
+Kybos rufescens,NHMSYS0020705681,1,6,31,10,mature
+Kybos smaragdulus,NHMSYS0020705682,1,5,31,10,mature
+Kybos strigilifer,NHMSYS0020705683,1,6,31,10,mature
+Kybos virgator,NHMSYS0020705684,1,6,31,10,mature
+Lamprotettix nitidulus,NHMSYS0020705686,1,7,31,10,mature
+Laodelphax striatellus,NHMSYS0020442417,1,4,31,10,mature
+Ledra aurita,NHMSYS0020705689,1,6,31,10,mature
+Liguropia juniperi,NHMSYS0020745856,1,7,30,9,mature
+Limotettix atricapillus,NHMSYS0020442422,1,6,30,9,mature
+Limotettix striola,NHMSYS0020705691,1,6,31,10,mature
+Lindbergina aurovittata,NHMSYS0020705693,1,5,31,12,mature
+Macropsis albae,NHMSYS0020705705,1,5,31,8,mature
+Macropsis cerea,NHMSYS0020705706,1,6,30,9,mature
+Macropsis fuscinervis,NHMSYS0020705707,1,6,31,8,mature
+Macropsis fuscula,NHMSYS0020705708,1,6,30,9,mature
+Macropsis glandacea,NHMSYS0020442424,1,6,30,9,mature
+Macropsis graminea,NHMSYS0020705709,1,6,31,8,mature
+Macropsis impura,NHMSYS0020705710,1,6,31,8,mature
+Macropsis infuscata,NHMSYS0020705711,1,5,31,8,mature
+Macropsis marginata,NHMSYS0020705712,1,5,31,8,mature
+Macropsis megerlei,NHMSYS0020745851,1,7,31,8,mature
+Macropsis mendax,NHMSYS0020442425,1,6,30,9,mature
+Macropsis prasina,NHMSYS0020705713,1,6,30,9,mature
+Macropsis scotti,NHMSYS0020705714,1,7,31,8,mature
+Macropsis scutellata sensu stricto,NHMSYS0020924639,1,6,30,9,mature
+Macrosteles alpinus,NHMSYS0020442426,1,7,30,9,mature
+Macrosteles cristatus,NHMSYS0020442427,1,5,31,10,mature
+Macrosteles fieberi,NHMSYS0020442428,1,5,31,10,mature
+Macrosteles frontalis,NHMSYS0020442429,1,5,31,10,mature
+Macrosteles horvathi,NHMSYS0020705718,1,5,31,10,mature
+Macrosteles laevis,NHMSYS0020705719,1,5,31,10,mature
+Macrosteles lividus,NHMSYS0020442430,1,6,30,9,mature
+Macrosteles oshanini,NHMSYS0020705720,1,8,30,9,mature
+Macrosteles ossiannilssoni,NHMSYS0020705721,1,6,31,10,mature
+Macrosteles quadripunctulatus,NHMSYS0020442432,1,5,31,10,mature
+Macrosteles septemnotatus,NHMSYS0020705722,1,6,31,10,mature
+Macrosteles sexnotatus,NHMSYS0020705723,1,5,31,10,mature
+Macrosteles sordidipennis,NHMSYS0020442433,1,5,30,9,mature
+Macrosteles variatus,NHMSYS0020705724,1,6,31,10,mature
+Macrosteles viridigriseus,NHMSYS0020705725,1,5,31,10,mature
+Macustus grisescens,NHMSYS0020705727,1,4,31,8,mature
+Megamelus notulus,NHMSYS0020705732,1,6,31,10,mature
+Megophthalmus scabripennis,NHMSYS0020705734,1,6,31,10,mature
+Megophthalmus scanicus,NHMSYS0020705735,1,6,31,10,mature
+Metalimnus formosus,NHMSYS0020442437,1,6,31,10,mature
+Metidiocerus elegans,NHMSYS0020705634,1,7,31,10,mature
+Mocuellus (Mocuellus) collinus,NHMSYS0020705743,1,5,31,10,mature
+Muellerianella brevipennis,NHMSYS0020705751,1,6,31,10,mature
+Muellerianella extrusa,NHMSYS0020705752,1,6,31,10,mature
+Muellerianella fairmairei,NHMSYS0020705753,1,6,31,10,mature
+Muirodelphax aubei,NHMSYS0020705755,1,4,31,10,mature
+Neophilaenus campestris,NHMSYS0020705765,1,5,31,10,mature
+Neophilaenus exclamationis,NHMSYS0020705766,1,5,31,10,mature
+Neophilaenus lineatus,NHMSYS0020705767,1,6,30,11,mature
+Neophilaenus longiceps,NHMSYS0020442440,1,6,30,9,mature
+Nothodelphax distinctus,NHMSYS0020705962,1,4,30,9,mature
+Notus flavipennis,NHMSYS0020705769,1,5,31,10,mature
+Oncodelphax pullulus,NHMSYS0020442443,1,5,31,8,mature
+Oncopsis alni,NHMSYS0020705775,1,5,31,8,mature
+Oncopsis appendiculata,NHMSYS0020973319,1,5,31,8,mature
+Oncopsis avellanae,NHMSYS0020705776,1,5,31,8,mature
+Oncopsis carpini,NHMSYS0020705777,1,5,31,8,mature
+Oncopsis flavicollis,NHMSYS0020705778,1,5,31,7,mature
+Oncopsis subangulata,NHMSYS0020705779,1,5,31,8,mature
+Oncopsis tristis,NHMSYS0020705780,1,6,31,8,mature
+Ophiola cornicula,NHMSYS0020705890,1,6,30,9,mature
+Ophiola decumana,NHMSYS0020705891,1,5,31,10,mature
+Ophiola plutonia,NHMSYS0020927625,1,6,31,10,mature
+Opsius stactogalus,NHMSYS0020705782,1,6,31,10,mature
+Orientus ishidae,NHMSYS0020973367,1,7,31,10,mature
+Ossiannilssonola callosa,NBNSYS0100004363,1,6,30,9,mature
+Paluda flaveola,NHMSYS0020705790,1,6,31,10,mature
+Paradelphacodes paludosus,NHMSYS0020442446,1,4,30,9,mature
+Paraliburnia adela,NHMSYS0020705794,1,5,30,9,mature
+Paraliburnia clypealis,NHMSYS0020705795,1,5,30,9,mature
+Paralimnus phragmitis,NHMSYS0020442448,1,7,31,10,mature
+Paramesus obtusifrons,NHMSYS0020705798,1,7,31,10,mature
+Pediopsis tiliae,NHMSYS0020442449,1,6,31,8,mature
+Pentastiridius (Pentastiridius) leporinus,NHMSYS0020705771,1,5,31,8,mature
+Philaenus spumarius,NHMSYS0020705811,1,6,31,10,mature
+Pithyotettix abietinus,NHMSYS0020973355,1,5,30,9,mature
+Placotettix taeniatifrons,NHMSYS0020705816,1,8,31,10,mature
+Planaphrodes bifasciata,NHMSYS0020705215,1,6,30,9,mature
+Planaphrodes trifasciata,NHMSYS0020977178,1,6,31,10,mature
+Platymetopius (Platymetopius) undatus,NHMSYS0020705820,1,7,30,9,mature
+Populicerus albicans,NHMSYS0020705631,1,6,31,10,mature
+Populicerus confusus,NHMSYS0020705632,1,6,31,10,mature
+Populicerus laminatus,NHMSYS0020705637,1,6,31,10,mature
+Populicerus nitidissimus,NHMSYS0020705635,1,6,31,10,mature
+Populicerus populi,NHMSYS0020705641,1,6,31,10,mature
+Prokelisia marginata,NHMSYS0020530792,1,4,31,10,mature
+Psammotettix albomarginatus,NHMSYS0020442454,1,5,31,10,mature
+Psammotettix cephalotes,NHMSYS0020705826,1,5,31,10,mature
+Psammotettix confinis,NHMSYS0020705827,1,5,31,10,mature
+Psammotettix frigidus,NHMSYS0020705828,1,6,31,8,mature
+Psammotettix helvolus,NHMSYS0020745853,1,5,31,10,mature
+Psammotettix maritimus,NHMSYS0020442456,1,6,30,9,mature
+Psammotettix nodosus,NHMSYS0020442457,1,5,31,10,mature
+Psammotettix putoni sensu stricto,NHMSYS0020924663,1,5,31,10,mature
+Psammotettix sabulicola,NHMSYS0020705830,1,5,30,9,mature
+Psammotettix striatus sensu stricto,NHMSYS0020924719,1,5,31,10,mature
+Recilia coronifera,NHMSYS0020705867,1,6,31,10,mature
+Reptalus (Reptalus) panzeri,NHMSYS0020705772,1,6,31,8,mature
+Rhopalopyx adumbrata,NHMSYS0020705789,1,6,31,10,mature
+Rhopalopyx vitripennis,NHMSYS0020705791,1,5,31,10,mature
+Rhytidodus decimusquartus,NHMSYS0020705874,1,6,31,10,mature
+Rhytistylus proceps,NHMSYS0020705876,1,6,31,10,mature
+Ribautiana cruciata,NHMSYS0020705878,1,6,31,8,mature
+Ribautiana debilis,NHMSYS0020705879,1,5,30,11,mature
+Ribautiana scalaris,NHMSYS0020705880,1,5,30,9,mature
+Ribautiana tenerrima sensu stricto,NHMSYS0020924687,1,5,31,12,mature
+Ribautiana ulmi,NHMSYS0020705882,1,5,30,11,mature
+Ribautodelphax angulosus,NHMSYS0020442459,1,5,31,8,mature
+Ribautodelphax imitans,NBNSYS0000010768,1,5,31,8,mature
+Ribautodelphax pallens,NHMSYS0020442460,1,4,31,8,mature
+Ribautodelphax pungens,NHMSYS0020442461,1,4,30,9,mature
+Sagatus punctifrons,NHMSYS0020705885,1,6,30,9,mature
+Sardius argus,NHMSYS0020705887,1,5,31,10,mature
+Sonronius dahlbomi,NHMSYS0020705894,1,7,30,9,mature
+Sorhoanus xanthoneurus,NHMSYS0020705896,1,7,31,10,mature
+Speudotettix subfusculus,NHMSYS0020705901,1,4,31,8,mature
+Stenocranus fuscovittatus,NHMSYS0020442466,1,6,30,9,mature
+Stenocranus longipennis,NHMSYS0020705904,1,7,31,10,mature
+Stiroma affinis,NHMSYS0020705910,1,5,31,8,mature
+Stiroma bicarinata,NHMSYS0020442467,1,5,31,8,mature
+Streptanus aemulans,NHMSYS0020705912,1,6,31,10,mature
+Streptanus marginatus,NHMSYS0020705913,1,4,31,8,mature
+Streptanus sordidus,NHMSYS0020705914,1,6,31,10,mature
+Stroggylocephalus agrestis,NHMSYS0020705916,1,7,31,10,mature
+Stroggylocephalus livens,NHMSYS0020705917,1,7,31,10,mature
+Struebingianella dalei,NHMSYS0020442469,1,4,31,8,mature
+Struebingianella litoralis,NHMSYS0020442470,1,4,31,8,mature
+Struebingianella lugubrina,NHMSYS0020705924,1,4,30,9,mature
+Synophropsis lauri,NHMSYS0020745854,1,8,31,10,mature
+Tachycixius pilosus,NHMSYS0020705926,1,4,31,7,mature
+Thamnotettix (Loepotettix) dilutior,NHMSYS0020705933,1,5,31,10,mature
+Thamnotettix (Thamnotettix) confinis,NHMSYS0020705932,1,5,31,8,mature
+Tremulicerus distinguendus,NHMSYS0020705633,1,6,31,10,mature
+Tremulicerus tremulae,NHMSYS0020705645,1,6,30,11,mature
+Tremulicerus vitreus,NHMSYS0020705646,1,6,31,12,mature
+Trigonocranus emmeae,NHMSYS0020442473,1,5,31,7,mature
+Turrutus socialis,NHMSYS0020705957,1,5,31,10,mature
+Typhlocyba quercus,NHMSYS0020705960,1,6,30,9,mature
+Verdanus (Verdanus) abdominalis,NHMSYS0020705334,1,5,31,8,mature
+Wagneripteryx germari,NHMSYS0020705181,1,6,31,10,mature
+Xanthodelphax flaveolus,NHMSYS0020442475,1,6,30,9,mature
+Xanthodelphax stramineus,NHMSYS0020705968,1,5,30,9,mature
+Zonocyba bifasciata,NHMSYS0020705959,1,6,31,10,mature
+Zygina (Hypericiella) hyperici,NHMSYS0020705973,1,5,31,10,mature

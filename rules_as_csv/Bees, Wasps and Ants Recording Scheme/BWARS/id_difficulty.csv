@@ -1,0 +1,616 @@
+tvk,code,taxon
+NBNSYS0000009414,3,Agenioideus cinctellus
+NHMSYS0000875032,5,Agenioideus sericeus
+NHMSYS0020936521,4,Allepyris microneurus
+NHMSYS0000875038,2,Ammophila pubescens
+NHMSYS0000875039,2,Ammophila sabulosa
+NHMSYS0000875042,5,Ancistrocerus antilope
+NHMSYS0000875045,3,Ancistrocerus gazella
+NHMSYS0000875046,3,Ancistrocerus nigricornis
+NBNSYS0000009451,3,Ancistrocerus oviventris
+NHMSYS0000875049,3,Ancistrocerus parietinus
+NHMSYS0000875050,3,Ancistrocerus parietum
+NHMSYS0000875052,5,Ancistrocerus quadratus
+NHMSYS0000875053,3,Ancistrocerus scoticus
+NHMSYS0000875054,3,Ancistrocerus trifasciatus
+NHMSYS0000875060,3,Andrena (Andrena) apicata
+NHMSYS0000875061,2,Andrena (Andrena) clarkella
+NHMSYS0000875062,3,Andrena (Andrena) fucata
+NHMSYS0000875063,1,Andrena (Andrena) fulva
+NHMSYS0000875064,3,Andrena (Andrena) helvola
+NHMSYS0000875065,3,Andrena (Andrena) lapponica
+NHMSYS0000875066,3,Andrena (Andrena) praecox
+NHMSYS0000875067,4,Andrena (Andrena) synadelpha
+NHMSYS0000875068,3,Andrena (Andrena) varians
+NHMSYS0000875070,3,Andrena (Charitandrena) hattorfiana
+NHMSYS0000875072,3,Andrena (Chlorandrena) humilis
+NHMSYS0000875074,3,Andrena (Chrysandrena) fulvago
+NHMSYS0000875076,3,Andrena (Cnemidandrena) denticulata
+NHMSYS0000875077,3,Andrena (Cnemidandrena) fuscipes
+NHMSYS0000875078,3,Andrena (Cnemidandrena) nigriceps
+NHMSYS0000875079,3,Andrena (Cnemidandrena) simillima
+NHMSYS0000875080,5,Andrena (Cnemidandrena) tridentata
+NHMSYS0000875082,3,Andrena (Euandrena) bicolor
+NHMSYS0000875083,3,Andrena (Euandrena) ruficrus
+NHMSYS0000875085,3,Andrena (Holandrena) labialis
+NHMSYS0000875087,3,Andrena (Hoplandrena) bucephala
+NHMSYS0000875088,4,Andrena (Hoplandrena) ferox
+NHMSYS0000875089,5,Andrena (Hoplandrena) rosae
+NHMSYS0000875092,3,Andrena (Hoplandrena) trimmerana
+NHMSYS0000875094,3,Andrena (Leucandrena) argentata
+NHMSYS0000875095,3,Andrena (Leucandrena) barbilabris
+NHMSYS0000875097,3,Andrena (Margandrena) marginata
+NHMSYS0000875099,1,Andrena (Melandrena) cineraria
+NHMSYS0000875100,3,Andrena (Melandrena) nigroaenea
+NHMSYS0000875103,2,Andrena (Melandrena) nitida
+NHMSYS0000875104,3,Andrena (Melandrena) thoracica
+NHMSYS0000875105,5,Andrena (Melandrena) vaga
+NHMSYS0000875107,3,Andrena (Micrandrena) alfkenella
+NHMSYS0000875108,3,Andrena (Micrandrena) falsifica
+NHMSYS0000875109,5,Andrena (Micrandrena) floricola
+NHMSYS0000875110,3,Andrena (Micrandrena) minutula
+NHMSYS0000875111,3,Andrena (Micrandrena) minutuloides
+NHMSYS0000875112,5,Andrena (Micrandrena) nana
+NHMSYS0000875113,5,Andrena (Micrandrena) nanula
+NHMSYS0000875114,3,Andrena (Micrandrena) niveata
+NHMSYS0000875115,3,Andrena (Micrandrena) proxima
+NHMSYS0000875116,3,Andrena (Micrandrena) semilaevis
+NHMSYS0000875117,3,Andrena (Micrandrena) subopaca
+NHMSYS0000875119,3,Andrena (Notandrena) chrysosceles
+NHMSYS0000875120,3,Andrena (Notandrena) nitidiuscula
+NHMSYS0000875122,3,Andrena (Oreomelissa) coitana
+NHMSYS0000875124,3,Andrena (Plastandrena) bimaculata
+NHMSYS0000875125,5,Andrena (Plastandrena) nigrospina
+NHMSYS0000875126,3,Andrena (Plastandrena) pilipes
+NHMSYS0000875127,3,Andrena (Plastandrena) tibialis
+NHMSYS0000875129,2,Andrena (Poecilandrena) labiata
+NHMSYS0000875131,3,Andrena (Poliandrena) florea
+NHMSYS0000875132,5,Andrena (Poliandrena) polita
+NHMSYS0000875133,3,Andrena (Poliandrena) tarsata
+NHMSYS0000875135,3,Andrena (Ptilandrena) angustior
+NHMSYS0000875137,3,Andrena (Simandrena) congruens
+NHMSYS0000875138,3,Andrena (Simandrena) dorsata
+NHMSYS0000875139,5,Andrena (Simandrena) lepida
+NHMSYS0000875141,5,Andrena (Taeniandrena) lathyri
+NHMSYS0000875142,3,Andrena (Taeniandrena) ovatula
+NHMSYS0000875143,3,Andrena (Taeniandrena) similis
+NHMSYS0000875144,3,Andrena (Taeniandrena) wilkella
+NHMSYS0000875146,1,Andrena (Trachandrena) haemorrhoa
+NHMSYS0000875148,2,Andrena (Zonandrena) flavipes
+NHMSYS0000875149,3,Andrena (Zonandrena) gravida
+NHMSYS0020936534,3,Andrena carantonica misident.
+NHMSYS0000875294,5,Anergates atratulus
+NHMSYS0000875297,3,Anoplius (Anoplius) caviventris
+NHMSYS0000875298,3,Anoplius (Anoplius) concinnus
+NHMSYS0000875299,3,Anoplius (Anoplius) nigerrimus
+NHMSYS0000875301,3,Anoplius (Arachnophroctonus) infuscatus
+NHMSYS0000875302,2,Anoplius (Arachnophroctonus) viaticus
+NHMSYS0000875314,4,Anteon arcuatum
+NHMSYS0000875317,4,Anteon brachycerum
+NHMSYS0000875331,4,Anteon ephippiger
+NBNSYS0100001577,4,Anteon exiguum
+NHMSYS0000875332,4,Anteon faciale
+NHMSYS0000875333,4,Anteon flavicorne
+NHMSYS0000875338,4,Anteon fulviventre
+NHMSYS0000875341,4,Anteon gaullei
+NHMSYS0000875346,4,Anteon infectum
+NHMSYS0020924547,4,Anteon jurineanum sensu lato
+NHMSYS0000875365,4,Anteon pubicorne
+NHMSYS0000875367,4,Anteon reticulatum
+NHMSYS0000875369,4,Anteon scapulare
+NHMSYS0000875378,4,Anteon tripartitum
+NHMSYS0000875386,1,Anthidium (Anthidium) manicatum
+NHMSYS0000875392,2,Anthophora (Anthophora) plumipes
+NHMSYS0000875394,3,Anthophora (Clisodon) furcata
+NHMSYS0000875396,3,Anthophora (Dasymegilla) quadrimaculata
+NHMSYS0000875398,3,Anthophora (Heliophila) bimaculata
+NHMSYS0000875400,3,Anthophora (Pyganthophora) retusa
+NHMSYS0000875415,4,Aphelopus atratus
+NHMSYS0000875416,4,Aphelopus camus
+NHMSYS0000875419,4,Aphelopus melaleucus
+NHMSYS0000875420,4,Aphelopus nigriceps
+NBNSYS0100001612,4,Aphelopus querceus
+NHMSYS0000875421,4,Aphelopus serratus
+NHMSYS0000875423,1,Apis mellifera
+NBNSYS0000009434,3,Aporus unicolor
+NHMSYS0000875430,3,Arachnospila (Ammosphex) anceps
+NHMSYS0000875431,4,Arachnospila (Ammosphex) consobrina
+NHMSYS0000875432,3,Arachnospila (Ammosphex) trivialis
+NHMSYS0000875433,3,Arachnospila (Ammosphex) wesmaeli
+NHMSYS0000875435,3,Arachnospila (Anoplochares) minutula
+NHMSYS0000875436,3,Arachnospila (Anoplochares) spissa
+NHMSYS0000875438,5,Arachnospila (Arachnospila) rufa
+NHMSYS0000875445,3,Argogorytes fargeii
+NHMSYS0000875446,3,Argogorytes mystaceus
+NHMSYS0000875449,2,Astata boops
+NBNSYS0000009398,3,Auplopus carbonarius
+NHMSYS0000875457,4,Bethylus boops
+NHMSYS0000875458,4,Bethylus cephalotes
+NHMSYS0000875459,4,Bethylus dendrophilus
+NHMSYS0000875461,4,Bethylus fuscicornis
+NHMSYS0000875472,5,Bombus (Bombus) cryptarum
+NHMSYS0000875473,5,Bombus (Bombus) lucorum
+NHMSYS0000875474,5,Bombus (Bombus) magnus
+NHMSYS0000875475,1,Bombus (Bombus) terrestris
+NHMSYS0000875479,5,Bombus (Cullumanobombus) cullumanus
+NHMSYS0000875481,4,Bombus (Kallobombus) soroeensis
+NHMSYS0000875483,3,Bombus (Megabombus) hortorum
+NHMSYS0000875486,4,Bombus (Megabombus) ruderatus
+NHMSYS0000875490,1,Bombus (Melanobombus) lapidarius
+NHMSYS0000875492,3,Bombus (Psithyrus) barbutellus
+NHMSYS0000875493,3,Bombus (Psithyrus) bohemicus
+NHMSYS0000875494,3,Bombus (Psithyrus) campestris
+NHMSYS0000875497,2,Bombus (Psithyrus) rupestris
+NHMSYS0000875498,3,Bombus (Psithyrus) sylvestris
+NHMSYS0000875499,3,Bombus (Psithyrus) vestalis
+NHMSYS0000875501,1,Bombus (Pyrobombus) hypnorum
+NHMSYS0000875502,3,Bombus (Pyrobombus) jonellus
+NHMSYS0000875507,2,Bombus (Pyrobombus) monticola
+NHMSYS0000875509,3,Bombus (Pyrobombus) pratorum
+NHMSYS0000875511,5,Bombus (Rhodobombus) pomorum
+NHMSYS0000875513,3,Bombus (Subterraneobombus) distinguendus
+NHMSYS0000875514,4,Bombus (Subterraneobombus) subterraneus
+NHMSYS0020758433,3,Bombus (Thoracobombus) humilis
+NHMSYS0020758435,3,Bombus (Thoracobombus) muscorum
+NHMSYS0020758443,2,Bombus (Thoracobombus) pascuorum
+NHMSYS0020758448,3,Bombus (Thoracobombus) ruderarius
+NHMSYS0020758449,3,Bombus (Thoracobombus) sylvarum
+NBNSYS0000009399,3,Caliadurgus fasciatellus
+NHMSYS0000875602,5,Cardiocondyla britteni
+NHMSYS0000875607,4,Cephalonomia formiciformis
+NHMSYS0000875609,4,Cephalonomia gallicola
+NHMSYS0000875610,4,Cephalonomia hammi
+NHMSYS0000875617,4,Cephalonomia tarsalis
+NHMSYS0000875618,4,Cephalonomia waterstoni
+NHMSYS0000875622,2,Ceratina (Euceratina) cyanea
+NHMSYS0000875625,3,Cerceris arenaria
+NHMSYS0000875631,3,Cerceris quadricincta
+NHMSYS0000875632,3,Cerceris quinquefasciata
+NHMSYS0000875633,3,Cerceris ruficornis
+NHMSYS0000875634,3,Cerceris rybyensis
+NHMSYS0000875635,5,Cerceris sabulosa
+NHMSYS0000875637,3,Ceropales maculata
+NHMSYS0000875638,3,Ceropales variegata
+NHMSYS0000875642,5,Chalicodoma (Pseudomegachile) ericetorum
+NHMSYS0000875648,2,Chelostoma campanularum
+NHMSYS0000875649,2,Chelostoma florisomne
+NHMSYS0000875654,3,Chrysis angustula
+NHMSYS0000875658,3,Chrysis fulgida
+NHMSYS0000875659,3,Chrysis gracillima
+NHMSYS0000875661,4,Chrysis ignita
+NHMSYS0000875662,3,Chrysis illigeri
+NHMSYS0000875663,4,Chrysis impressa
+NHMSYS0000875664,5,Chrysis longula
+NHMSYS0000875665,4,Chrysis mediata
+NHMSYS0000875667,5,Chrysis pseudobrevitarsis
+NHMSYS0000875668,4,Chrysis ruddii
+NHMSYS0000875669,4,Chrysis rutiliventris
+NHMSYS0000875670,5,Chrysis schencki
+NHMSYS0000875674,2,Chrysis viridula
+NHMSYS0000875676,4,Chrysura hirsuta
+NHMSYS0000875679,3,Chrysura radians
+NHMSYS0000875681,3,Cleptes nitidulus
+NHMSYS0000875683,3,Cleptes semiauratus
+NHMSYS0000875687,5,Coelioxys (Allocoelioxys) afra
+NHMSYS0000875690,3,Coelioxys (Coelioxys) conoidea
+NHMSYS0000875691,3,Coelioxys (Coelioxys) elongata
+NHMSYS0000875692,3,Coelioxys (Coelioxys) inermis
+NHMSYS0000875693,3,Coelioxys (Coelioxys) mandibularis
+NHMSYS0000875694,3,Coelioxys (Coelioxys) quadridentata
+NHMSYS0000875695,3,Coelioxys (Coelioxys) rufescens
+NHMSYS0000875711,3,Colletes (Colletes) daviesanus
+NHMSYS0000875712,3,Colletes (Colletes) floralis
+NHMSYS0000875713,3,Colletes (Colletes) fodiens
+NHMSYS0000875714,3,Colletes (Colletes) halophilus
+NHMSYS0000875715,2,Colletes (Colletes) hederae
+NHMSYS0000875716,3,Colletes (Colletes) marginatus
+NHMSYS0000875717,3,Colletes (Colletes) similis
+NHMSYS0000875718,3,Colletes (Colletes) succinctus
+NHMSYS0000875720,3,Colletes (Pachycolletes) cunicularius
+NHMSYS0000875733,3,Crabro cribrarius
+NHMSYS0000875734,3,Crabro peltarius
+NHMSYS0000875735,3,Crabro scutellatus
+NHMSYS0000875739,5,Crematogaster scutellaris
+NHMSYS0000875742,3,Crossocerus (Ablepharipus) congener
+NHMSYS0000875743,3,Crossocerus (Ablepharipus) podagricus
+NHMSYS0000875745,3,Crossocerus (Acanthocrabro) vagabundus
+NHMSYS0000875747,3,Crossocerus (Blepharipus) annulipes
+NHMSYS0000875748,3,Crossocerus (Blepharipus) capitosus
+NHMSYS0000875749,3,Crossocerus (Blepharipus) cetratus
+NHMSYS0000875750,3,Crossocerus (Blepharipus) leucostomus
+NHMSYS0000875751,3,Crossocerus (Blepharipus) megacephalus
+NHMSYS0000875752,3,Crossocerus (Blepharipus) nigritus
+NHMSYS0000875753,3,Crossocerus (Blepharipus) styrius
+NHMSYS0000875754,3,Crossocerus (Blepharipus) walkeri
+NHMSYS0000875756,3,Crossocerus (Crossocerus) distinguendus
+NHMSYS0000875757,3,Crossocerus (Crossocerus) elongatulus
+NHMSYS0000875760,3,Crossocerus (Crossocerus) exiguus
+NHMSYS0000875761,3,Crossocerus (Crossocerus) ovalis
+NHMSYS0000875762,3,Crossocerus (Crossocerus) palmipes
+NHMSYS0000875763,3,Crossocerus (Crossocerus) pusillus
+NHMSYS0000875764,3,Crossocerus (Crossocerus) tarsatus
+NHMSYS0000875767,3,Crossocerus (Crossocerus) wesmaeli
+NHMSYS0000875769,3,Crossocerus (Cuphopterus) binotatus
+NHMSYS0000875770,3,Crossocerus (Cuphopterus) dimidiatus
+NHMSYS0000875772,2,Crossocerus (Hoplocrabro) quadrimaculatus
+NHMSYS0000875814,3,Cryptocheilus (Adonta) notatus
+NHMSYS0000875818,1,Dasypoda hirtipes
+NBNSYS0100002844,3,Didineis lunicornis
+NHMSYS0000875825,5,Dinetus pictus
+NHMSYS0000875828,3,Diodontus insidiosus
+NHMSYS0000875829,3,Diodontus luperus
+NHMSYS0000875830,3,Diodontus minutus
+NHMSYS0000875831,3,Diodontus tristis
+NHMSYS0000875834,3,Dipogon (Deuteragenia) bifasciatus
+NHMSYS0000875835,3,Dipogon (Deuteragenia) subintermedius
+NHMSYS0000875836,3,Dipogon (Deuteragenia) variegatus
+NHMSYS0000875841,2,Dolichovespula (Dolichovespula) media
+NHMSYS0000875843,3,Dolichovespula (Pseudovespula) norwegica
+NHMSYS0000875844,3,Dolichovespula (Pseudovespula) saxonica
+NHMSYS0000875845,2,Dolichovespula (Pseudovespula) sylvestris
+NHMSYS0000875854,4,Dryinus collaris
+NHMSYS0000875856,4,Dryinus niger
+NBNSYS0100002902,3,Dryudella pinguis
+NHMSYS0000875860,5,Dufourea halictula
+NBNSYS0000009745,5,Dufourea minuta
+NHMSYS0000875864,3,Ectemnius (Clytochrysus) cavifrons
+NHMSYS0000875865,3,Ectemnius (Clytochrysus) lapidarius
+NHMSYS0000875866,3,Ectemnius (Clytochrysus) ruficornis
+NHMSYS0000875867,3,Ectemnius (Clytochrysus) sexcinctus
+NHMSYS0000875869,3,Ectemnius (Ectemnius) borealis
+NHMSYS0000875870,3,Ectemnius (Ectemnius) dives
+NHMSYS0000875872,3,Ectemnius (Hypocrabro) continuus
+NHMSYS0000875873,3,Ectemnius (Hypocrabro) rubicola
+NHMSYS0000875875,3,Ectemnius (Metacrabro) cephalotes
+NHMSYS0000875876,3,Ectemnius (Metacrabro) lituratus
+NHMSYS0000875899,3,Elampus panzeri
+NHMSYS0000875903,4,Embolemus ruddii
+NHMSYS0000875906,3,Entomognathus brevis
+NHMSYS0000875908,3,Epeolus cruciger
+NHMSYS0000875912,3,Epeolus variegatus
+NHMSYS0020936558,5,Episyron gallicum
+NHMSYS0000875915,2,Episyron rufipes
+NHMSYS0000875918,4,Epyris bilineatus
+NHMSYS0000875923,4,Epyris niger
+NHMSYS0000875928,3,Eucera (Eucera) longicornis
+NHMSYS0000875929,5,Eucera (Eucera) nigrescens
+NHMSYS0000875934,2,Eumenes coarctatus
+NBNSYS0100003105,5,Eumenes papillarius
+NHMSYS0000875938,3,Euodynerus (Pareuodynerus) quadrifasciatus
+NBNSYS0000009424,3,Evagetes crassicornis
+NHMSYS0000875943,3,Evagetes dubius
+NHMSYS0000875944,3,Evagetes pectinipes
+NHMSYS0000875949,4,Formica aquilonia
+NHMSYS0000875952,3,Formica cunicularia
+NHMSYS0000875953,3,Formica exsecta
+NHMSYS0000875954,3,Formica fusca
+NHMSYS0000875957,3,Formica lemani
+NHMSYS0000875958,3,Formica lugubris
+NHMSYS0000875960,3,Formica picea [Genus inferred]
+NHMSYS0000875961,5,Formica pratensis
+NHMSYS0000875963,3,Formica rufa
+NHMSYS0000875964,5,Formica rufibarbis
+NHMSYS0000875966,2,Formica sanguinea
+NHMSYS0000875971,3,Formicoxenus nitidulus
+NHMSYS0020526926,4,Gonatopus albosignatus
+NHMSYS0000875975,4,Gonatopus bicolor
+NHMSYS0000875976,4,Gonatopus clavipes
+NHMSYS0000875979,4,Gonatopus distinguendus
+NBNSYS0100003275,4,Gonatopus formicicolus
+NHMSYS0000875983,4,Gonatopus helleni
+NHMSYS0000875985,4,Gonatopus lunatus
+NHMSYS0000875987,4,Gonatopus pedestris
+NHMSYS0000875994,4,Gonatopus striatus
+NHMSYS0000875999,4,Goniozus claripennis
+NHMSYS0000876005,3,Gorytes laticinctus
+NHMSYS0000876006,3,Gorytes quadrifasciatus
+NBNSYS0000009446,3,Gymnomerus laevipes
+NHMSYS0000876010,4,Halictus (Halictus) eurygnathus
+NHMSYS0000876011,5,Halictus (Halictus) maculatus
+NHMSYS0000876013,3,Halictus (Halictus) rubicundus
+NHMSYS0000876016,4,Halictus (Seladonia) confusus
+NHMSYS0000876018,5,Halictus (Seladonia) subauratus
+NHMSYS0000876019,2,Halictus (Seladonia) tumulorum
+NHMSYS0000876036,4,Haplogonatopus oratorius
+NHMSYS0000876038,3,Harpactus tumidus
+NHMSYS0000876040,3,Hedychridium ardens
+NHMSYS0000876041,3,Hedychridium coriaceum
+NHMSYS0000876042,3,Hedychridium cupreum
+NHMSYS0000876044,2,Hedychridium roseum
+NHMSYS0000876047,4,Hedychrum niemelai
+NHMSYS0000876050,5,Hedychrum rutilans
+NHMSYS0020936564,5,Heriades rubicola
+NHMSYS0000876052,3,Heriades truncorum
+NHMSYS0000876054,4,Holepyris glabratus
+NHMSYS0000876056,4,Holepyris sylvanidis
+NHMSYS0000876062,3,Homonotus sanguinolentus
+NHMSYS0000876067,3,Hoplitis (Alcidamea) claviventris
+NHMSYS0000876068,5,Hoplitis (Alcidamea) leucomelana
+NHMSYS0000876070,3,Hoplitis (Anthocopa) spinulosa
+NHMSYS0000876079,2,Hylaeus (Abrupta) cornutus
+NHMSYS0000876081,2,Hylaeus (Hylaeus) communis
+NHMSYS0000876083,5,Hylaeus (Koptogaster) punctulatissimus
+NHMSYS0020977438,3,Hylaeus (Lamdopsis) annularis
+NHMSYS0020977418,3,Hylaeus (Lamdopsis) dilatatus
+NHMSYS0000876088,3,Hylaeus (Paraprosopis) pictipes
+NHMSYS0000876090,3,Hylaeus (Prosopis) brevicornis
+NHMSYS0000876091,3,Hylaeus (Prosopis) confusus
+NHMSYS0000876093,3,Hylaeus (Prosopis) pectoralis
+NHMSYS0000876094,3,Hylaeus (Prosopis) signatus
+NHMSYS0000876096,3,Hylaeus (Spatulariella) hyalinatus
+NHMSYS0020936570,3,Hylaeus incongruus
+NHMSYS0000876120,4,Hypoponera punctatissima
+NHMSYS0000876130,3,Lasioglossum (Dialictus) cupromicans
+NHMSYS0000876133,3,Lasioglossum (Dialictus) leucopus
+NHMSYS0000876134,3,Lasioglossum (Dialictus) morio
+NHMSYS0000876135,3,Lasioglossum (Dialictus) smeathmanellum
+NHMSYS0000876137,3,Lasioglossum (Evylaeus) albipes
+NHMSYS0000876138,4,Lasioglossum (Evylaeus) angusticeps
+NHMSYS0000876139,3,Lasioglossum (Evylaeus) brevicorne
+NHMSYS0000876140,3,Lasioglossum (Evylaeus) calceatum
+NHMSYS0000876141,3,Lasioglossum (Evylaeus) fratellum
+NHMSYS0000876142,3,Lasioglossum (Evylaeus) fulvicorne
+NHMSYS0000876143,5,Lasioglossum (Evylaeus) laeve
+NHMSYS0000876144,3,Lasioglossum (Evylaeus) laticeps
+NHMSYS0000876147,3,Lasioglossum (Evylaeus) malachurum
+NHMSYS0000876148,3,Lasioglossum (Evylaeus) minutissimum
+NHMSYS0000876149,3,Lasioglossum (Evylaeus) nitidiusculum
+NHMSYS0000876150,3,Lasioglossum (Evylaeus) parvulum
+NHMSYS0000876151,3,Lasioglossum (Evylaeus) pauperatum
+NHMSYS0000876152,3,Lasioglossum (Evylaeus) pauxillum
+NHMSYS0000876153,3,Lasioglossum (Evylaeus) punctatissimum
+NHMSYS0000876154,3,Lasioglossum (Evylaeus) puncticolle
+NHMSYS0000876155,3,Lasioglossum (Evylaeus) rufitarse
+NHMSYS0000876156,3,Lasioglossum (Evylaeus) semilucens
+NHMSYS0000876157,3,Lasioglossum (Evylaeus) villosulum
+NHMSYS0000876159,3,Lasioglossum (Lasioglossum) laevigatum
+NHMSYS0000876160,3,Lasioglossum (Lasioglossum) lativentre
+NHMSYS0000876161,3,Lasioglossum (Lasioglossum) leucozonium
+NHMSYS0000876162,3,Lasioglossum (Lasioglossum) prasinum
+NHMSYS0000876163,4,Lasioglossum (Lasioglossum) quadrinotatum
+NHMSYS0000876164,4,Lasioglossum (Lasioglossum) sexnotatum
+NHMSYS0000876165,3,Lasioglossum (Lasioglossum) xanthopus
+NHMSYS0000876166,3,Lasioglossum (Lasioglossum) zonulum
+NHMSYS0020936576,5,Lasioglossum sexstrigatum
+NHMSYS0000873235,4,Lasius alienus
+NHMSYS0000876221,3,Lasius brunneus
+NHMSYS0000876222,3,Lasius emarginatus
+NHMSYS0000876223,3,Lasius flavus
+NHMSYS0000876224,3,Lasius fuliginosus
+NHMSYS0000876225,4,Lasius meridionalis
+NHMSYS0000876227,3,Lasius mixtus
+NHMSYS0020936582,5,Lasius neglectus
+NHMSYS0000873237,4,Lasius niger
+NBNSYS0100003683,4,Lasius platythorax
+NBNSYS0100003684,4,Lasius psammophilus
+NBNSYS0100003685,5,Lasius sabularum
+NHMSYS0000876228,4,Lasius umbratus
+NHMSYS0000876230,3,Leptothorax acervorum
+NHMSYS0000876239,3,Lestiphorus bicinctus
+NHMSYS0000876241,3,Lindenius albilabris
+NHMSYS0000876242,3,Lindenius panzeri
+NHMSYS0000876243,5,Lindenius pygmaeus
+NBNSYS0100003766,4,Linepithema humile
+NHMSYS0020936594,4,Linepithema iniquinum
+NHMSYS0000876271,4,Lonchodryinus ruficornis
+NHMSYS0000876276,1,Macropis europaea
+NHMSYS0000876280,3,Megachile (Delomegachile) willughbiella
+NHMSYS0020977393,2,Megachile (Eutricharaea) leachella
+NHMSYS0000876286,3,Megachile (Megachile) centuncularis
+NHMSYS0000876287,5,Megachile (Megachile) lapponica
+NHMSYS0000876288,3,Megachile (Megachile) ligniseca
+NHMSYS0000876289,3,Megachile (Megachile) versicolor
+NHMSYS0000876292,3,Megachile (Xanthosarus) circumcincta
+NHMSYS0000876293,3,Megachile (Xanthosarus) maritima
+NHMSYS0000876305,3,Melecta albifrons
+NHMSYS0000876307,5,Melecta luctuosa
+NHMSYS0000876311,3,Melitta dimidiata
+NHMSYS0000876312,3,Melitta haemorrhoidalis
+NHMSYS0000876313,3,Melitta leporina
+NHMSYS0000876315,3,Melitta tricincta
+NHMSYS0000876318,1,Mellinus arvensis
+NHMSYS0000876319,5,Mellinus crabroneus
+NHMSYS0000876326,3,Methocha articulata
+NHMSYS0000876330,2,Microdynerus exilis
+NHMSYS0000876333,5,Mimesa bicolor
+NHMSYS0000876334,3,Mimesa bruxellensis
+NBNSYS0100004083,3,Mimesa equestris
+NHMSYS0000876336,3,Mimesa lutaria
+NHMSYS0000876339,3,Mimumesa atratina
+NBNSYS0100004089,3,Mimumesa dahlbomi
+NHMSYS0000876342,3,Mimumesa littoralis
+NBNSYS0100004091,3,Mimumesa spooneri
+NHMSYS0000876343,3,Mimumesa unicolor
+NHMSYS0000876345,3,Miscophus ater
+NHMSYS0000876346,3,Miscophus bicolor
+NBNSYS0000009479,3,Miscophus concolor
+NBNSYS0100004108,4,Monomorium floricola
+NHMSYS0000876350,4,Monomorium pharaonis
+NHMSYS0000876352,3,Monosapyga clavicornis
+NHMSYS0000876354,1,Mutilla europaea
+NHMSYS0000876357,3,Myrmecina graminicola
+NHMSYS0000876362,4,Myrmica hirsuta
+NHMSYS0000876363,4,Myrmica karavajevi
+NHMSYS0000876365,4,Myrmica lobicornis
+NHMSYS0020545625,5,Myrmica lonae
+NBNSYS0000009343,3,Myrmica rubra
+NHMSYS0000876371,3,Myrmica ruginodis
+NHMSYS0000876373,4,Myrmica sabuleti
+NHMSYS0000876374,4,Myrmica scabrinodis
+NHMSYS0000876375,4,Myrmica schencki
+NHMSYS0000876376,4,Myrmica specioides
+NHMSYS0000876377,3,Myrmica sulcinodis
+NHMSYS0000876379,5,Myrmica vandeli
+NHMSYS0000876382,3,Myrmosa atra
+NHMSYS0000876388,5,Mystrophorus formicaeformis
+NHMSYS0000876393,3,Nitela borealis
+NHMSYS0000876394,3,Nitela lucens
+NHMSYS0000876400,3,Nomada argentata
+NHMSYS0000876401,3,Nomada armata
+NHMSYS0000876403,3,Nomada baccata
+NHMSYS0000876410,3,Nomada conjungens
+NHMSYS0000876414,5,Nomada errans
+NHMSYS0000876415,2,Nomada fabriciana
+NHMSYS0000876418,3,Nomada ferruginata
+NHMSYS0000876419,3,Nomada flava
+NHMSYS0000876420,3,Nomada flavoguttata
+NHMSYS0000876421,3,Nomada flavopicta
+NHMSYS0000876422,1,Nomada fucata
+NHMSYS0000876423,3,Nomada fulvicornis
+NHMSYS0000876427,3,Nomada goodeniana
+NHMSYS0000876428,4,Nomada guttulata
+NHMSYS0000876430,3,Nomada hirtipes
+NHMSYS0000876432,3,Nomada integra
+NHMSYS0000876435,3,Nomada lathburiana
+NHMSYS0000876436,3,Nomada leucophthalma
+NHMSYS0000876438,3,Nomada marshamella
+NHMSYS0000876440,3,Nomada obtusifrons
+NHMSYS0000876442,3,Nomada panzeri
+NBNSYS0100004273,3,Nomada roberjeotiana
+NHMSYS0000876447,3,Nomada ruficornis
+NHMSYS0000876448,2,Nomada rufipes
+NHMSYS0000876454,4,Nomada sexfasciata
+NHMSYS0000876455,3,Nomada sheppardana
+NHMSYS0000876456,3,Nomada signata
+NHMSYS0000876460,3,Nomada striata
+NHMSYS0000876469,3,Nysson dimidiatus
+NHMSYS0000876470,5,Nysson interruptus
+NHMSYS0000876471,3,Nysson spinosus
+NHMSYS0000876472,3,Nysson trimaculatus
+NHMSYS0000876476,3,Odynerus (Odynerus) melanocephalus
+NHMSYS0000876477,3,Odynerus (Odynerus) spinipes
+NHMSYS0000876479,5,Odynerus (Spinicoxa) reniformis
+NHMSYS0000876480,3,Odynerus (Spinicoxa) simillimus
+NHMSYS0000876486,4,Omalus aeneus
+NHMSYS0000876487,4,Omalus puncticollis
+NHMSYS0000876490,3,Osmia (Chalcosmia) caerulescens
+NHMSYS0000876491,3,Osmia (Chalcosmia) leaiana
+NHMSYS0000876494,2,Osmia (Helicosmia) aurulenta
+NHMSYS0000876496,3,Osmia (Melanosmia) inermis
+NHMSYS0000876497,3,Osmia (Melanosmia) parietina
+NHMSYS0000876498,3,Osmia (Melanosmia) pilicornis
+NHMSYS0000876499,3,Osmia (Melanosmia) uncinata
+NHMSYS0000876500,3,Osmia (Melanosmia) xanthomelana
+NHMSYS0000876502,2,Osmia (Neosmia) bicolor
+NHMSYS0000876504,1,Osmia (Osmia) rufa
+NHMSYS0000876522,3,Oxybelus argentatus
+NHMSYS0000876523,3,Oxybelus mandibularis
+NHMSYS0000876526,3,Oxybelus uniglumis
+NHMSYS0000876528,3,Panurgus banksianus
+NHMSYS0000876529,3,Panurgus calcaratus
+NHMSYS0000876533,4,Paratrechina longicornis
+NHMSYS0000876535,3,Passaloecus clypealis
+NHMSYS0000876536,3,Passaloecus corniger
+NHMSYS0000876537,3,Passaloecus eremita
+NHMSYS0000876539,3,Passaloecus gracilis
+NHMSYS0000876541,3,Passaloecus insignis
+NHMSYS0000876542,3,Passaloecus monilicornis
+NHMSYS0000876544,3,Passaloecus singularis
+NBNSYS0100004491,5,Passaloecus turionum
+NHMSYS0000876551,3,Pemphredon (Cemonus) inornata
+NHMSYS0000876552,3,Pemphredon (Cemonus) lethifera
+NHMSYS0000876553,3,Pemphredon (Cemonus) rugifera
+NHMSYS0000876555,3,Pemphredon (Ceratophorus) morio
+NHMSYS0000876557,3,Pemphredon (Pemphredon) lugubris
+NHMSYS0000876573,3,Pheidole megacephala
+NHMSYS0000876577,1,Philanthus triangulum
+NBNSYS0100004564,5,Philoctetes truncatus
+NHMSYS0000876582,4,Plastanoxus chittendeni
+NHMSYS0000876584,4,Plastanoxus munroi
+NHMSYS0000876585,4,Plastanoxus westwoodi
+NHMSYS0000876591,3,Podalonia affinis
+NHMSYS0000876592,3,Podalonia hirsuta
+NHMSYS0000876596,3,Polistes dominulus
+NBNSYS0000009413,3,Pompilus cinereus
+NHMSYS0000876602,4,Ponera coarctata
+NHMSYS0020936606,5,Ponera testacea
+NHMSYS0000876608,4,Priocnemis (Priocnemis) agilis
+NHMSYS0000876609,3,Priocnemis (Priocnemis) cordivalvata
+NHMSYS0000876610,3,Priocnemis (Priocnemis) exaltata
+NHMSYS0000876611,3,Priocnemis (Priocnemis) fennica
+NHMSYS0000876613,3,Priocnemis (Priocnemis) hyalinata
+NHMSYS0000876614,3,Priocnemis (Priocnemis) parvula
+NHMSYS0000876615,3,Priocnemis (Priocnemis) propinqua
+NHMSYS0000876616,4,Priocnemis (Priocnemis) pusilla
+NHMSYS0000876617,3,Priocnemis (Priocnemis) schioedtei
+NHMSYS0000876619,3,Priocnemis (Umbripennis) coriacea
+NHMSYS0000876620,3,Priocnemis (Umbripennis) perturbator
+NHMSYS0000876621,3,Priocnemis (Umbripennis) susterai
+NHMSYS0020936612,3,Priocnemis confusor
+NHMSYS0000876626,4,Pristocera depressa
+NHMSYS0000876630,5,Psen (Psen) ater
+NHMSYS0000876634,3,Psenulus concolor
+NBNSYS0000009538,3,Psenulus pallipes
+NHMSYS0000876635,4,Psenulus schencki
+NHMSYS0000876638,2,Pseudepipona herrichii
+NHMSYS0000876641,4,Pseudisobrachium subcyaneum
+NBNSYS0100004922,3,Pseudomalus auratus
+NBNSYS0100004923,3,Pseudomalus violaceus
+NBNSYS0100004936,3,Pseudospinolia neglecta
+NHMSYS0000876651,3,Rhopalum (Corynopus) coarctatum
+NHMSYS0000876652,3,Rhopalum (Corynopus) gracile
+NHMSYS0000876654,2,Rhopalum (Rhopalum) clavipes
+NHMSYS0000876662,5,Rophites quinquespinosus
+NHMSYS0000876664,1,Sapyga quinquepunctata
+NBNSYS0100005540,3,Smicromyrme rufipes
+NHMSYS0000876673,3,Solenopsis fugax
+NBNSYS0000009728,4,Sphecodes crassus
+NHMSYS0000876679,3,Sphecodes ephippius
+NHMSYS0000876681,4,Sphecodes ferruginatus
+NBNSYS0100005568,3,Sphecodes geoffrellus
+NHMSYS0000876682,3,Sphecodes gibbus
+NHMSYS0000876683,3,Sphecodes hyalinatus
+NHMSYS0000876684,3,Sphecodes longulus
+NBNSYS0000009736,4,Sphecodes miniatus
+NHMSYS0000876686,3,Sphecodes monilicornis
+NHMSYS0000876687,3,Sphecodes niger
+NHMSYS0000876688,3,Sphecodes pellucidus
+NHMSYS0000876691,3,Sphecodes puncticeps
+NHMSYS0000876692,3,Sphecodes reticulatus
+NBNSYS0000009742,3,Sphecodes rubicundus
+NHMSYS0000876694,3,Sphecodes scabricollis
+NHMSYS0000876697,3,Sphecodes spinulosus
+NHMSYS0000876702,4,Spilomena beata
+NBNSYS0100005571,4,Spilomena curruca
+NHMSYS0000876704,4,Spilomena enslini
+NHMSYS0000876705,4,Spilomena troglodytes
+NHMSYS0000876709,3,Stelis breviuscula
+NHMSYS0000876711,3,Stelis ornatula
+NHMSYS0000876712,3,Stelis phaeoptera
+NHMSYS0000876713,3,Stelis punctulatissima
+NBNSYS0100005585,4,Stenamma debile
+NHMSYS0000873267,4,Stenamma westwoodii
+NHMSYS0000876716,3,Stigmus pendulus
+NHMSYS0000876717,3,Stigmus solskyi
+NHMSYS0000876720,4,Strongylognathus testaceus
+NBNSYS0100005641,3,Symmorphus bifasciatus
+NHMSYS0000876723,4,Symmorphus connexus
+NHMSYS0000876724,3,Symmorphus crassicornis
+NHMSYS0000876725,3,Symmorphus gracilis
+NHMSYS0000876732,5,Tachysphex nitidus
+NHMSYS0000876735,3,Tachysphex pompiliformis
+NHMSYS0000873269,5,Tachysphex unicolor
+NHMSYS0000876738,5,Tapinoma erraticum
+NHMSYS0000876739,4,Tapinoma melanocephalum
+NHMSYS0020977379,5,Tapinoma subboreale
+NHMSYS0000876741,4,Temnothorax albipennis
+NHMSYS0000876742,4,Temnothorax interruptus
+NHMSYS0000876743,3,Temnothorax nylanderi
+NHMSYS0000876750,4,Tetramorium bicarinatum
+NHMSYS0000876751,3,Tetramorium caespitum
+NHMSYS0020936630,4,Tetramorium caldarium
+NHMSYS0000876754,4,Tetramorium simillimum
+NHMSYS0000876757,3,Tiphia femorata
+NHMSYS0000876758,3,Tiphia minuta
+NHMSYS0000876762,2,Trichrysis cyanea
+NHMSYS0000876764,3,Trypoxylon attenuatum
+NHMSYS0000876765,3,Trypoxylon clavicerum
+NHMSYS0000873271,4,Trypoxylon figulus
+NHMSYS0000876766,4,Trypoxylon medium
+NHMSYS0000876767,4,Trypoxylon minus
+NHMSYS0000876769,1,Vespa crabro
+NHMSYS0000876775,2,Vespula (Paravespula) germanica
+NHMSYS0000876776,2,Vespula (Paravespula) vulgaris
+NHMSYS0000876778,3,Vespula (Vespula) austriaca
+NHMSYS0000876779,2,Vespula (Vespula) rufa
+NHMSYS0000876787,3,Xylocopa (Xylocopa) violacea
