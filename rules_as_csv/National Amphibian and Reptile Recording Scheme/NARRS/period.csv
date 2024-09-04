@@ -1,0 +1,4 @@
+tvk,start_day,start_month,start_year,end_day,end_month,end_year,taxon,rtvk,organism_key
+NHMSYS0000080161,1,1,1898,,,,Alytes obstetricans,NHMSYS0000080161,NBNORG0000049687
+NHMSYS0000332360,1,1,1859,,,,Coronella austriaca,NHMSYS0000332360,NBNORG0000051253
+NHMSYS0000080230,1,1,1970,,,,Zamenis longissimus,NHMSYS0021109885,NBNORG0000116032
