@@ -1,0 +1,6 @@
+tvk,start_day,start_month,end_day,end_month,stage,organism_key,allow_org_key,rtvk,taxon
+MM0001Z1ZT0011Z1,1,4,30,6,mature,NBNORG0000006883,allow,MM0001Z1ZT0011Z1,Nothogeophilus turki
+NBNSYS0000011357,1,9,30,6,mature,NBNORG0000011649,allow,NBNSYS0000011357,Brachychaeteuma bagnalli
+NBNSYS0000011358,1,9,30,6,mature,NBNORG0000011650,allow,NBNSYS0000011358,Brachychaeteuma bradeae
+NBNSYS0000039488,1,3,31,5,mature,NBNORG0000024698,allow,NBNSYS0000039488,Metaiulus pratensis
+NHMSYS0000570579,1,1,30,11,mature,NBNORG0000064621,allow,NHMSYS0000570579,Lamyctes emarginatus
