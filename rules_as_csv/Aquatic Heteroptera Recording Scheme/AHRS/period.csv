@@ -1,0 +1,6 @@
+tvk,start_day,start_month,start_year,end_day,end_month,end_year,organism_key,allow_org_key,rtvk,taxon
+NHMSYS0000583218,1,1,2004,,,,NBNORG0000064634,allow,NHMSYS0000583218,Naucoris maculatus
+NHMSYS0020063202,1,1,2005,,,,NBNORG0000091388,allow,NHMSYS0020063202,Cymatia rogenhoferi
+NHMSYS0020309456,1,1,2000,,,,NBNORG0000095299,allow,NHMSYS0020309456,Micronecta (Micronecta) griseola
+NHMSYS0020309836,1,1,2005,,,,NBNORG0000095677,allow,NHMSYS0020309836,Sigara (Subsigara) iactans
+NHMSYS0020309837,1,1,2006,,,,NBNORG0000095678,allow,NHMSYS0020309837,Sigara (Subsigara) longipalis
