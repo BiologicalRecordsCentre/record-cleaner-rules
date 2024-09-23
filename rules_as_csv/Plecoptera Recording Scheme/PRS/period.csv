@@ -1,0 +1,4 @@
+tvk,start_day,start_month,start_year,end_day,end_month,end_year,organism_key,allow_org_key,rtvk,taxon
+NBNSYS0000022438,,,,31,12,1995,NBNORG0000017112,allow,NBNSYS0000022438,Isogenus nubecula
+NBNSYS0000022440,1,1,1913,31,12,1913,NBNORG0000017114,allow,NBNSYS0000022440,Isoperla obscura
+NBNSYS0000159130,,,,31,12,1900,NBNORG0000027128,allow,NBNSYS0000159130,Xanthoperla apicalis
