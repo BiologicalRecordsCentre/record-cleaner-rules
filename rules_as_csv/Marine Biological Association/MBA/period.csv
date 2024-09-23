@@ -1,0 +1,4 @@
+tvk,start_day,start_month,start_year,end_day,end_month,end_year,organism_key,allow_org_key,rtvk,taxon
+NBNSYS0000179885,1,1,1957,31,1,1957,NBNORG0000033443,allow,NBNSYS0000179885,Brachynotus sexdentatus
+NBNSYS0000180030,30,9,1979,31,1,1982,NBNORG0000033559,allow,NBNSYS0000180030,Callinectes sapidus
+NHMSYS0001593547,1,1,1935,,,,NBNORG0000085695,allow,NHMSYS0001593547,Eriocheir sinensis
