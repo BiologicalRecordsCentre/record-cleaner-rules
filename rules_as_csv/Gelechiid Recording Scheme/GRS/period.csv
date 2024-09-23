@@ -1,0 +1,6 @@
+tvk,start_day,start_month,start_year,end_day,end_month,end_year,organism_key,allow_org_key,rtvk,taxon
+NBNSYS0100003245,28,8,1971,31,8,1978,NBNORG0000042048,allow,NBNSYS0100003245,Gelechia sabinellus
+NHMSYS0000501234,1,1,1957,,,,NBNORG0000057443,allow,NHMSYS0000501234,Anarsia lineatella
+NHMSYS0000502712,6,8,1988,,,,NBNORG0000058250,,NHMSYS0000502712,Gelechia senticetella
+NHMSYS0000503226,1,1,1981,,,,NBNORG0000058487,allow,NHMSYS0000503226,Metzneria neuropterella
+NHMSYS0000504141,1,1,1965,,,,NBNORG0000058955,allow,NHMSYS0000504141,Scrobipalpa clintoni
