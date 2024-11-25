@@ -11,7 +11,7 @@ name: download files
 on:
   push
 
-
+jobs:
    import-data:
     runs-on: ubuntu-latest
     steps:
