@@ -2,7 +2,6 @@ library(tidyverse)
 library(gert)
 library(gitcreds)
 # gitcreds_set()
-file_location <- "C:/Users/robhut/OneDrive - UKCEH/record-cleaner-rules/rules"
 
 index <- read.delim("https://data.nbn.org.uk/recordcleaner/rules/servers.txt", header = FALSE) %>%
   mutate(V1 = gsub("#.+$", "", V1),
