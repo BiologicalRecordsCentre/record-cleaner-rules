@@ -1,0 +1,96 @@
+organism_key,taxon,error_location,file,notes
+NBNORG0000072221,Bombus (Bombus) terrestris,"Bees, Wasps and Ants Recording Scheme/BWARS",id_difficulty.csv,Bombus terrestris and Bombus (Bombus) terrestris are both preferred_names linked to this organism key. Bt picked (https://uksi-sandbox.nhm.ac.uk/taxonbrowser.php?txtSearch=bombus+terrestris)
+NBNORG0000072221,Bombus terrestris,"Bees, Wasps and Ants Recording Scheme/BWARS",id_difficulty.csv,Bombus terrestris and Bombus (Bombus) terrestris are both preferred_names linked to this organism key. Bt picked (https://uksi-sandbox.nhm.ac.uk/taxonbrowser.php?txtSearch=bombus+terrestris)
+NBNORG0000007460,Ficaria verna,Botanical Society of Britain and Ireland/BSBI,id_difficulty.csv,Ranunculus ficaria and Ficaria verna both attached as preferred names to this org key. Ficaria verna used to coincide with https://uksi-sandbox.nhm.ac.uk/taxonbrowser.php?txtSearch=ranunculus+ficaria
+NBNORG0000055006,Lamiastrum galeobdolon,Botanical Society of Britain and Ireland/BSBI,id_difficulty.csv,As above - UKSI uses Lamiastrum
+NBNORG0000055006,Lamium galeobdolon,Botanical Society of Britain and Ireland/BSBI,id_difficulty.csv,As above - UKSI uses Lamiastrum
+NBNORG0000090199,Primula veris x vulgaris = P. x polyantha,Botanical Society of Britain and Ireland/BSBI,id_difficulty.csv,"Primula vulgaris x veris = P. x polyantha is not in the UKSI, Primula veris x vulgaris = P. x polyantha used"
+NBNORG0000090199,Primula vulgaris x veris = P. x polyantha,Botanical Society of Britain and Ireland/BSBI,id_difficulty.csv,"Primula vulgaris x veris = P. x polyantha is not in the UKSI, Primula veris x vulgaris = P. x polyantha used"
+NBNORG0000007460,Ranunculus ficaria,Botanical Society of Britain and Ireland/BSBI,id_difficulty.csv,Ranunculus ficaria and Ficaria verna both attached as preferred names to this org key. Ficaria verna used to coincide with https://uksi-sandbox.nhm.ac.uk/taxonbrowser.php?txtSearch=ranunculus+ficaria
+NBNORG0000123293,Acarospora privigna,British Lichen Society/BLS,id_difficulty.csv,None of the organism keys are allowed for data entry with Polysporina. NBNORG0000123293 is allowed with the name Acarospora privigna
+NBNORG0000123293,Acarospora privigna,British Lichen Society/BLS,tenkm.csv,None of the organism keys are allowed for data entry with Polysporina. NBNORG0000123293 is allowed with the name Acarospora privigna
+NBNORG0000013984,Arthopyrenia cinereopruinosa,British Lichen Society/BLS,id_difficulty.csv,Correct answer unclear: https://uksi-sandbox.nhm.ac.uk/taxonbrowser.php?selSearchType=b&txtSearch=Arthopyrenia+cinereopruinosa
+NBNORG0000117685,Arthopyrenia cinereopruinosa,British Lichen Society/BLS,id_difficulty.csv,Correct answer unclear: https://uksi-sandbox.nhm.ac.uk/taxonbrowser.php?selSearchType=b&txtSearch=Arthopyrenia+cinereopruinosa
+NBNORG0000123271,Arthopyrenia cinereopruinosa,British Lichen Society/BLS,id_difficulty.csv,Correct answer unclear: https://uksi-sandbox.nhm.ac.uk/taxonbrowser.php?selSearchType=b&txtSearch=Arthopyrenia+cinereopruinosa
+NBNORG0000013984,Arthopyrenia cinereopruinosa,British Lichen Society/BLS,tenkm.csv,Correct answer unclear: https://uksi-sandbox.nhm.ac.uk/taxonbrowser.php?selSearchType=b&txtSearch=Arthopyrenia+cinereopruinosa
+NBNORG0000117685,Arthopyrenia cinereopruinosa,British Lichen Society/BLS,tenkm.csv,Correct answer unclear: https://uksi-sandbox.nhm.ac.uk/taxonbrowser.php?selSearchType=b&txtSearch=Arthopyrenia+cinereopruinosa
+NBNORG0000123271,Arthopyrenia cinereopruinosa,British Lichen Society/BLS,tenkm.csv,Correct answer unclear: https://uksi-sandbox.nhm.ac.uk/taxonbrowser.php?selSearchType=b&txtSearch=Arthopyrenia+cinereopruinosa
+NBNORG0000015231,Aspicilia contorta subsp. contorta,British Lichen Society/BLS,id_difficulty.csv,NBNORG0000076633: Circinaria contorta
+NBNORG0000076633,Aspicilia contorta subsp. contorta,British Lichen Society/BLS,id_difficulty.csv,NBNORG0000076633: Circinaria contorta
+NBNORG0000015231,Aspicilia contorta subsp. contorta,British Lichen Society/BLS,tenkm.csv,NBNORG0000076633: Circinaria contorta
+NBNORG0000076633,Aspicilia contorta subsp. contorta,British Lichen Society/BLS,tenkm.csv,NBNORG0000076633: Circinaria contorta
+NBNORG0000076634,Aspicilia contorta subsp. hoffmanniana,British Lichen Society/BLS,id_difficulty.csv,NBNORG0000108501 : Circinaria hoffmanniana
+NBNORG0000108501,Aspicilia contorta subsp. hoffmanniana,British Lichen Society/BLS,id_difficulty.csv,NBNORG0000108501 : Circinaria hoffmanniana
+NBNORG0000076634,Aspicilia contorta subsp. hoffmanniana,British Lichen Society/BLS,tenkm.csv,NBNORG0000108501 : Circinaria hoffmanniana
+NBNORG0000108501,Aspicilia contorta subsp. hoffmanniana,British Lichen Society/BLS,tenkm.csv,NBNORG0000108501 : Circinaria hoffmanniana
+NBNORG0000024888,Aspicilia leprosescens,British Lichen Society/BLS,id_difficulty.csv,NBNORG0000076636: Circinaria leprosescens
+NBNORG0000076636,Aspicilia leprosescens,British Lichen Society/BLS,id_difficulty.csv,NBNORG0000076636: Circinaria leprosescens
+NBNORG0000024888,Aspicilia leprosescens,British Lichen Society/BLS,tenkm.csv,NBNORG0000076636: Circinaria leprosescens
+NBNORG0000076636,Aspicilia leprosescens,British Lichen Society/BLS,tenkm.csv,NBNORG0000076636: Circinaria leprosescens
+NBNORG0000078390,Dactylospora parasitica,British Lichen Society/BLS,id_difficulty.csv,NBNORG0000123280 : Sclerococcum parasiticum 
+NBNORG0000119242,Dactylospora parasitica,British Lichen Society/BLS,id_difficulty.csv,NBNORG0000123280 : Sclerococcum parasiticum 
+NBNORG0000123280,Dactylospora parasitica,British Lichen Society/BLS,id_difficulty.csv,NBNORG0000123280 : Sclerococcum parasiticum 
+NBNORG0000078390,Dactylospora parasitica,British Lichen Society/BLS,tenkm.csv,NBNORG0000123280 : Sclerococcum parasiticum 
+NBNORG0000119242,Dactylospora parasitica,British Lichen Society/BLS,tenkm.csv,NBNORG0000123280 : Sclerococcum parasiticum 
+NBNORG0000123280,Dactylospora parasitica,British Lichen Society/BLS,tenkm.csv,NBNORG0000123280 : Sclerococcum parasiticum 
+NBNORG0000015768,Gyrographa gyrocarpa,British Lichen Society/BLS,id_difficulty.csv,Gyrographa gyrocarpa is allowed (there is a second version of Gyrographa gyrocarpa which is not allowed for data entry)
+NBNORG0000015768,Gyrographa gyrocarpa,British Lichen Society/BLS,tenkm.csv,Gyrographa gyrocarpa is allowed (there is a second version of Gyrographa gyrocarpa which is not allowed for data entry)
+NBNORG0000080933,Lichenomphalia umbellifera,British Lichen Society/BLS,id_difficulty.csv,NBNORG0000118029: Lichenomphalia ericetorum
+NBNORG0000118029,Lichenomphalia umbellifera,British Lichen Society/BLS,id_difficulty.csv,NBNORG0000118029: Lichenomphalia ericetorum
+NBNORG0000118109,Lichenomphalia umbellifera,British Lichen Society/BLS,id_difficulty.csv,NBNORG0000118029: Lichenomphalia ericetorum
+NBNORG0000080933,Lichenomphalia umbellifera,British Lichen Society/BLS,tenkm.csv,NBNORG0000118029: Lichenomphalia ericetorum
+NBNORG0000058555,Nemapogon koenigi,Butterfly Conservation/NMRS,id_difficulty.csv,Both names are available and allowed for data entry linked to this organism key. Koenigi is preferred in the uksi https://uksi-sandbox.nhm.ac.uk/taxonbrowser.php?txtSearch=Nemapogon+wolffiella
+NBNORG0000058555,Nemapogon wolffiella,Butterfly Conservation/NMRS,id_difficulty.csv,Both names are available and allowed for data entry linked to this organism key. Koenigi is preferred in the uksi https://uksi-sandbox.nhm.ac.uk/taxonbrowser.php?txtSearch=Nemapogon+wolffiella
+NBNORG0000009738,Eupeodes lapponicus,Hoverfly Recording Scheme/HRS,id_difficulty.csv,149167561 listed as the organism key in Indicia? Lapposyrphus lapponicus is preferred_name in UKSI with NBNORG0000041956 as organism_key
+NBNORG0000041956,Eupeodes lapponicus,Hoverfly Recording Scheme/HRS,id_difficulty.csv,149167561 listed as the organism key in Indicia? Lapposyrphus lapponicus is preferred_name in UKSI with NBNORG0000041956 as organism_key
+NBNORG0000042255,Eupeodes lapponicus,Hoverfly Recording Scheme/HRS,id_difficulty.csv,149167561 listed as the organism key in Indicia? Lapposyrphus lapponicus is preferred_name in UKSI with NBNORG0000041956 as organism_key
+NBNORG0000058555,Nemapogon koenigi,Butterfly Conservation/NMRS,period.csv,Both names are available and allowed for data entry linked to this organism key. Koenigi is preferred in the uksi https://uksi-sandbox.nhm.ac.uk/taxonbrowser.php?txtSearch=Nemapogon+wolffiella
+NBNORG0000058555,Nemapogon wolffiella,Butterfly Conservation/NMRS,period.csv,Both names are available and allowed for data entry linked to this organism key. Koenigi is preferred in the uksi https://uksi-sandbox.nhm.ac.uk/taxonbrowser.php?txtSearch=Nemapogon+wolffiella
+NBNORG0000058555,Nemapogon koenigi,Butterfly Conservation/NMRS,periodwithinyear.csv,Both names are available and allowed for data entry linked to this organism key. Koenigi is preferred in the uksi https://uksi-sandbox.nhm.ac.uk/taxonbrowser.php?txtSearch=Nemapogon+wolffiella
+NBNORG0000058555,Nemapogon wolffiella,Butterfly Conservation/NMRS,periodwithinyear.csv,Both names are available and allowed for data entry linked to this organism key. Koenigi is preferred in the uksi https://uksi-sandbox.nhm.ac.uk/taxonbrowser.php?txtSearch=Nemapogon+wolffiella
+NBNORG0000009738,Eupeodes lapponicus,Hoverfly Recording Scheme/HRS,periodwithinyear.csv,149167561 listed as the organism key in Indicia? Lapposyrphus lapponicus is preferred_name in UKSI with NBNORG0000041956 as organism_key
+NBNORG0000041956,Eupeodes lapponicus,Hoverfly Recording Scheme/HRS,periodwithinyear.csv,149167561 listed as the organism key in Indicia? Lapposyrphus lapponicus is preferred_name in UKSI with NBNORG0000041956 as organism_key
+NBNORG0000042255,Eupeodes lapponicus,Hoverfly Recording Scheme/HRS,periodwithinyear.csv,149167561 listed as the organism key in Indicia? Lapposyrphus lapponicus is preferred_name in UKSI with NBNORG0000041956 as organism_key
+NBNORG0000072221,Bombus (Bombus) terrestris,"Bees, Wasps and Ants Recording Scheme/BWARS",tenkm.csv,Bombus terrestris and Bombus (Bombus) terrestris are both preferred_names linked to this organism key. Bt picked (https://uksi-sandbox.nhm.ac.uk/taxonbrowser.php?txtSearch=bombus+terrestris)
+NBNORG0000072221,Bombus terrestris,"Bees, Wasps and Ants Recording Scheme/BWARS",tenkm.csv,Bombus terrestris and Bombus (Bombus) terrestris are both preferred_names linked to this organism key. Bt picked (https://uksi-sandbox.nhm.ac.uk/taxonbrowser.php?txtSearch=bombus+terrestris)
+NBNORG0000007460,Ficaria verna,Botanical Society of Britain and Ireland/BSBI,tenkm.csv,Ranunculus ficaria and Ficaria verna both attached as preferred names to this org key. Ficaria verna used to coincide with https://uksi-sandbox.nhm.ac.uk/taxonbrowser.php?txtSearch=ranunculus+ficaria
+NBNORG0000055006,Lamiastrum galeobdolon,Botanical Society of Britain and Ireland/BSBI,tenkm.csv,As above - UKSI uses Lamiastrum
+NBNORG0000055006,Lamium galeobdolon,Botanical Society of Britain and Ireland/BSBI,tenkm.csv,As above - UKSI uses Lamiastrum
+NBNORG0000090199,Primula veris x vulgaris = P. x polyantha,Botanical Society of Britain and Ireland/BSBI,tenkm.csv,"Primula vulgaris x veris = P. x polyantha is not in the UKSI, Primula veris x vulgaris = P. x polyantha used"
+NBNORG0000090199,Primula vulgaris x veris = P. x polyantha,Botanical Society of Britain and Ireland/BSBI,tenkm.csv,"Primula vulgaris x veris = P. x polyantha is not in the UKSI, Primula veris x vulgaris = P. x polyantha used"
+NBNORG0000007460,Ranunculus ficaria,Botanical Society of Britain and Ireland/BSBI,tenkm.csv,Ranunculus ficaria and Ficaria verna both attached as preferred names to this org key. Ficaria verna used to coincide with https://uksi-sandbox.nhm.ac.uk/taxonbrowser.php?txtSearch=ranunculus+ficaria
+NBNORG0000118029,Lichenomphalia umbellifera,British Lichen Society/BLS,tenkm.csv,NBNORG0000118029: Lichenomphalia ericetorum
+NBNORG0000118109,Lichenomphalia umbellifera,British Lichen Society/BLS,tenkm.csv,NBNORG0000118029: Lichenomphalia ericetorum
+NBNORG0000015768,Opegrapha gyrocarpa,British Lichen Society/BLS,id_difficulty.csv,Gyrographa gyrocarpa is allowed (there is a second version of Gyrographa gyrocarpa which is not allowed for data entry)
+NBNORG0000015768,Opegrapha gyrocarpa,British Lichen Society/BLS,tenkm.csv,Gyrographa gyrocarpa is allowed (there is a second version of Gyrographa gyrocarpa which is not allowed for data entry)
+NBNORG0000082980,Polysporina simplex,British Lichen Society/BLS,id_difficulty.csv,None of the organism keys are allowed for data entry with Polysporina. NBNORG0000123293 is allowed with the name Acarospora privigna
+NBNORG0000121250,Polysporina simplex,British Lichen Society/BLS,id_difficulty.csv,None of the organism keys are allowed for data entry with Polysporina. NBNORG0000123293 is allowed with the name Acarospora privigna
+NBNORG0000123293,Polysporina simplex,British Lichen Society/BLS,id_difficulty.csv,None of the organism keys are allowed for data entry with Polysporina. NBNORG0000123293 is allowed with the name Acarospora privigna
+NBNORG0000082980,Polysporina simplex,British Lichen Society/BLS,tenkm.csv,None of the organism keys are allowed for data entry with Polysporina. NBNORG0000123293 is allowed with the name Acarospora privigna
+NBNORG0000121250,Polysporina simplex,British Lichen Society/BLS,tenkm.csv,None of the organism keys are allowed for data entry with Polysporina. NBNORG0000123293 is allowed with the name Acarospora privigna
+NBNORG0000123293,Polysporina simplex,British Lichen Society/BLS,tenkm.csv,None of the organism keys are allowed for data entry with Polysporina. NBNORG0000123293 is allowed with the name Acarospora privigna
+NBNORG0000016575,Sarcopyrenia gibba var. geisleri,British Lichen Society/BLS,id_difficulty.csv,None of the organism keys are allowed for data entry with this name. NBNORG0000118244 is allowed with the name Sarcopyrenia geisleri
+NBNORG0000083988,Sarcopyrenia gibba var. geisleri,British Lichen Society/BLS,id_difficulty.csv,None of the organism keys are allowed for data entry with this name. NBNORG0000118244 is allowed with the name Sarcopyrenia geisleri
+NBNORG0000098931,Sarcopyrenia gibba var. geisleri,British Lichen Society/BLS,id_difficulty.csv,None of the organism keys are allowed for data entry with this name. NBNORG0000118244 is allowed with the name Sarcopyrenia geisleri
+NBNORG0000118243,Sarcopyrenia gibba var. geisleri,British Lichen Society/BLS,id_difficulty.csv,None of the organism keys are allowed for data entry with this name. NBNORG0000118244 is allowed with the name Sarcopyrenia geisleri
+NBNORG0000118244,Sarcopyrenia gibba var. geisleri,British Lichen Society/BLS,id_difficulty.csv,None of the organism keys are allowed for data entry with this name. NBNORG0000118244 is allowed with the name Sarcopyrenia geisleri
+NBNORG0000016575,Sarcopyrenia gibba var. geisleri,British Lichen Society/BLS,tenkm.csv,None of the organism keys are allowed for data entry with this name. NBNORG0000118244 is allowed with the name Sarcopyrenia geisleri
+NBNORG0000083988,Sarcopyrenia gibba var. geisleri,British Lichen Society/BLS,tenkm.csv,None of the organism keys are allowed for data entry with this name. NBNORG0000118244 is allowed with the name Sarcopyrenia geisleri
+NBNORG0000098931,Sarcopyrenia gibba var. geisleri,British Lichen Society/BLS,tenkm.csv,None of the organism keys are allowed for data entry with this name. NBNORG0000118244 is allowed with the name Sarcopyrenia geisleri
+NBNORG0000118243,Sarcopyrenia gibba var. geisleri,British Lichen Society/BLS,tenkm.csv,None of the organism keys are allowed for data entry with this name. NBNORG0000118244 is allowed with the name Sarcopyrenia geisleri
+NBNORG0000118244,Sarcopyrenia gibba var. geisleri,British Lichen Society/BLS,tenkm.csv,None of the organism keys are allowed for data entry with this name. NBNORG0000118244 is allowed with the name Sarcopyrenia geisleri
+NBNORG0000091499,Sticta canariensis (combined),British Lichen Society/BLS,id_difficulty.csv,Both junior synonyms of Sticta canariensis (NBNORG0000015858 )
+NBNORG0000108639,Sticta canariensis (combined),British Lichen Society/BLS,id_difficulty.csv,Both junior synonyms of Sticta canariensis (NBNORG0000015858 )
+NBNORG0000091499,Sticta canariensis (combined),British Lichen Society/BLS,tenkm.csv,Both junior synonyms of Sticta canariensis (NBNORG0000015858 )
+NBNORG0000108639,Sticta canariensis (combined),British Lichen Society/BLS,tenkm.csv,Both junior synonyms of Sticta canariensis (NBNORG0000015858 )
+NBNORG0000091512,Sticta canariensis (dufourii),British Lichen Society/BLS,id_difficulty.csv,Both junior synonyms of Sticta canariensis (NBNORG0000015858 )
+NBNORG0000108640,Sticta canariensis (dufourii),British Lichen Society/BLS,id_difficulty.csv,Both junior synonyms of Sticta canariensis (NBNORG0000015858 )
+NBNORG0000091512,Sticta canariensis (dufourii),British Lichen Society/BLS,tenkm.csv,Both junior synonyms of Sticta canariensis (NBNORG0000015858 )
+NBNORG0000108640,Sticta canariensis (dufourii),British Lichen Society/BLS,tenkm.csv,Both junior synonyms of Sticta canariensis (NBNORG0000015858 )
+NBNORG0000015859,Sticta fuliginosa s. lat. s. lat.,British Lichen Society/BLS,id_difficulty.csv,Sticta fuliginosa s. lat. NBNORG0000123250 
+NBNORG0000123250,Sticta fuliginosa s. lat. s. lat.,British Lichen Society/BLS,id_difficulty.csv,Sticta fuliginosa s. lat. NBNORG0000123250 
+NBNORG0000015859,Sticta fuliginosa s. lat. s. lat.,British Lichen Society/BLS,tenkm.csv,Sticta fuliginosa s. lat. NBNORG0000123250 
+NBNORG0000123250,Sticta fuliginosa s. lat. s. lat.,British Lichen Society/BLS,tenkm.csv,Sticta fuliginosa s. lat. NBNORG0000123250 
+NBNORG0000009738,Eupeodes lapponicus,Hoverfly Recording Scheme/HRS,tenkm.csv,149167561 listed as the organism key in Indicia? Lapposyrphus lapponicus is preferred_name in UKSI with NBNORG0000041956 as organism_key
+NBNORG0000041956,Eupeodes lapponicus,Hoverfly Recording Scheme/HRS,tenkm.csv,149167561 listed as the organism key in Indicia? Lapposyrphus lapponicus is preferred_name in UKSI with NBNORG0000041956 as organism_key
+NBNORG0000042255,Eupeodes lapponicus,Hoverfly Recording Scheme/HRS,tenkm.csv,149167561 listed as the organism key in Indicia? Lapposyrphus lapponicus is preferred_name in UKSI with NBNORG0000041956 as organism_key
