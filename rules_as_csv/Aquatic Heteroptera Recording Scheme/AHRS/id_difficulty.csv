@@ -1,103 +1,96 @@
-code,organism_key,taxon
-6,NBNORG0000006869,Hesperocorixa linnaei
-3,NBNORG0000011310,Macrosaldula scotica
-3,NBNORG0000011311,Saldula setulosa
-2,NBNORG0000044124,Aquarius najas
-2,NBNORG0000044125,Aquarius paludum
-2,NBNORG0000044125,Gerris paludum
-2,NBNORG0000044126,Limnoporus rufoscutellatus
-2,NBNORG0000060542,Aquarius najas
-2,NBNORG0000060543,Aquarius paludum
-3,NBNORG0000060544,Arctocorisa carinata
-3,NBNORG0000060545,Arctocorisa germari
-3,NBNORG0000060546,Callicorixa praeusta
-3,NBNORG0000060547,Callicorixa wollastoni
-3,NBNORG0000060548,Corixa affinis
-3,NBNORG0000060549,Corixa dentipes
-4,NBNORG0000060550,Corixa iberica
-3,NBNORG0000060551,Corixa panzeri
-3,NBNORG0000060552,Corixa punctata
-2,NBNORG0000060553,Cymatia bonsdorffii
-2,NBNORG0000060554,Cymatia coleoptrata
-3,NBNORG0000060555,Glaenocorisa cavifrons
-3,NBNORG0000060556,Glaenocorisa propinqua subsp. propinqua
-3,NBNORG0000060557,Hesperocorixa castanea
-3,NBNORG0000060558,Hesperocorixa moesta
-3,NBNORG0000060559,Hesperocorixa sahlbergi
-2,NBNORG0000060560,Hydrometra gracilenta
-1,NBNORG0000060561,Hydrometra stagnorum
-1,NBNORG0000060562,Ilyocoris cimicoides
-2,NBNORG0000060563,Limnoporus rufoscutellatus
-2,NBNORG0000060564,Mesovelia furcata
-1,NBNORG0000060565,Nepa cinerea
-3,NBNORG0000060566,Paracorixa concinna
-2,NBNORG0000060567,Plea minutissima
-2,NBNORG0000064634,Naucoris maculatus
-2,NBNORG0000091388,Cymatia rogenhoferi
-2,NBNORG0000094753,Aepophilus bonnairei
-1,NBNORG0000094794,Aphelocheirus (Aphelocheirus) aestivalis
-2,NBNORG0000094908,Chartoscirta cincta
-2,NBNORG0000094909,Chartoscirta cocksii
-2,NBNORG0000094910,Chartoscirta elegantula
-2,NBNORG0000094915,Chiloxanthus pilosus
-3,NBNORG0000094960,Cryptostemma alienum
-3,NBNORG0000094962,Pachycoleus waltli
-3,NBNORG0000095096,Gerris (Gerris) argentatus
-3,NBNORG0000095097,Gerris (Gerris) costae
-3,NBNORG0000095098,Gerris (Gerris) gibbifer
-3,NBNORG0000095099,Gerris (Gerris) lacustris
-3,NBNORG0000095100,Gerris (Gerris) odontogaster
-3,NBNORG0000095101,Gerris (Gerris) thoracicus
-3,NBNORG0000095103,Gerris (Gerriselloides) lateralis
-2,NBNORG0000095123,Halosalda lateralis
-2,NBNORG0000095136,Hebrus (Hebrus) pusillus
-2,NBNORG0000095138,Hebrus (Hebrusella) ruficeps
-3,NBNORG0000095251,Macrosaldula scotica
-3,NBNORG0000095294,Micracanthia marginalis
-4,NBNORG0000095297,Micronecta (Dichaetonecta) scholtzi
-4,NBNORG0000095299,Micronecta (Micronecta) griseola
-4,NBNORG0000095300,Micronecta (Micronecta) minutissima
-4,NBNORG0000095301,Micronecta (Micronecta) poweri
-3,NBNORG0000095307,Microvelia (Microvelia) buenoi
-3,NBNORG0000095308,Microvelia (Microvelia) pygmaea
-3,NBNORG0000095309,Microvelia (Microvelia) reticulata
-2,NBNORG0000095366,Notonecta (Notonecta) glauca
-2,NBNORG0000095367,Notonecta (Notonecta) maculata
-1,NBNORG0000095368,Notonecta (Notonecta) obliqua
-2,NBNORG0000095369,Notonecta (Notonecta) viridis
-1,NBNORG0000095600,Ranatra (Ranatra) linearis
-3,NBNORG0000095625,Salda littoralis
-4,NBNORG0000095626,Salda morio
-4,NBNORG0000095627,Salda muelleri
-2,NBNORG0000095633,Saldula arenicola
-3,NBNORG0000095634,Saldula c-album
-3,NBNORG0000095635,Saldula fucicola
-3,NBNORG0000095636,Saldula melanoscela
-3,NBNORG0000095637,Saldula opacula
-3,NBNORG0000095638,Saldula orthochila
-4,NBNORG0000095639,Saldula pallipes
-4,NBNORG0000095640,Saldula palustris
-3,NBNORG0000095641,Saldula pilosella
-3,NBNORG0000095642,Saldula saltatoria
-4,NBNORG0000095661,Sigara (Halicorixa) selecta
-4,NBNORG0000095662,Sigara (Halicorixa) stagnalis
-4,NBNORG0000095664,Sigara (Pseudovermicorixa) nigrolineata
-4,NBNORG0000095666,Sigara (Retrocorixa) limitata
-4,NBNORG0000095667,Sigara (Retrocorixa) semistriata
-4,NBNORG0000095668,Sigara (Retrocorixa) venusta
-3,NBNORG0000095670,Sigara (Sigara) dorsalis
-4,NBNORG0000095671,Sigara (Sigara) striata
-4,NBNORG0000095673,Sigara (Subsigara) distincta
-4,NBNORG0000095674,Sigara (Subsigara) falleni
-4,NBNORG0000095675,Sigara (Subsigara) fallenoidea
-4,NBNORG0000095676,Sigara (Subsigara) fossarum
-4,NBNORG0000095677,Sigara (Subsigara) iactans
-4,NBNORG0000095678,Sigara (Subsigara) longipalis
-4,NBNORG0000095679,Sigara (Subsigara) scotti
-3,NBNORG0000095681,Sigara (Vermicorixa) lateralis
-3,NBNORG0000095720,Teloleuca pellucens
-2,NBNORG0000095777,Velia (Plesiovelia) caprai
-2,NBNORG0000095778,Velia (Plesiovelia) saulii
-4,NBNORG0000109439,Sigara (Halicorixa) stagnalis
-4,NBNORG0000109440,Sigara (Retrocorixa) limitata
-3,NBNORG0000109441,Sigara (Vermicorixa) lateralis
+"organism_key","taxon","code"
+"NBNORG0000006869","Hesperocorixa linnaei",6
+"NBNORG0000011311","Saldula setulosa",3
+"NBNORG0000044125","Gerris paludum",2
+"NBNORG0000060542","Aquarius najas",2
+"NBNORG0000060543","Aquarius paludum",2
+"NBNORG0000060544","Arctocorisa carinata",3
+"NBNORG0000060545","Arctocorisa germari",3
+"NBNORG0000060546","Callicorixa praeusta",3
+"NBNORG0000060547","Callicorixa wollastoni",3
+"NBNORG0000060548","Corixa affinis",3
+"NBNORG0000060549","Corixa dentipes",3
+"NBNORG0000060550","Corixa iberica",4
+"NBNORG0000060551","Corixa panzeri",3
+"NBNORG0000060552","Corixa punctata",3
+"NBNORG0000060553","Cymatia bonsdorffii",2
+"NBNORG0000060554","Cymatia coleoptrata",2
+"NBNORG0000060555","Glaenocorisa cavifrons",3
+"NBNORG0000060556","Glaenocorisa propinqua subsp. propinqua",3
+"NBNORG0000060557","Hesperocorixa castanea",3
+"NBNORG0000060558","Hesperocorixa moesta",3
+"NBNORG0000060559","Hesperocorixa sahlbergi",3
+"NBNORG0000060560","Hydrometra gracilenta",2
+"NBNORG0000060561","Hydrometra stagnorum",1
+"NBNORG0000060562","Ilyocoris cimicoides",1
+"NBNORG0000060563","Limnoporus rufoscutellatus",2
+"NBNORG0000060564","Mesovelia furcata",2
+"NBNORG0000060565","Nepa cinerea",1
+"NBNORG0000060566","Paracorixa concinna",3
+"NBNORG0000060567","Plea minutissima",2
+"NBNORG0000064634","Naucoris maculatus",2
+"NBNORG0000091388","Cymatia rogenhoferi",2
+"NBNORG0000094753","Aepophilus bonnairei",2
+"NBNORG0000094794","Aphelocheirus (Aphelocheirus) aestivalis",1
+"NBNORG0000094908","Chartoscirta cincta",2
+"NBNORG0000094909","Chartoscirta cocksii",2
+"NBNORG0000094910","Chartoscirta elegantula",2
+"NBNORG0000094915","Chiloxanthus pilosus",2
+"NBNORG0000094960","Cryptostemma alienum",3
+"NBNORG0000094962","Pachycoleus waltli",3
+"NBNORG0000095096","Gerris (Gerris) argentatus",3
+"NBNORG0000095097","Gerris (Gerris) costae",3
+"NBNORG0000095098","Gerris (Gerris) gibbifer",3
+"NBNORG0000095099","Gerris (Gerris) lacustris",3
+"NBNORG0000095100","Gerris (Gerris) odontogaster",3
+"NBNORG0000095101","Gerris (Gerris) thoracicus",3
+"NBNORG0000095103","Gerris (Gerriselloides) lateralis",3
+"NBNORG0000095123","Halosalda lateralis",2
+"NBNORG0000095136","Hebrus (Hebrus) pusillus",2
+"NBNORG0000095138","Hebrus (Hebrusella) ruficeps",2
+"NBNORG0000095251","Macrosaldula scotica",3
+"NBNORG0000095294","Micracanthia marginalis",3
+"NBNORG0000095297","Micronecta (Dichaetonecta) scholtzi",4
+"NBNORG0000095299","Micronecta (Micronecta) griseola",4
+"NBNORG0000095300","Micronecta (Micronecta) minutissima",4
+"NBNORG0000095301","Micronecta (Micronecta) poweri",4
+"NBNORG0000095307","Microvelia (Microvelia) buenoi",3
+"NBNORG0000095308","Microvelia (Microvelia) pygmaea",3
+"NBNORG0000095309","Microvelia (Microvelia) reticulata",3
+"NBNORG0000095366","Notonecta (Notonecta) glauca",2
+"NBNORG0000095367","Notonecta (Notonecta) maculata",2
+"NBNORG0000095368","Notonecta (Notonecta) obliqua",1
+"NBNORG0000095369","Notonecta (Notonecta) viridis",2
+"NBNORG0000095600","Ranatra (Ranatra) linearis",1
+"NBNORG0000095625","Salda littoralis",3
+"NBNORG0000095626","Salda morio",4
+"NBNORG0000095627","Salda muelleri",4
+"NBNORG0000095633","Saldula arenicola",2
+"NBNORG0000095634","Saldula c-album",3
+"NBNORG0000095635","Saldula fucicola",3
+"NBNORG0000095636","Saldula melanoscela",3
+"NBNORG0000095637","Saldula opacula",3
+"NBNORG0000095638","Saldula orthochila",3
+"NBNORG0000095639","Saldula pallipes",4
+"NBNORG0000095640","Saldula palustris",4
+"NBNORG0000095641","Saldula pilosella",3
+"NBNORG0000095642","Saldula saltatoria",3
+"NBNORG0000095661","Sigara (Halicorixa) selecta",4
+"NBNORG0000095662","Sigara (Halicorixa) stagnalis",4
+"NBNORG0000095664","Sigara (Pseudovermicorixa) nigrolineata",4
+"NBNORG0000095666","Sigara (Retrocorixa) limitata",4
+"NBNORG0000095667","Sigara (Retrocorixa) semistriata",4
+"NBNORG0000095668","Sigara (Retrocorixa) venusta",4
+"NBNORG0000095670","Sigara (Sigara) dorsalis",3
+"NBNORG0000095671","Sigara (Sigara) striata",4
+"NBNORG0000095673","Sigara (Subsigara) distincta",4
+"NBNORG0000095674","Sigara (Subsigara) falleni",4
+"NBNORG0000095675","Sigara (Subsigara) fallenoidea",4
+"NBNORG0000095676","Sigara (Subsigara) fossarum",4
+"NBNORG0000095677","Sigara (Subsigara) iactans",4
+"NBNORG0000095678","Sigara (Subsigara) longipalis",4
+"NBNORG0000095679","Sigara (Subsigara) scotti",4
+"NBNORG0000095681","Sigara (Vermicorixa) lateralis",3
+"NBNORG0000095720","Teloleuca pellucens",3
+"NBNORG0000095777","Velia (Plesiovelia) caprai",2
+"NBNORG0000095778","Velia (Plesiovelia) saulii",2
