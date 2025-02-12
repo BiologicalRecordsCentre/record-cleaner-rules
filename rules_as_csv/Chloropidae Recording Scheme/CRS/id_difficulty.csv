@@ -1,217 +1,192 @@
-code,organism_key,taxon
-2,NBNORG0000020645,Lipara lucens
-4,NBNORG0000020646,Lipara rufitarsis
-2,NBNORG0000020647,Lipara similis
-4,NBNORG0000020648,Calamoncosis aprica
-4,NBNORG0000020649,Calamoncosis aspistylina
-4,NBNORG0000020650,Calamoncosis duinensis
-4,NBNORG0000020651,Calamoncosis glyceriae
-4,NBNORG0000020652,Calamoncosis minima
-3,NBNORG0000020653,Siphonella oscinina
-3,NBNORG0000020654,Polyodaspis ruficornis
-3,NBNORG0000020655,Polyodaspis sulcicollis
-3,NBNORG0000020656,Lasiambia palposa agg.
-5,NBNORG0000020657,Lasiambia parcepilosa
-5,NBNORG0000020658,Trachysiphonella scutellata
-5,NBNORG0000020659,Trachysiphonella pygmaea
-5,NBNORG0000020660,Trachysiphonella ruficeps
-3,NBNORG0000020661,Siphunculina aenea
-3,NBNORG0000020662,Aphanotrigonum brunneum
-3,NBNORG0000020663,Aphanotrigonum cinctellum
-3,NBNORG0000020664,Aphanotrigonum femorellum
-3,NBNORG0000020665,Aphanotrigonum inerme
-3,NBNORG0000020666,Colliniella meijerei
-3,NBNORG0000020667,Aphanotrigonum nigripes agg.
-2,NBNORG0000020668,Aphanotrigonum trilineatum
-4,NBNORG0000020669,Conioscinella frontella
-3,NBNORG0000020670,Conioscinella gallarum
-3,NBNORG0000020671,Speccafrons halophila
-4,NBNORG0000020672,Conioscinella mimula
-3,NBNORG0000020673,Conioscinella sordidella
-3,NBNORG0000020674,Conioscinella zetterstedti
-3,NBNORG0000020675,Tricimba cincta
-3,NBNORG0000020676,Tricimba lineella
-3,NBNORG0000020677,Dicraeus fennicus
-3,NBNORG0000020678,Dicraeus ingratus
-3,NBNORG0000020679,Dicraeus napaeus
-3,NBNORG0000020680,Dicraeus raptus
-3,NBNORG0000020681,Dicraeus scibilis
-3,NBNORG0000020682,Dicraeus styriacus
-3,NBNORG0000020683,Dicraeus tibialis
-3,NBNORG0000020684,Dicraeus vagans
-3,NBNORG0000020685,Dicraeus styriacus
-4,NBNORG0000020686,Gaurax niger
-4,NBNORG0000020687,Gaurax dubius
-3,NBNORG0000020688,Eribolus gracilior
-3,NBNORG0000020689,Eribolus hungaricus
-3,NBNORG0000020690,Eribolus slesvicensis
-3,NBNORG0000020691,Incertella albipalpis
-4,NBNORG0000020692,Incertella scotica
-4,NBNORG0000020693,Oscinella angularis
-5,NBNORG0000020694,Oscinella angustipennis
-4,NBNORG0000020695,Oscinella cariciphila
-4,NBNORG0000020696,Oscinella frit
-4,NBNORG0000020697,Oscinella vindicata
-3,NBNORG0000020698,Oscinella maura
-4,NBNORG0000020699,Oscinella nigerrima
-3,NBNORG0000020700,Oscinella nitidissima
-4,NBNORG0000020701,Oscinella pusilla
-3,NBNORG0000020702,Oscinella trochanterata
-4,NBNORG0000020703,Oscinella vastator
-3,NBNORG0000020704,Rhopalopterum atricilla
-4,NBNORG0000020705,Rhopalopterum fasciola
-2,NBNORG0000020706,Elachiptera brevipennis
-4,NBNORG0000020707,Elachiptera cornuta agg.
-4,NBNORG0000020708,Elachiptera cornuta agg.
-3,NBNORG0000020709,Elachiptera diastema
-3,NBNORG0000020710,Elachiptera megaspis
-3,NBNORG0000020711,Elachiptera rufifrons
-3,NBNORG0000020712,Elachiptera scrobiculata
-3,NBNORG0000020713,Elachiptera tuberculifera
-3,NBNORG0000020714,Oscinella capreolus
-1,NBNORG0000020715,Camarota curvipennis
-2,NBNORG0000020716,Platycephala planifrons
-2,NBNORG0000020717,Platycephala umbraculata
-4,NBNORG0000020718,Meromyza bohemica
-4,NBNORG0000020719,Meromyza curvinervis
-3,NBNORG0000020721,Meromyza femorata agg.
-4,NBNORG0000020722,Meromyza hispanica
-3,NBNORG0000020723,Meromyza femorata agg.
-4,NBNORG0000020724,Meromyza mosquensis
-3,NBNORG0000020725,Meromyza nigriventris agg.
-4,NBNORG0000020726,Meromyza zachvatkini
-4,NBNORG0000020727,Meromyza palposa
-4,NBNORG0000020728,Meromyza pluriseta
-3,NBNORG0000020729,Meromyza pratorum agg.
-4,NBNORG0000020730,Meromyza rufa
-3,NBNORG0000020731,Meromyza saltatrix agg.
-4,NBNORG0000020732,Meromyza triangulina
-4,NBNORG0000020733,Meromyza athletica
-2,NBNORG0000020734,Eurina lurida
-5,NBNORG0000020735,Cryptonevra consimilis
-5,NBNORG0000020736,Cryptonevra flavitarsis
-3,NBNORG0000020737,Cryptonevra nigritarsis
-4,NBNORG0000020738,Neohaplegis tarsata
-4,NBNORG0000020739,Pseudopachychaeta approximatonervis
-4,NBNORG0000020740,Lasiosina herpini
-4,NBNORG0000020741,Pseudopachychaeta oscinina
-3,NBNORG0000020742,Pseudopachychaeta ruficeps
-3,NBNORG0000020743,Diplotoxa messoria
-3,NBNORG0000020744,Melanum laterale
-3,NBNORG0000020745,Eutropha fulvifrons
-3,NBNORG0000020746,Cetema cereris
-3,NBNORG0000020747,Epichlorops puncticollis
-3,NBNORG0000020748,Chlorops frontosus
-3,NBNORG0000020749,Chlorops strigulus
-3,NBNORG0000020750,Chlorops gracilis
-3,NBNORG0000020751,Chlorops hypostigma
-3,NBNORG0000020752,Chlorops planifrons
-3,NBNORG0000020753,Chlorops ringens
-3,NBNORG0000020754,Chlorops pumilionis
-3,NBNORG0000020755,Chlorops scalaris
-3,NBNORG0000020756,Chlorops troglodytes
-3,NBNORG0000020757,Chlorops varsoviensis
-3,NBNORG0000020758,Thaumatomyia glabra
-3,NBNORG0000020759,Thaumatomyia hallandica
-3,NBNORG0000020760,Thaumatomyia notata
-3,NBNORG0000020761,Thaumatomyia rufa
-3,NBNORG0000020762,Thaumatomyia trifasciata
-3,NBNORG0000026779,Cryptonevra diadema
-3,NBNORG0000041114,Aphanotrigonum brunneum
-3,NBNORG0000041115,Aphanotrigonum cinctellum
-3,NBNORG0000041116,Aphanotrigonum femorellum
-3,NBNORG0000041117,Aphanotrigonum inerme
-2,NBNORG0000041118,Aphanotrigonum trilineatum
-4,NBNORG0000041426,Cetema elongatum
-3,NBNORG0000041427,Cetema myopinum
-3,NBNORG0000041428,Cetema neglectum
-4,NBNORG0000041429,Cetema simile
-5,NBNORG0000041430,Cetema transversum
-4,NBNORG0000041491,Chlorops adjunctus
-4,NBNORG0000041492,Chlorops calceatus
-3,NBNORG0000041493,Chlorops rufinus
-5,NBNORG0000041494,Chlorops dasycerus
-4,NBNORG0000041495,Chlorops fasciatus
-3,NBNORG0000041496,Chlorops frontosus
-3,NBNORG0000041497,Chlorops interruptus
-3,NBNORG0000041498,Chlorops laetus
-3,NBNORG0000041499,Chlorops limbatus
-3,NBNORG0000041500,Chlorops pumilionis
-4,NBNORG0000041501,Chlorops obscurellus
-4,NBNORG0000041502,Chlorops rossicus
-3,NBNORG0000041503,Chlorops rufinus
-3,NBNORG0000041504,Chlorops scutellaris
-3,NBNORG0000041505,Chlorops serenus
-4,NBNORG0000041506,Chlorops speciosus
-3,NBNORG0000041507,Chlorops strigulus
-4,NBNORG0000041508,Chloropsina pulicaria
-4,NBNORG0000041509,Chloropsina varleyi
-4,NBNORG0000041610,Incertella nigrifrons
-4,NBNORG0000041867,Elachiptera austriaca
-3,NBNORG0000041925,Eribolus nanus
-5,NBNORG0000042042,Gampsocera numerata
-3,NBNORG0000042044,Gaurax flavomaculatus
-4,NBNORG0000042045,Gaurax dubius
-4,NBNORG0000042046,Gaurax fascipes
-4,NBNORG0000042101,Hapleginella laevifrons
-4,NBNORG0000042216,Incertella antennata
-3,NBNORG0000042217,Incertella kerteszi
-3,NBNORG0000042218,Incertella zuercheri
-4,NBNORG0000042258,Lasiambia baliola
-4,NBNORG0000042259,Lasiambia brevibucca
-3,NBNORG0000042260,Lasiambia coxalis
-3,NBNORG0000042261,Lasiambia palposa agg.
-5,NBNORG0000042262,Lasiambia parcepilosa
-4,NBNORG0000042266,Lasiosina herpini
-3,NBNORG0000042267,Lasiosina intermedia
-3,NBNORG0000042458,Lasiochaeta pubescens
-4,NBNORG0000042483,Meromyza virescens
-4,NBNORG0000042485,Meromyza nigriseta
-3,NBNORG0000042486,Meromyza ornata
-4,NBNORG0000042487,Meromyza zachvatkini
-3,NBNORG0000042514,Microcercis trigonella
-4,NBNORG0000042601,Neohaplegis glabra
-4,NBNORG0000042602,Neohaplegis tarsata
-3,NBNORG0000042700,Oscinimorpha albisetosa
-3,NBNORG0000042701,Oscinimorpha arcuata
-3,NBNORG0000042702,Oscinimorpha minutissima
-3,NBNORG0000042703,Oscinimorpha sordidissima
-3,NBNORG0000042704,Oscinisoma cognatum
-3,NBNORG0000042705,Oscinisoma germanicum
-3,NBNORG0000042706,Oscinisoma gilvipes
-3,NBNORG0000043132,Rhopalopterum anthracinum
-3,NBNORG0000043133,Rhopalopterum atricorne
-5,NBNORG0000043134,Rhopalopterum brunneipenne
-5,NBNORG0000043135,Rhopalopterum crucicarinatum
-4,NBNORG0000043136,Rhopalopterum femorale
-3,NBNORG0000043460,Thaumatomyia glabra
-5,NBNORG0000043517,Trachysiphonella indet.
-5,NBNORG0000043518,Trachysiphonella indet.
-3,NBNORG0000043534,Tricimba brachyptera
-3,NBNORG0000043535,Tricimba humeralis
-5,NBNORG0000045690,Lasiosina chandleri
-4,NBNORG0000045730,Diplotoxoides dalmatina
-4,NBNORG0000045795,Chlorops meigenii
-3,NBNORG0000096104,Chlorops scutellaris
-4,NBNORG0000102048,Incertella nigrifrons
-3,NBNORG0000105402,Oscinimorpha albisetosa
-3,NBNORG0000106714,Oscinimorpha sp. nov.
-3,NBNORG0000108266,Parectecephala longicornis
-4,NBNORG0000109015,Gaurax maculipennis
-4,NBNORG0000109016,Meromyza rohdendorfi
-4,NBNORG0000109017,Meromyza sibirica
-4,NBNORG0000109018,Oscinella ventricosi
-5,NBNORG0000109020,Homalura tarsata
-3,NBNORG0000109022,Aphanotrigonum brachypterum
-4,NBNORG0000109024,Lipara pullitarsis
-3,NBNORG0000109028,Lasiosina herpini agg. sensu pre 1991
-3,NBNORG0000109029,Cetema elongatum agg. sensu pre 1985
-4,NBNORG0000109030,Elachiptera sp. nr cornuta
-2,NBNORG0000109031,Lipara rufitarsis agg. sensu pre 2015
-3,NBNORG0000109032,Neohaplegis tarsata agg. sensu pre 1994
-3,NBNORG0000109033,Oscinisoma cognatum agg. sensu pre 1976
-4,NBNORG0000109034,Rhopalopterum fasciola agg. sensu pre 1987
-4,NBNORG0000109035,Rhopalopterum femorale agg. pre 1987
-6,NBNORG0000116295,Meromyza sp. nr. depressa
-4,NBNORG0000116296,Elachiptera sp. nr cornuta
-4,NBNORG0000116556,Lasiambia brevibucca
+"organism_key","taxon","code"
+"NBNORG0000020645","Lipara lucens",2
+"NBNORG0000020646","Lipara rufitarsis",4
+"NBNORG0000020647","Lipara similis",2
+"NBNORG0000020648","Calamoncosis aprica",4
+"NBNORG0000020649","Calamoncosis aspistylina",4
+"NBNORG0000020650","Calamoncosis duinensis",4
+"NBNORG0000020651","Calamoncosis glyceriae",4
+"NBNORG0000020652","Calamoncosis minima",4
+"NBNORG0000020653","Siphonella oscinina",3
+"NBNORG0000020654","Polyodaspis ruficornis",3
+"NBNORG0000020655","Polyodaspis sulcicollis",3
+"NBNORG0000020658","Trachysiphonella scutellata",5
+"NBNORG0000020659","Trachysiphonella pygmaea",5
+"NBNORG0000020660","Trachysiphonella ruficeps",5
+"NBNORG0000020661","Siphunculina aenea",3
+"NBNORG0000020666","Colliniella meijerei",3
+"NBNORG0000020667","Aphanotrigonum nigripes agg.",3
+"NBNORG0000020669","Conioscinella frontella",4
+"NBNORG0000020670","Conioscinella gallarum",3
+"NBNORG0000020671","Speccafrons halophila",3
+"NBNORG0000020672","Conioscinella mimula",4
+"NBNORG0000020673","Conioscinella sordidella",3
+"NBNORG0000020674","Conioscinella zetterstedti",3
+"NBNORG0000020675","Tricimba cincta",3
+"NBNORG0000020676","Tricimba lineella",3
+"NBNORG0000020677","Dicraeus fennicus",3
+"NBNORG0000020678","Dicraeus ingratus",3
+"NBNORG0000020679","Dicraeus napaeus",3
+"NBNORG0000020680","Dicraeus raptus",3
+"NBNORG0000020681","Dicraeus scibilis",3
+"NBNORG0000020682","Dicraeus styriacus",3
+"NBNORG0000020683","Dicraeus tibialis",3
+"NBNORG0000020684","Dicraeus vagans",3
+"NBNORG0000020686","Gaurax niger",4
+"NBNORG0000020688","Eribolus gracilior",3
+"NBNORG0000020689","Eribolus hungaricus",3
+"NBNORG0000020690","Eribolus slesvicensis",3
+"NBNORG0000020691","Incertella albipalpis",3
+"NBNORG0000020692","Incertella scotica",4
+"NBNORG0000020693","Oscinella angularis",4
+"NBNORG0000020694","Oscinella angustipennis",5
+"NBNORG0000020695","Oscinella cariciphila",4
+"NBNORG0000020696","Oscinella frit",4
+"NBNORG0000020697","Oscinella vindicata",4
+"NBNORG0000020698","Oscinella maura",3
+"NBNORG0000020699","Oscinella nigerrima",4
+"NBNORG0000020700","Oscinella nitidissima",3
+"NBNORG0000020701","Oscinella pusilla",4
+"NBNORG0000020702","Oscinella trochanterata",3
+"NBNORG0000020703","Oscinella vastator",4
+"NBNORG0000020704","Rhopalopterum atricilla",3
+"NBNORG0000020705","Rhopalopterum fasciola",4
+"NBNORG0000020706","Elachiptera brevipennis",2
+"NBNORG0000020707","Elachiptera cornuta agg.",4
+"NBNORG0000020709","Elachiptera diastema",3
+"NBNORG0000020710","Elachiptera megaspis",3
+"NBNORG0000020711","Elachiptera rufifrons",3
+"NBNORG0000020712","Elachiptera scrobiculata",3
+"NBNORG0000020713","Elachiptera tuberculifera",3
+"NBNORG0000020714","Oscinella capreolus",3
+"NBNORG0000020715","Camarota curvipennis",1
+"NBNORG0000020716","Platycephala planifrons",2
+"NBNORG0000020717","Platycephala umbraculata",2
+"NBNORG0000020718","Meromyza bohemica",4
+"NBNORG0000020719","Meromyza curvinervis",4
+"NBNORG0000020721","Meromyza femorata agg.",3
+"NBNORG0000020722","Meromyza hispanica",4
+"NBNORG0000020724","Meromyza mosquensis",4
+"NBNORG0000020725","Meromyza nigriventris agg.",3
+"NBNORG0000020727","Meromyza palposa",4
+"NBNORG0000020728","Meromyza pluriseta",4
+"NBNORG0000020729","Meromyza pratorum agg.",3
+"NBNORG0000020730","Meromyza rufa",4
+"NBNORG0000020731","Meromyza saltatrix agg.",3
+"NBNORG0000020732","Meromyza triangulina",4
+"NBNORG0000020733","Meromyza athletica",4
+"NBNORG0000020734","Eurina lurida",2
+"NBNORG0000020735","Cryptonevra consimilis",5
+"NBNORG0000020736","Cryptonevra flavitarsis",5
+"NBNORG0000020737","Cryptonevra nigritarsis",3
+"NBNORG0000020739","Pseudopachychaeta approximatonervis",4
+"NBNORG0000020741","Pseudopachychaeta oscinina",4
+"NBNORG0000020742","Pseudopachychaeta ruficeps",3
+"NBNORG0000020743","Diplotoxa messoria",3
+"NBNORG0000020744","Melanum laterale",3
+"NBNORG0000020745","Eutropha fulvifrons",3
+"NBNORG0000020746","Cetema cereris",3
+"NBNORG0000020747","Epichlorops puncticollis",3
+"NBNORG0000020750","Chlorops gracilis",3
+"NBNORG0000020751","Chlorops hypostigma",3
+"NBNORG0000020752","Chlorops planifrons",3
+"NBNORG0000020753","Chlorops ringens",3
+"NBNORG0000020754","Chlorops pumilionis",3
+"NBNORG0000020755","Chlorops scalaris",3
+"NBNORG0000020756","Chlorops troglodytes",3
+"NBNORG0000020757","Chlorops varsoviensis",3
+"NBNORG0000020759","Thaumatomyia hallandica",3
+"NBNORG0000020760","Thaumatomyia notata",3
+"NBNORG0000020761","Thaumatomyia rufa",3
+"NBNORG0000020762","Thaumatomyia trifasciata",3
+"NBNORG0000026779","Cryptonevra diadema",3
+"NBNORG0000041114","Aphanotrigonum brunneum",3
+"NBNORG0000041115","Aphanotrigonum cinctellum",3
+"NBNORG0000041116","Aphanotrigonum femorellum",3
+"NBNORG0000041117","Aphanotrigonum inerme",3
+"NBNORG0000041118","Aphanotrigonum trilineatum",2
+"NBNORG0000041426","Cetema elongatum",4
+"NBNORG0000041427","Cetema myopinum",3
+"NBNORG0000041428","Cetema neglectum",3
+"NBNORG0000041429","Cetema simile",4
+"NBNORG0000041430","Cetema transversum",5
+"NBNORG0000041491","Chlorops adjunctus",4
+"NBNORG0000041492","Chlorops calceatus",4
+"NBNORG0000041494","Chlorops dasycerus",5
+"NBNORG0000041495","Chlorops fasciatus",4
+"NBNORG0000041496","Chlorops frontosus",3
+"NBNORG0000041497","Chlorops interruptus",3
+"NBNORG0000041498","Chlorops laetus",3
+"NBNORG0000041499","Chlorops limbatus",3
+"NBNORG0000041501","Chlorops obscurellus",4
+"NBNORG0000041502","Chlorops rossicus",4
+"NBNORG0000041503","Chlorops rufinus",3
+"NBNORG0000041504","Chlorops scutellaris",3
+"NBNORG0000041505","Chlorops serenus",3
+"NBNORG0000041506","Chlorops speciosus",4
+"NBNORG0000041507","Chlorops strigulus",3
+"NBNORG0000041508","Chloropsina pulicaria",4
+"NBNORG0000041509","Chloropsina varleyi",4
+"NBNORG0000041867","Elachiptera austriaca",4
+"NBNORG0000041925","Eribolus nanus",3
+"NBNORG0000042042","Gampsocera numerata",5
+"NBNORG0000042044","Gaurax flavomaculatus",3
+"NBNORG0000042045","Gaurax dubius",4
+"NBNORG0000042046","Gaurax fascipes",4
+"NBNORG0000042101","Hapleginella laevifrons",4
+"NBNORG0000042216","Incertella antennata",4
+"NBNORG0000042217","Incertella kerteszi",3
+"NBNORG0000042218","Incertella zuercheri",3
+"NBNORG0000042258","Lasiambia baliola",4
+"NBNORG0000042260","Lasiambia coxalis",3
+"NBNORG0000042261","Lasiambia palposa agg.",3
+"NBNORG0000042262","Lasiambia parcepilosa",5
+"NBNORG0000042266","Lasiosina herpini",4
+"NBNORG0000042267","Lasiosina intermedia",3
+"NBNORG0000042458","Lasiochaeta pubescens",3
+"NBNORG0000042483","Meromyza virescens",4
+"NBNORG0000042485","Meromyza nigriseta",4
+"NBNORG0000042486","Meromyza ornata",3
+"NBNORG0000042487","Meromyza zachvatkini",4
+"NBNORG0000042514","Microcercis trigonella",3
+"NBNORG0000042601","Neohaplegis glabra",4
+"NBNORG0000042602","Neohaplegis tarsata",4
+"NBNORG0000042700","Oscinimorpha albisetosa",3
+"NBNORG0000042701","Oscinimorpha arcuata",3
+"NBNORG0000042702","Oscinimorpha minutissima",3
+"NBNORG0000042703","Oscinimorpha sordidissima",3
+"NBNORG0000042704","Oscinisoma cognatum",3
+"NBNORG0000042705","Oscinisoma germanicum",3
+"NBNORG0000042706","Oscinisoma gilvipes",3
+"NBNORG0000043132","Rhopalopterum anthracinum",3
+"NBNORG0000043133","Rhopalopterum atricorne",3
+"NBNORG0000043134","Rhopalopterum brunneipenne",5
+"NBNORG0000043135","Rhopalopterum crucicarinatum",5
+"NBNORG0000043136","Rhopalopterum femorale",4
+"NBNORG0000043460","Thaumatomyia glabra",3
+"NBNORG0000043518","Trachysiphonella indet.",5
+"NBNORG0000043534","Tricimba brachyptera",3
+"NBNORG0000043535","Tricimba humeralis",3
+"NBNORG0000045690","Lasiosina chandleri",5
+"NBNORG0000045730","Diplotoxoides dalmatina",4
+"NBNORG0000045795","Chlorops meigenii",4
+"NBNORG0000102048","Incertella nigrifrons",4
+"NBNORG0000106714","Oscinimorpha sp. nov.",3
+"NBNORG0000108266","Parectecephala longicornis",3
+"NBNORG0000109015","Gaurax maculipennis",4
+"NBNORG0000109016","Meromyza rohdendorfi",4
+"NBNORG0000109017","Meromyza sibirica",4
+"NBNORG0000109018","Oscinella ventricosi",4
+"NBNORG0000109020","Homalura tarsata",5
+"NBNORG0000109022","Aphanotrigonum brachypterum",3
+"NBNORG0000109024","Lipara pullitarsis",4
+"NBNORG0000109028","Lasiosina herpini agg. sensu pre 1991",3
+"NBNORG0000109029","Cetema elongatum agg. sensu pre 1985",3
+"NBNORG0000109030","Elachiptera sp. nr cornuta",4
+"NBNORG0000109031","Lipara rufitarsis agg. sensu pre 2015",2
+"NBNORG0000109032","Neohaplegis tarsata agg. sensu pre 1994",3
+"NBNORG0000109033","Oscinisoma cognatum agg. sensu pre 1976",3
+"NBNORG0000109034","Rhopalopterum fasciola agg. sensu pre 1987",4
+"NBNORG0000109035","Rhopalopterum femorale agg. pre 1987",4
+"NBNORG0000116295","Meromyza sp. nr. depressa",6
+"NBNORG0000116556","Lasiambia brevibucca",4
