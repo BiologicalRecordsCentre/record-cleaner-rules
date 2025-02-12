@@ -1,0 +1,9 @@
+"organism_key","taxon","stage","start_day","start_month","end_day","end_month"
+"NBNORG0000008780","Lacerta agilis","mature",1,3,31,10
+"NBNORG0000008782","Vipera berus","mature",1,1,30,11
+"NBNORG0000051253","Coronella austriaca","mature",1,3,30,11
+"NBNORG0000093849","Epidalea calamita","mature",1,4,30,9
+"NBNORG0000093855","Lithobates catesbeianus","mature",1,3,30,11
+"NBNORG0000093856","Pelophylax ridibundus","mature",1,2,31,12
+"NBNORG0000093857","Pelophylax esculentus","mature",1,3,30,11
+"NBNORG0000103523","Ichthyosaura alpestris","mature",1,2,30,11
