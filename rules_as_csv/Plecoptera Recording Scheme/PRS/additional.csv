@@ -1,3 +1,3 @@
-tvk,code,allow_org_key,rtvk,organism_key,taxon
-NBNSYS0000022438,2,allow,NBNSYS0000022438,NBNORG0000017112,Isogenus nubecula
-NBNSYS0000159130,2,allow,NBNSYS0000159130,NBNORG0000027128,Xanthoperla apicalis
+"organism_key","taxon","code"
+"NBNORG0000017112","Isogenus nubecula",2
+"NBNORG0000027128","Xanthoperla apicalis",2

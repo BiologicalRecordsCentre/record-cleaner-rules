@@ -1,12 +1,12 @@
-tvk,code,allow_org_key,rtvk,organism_key,taxon
-NBNSYS0000027027,1,allow,NBNSYS0000027027,NBNORG0000018508,Buckleria paludum
-NBNSYS0100003432,2,,NBNSYS0100003432,NBNORG0000042135,Hellinsia chrysocomae
-NBNSYS0100004011,2,allow,NBNSYS0100004011,NBNORG0000042490,Merrifieldia tridactyla
-NBNSYS0100005591,3,allow,NHMSYS0000504310,NBNORG0000043331,Stenoptilia gallobritannidactyla
-NBNSYS0100005592,4,allow,NBNSYS0100005592,NBNORG0000043332,Stenoptilia islandicus
-NHMSYS0000503532,3,allow,NHMSYS0000503532,NBNORG0000058649,Oxyptilus laetus
-NHMSYS0000503534,4,allow,NHMSYS0000503534,NBNORG0000058651,Oxyptilus pilosellae
-NHMSYS0000504313,7,,NHMSYS0000504313,NBNORG0000059022,Stenoptilia pneumonanthes
-NHMSYS0020547811,5,allow,NHMSYS0020547811,NBNORG0000099287,Stenoptilia annadactyla
-NHMSYS0020732915,2,allow,NHMSYS0020732915,NBNORG0000102984,Emmelina argoteles
-NHMSYS0021002826,6,allow,NHMSYS0000504316,NBNORG0000108491,Stenoptilia scabiodactylus
+"organism_key","taxon","code"
+"NBNORG0000018508","Buckleria paludum",1
+"NBNORG0000042135","Hellinsia chrysocomae",2
+"NBNORG0000042490","Merrifieldia tridactyla",2
+"NBNORG0000043331","Stenoptilia gallobritannidactyla",3
+"NBNORG0000043332","Stenoptilia islandicus",4
+"NBNORG0000058649","Oxyptilus laetus",3
+"NBNORG0000058651","Oxyptilus pilosellae",4
+"NBNORG0000059022","Stenoptilia pneumonanthes",7
+"NBNORG0000099287","Stenoptilia annadactyla",5
+"NBNORG0000102984","Emmelina argoteles",2
+"NBNORG0000108491","Stenoptilia scabiodactylus",6

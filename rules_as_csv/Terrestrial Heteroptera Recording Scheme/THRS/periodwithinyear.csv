@@ -1,228 +1,219 @@
-tvk,start_day,start_month,end_day,end_month,stage,allow_org_key,rtvk,organism_key,taxon
-NHMSYS0020309622,1,6,31,8,mature,allow,NHMSYS0020309622,NBNORG0000011308,Parapsallus vitellinus
-NHMSYS0020109258,1,5,30,9,mature,allow,NHMSYS0020109258,NBNORG0000091559,Harpocera thoracica
-NHMSYS0020109263,1,6,31,10,mature,allow,NHMSYS0020109263,NBNORG0000091563,Loricula pselaphiformis
-NHMSYS0020109271,1,6,31,8,mature,allow,NHMSYS0020109271,NBNORG0000091568,Stenotus binotatus
-NHMSYS0020308889,1,5,30,9,mature,allow,NHMSYS0020308889,NBNORG0000094735,Acetropis (Acetropis) gimmerthalii
-NHMSYS0020308897,1,7,31,10,mature,allow,NHMSYS0020308897,NBNORG0000094743,Adelphocoris lineolatus
-NHMSYS0020308898,1,7,30,9,mature,allow,NHMSYS0020308898,NBNORG0000094744,Adelphocoris seticornis
-NHMSYS0020308899,1,7,31,8,mature,allow,NHMSYS0020308899,NBNORG0000094745,Adelphocoris ticinensis
-NHMSYS0020308914,1,6,31,10,mature,allow,NHMSYS0020308914,NBNORG0000094760,Alloeotomus gothicus
-NHMSYS0020308918,1,6,31,8,mature,allow,NHMSYS0020308918,NBNORG0000094764,Amblytylus brevicollis
-NHMSYS0020308919,1,6,31,8,mature,allow,NHMSYS0020308919,NBNORG0000094765,Amblytylus delicatus
-NHMSYS0020308920,1,5,31,8,mature,allow,NHMSYS0020308920,NBNORG0000094766,Amblytylus nasutus
-NHMSYS0020308968,1,6,30,9,mature,allow,NHMSYS0020308968,NBNORG0000094813,Asciodema obsoleta
-NHMSYS0020308971,1,6,30,9,mature,allow,NHMSYS0020308971,NBNORG0000094816,Atractotomus magnicornis
-NHMSYS0020308972,1,5,30,9,mature,allow,NHMSYS0020308972,NBNORG0000094817,Atractotomus mali
-NHMSYS0020308973,1,6,30,9,mature,allow,NHMSYS0020308973,NBNORG0000094818,Atractotomus parvulus
-NHMSYS0020308991,1,6,31,10,mature,allow,NHMSYS0020308991,NBNORG0000094836,Blepharidopterus angulatus
-NHMSYS0020308992,1,7,30,9,mature,allow,NHMSYS0020308992,NBNORG0000094837,Blepharidopterus diaphanus
-NHMSYS0020308997,1,6,31,10,mature,allow,NHMSYS0020308997,NBNORG0000094842,Bothynotus pilosus
-NHMSYS0020308999,1,5,31,7,mature,allow,NHMSYS0020308999,NBNORG0000094844,Brachyarthrum limitatum
-NHMSYS0020309003,1,8,31,8,mature,allow,NHMSYS0020309003,NBNORG0000094848,Brachynotocoris puncticornis
-NHMSYS0020309009,1,6,31,10,mature,allow,NHMSYS0020309009,NBNORG0000094854,Bryocoris pteridis
-NHMSYS0020309017,1,6,31,7,mature,allow,NHMSYS0020309017,NBNORG0000094862,Calocoris (Calocoris) alpestris
-NHMSYS0020309018,1,6,31,10,mature,allow,NHMSYS0020309018,NBNORG0000094863,Calocoris (Calocoris) roseomaculatus
-NHMSYS0020309020,1,6,31,8,mature,allow,NHMSYS0020976956,NBNORG0000094865,Closterotomus fulvomaculatus
-NHMSYS0020309021,1,6,31,8,mature,allow,NHMSYS0020976950,NBNORG0000094866,Closterotomus norwegicus
-NHMSYS0020309023,1,5,30,9,mature,allow,NHMSYS0020977054,NBNORG0000094868,Grypocoris (Lophyromiris) stysi
-NHMSYS0020309027,1,6,30,9,mature,allow,NHMSYS0020309027,NBNORG0000094871,Camptozygum aequale
-NHMSYS0020309029,1,5,30,9,mature,allow,NHMSYS0020309029,NBNORG0000094873,Campylomma annulicorne
-NHMSYS0020309030,1,6,31,10,mature,allow,NHMSYS0020309030,NBNORG0000094874,Campylomma verbasci
-NHMSYS0020309032,1,7,31,10,mature,allow,NHMSYS0020309032,NBNORG0000094876,Campyloneura virgula
-NHMSYS0020309038,1,6,31,8,mature,allow,NHMSYS0020309038,NBNORG0000094882,Capsodes flavomarginatus
-NHMSYS0020309039,1,6,31,8,mature,allow,NHMSYS0020309039,NBNORG0000094883,Capsodes gothicus
-NHMSYS0020309040,1,6,31,8,mature,allow,NHMSYS0020309040,NBNORG0000094884,Capsodes sulcatus
-NHMSYS0020309042,1,7,31,8,mature,allow,NHMSYS0020309042,NBNORG0000094886,Capsus ater
-NHMSYS0020309043,1,6,31,8,mature,allow,NHMSYS0020309043,NBNORG0000094887,Capsus wagneri
-NHMSYS0020309062,1,7,30,9,mature,allow,NHMSYS0020309062,NBNORG0000094906,Charagochilus (Charagochilus) weberi
-NHMSYS0020309074,1,6,30,9,mature,allow,NHMSYS0020309074,NBNORG0000094918,Chlamydatus (Chlamydatus) saltitans
-NHMSYS0020309076,1,6,31,7,mature,allow,NHMSYS0020309076,NBNORG0000094920,Chlamydatus (Euattus) pulicarius
-NHMSYS0020309077,1,5,30,9,mature,allow,NHMSYS0020309077,NBNORG0000094921,Chlamydatus (Euattus) pullus
-NHMSYS0020309079,1,6,31,10,mature,allow,NHMSYS0020309079,NBNORG0000094923,Chlamydatus (Eurymerocoris) evanescens
-NHMSYS0020309080,1,5,31,8,mature,allow,NHMSYS0020309080,NBNORG0000094924,Chlamydatus (Eurymerocoris) wilkinsoni
-NHMSYS0020309082,1,6,31,10,mature,allow,NHMSYS0020309082,NBNORG0000094926,Chorosoma schillingi
-NHMSYS0020309093,1,7,31,10,mature,allow,NHMSYS0020309093,NBNORG0000094937,Compsidolon (Coniortodes) salicellum
-NHMSYS0020309095,1,6,31,7,mature,allow,NHMSYS0020309095,NBNORG0000094939,Conostethus brevis
-NHMSYS0020309096,1,6,31,7,mature,allow,NHMSYS0020309096,NBNORG0000094940,Conostethus griseus
-NHMSYS0020309097,1,5,31,7,mature,allow,NHMSYS0020309097,NBNORG0000094941,Conostethus roseus
-NHMSYS0020309101,1,6,31,10,mature,allow,NHMSYS0020309101,NBNORG0000094945,Coranus (Coranus) subapterus
-NHMSYS0020309124,1,6,30,9,mature,allow,NHMSYS0020309124,NBNORG0000094968,Cyllecoris histrionius
-NHMSYS0020309136,1,7,31,10,mature,allow,NHMSYS0020309136,NBNORG0000094980,Cyrtorhinus caricis
-NHMSYS0020309142,1,5,31,8,mature,allow,NHMSYS0020309142,NBNORG0000094986,Deraeocoris (Deraeocoris) flavilinea
-NHMSYS0020309143,1,5,31,7,mature,allow,NHMSYS0020309143,NBNORG0000094987,Deraeocoris (Deraeocoris) olivaceus
-NHMSYS0020309144,1,5,30,9,mature,allow,NHMSYS0020309144,NBNORG0000094988,Deraeocoris (Deraeocoris) ruber
-NHMSYS0020309145,1,6,31,8,mature,allow,NHMSYS0020309145,NBNORG0000094989,Deraeocoris (Deraeocoris) scutellaris
-NHMSYS0020309152,1,6,31,7,mature,allow,NHMSYS0020309152,NBNORG0000094996,Dichrooscytus gustavi
-NHMSYS0020309153,1,6,31,8,mature,allow,NHMSYS0020309153,NBNORG0000094997,Dichrooscytus rufipennis
-NHMSYS0020309160,1,6,31,10,mature,allow,NHMSYS0020309160,NBNORG0000095004,Dictyonota fuliginosa
-NHMSYS0020309161,1,6,31,10,mature,allow,NHMSYS0020309161,NBNORG0000095005,Dictyonota strichnocera
-NHMSYS0020309168,1,7,30,9,mature,allow,NHMSYS0020309168,NBNORG0000095012,Dicyphus (Dicyphus) constrictus
-NHMSYS0020309169,1,5,30,11,mature,allow,NHMSYS0020309169,NBNORG0000095013,Dicyphus (Dicyphus) epilobii
-NHMSYS0020309170,1,6,31,10,mature,allow,NHMSYS0020309170,NBNORG0000095014,Dicyphus (Dicyphus) errans
-NHMSYS0020309191,1,5,31,7,mature,allow,NHMSYS0020309191,NBNORG0000095035,Dryophilocoris (Dryophilocoris) flavoquadrimaculatus
-NHMSYS0020309209,1,6,31,8,mature,allow,NHMSYS0020309209,NBNORG0000095053,Empicoris baerensprungi
-NHMSYS0020309220,1,6,31,10,mature,allow,NHMSYS0020309220,NBNORG0000095064,Europiella artemisiae
-NHMSYS0020309221,1,6,31,10,mature,allow,NHMSYS0020309221,NBNORG0000095065,Europiella decolor
-NHMSYS0020309237,1,6,30,9,mature,allow,NHMSYS0020309237,NBNORG0000095081,Fieberocapsus flaveolus
-NHMSYS0020309265,1,6,30,9,mature,allow,NHMSYS0020309265,NBNORG0000095109,Globiceps (Kelidocoris) flavomaculatus
-NHMSYS0020309266,1,7,30,9,mature,allow,NHMSYS0020309266,NBNORG0000095110,Globiceps (Kelidocoris) fulvicollis subsp. cruciatus
-NHMSYS0020309267,1,6,31,8,mature,allow,NHMSYS0020309267,NBNORG0000095111,Globiceps (Kelidocoris) juniperi
-NHMSYS0020309276,1,7,30,9,mature,allow,NHMSYS0020309276,NBNORG0000095120,Hallodapus montandoni
-NHMSYS0020309277,1,7,30,9,mature,allow,NHMSYS0020309277,NBNORG0000095121,Hallodapus rufescens
-NHMSYS0020309282,1,6,31,8,mature,allow,NHMSYS0020309282,NBNORG0000095126,Halticus apterus
-NHMSYS0020309283,1,6,30,9,mature,allow,NHMSYS0020309283,NBNORG0000095127,Halticus luteicollis
-NHMSYS0020309284,1,7,31,8,mature,allow,NHMSYS0020309284,NBNORG0000095128,Halticus macrocephalus
-NHMSYS0020309285,1,7,30,9,mature,allow,NHMSYS0020309285,NBNORG0000095129,Halticus saltator
-NHMSYS0020309302,1,6,31,8,mature,allow,NHMSYS0020309302,NBNORG0000095146,Heterocordylus (Heterocordylus) genistae
-NHMSYS0020309304,1,5,31,8,mature,allow,NHMSYS0020309304,NBNORG0000095148,Heterocordylus (Heterocordylus) tibialis
-NHMSYS0020309310,1,7,31,10,mature,,NHMSYS0020309310,NBNORG0000095154,Heterotoma planicornis
-NHMSYS0020309313,1,3,30,11,mature,allow,NHMSYS0020309313,NBNORG0000095157,Himacerus (Anaptus) major
-NHMSYS0020309317,1,7,31,10,mature,allow,NHMSYS0020309317,NBNORG0000095161,Himacerus (Himacerus) apterus
-NHMSYS0020309319,1,6,30,9,mature,allow,NHMSYS0020309319,NBNORG0000095163,Himacerus (Stalia) boops
-NHMSYS0020309324,1,6,31,7,mature,allow,NHMSYS0020309324,NBNORG0000095167,Hoplomachus thunbergii
-NHMSYS0020309331,1,6,31,8,mature,allow,NHMSYS0020309331,NBNORG0000095174,Hypseloecus visci
-NHMSYS0020309360,1,4,30,9,mature,allow,NHMSYS0020309360,NBNORG0000095203,Leptopterna dolabrata
-NHMSYS0020309361,1,6,30,9,mature,allow,NHMSYS0020309361,NBNORG0000095204,Leptopterna ferrugata
-NHMSYS0020309369,1,6,31,8,mature,allow,NHMSYS0020309369,NBNORG0000095212,Lopus decolor
-NHMSYS0020309371,1,6,31,10,mature,allow,NHMSYS0020309371,NBNORG0000095214,Loricula elegantula
-NHMSYS0020309384,1,7,31,10,mature,allow,NHMSYS0020976911,NBNORG0000095227,Apolygus lucorum
-NHMSYS0020309385,1,6,30,9,mature,allow,NHMSYS0020976917,NBNORG0000095228,Apolygus spinolae
-NHMSYS0020309387,1,6,31,10,mature,allow,NHMSYS0020309387,NBNORG0000095230,Lygocoris (Lygocoris) pabulinus
-NHMSYS0020309388,1,6,30,9,mature,allow,NHMSYS0020309388,NBNORG0000095231,Lygocoris (Lygocoris) rugicollis
-NHMSYS0020309390,1,4,31,10,mature,allow,NHMSYS0020976989,NBNORG0000095233,Neolygus contaminatus
-NHMSYS0020309391,1,6,30,9,mature,allow,NHMSYS0020976995,NBNORG0000095234,Neolygus populi
-NHMSYS0020309392,1,6,30,9,mature,allow,NHMSYS0020977001,NBNORG0000095235,Neolygus viridis
-NHMSYS0020309403,1,5,31,8,mature,allow,NHMSYS0020309403,NBNORG0000095246,Macrolophus pygmaeus
-NHMSYS0020309404,1,7,31,8,mature,allow,NHMSYS0020309404,NBNORG0000095247,Macrolophus rubi
-NHMSYS0020309411,1,7,30,9,mature,allow,NHMSYS0020309411,NBNORG0000095254,Macrotylus (Alloeonycha) horvathi
-NHMSYS0020309412,1,5,30,9,mature,allow,NHMSYS0020309412,NBNORG0000095255,Macrotylus (Alloeonycha) paykulli
-NHMSYS0020309413,1,5,30,9,mature,allow,NHMSYS0020309413,NBNORG0000095256,Macrotylus (Alloeonycha) solitarius
-NHMSYS0020309415,1,6,31,10,mature,allow,NHMSYS0020309415,NBNORG0000095258,Malacocoris chlorizans
-NHMSYS0020309418,1,6,31,8,mature,allow,NHMSYS0020309418,NBNORG0000095261,Mecomma (Globicellus) dispar
-NHMSYS0020309420,1,6,30,9,mature,allow,NHMSYS0020309420,NBNORG0000095263,Mecomma (Mecomma) ambulans
-NHMSYS0020309422,1,8,30,9,mature,allow,NHMSYS0020309422,NBNORG0000095265,Megacoelum beckeri
-NHMSYS0020309423,1,7,31,10,mature,allow,NHMSYS0020309423,NBNORG0000095266,Megacoelum infusum
-NHMSYS0020309425,1,5,30,9,mature,allow,NHMSYS0020309425,NBNORG0000095268,Megaloceroea recticornis
-NHMSYS0020309427,1,6,30,9,mature,allow,NHMSYS0020309427,NBNORG0000095270,Megalocoleus molliculus
-NHMSYS0020309428,1,6,30,9,mature,allow,NHMSYS0020309428,NBNORG0000095271,Megalocoleus tanaceti
-NHMSYS0020309434,1,6,31,10,mature,allow,NHMSYS0020309434,NBNORG0000095277,Megalonotus emarginatus
-NHMSYS0020309470,1,7,31,8,mature,allow,NHMSYS0020309470,NBNORG0000095313,Miridius quadrivirgatus
-NHMSYS0020309474,1,5,31,8,mature,allow,NHMSYS0020309474,NBNORG0000095317,Miris striatus
-NHMSYS0020309480,1,6,30,9,mature,allow,NHMSYS0020309480,NBNORG0000095323,Monosynamma bohemanni
-NHMSYS0020309481,1,6,30,9,mature,allow,NHMSYS0020309481,NBNORG0000095324,Monosynamma maritimum
-NHMSYS0020309482,1,6,30,9,mature,allow,NHMSYS0020309482,NBNORG0000095325,Monosynamma sabulicola
-NHMSYS0020309485,1,6,31,8,mature,allow,NHMSYS0020309485,NBNORG0000095328,Myrmecoris gracilis
-NHMSYS0020309487,1,6,30,9,mature,allow,NHMSYS0020309487,NBNORG0000095330,Myrmedobia coleoptrata
-NHMSYS0020309488,1,6,30,9,mature,allow,NHMSYS0020309488,NBNORG0000095331,Myrmedobia distinguenda
-NHMSYS0020309489,1,6,30,9,mature,allow,NHMSYS0020309489,NBNORG0000095332,Myrmedobia exilis
-NHMSYS0020309490,1,6,30,9,mature,allow,NHMSYS0020309490,NBNORG0000095333,Myrmedobia inconspicua
-NHMSYS0020309497,1,6,31,10,mature,allow,NHMSYS0020309497,NBNORG0000095340,Nabis (Dolichonabis) limbatus
-NHMSYS0020309499,1,6,31,10,mature,,NHMSYS0020309499,NBNORG0000095342,Nabis (Limnonabis) lineatus
-NHMSYS0020309501,1,5,31,10,mature,allow,NHMSYS0020309501,NBNORG0000095344,Nabis (Nabicula) flavomarginatus
-NHMSYS0020309530,1,6,31,8,mature,allow,NHMSYS0020309530,NBNORG0000095373,Notostira elongata
-NHMSYS0020309545,1,6,31,10,mature,allow,NHMSYS0020309545,NBNORG0000095388,Odontoscelis (Odontoscelis) fuliginosa
-NHMSYS0020309546,1,6,31,10,mature,allow,NHMSYS0020309546,NBNORG0000095389,Odontoscelis (Odontoscelis) lineola
-NHMSYS0020309555,1,6,30,9,mature,allow,NHMSYS0020309555,NBNORG0000095398,Oncotylus (Oncotylus) viridiflavus
-NHMSYS0020309570,1,6,31,8,mature,allow,NHMSYS0020309570,NBNORG0000095413,Orthocephalus coriaceus
-NHMSYS0020309571,1,7,30,9,mature,allow,NHMSYS0020309571,NBNORG0000095414,Orthocephalus saltator
-NHMSYS0020309575,1,5,30,9,mature,allow,NHMSYS0020309575,NBNORG0000095418,Orthonotus rufifrons
-NHMSYS0020309585,1,6,31,10,mature,allow,NHMSYS0020309585,NBNORG0000095428,Orthotylus (Litocoris) ericetorum
-NHMSYS0020309587,1,6,30,9,mature,allow,NHMSYS0020309587,NBNORG0000095430,Orthotylus (Melanotrichus) flavosparsus
-NHMSYS0020309588,1,7,31,10,mature,allow,NHMSYS0020309588,NBNORG0000095431,Orthotylus (Melanotrichus) moncreaffi
-NHMSYS0020309589,1,7,31,10,mature,allow,NHMSYS0020309589,NBNORG0000095432,Orthotylus (Melanotrichus) rubidus
-NHMSYS0020309591,1,6,31,8,mature,allow,NHMSYS0020309591,NBNORG0000095434,Orthotylus (Orthotylus) flavinervis
-NHMSYS0020309592,1,6,31,8,mature,allow,NHMSYS0020309592,NBNORG0000095435,Orthotylus (Orthotylus) marginalis
-NHMSYS0020309593,1,7,30,9,mature,allow,NHMSYS0020309593,NBNORG0000095436,Orthotylus (Orthotylus) nassatus
-NHMSYS0020309594,1,7,30,9,mature,allow,NHMSYS0020309594,NBNORG0000095437,Orthotylus (Orthotylus) ochrotrichus
-NHMSYS0020309595,1,7,30,9,mature,allow,NHMSYS0020309595,NBNORG0000095438,Orthotylus (Orthotylus) prasinus
-NHMSYS0020309596,1,6,31,8,mature,allow,NHMSYS0020309596,NBNORG0000095439,Orthotylus (Orthotylus) tenellus
-NHMSYS0020309597,1,7,30,9,mature,allow,NHMSYS0020309597,NBNORG0000095440,Orthotylus (Orthotylus) virens
-NHMSYS0020309598,1,7,31,8,mature,allow,NHMSYS0020309598,NBNORG0000095441,Orthotylus (Orthotylus) viridinervis
-NHMSYS0020309600,1,6,30,9,mature,allow,NHMSYS0020309600,NBNORG0000095443,Orthotylus (Pachylops) adenocarpi
-NHMSYS0020309601,1,7,30,9,mature,allow,NHMSYS0020309601,NBNORG0000095444,Orthotylus (Pachylops) concolor
-NHMSYS0020309602,1,7,30,9,mature,allow,NHMSYS0020309602,NBNORG0000095445,Orthotylus (Pachylops) virescens
-NHMSYS0020309604,1,6,31,8,mature,allow,NHMSYS0020309604,NBNORG0000095447,Orthotylus (Pinocapsus) fuscescens
-NHMSYS0020309606,1,7,30,9,mature,allow,NHMSYS0020309606,NBNORG0000095449,Orthotylus (Pseudorthotylus) bilineatus
-NHMSYS0020309612,1,7,31,8,mature,allow,NHMSYS0020309612,NBNORG0000095455,Pachytomella parallela
-NHMSYS0020309616,1,8,31,10,mature,allow,NHMSYS0020309616,NBNORG0000095459,Pantilius (Pantilius) tunicatus
-NHMSYS0020309622,1,6,31,8,mature,allow,NHMSYS0020309622,NBNORG0000095465,Parapsallus vitellinus
-NHMSYS0020309636,1,6,31,8,mature,allow,NHMSYS0020309636,NBNORG0000095479,Phoenicocoris obscurellus
-NHMSYS0020309641,1,5,31,8,mature,allow,NHMSYS0020309641,NBNORG0000095484,Phylus (Phylus) coryli
-NHMSYS0020309642,1,5,31,8,mature,allow,NHMSYS0020309642,NBNORG0000095485,Phylus (Phylus) melanocephalus
-NHMSYS0020309642,1,5,31,8,mature,allow,NHMSYS0020309642,NBNORG0000095486,Phylus (Phylus) melanocephalus
-NHMSYS0020309649,1,8,30,9,mature,allow,NHMSYS0020309649,NBNORG0000095492,Phytocoris (Ktenocoris) insignis
-NHMSYS0020309650,1,6,31,10,mature,allow,NHMSYS0020309650,NBNORG0000095493,Phytocoris (Ktenocoris) ulmi
-NHMSYS0020309651,1,6,31,10,mature,allow,NHMSYS0020309651,NBNORG0000095494,Phytocoris (Ktenocoris) varipes
-NHMSYS0020309653,1,6,30,11,mature,allow,NHMSYS0020309653,NBNORG0000095496,Phytocoris (Phytocoris) dimidiatus
-NHMSYS0020309654,1,7,31,10,mature,allow,NHMSYS0020309654,NBNORG0000095497,Phytocoris (Phytocoris) longipennis
-NHMSYS0020309655,1,7,31,10,mature,allow,NHMSYS0020309655,NBNORG0000095498,Phytocoris (Phytocoris) pini
-NHMSYS0020309656,1,7,31,10,mature,allow,NHMSYS0020309656,NBNORG0000095499,Phytocoris (Phytocoris) populi
-NHMSYS0020309657,1,7,30,9,mature,allow,NHMSYS0020309657,NBNORG0000095500,Phytocoris (Phytocoris) reuteri
-NHMSYS0020309658,1,6,31,10,mature,allow,NHMSYS0020309658,NBNORG0000095501,Phytocoris (Phytocoris) tiliae
-NHMSYS0020309667,1,7,30,11,mature,allow,NHMSYS0020309667,NBNORG0000095510,Pilophorus cinnamopterus
-NHMSYS0020309668,1,7,30,9,mature,allow,NHMSYS0020309668,NBNORG0000095511,Pilophorus clavatus
-NHMSYS0020309669,1,7,31,8,mature,allow,NHMSYS0020309669,NBNORG0000095512,Pilophorus confusus
-NHMSYS0020309670,1,7,31,10,mature,allow,NHMSYS0020309670,NBNORG0000095513,Pilophorus perplexus
-NHMSYS0020309674,1,6,30,9,mature,allow,NHMSYS0020309674,NBNORG0000095517,Pinalitus rubricatus
-NHMSYS0020309675,1,7,30,9,mature,allow,NHMSYS0020309675,NBNORG0000095518,Pinalitus viscicola
-NHMSYS0020309679,1,6,31,8,mature,allow,NHMSYS0020309679,NBNORG0000095522,Pithanus maerkelii
-NHMSYS0020309681,1,7,30,9,mature,allow,NHMSYS0020309681,NBNORG0000095524,Placochilus seladonicus
-NHMSYS0020309684,1,6,30,9,mature,allow,NHMSYS0020309684,NBNORG0000095527,Plagiognathus (Plagiognathus) arbustorum
-NHMSYS0020309685,1,6,30,9,mature,allow,NHMSYS0020309685,NBNORG0000095528,Plagiognathus (Plagiognathus) chrysanthemi
-NHMSYS0020309688,1,7,31,10,mature,allow,NHMSYS0020309688,NBNORG0000095531,Platycranus (Genistocapsus) bicolor
-NHMSYS0020309694,1,6,31,8,mature,allow,NHMSYS0020309694,NBNORG0000095536,Plesiodema pinetella
-NHMSYS0020309704,1,6,30,9,mature,allow,NHMSYS0020309704,NBNORG0000095546,Polymerus (Poeciloscytus) palustris
-NHMSYS0020309705,1,6,30,9,mature,allow,NHMSYS0020309705,NBNORG0000095547,Polymerus (Poeciloscytus) unifasciatus
-NHMSYS0020309707,1,8,30,9,mature,allow,NHMSYS0020309707,NBNORG0000095549,Polymerus (Poeciloscytus) vulneratus
-NHMSYS0020309709,1,6,30,9,mature,allow,NHMSYS0020309709,NBNORG0000095551,Polymerus (Polymerus) nigrita
-NHMSYS0020309716,1,6,31,8,mature,allow,NHMSYS0020309716,NBNORG0000095558,Psallodema fieberi
-NHMSYS0020309719,1,5,31,7,mature,allow,NHMSYS0020309719,NBNORG0000095561,Psallus (Apocremnus) betuleti
-NHMSYS0020309720,1,6,31,7,mature,allow,NHMSYS0020309720,NBNORG0000095562,Psallus (Apocremnus) montanus
-NHMSYS0020309722,1,6,31,7,mature,allow,NHMSYS0020309722,NBNORG0000095564,Psallus (Hylopsallus) assimilis
-NHMSYS0020309723,1,6,31,8,mature,allow,NHMSYS0020309723,NBNORG0000095565,Psallus (Hylopsallus) perrisi
-NHMSYS0020309725,1,6,31,7,mature,allow,NHMSYS0020309725,NBNORG0000095567,Psallus (Hylopsallus) variabilis
-NHMSYS0020309726,1,6,31,7,mature,allow,NHMSYS0020309726,NBNORG0000095568,Psallus (Hylopsallus) wagneri
-NHMSYS0020309728,1,5,31,8,mature,allow,NHMSYS0020309728,NBNORG0000095570,Psallus (Mesopsallus) ambiguus
-NHMSYS0020309730,1,6,31,8,mature,allow,NHMSYS0020309730,NBNORG0000095572,Psallus (Phylidea) quercus
-NHMSYS0020309732,1,6,31,8,mature,allow,NHMSYS0020309732,NBNORG0000095574,Psallus (Pityopsallus) luridus
-NHMSYS0020309734,1,6,31,7,mature,allow,NHMSYS0020309734,NBNORG0000095576,Psallus (Psallus) albicinctus
-NHMSYS0020309735,1,5,31,8,mature,allow,NHMSYS0020309735,NBNORG0000095577,Psallus (Psallus) confusus
-NHMSYS0020309736,1,7,30,9,mature,allow,NHMSYS0020309736,NBNORG0000095578,Psallus (Psallus) falleni
-NHMSYS0020309737,1,6,31,8,mature,allow,NHMSYS0020309737,NBNORG0000095579,Psallus (Psallus) flavellus
-NHMSYS0020309738,1,7,30,9,mature,allow,NHMSYS0020309738,NBNORG0000095580,Psallus (Psallus) haematodes
-NHMSYS0020309739,1,6,30,9,mature,allow,NHMSYS0020309739,NBNORG0000095581,Psallus (Psallus) lepidus
-NHMSYS0020309740,1,6,31,8,mature,allow,NHMSYS0020309740,NBNORG0000095582,Psallus (Psallus) mollis
-NHMSYS0020309741,1,7,30,9,mature,allow,NHMSYS0020309741,NBNORG0000095583,Psallus (Psallus) salicis
-NHMSYS0020309742,1,6,30,9,mature,allow,NHMSYS0020309742,NBNORG0000095584,Psallus (Psallus) varians
-NHMSYS0020309744,1,7,30,9,mature,allow,NHMSYS0020309744,NBNORG0000095586,Pseudoloxops coccineus
-NHMSYS0020309856,1,6,31,10,mature,allow,NHMSYS0020309856,NBNORG0000095697,Stephanitis rhododendri
-NHMSYS0020309858,1,6,31,8,mature,allow,NHMSYS0020309858,NBNORG0000095699,Sthenarus rotermundi
-NHMSYS0020309864,1,6,31,8,mature,allow,NHMSYS0020309864,NBNORG0000095705,Strongylocoris leucocephalus
-NHMSYS0020309865,1,6,31,8,mature,allow,NHMSYS0020309865,NBNORG0000095706,Strongylocoris luridus
-NHMSYS0020309869,1,7,30,11,mature,allow,NHMSYS0020309869,NBNORG0000095710,Stygnocoris rusticus
-NHMSYS0020309870,1,7,30,11,mature,allow,NHMSYS0020309870,NBNORG0000095711,Stygnocoris sabulosus
-NHMSYS0020309874,1,5,31,8,mature,allow,NHMSYS0020309874,NBNORG0000095715,Systellonotus triguttatus
-NHMSYS0020309886,1,7,31,10,mature,allow,NHMSYS0020309886,NBNORG0000095727,Teratocoris antennatus
-NHMSYS0020309887,1,7,31,8,mature,allow,NHMSYS0020309887,NBNORG0000095728,Teratocoris caricis
-NHMSYS0020309888,1,7,31,10,mature,allow,NHMSYS0020309888,NBNORG0000095729,Teratocoris saundersi
-NHMSYS0020309889,1,6,31,8,mature,allow,NHMSYS0020309889,NBNORG0000095730,Teratocoris viridis
-NHMSYS0020309907,1,6,31,8,mature,allow,NHMSYS0020309907,NBNORG0000095748,Tinicephalus (Tinicephalus) hortulanus
-NHMSYS0020309915,1,6,30,9,mature,allow,NHMSYS0020309915,NBNORG0000095756,Trigonotylus caelestialium
-NHMSYS0020309916,1,6,31,8,mature,allow,NHMSYS0020309916,NBNORG0000095757,Trigonotylus psammaecolor
-NHMSYS0020309917,1,6,30,9,mature,allow,NHMSYS0020309917,NBNORG0000095758,Trigonotylus ruficornis
-NHMSYS0020309925,1,6,30,9,mature,allow,NHMSYS0020309925,NBNORG0000095766,Tupiocoris rhododendri
-NHMSYS0020309930,1,7,30,9,mature,allow,NHMSYS0020309930,NBNORG0000095771,Tuponia (Tuponia) mixticolor
-NHMSYS0020309932,1,8,30,9,mature,allow,NHMSYS0020309932,NBNORG0000095773,Tytthus pubescens
-NHMSYS0020309933,1,6,30,9,mature,allow,NHMSYS0020309933,NBNORG0000095774,Tytthus pygmaeus
-NHMSYS0020309952,1,6,30,9,mature,allow,NHMSYS0020309952,NBNORG0000095793,Zygimus nigriceps
-NHMSYS0020309310,1,7,31,10,mature,allow,NHMSYS0020309310,NBNORG0000101594,Heterotoma merioptera
-NHMSYS0020309310,1,7,31,10,mature,allow,NHMSYS0020309310,NBNORG0000101594,Heterotoma planicornis
-NHMSYS0020309428,1,6,30,9,mature,allow,NHMSYS0020309428,NBNORG0000101697,Megalocoleus tanaceti
-NHMSYS0020309388,1,6,30,9,mature,allow,NHMSYS0020309388,NBNORG0000101788,Lygocoris (Lygocoris) rugicollis
-NHMSYS0020705907,1,6,31,8,mature,allow,NHMSYS0020705907,NBNORG0000101864,Salicarus (Salicarus) roseri
-NHMSYS0020309930,1,7,30,9,mature,allow,NHMSYS0020309930,NBNORG0000101912,Tuponia (Tuponia) mixticolor
-NHMSYS0020309021,1,6,31,8,mature,allow,NHMSYS0020976950,NBNORG0000102985,Closterotomus norwegicus
-NHMSYS0020784510,1,5,31,8,mature,allow,NHMSYS0020784510,NBNORG0000104364,Rhabdomiris striatellus
-NHMSYS0020973307,1,5,30,9,mature,allow,NHMSYS0020973307,NBNORG0000108172,Conostethus venustus
-NHMSYS0020309732,1,6,31,8,mature,allow,NHMSYS0020309732,NBNORG0000117504,Psallus (Pityopsallus) luridus
+"organism_key","taxon","stage","start_day","start_month","end_day","end_month"
+"NBNORG0000091559","Harpocera thoracica","mature",1,5,30,9
+"NBNORG0000091563","Loricula pselaphiformis","mature",1,6,31,10
+"NBNORG0000091568","Stenotus binotatus","mature",1,6,31,8
+"NBNORG0000094735","Acetropis (Acetropis) gimmerthalii","mature",1,5,30,9
+"NBNORG0000094743","Adelphocoris lineolatus","mature",1,7,31,10
+"NBNORG0000094744","Adelphocoris seticornis","mature",1,7,30,9
+"NBNORG0000094745","Adelphocoris ticinensis","mature",1,7,31,8
+"NBNORG0000094760","Alloeotomus gothicus","mature",1,6,31,10
+"NBNORG0000094764","Amblytylus brevicollis","mature",1,6,31,8
+"NBNORG0000094765","Amblytylus delicatus","mature",1,6,31,8
+"NBNORG0000094766","Amblytylus nasutus","mature",1,5,31,8
+"NBNORG0000094813","Asciodema obsoleta","mature",1,6,30,9
+"NBNORG0000094816","Atractotomus magnicornis","mature",1,6,30,9
+"NBNORG0000094817","Atractotomus mali","mature",1,5,30,9
+"NBNORG0000094818","Atractotomus parvulus","mature",1,6,30,9
+"NBNORG0000094836","Blepharidopterus angulatus","mature",1,6,31,10
+"NBNORG0000094837","Blepharidopterus diaphanus","mature",1,7,30,9
+"NBNORG0000094842","Bothynotus pilosus","mature",1,6,31,10
+"NBNORG0000094844","Brachyarthrum limitatum","mature",1,5,31,7
+"NBNORG0000094848","Brachynotocoris puncticornis","mature",1,8,31,8
+"NBNORG0000094854","Bryocoris pteridis","mature",1,6,31,10
+"NBNORG0000094862","Calocoris (Calocoris) alpestris","mature",1,6,31,7
+"NBNORG0000094863","Calocoris (Calocoris) roseomaculatus","mature",1,6,31,10
+"NBNORG0000094865","Closterotomus fulvomaculatus","mature",1,6,31,8
+"NBNORG0000094868","Grypocoris (Lophyromiris) stysi","mature",1,5,30,9
+"NBNORG0000094871","Camptozygum aequale","mature",1,6,30,9
+"NBNORG0000094873","Campylomma annulicorne","mature",1,5,30,9
+"NBNORG0000094874","Campylomma verbasci","mature",1,6,31,10
+"NBNORG0000094876","Campyloneura virgula","mature",1,7,31,10
+"NBNORG0000094882","Capsodes flavomarginatus","mature",1,6,31,8
+"NBNORG0000094883","Capsodes gothicus","mature",1,6,31,8
+"NBNORG0000094884","Capsodes sulcatus","mature",1,6,31,8
+"NBNORG0000094886","Capsus ater","mature",1,7,31,8
+"NBNORG0000094887","Capsus wagneri","mature",1,6,31,8
+"NBNORG0000094906","Charagochilus (Charagochilus) weberi","mature",1,7,30,9
+"NBNORG0000094918","Chlamydatus (Chlamydatus) saltitans","mature",1,6,30,9
+"NBNORG0000094920","Chlamydatus (Euattus) pulicarius","mature",1,6,31,7
+"NBNORG0000094921","Chlamydatus (Euattus) pullus","mature",1,5,30,9
+"NBNORG0000094923","Chlamydatus (Eurymerocoris) evanescens","mature",1,6,31,10
+"NBNORG0000094924","Chlamydatus (Eurymerocoris) wilkinsoni","mature",1,5,31,8
+"NBNORG0000094926","Chorosoma schillingi","mature",1,6,31,10
+"NBNORG0000094937","Compsidolon (Coniortodes) salicellum","mature",1,7,31,10
+"NBNORG0000094939","Conostethus brevis","mature",1,6,31,7
+"NBNORG0000094940","Conostethus griseus","mature",1,6,31,7
+"NBNORG0000094941","Conostethus roseus","mature",1,5,31,7
+"NBNORG0000094945","Coranus (Coranus) subapterus","mature",1,6,31,10
+"NBNORG0000094968","Cyllecoris histrionius","mature",1,6,30,9
+"NBNORG0000094980","Cyrtorhinus caricis","mature",1,7,31,10
+"NBNORG0000094986","Deraeocoris (Deraeocoris) flavilinea","mature",1,5,31,8
+"NBNORG0000094987","Deraeocoris (Deraeocoris) olivaceus","mature",1,5,31,7
+"NBNORG0000094988","Deraeocoris (Deraeocoris) ruber","mature",1,5,30,9
+"NBNORG0000094989","Deraeocoris (Deraeocoris) scutellaris","mature",1,6,31,8
+"NBNORG0000094996","Dichrooscytus gustavi","mature",1,6,31,7
+"NBNORG0000094997","Dichrooscytus rufipennis","mature",1,6,31,8
+"NBNORG0000095004","Dictyonota fuliginosa","mature",1,6,31,10
+"NBNORG0000095005","Dictyonota strichnocera","mature",1,6,31,10
+"NBNORG0000095012","Dicyphus (Dicyphus) constrictus","mature",1,7,30,9
+"NBNORG0000095013","Dicyphus (Dicyphus) epilobii","mature",1,5,30,11
+"NBNORG0000095014","Dicyphus (Dicyphus) errans","mature",1,6,31,10
+"NBNORG0000095035","Dryophilocoris (Dryophilocoris) flavoquadrimaculatus","mature",1,5,31,7
+"NBNORG0000095053","Empicoris baerensprungi","mature",1,6,31,8
+"NBNORG0000095064","Europiella artemisiae","mature",1,6,31,10
+"NBNORG0000095065","Europiella decolor","mature",1,6,31,10
+"NBNORG0000095081","Fieberocapsus flaveolus","mature",1,6,30,9
+"NBNORG0000095109","Globiceps (Kelidocoris) flavomaculatus","mature",1,6,30,9
+"NBNORG0000095110","Globiceps (Kelidocoris) fulvicollis subsp. cruciatus","mature",1,7,30,9
+"NBNORG0000095111","Globiceps (Kelidocoris) juniperi","mature",1,6,31,8
+"NBNORG0000095120","Hallodapus montandoni","mature",1,7,30,9
+"NBNORG0000095121","Hallodapus rufescens","mature",1,7,30,9
+"NBNORG0000095126","Halticus apterus","mature",1,6,31,8
+"NBNORG0000095127","Halticus luteicollis","mature",1,6,30,9
+"NBNORG0000095128","Halticus macrocephalus","mature",1,7,31,8
+"NBNORG0000095129","Halticus saltator","mature",1,7,30,9
+"NBNORG0000095146","Heterocordylus (Heterocordylus) genistae","mature",1,6,31,8
+"NBNORG0000095148","Heterocordylus (Heterocordylus) tibialis","mature",1,5,31,8
+"NBNORG0000095157","Himacerus (Anaptus) major","mature",1,3,30,11
+"NBNORG0000095161","Himacerus (Himacerus) apterus","mature",1,7,31,10
+"NBNORG0000095163","Himacerus (Stalia) boops","mature",1,6,30,9
+"NBNORG0000095167","Hoplomachus thunbergii","mature",1,6,31,7
+"NBNORG0000095174","Hypseloecus visci","mature",1,6,31,8
+"NBNORG0000095203","Leptopterna dolabrata","mature",1,4,30,9
+"NBNORG0000095204","Leptopterna ferrugata","mature",1,6,30,9
+"NBNORG0000095212","Lopus decolor","mature",1,6,31,8
+"NBNORG0000095214","Loricula elegantula","mature",1,6,31,10
+"NBNORG0000095227","Apolygus lucorum","mature",1,7,31,10
+"NBNORG0000095228","Apolygus spinolae","mature",1,6,30,9
+"NBNORG0000095230","Lygocoris (Lygocoris) pabulinus","mature",1,6,31,10
+"NBNORG0000095231","Lygocoris (Lygocoris) rugicollis","mature",1,6,30,9
+"NBNORG0000095233","Neolygus contaminatus","mature",1,4,31,10
+"NBNORG0000095234","Neolygus populi","mature",1,6,30,9
+"NBNORG0000095235","Neolygus viridis","mature",1,6,30,9
+"NBNORG0000095246","Macrolophus pygmaeus","mature",1,5,31,8
+"NBNORG0000095247","Macrolophus rubi","mature",1,7,31,8
+"NBNORG0000095254","Macrotylus (Alloeonycha) horvathi","mature",1,7,30,9
+"NBNORG0000095255","Macrotylus (Alloeonycha) paykulli","mature",1,5,30,9
+"NBNORG0000095256","Macrotylus (Alloeonycha) solitarius","mature",1,5,30,9
+"NBNORG0000095258","Malacocoris chlorizans","mature",1,6,31,10
+"NBNORG0000095261","Mecomma (Globicellus) dispar","mature",1,6,31,8
+"NBNORG0000095263","Mecomma (Mecomma) ambulans","mature",1,6,30,9
+"NBNORG0000095265","Megacoelum beckeri","mature",1,8,30,9
+"NBNORG0000095266","Megacoelum infusum","mature",1,7,31,10
+"NBNORG0000095268","Megaloceroea recticornis","mature",1,5,30,9
+"NBNORG0000095270","Megalocoleus molliculus","mature",1,6,30,9
+"NBNORG0000095271","Megalocoleus tanaceti","mature",1,6,30,9
+"NBNORG0000095277","Megalonotus emarginatus","mature",1,6,31,10
+"NBNORG0000095313","Miridius quadrivirgatus","mature",1,7,31,8
+"NBNORG0000095317","Miris striatus","mature",1,5,31,8
+"NBNORG0000095323","Monosynamma bohemanni","mature",1,6,30,9
+"NBNORG0000095324","Monosynamma maritimum","mature",1,6,30,9
+"NBNORG0000095325","Monosynamma sabulicola","mature",1,6,30,9
+"NBNORG0000095328","Myrmecoris gracilis","mature",1,6,31,8
+"NBNORG0000095330","Myrmedobia coleoptrata","mature",1,6,30,9
+"NBNORG0000095331","Myrmedobia distinguenda","mature",1,6,30,9
+"NBNORG0000095332","Myrmedobia exilis","mature",1,6,30,9
+"NBNORG0000095333","Myrmedobia inconspicua","mature",1,6,30,9
+"NBNORG0000095340","Nabis (Dolichonabis) limbatus","mature",1,6,31,10
+"NBNORG0000095342","Nabis (Limnonabis) lineatus","mature",1,6,31,10
+"NBNORG0000095344","Nabis (Nabicula) flavomarginatus","mature",1,5,31,10
+"NBNORG0000095373","Notostira elongata","mature",1,6,31,8
+"NBNORG0000095388","Odontoscelis (Odontoscelis) fuliginosa","mature",1,6,31,10
+"NBNORG0000095389","Odontoscelis (Odontoscelis) lineola","mature",1,6,31,10
+"NBNORG0000095398","Oncotylus (Oncotylus) viridiflavus","mature",1,6,30,9
+"NBNORG0000095413","Orthocephalus coriaceus","mature",1,6,31,8
+"NBNORG0000095414","Orthocephalus saltator","mature",1,7,30,9
+"NBNORG0000095418","Orthonotus rufifrons","mature",1,5,30,9
+"NBNORG0000095428","Orthotylus (Litocoris) ericetorum","mature",1,6,31,10
+"NBNORG0000095430","Orthotylus (Melanotrichus) flavosparsus","mature",1,6,30,9
+"NBNORG0000095431","Orthotylus (Melanotrichus) moncreaffi","mature",1,7,31,10
+"NBNORG0000095432","Orthotylus (Melanotrichus) rubidus","mature",1,7,31,10
+"NBNORG0000095434","Orthotylus (Orthotylus) flavinervis","mature",1,6,31,8
+"NBNORG0000095435","Orthotylus (Orthotylus) marginalis","mature",1,6,31,8
+"NBNORG0000095436","Orthotylus (Orthotylus) nassatus","mature",1,7,30,9
+"NBNORG0000095437","Orthotylus (Orthotylus) ochrotrichus","mature",1,7,30,9
+"NBNORG0000095438","Orthotylus (Orthotylus) prasinus","mature",1,7,30,9
+"NBNORG0000095439","Orthotylus (Orthotylus) tenellus","mature",1,6,31,8
+"NBNORG0000095440","Orthotylus (Orthotylus) virens","mature",1,7,30,9
+"NBNORG0000095441","Orthotylus (Orthotylus) viridinervis","mature",1,7,31,8
+"NBNORG0000095443","Orthotylus (Pachylops) adenocarpi","mature",1,6,30,9
+"NBNORG0000095444","Orthotylus (Pachylops) concolor","mature",1,7,30,9
+"NBNORG0000095445","Orthotylus (Pachylops) virescens","mature",1,7,30,9
+"NBNORG0000095447","Orthotylus (Pinocapsus) fuscescens","mature",1,6,31,8
+"NBNORG0000095449","Orthotylus (Pseudorthotylus) bilineatus","mature",1,7,30,9
+"NBNORG0000095455","Pachytomella parallela","mature",1,7,31,8
+"NBNORG0000095459","Pantilius (Pantilius) tunicatus","mature",1,8,31,10
+"NBNORG0000095465","Parapsallus vitellinus","mature",1,6,31,8
+"NBNORG0000095479","Phoenicocoris obscurellus","mature",1,6,31,8
+"NBNORG0000095484","Phylus (Phylus) coryli","mature",1,5,31,8
+"NBNORG0000095485","Phylus (Phylus) melanocephalus","mature",1,5,31,8
+"NBNORG0000095492","Phytocoris (Ktenocoris) insignis","mature",1,8,30,9
+"NBNORG0000095493","Phytocoris (Ktenocoris) ulmi","mature",1,6,31,10
+"NBNORG0000095494","Phytocoris (Ktenocoris) varipes","mature",1,6,31,10
+"NBNORG0000095496","Phytocoris (Phytocoris) dimidiatus","mature",1,6,30,11
+"NBNORG0000095497","Phytocoris (Phytocoris) longipennis","mature",1,7,31,10
+"NBNORG0000095498","Phytocoris (Phytocoris) pini","mature",1,7,31,10
+"NBNORG0000095499","Phytocoris (Phytocoris) populi","mature",1,7,31,10
+"NBNORG0000095500","Phytocoris (Phytocoris) reuteri","mature",1,7,30,9
+"NBNORG0000095501","Phytocoris (Phytocoris) tiliae","mature",1,6,31,10
+"NBNORG0000095510","Pilophorus cinnamopterus","mature",1,7,30,11
+"NBNORG0000095511","Pilophorus clavatus","mature",1,7,30,9
+"NBNORG0000095512","Pilophorus confusus","mature",1,7,31,8
+"NBNORG0000095513","Pilophorus perplexus","mature",1,7,31,10
+"NBNORG0000095517","Pinalitus rubricatus","mature",1,6,30,9
+"NBNORG0000095518","Pinalitus viscicola","mature",1,7,30,9
+"NBNORG0000095522","Pithanus maerkelii","mature",1,6,31,8
+"NBNORG0000095524","Placochilus seladonicus","mature",1,7,30,9
+"NBNORG0000095527","Plagiognathus (Plagiognathus) arbustorum","mature",1,6,30,9
+"NBNORG0000095528","Plagiognathus (Plagiognathus) chrysanthemi","mature",1,6,30,9
+"NBNORG0000095531","Platycranus (Genistocapsus) bicolor","mature",1,7,31,10
+"NBNORG0000095536","Plesiodema pinetella","mature",1,6,31,8
+"NBNORG0000095546","Polymerus (Poeciloscytus) palustris","mature",1,6,30,9
+"NBNORG0000095547","Polymerus (Poeciloscytus) unifasciatus","mature",1,6,30,9
+"NBNORG0000095549","Polymerus (Poeciloscytus) vulneratus","mature",1,8,30,9
+"NBNORG0000095551","Polymerus (Polymerus) nigrita","mature",1,6,30,9
+"NBNORG0000095558","Psallodema fieberi","mature",1,6,31,8
+"NBNORG0000095561","Psallus (Apocremnus) betuleti","mature",1,5,31,7
+"NBNORG0000095562","Psallus (Apocremnus) montanus","mature",1,6,31,7
+"NBNORG0000095564","Psallus (Hylopsallus) assimilis","mature",1,6,31,7
+"NBNORG0000095565","Psallus (Hylopsallus) perrisi","mature",1,6,31,8
+"NBNORG0000095567","Psallus (Hylopsallus) variabilis","mature",1,6,31,7
+"NBNORG0000095568","Psallus (Hylopsallus) wagneri","mature",1,6,31,7
+"NBNORG0000095570","Psallus (Mesopsallus) ambiguus","mature",1,5,31,8
+"NBNORG0000095572","Psallus (Phylidea) quercus","mature",1,6,31,8
+"NBNORG0000095574","Psallus (Pityopsallus) luridus","mature",1,6,31,8
+"NBNORG0000095576","Psallus (Psallus) albicinctus","mature",1,6,31,7
+"NBNORG0000095577","Psallus (Psallus) confusus","mature",1,5,31,8
+"NBNORG0000095578","Psallus (Psallus) falleni","mature",1,7,30,9
+"NBNORG0000095579","Psallus (Psallus) flavellus","mature",1,6,31,8
+"NBNORG0000095580","Psallus (Psallus) haematodes","mature",1,7,30,9
+"NBNORG0000095581","Psallus (Psallus) lepidus","mature",1,6,30,9
+"NBNORG0000095582","Psallus (Psallus) mollis","mature",1,6,31,8
+"NBNORG0000095583","Psallus (Psallus) salicis","mature",1,7,30,9
+"NBNORG0000095584","Psallus (Psallus) varians","mature",1,6,30,9
+"NBNORG0000095586","Pseudoloxops coccineus","mature",1,7,30,9
+"NBNORG0000095697","Stephanitis rhododendri","mature",1,6,31,10
+"NBNORG0000095699","Sthenarus rotermundi","mature",1,6,31,8
+"NBNORG0000095705","Strongylocoris leucocephalus","mature",1,6,31,8
+"NBNORG0000095706","Strongylocoris luridus","mature",1,6,31,8
+"NBNORG0000095710","Stygnocoris rusticus","mature",1,7,30,11
+"NBNORG0000095711","Stygnocoris sabulosus","mature",1,7,30,11
+"NBNORG0000095715","Systellonotus triguttatus","mature",1,5,31,8
+"NBNORG0000095727","Teratocoris antennatus","mature",1,7,31,10
+"NBNORG0000095728","Teratocoris caricis","mature",1,7,31,8
+"NBNORG0000095729","Teratocoris saundersi","mature",1,7,31,10
+"NBNORG0000095730","Teratocoris viridis","mature",1,6,31,8
+"NBNORG0000095748","Tinicephalus (Tinicephalus) hortulanus","mature",1,6,31,8
+"NBNORG0000095756","Trigonotylus caelestialium","mature",1,6,30,9
+"NBNORG0000095757","Trigonotylus psammaecolor","mature",1,6,31,8
+"NBNORG0000095758","Trigonotylus ruficornis","mature",1,6,30,9
+"NBNORG0000095766","Tupiocoris rhododendri","mature",1,6,30,9
+"NBNORG0000095771","Tuponia (Tuponia) mixticolor","mature",1,7,30,9
+"NBNORG0000095773","Tytthus pubescens","mature",1,8,30,9
+"NBNORG0000095774","Tytthus pygmaeus","mature",1,6,30,9
+"NBNORG0000095793","Zygimus nigriceps","mature",1,6,30,9
+"NBNORG0000101594","Heterotoma merioptera","mature",1,7,31,10
+"NBNORG0000101864","Salicarus (Salicarus) roseri","mature",1,6,31,8
+"NBNORG0000102985","Closterotomus norwegicus","mature",1,6,31,8
+"NBNORG0000104364","Rhabdomiris striatellus","mature",1,5,31,8
+"NBNORG0000108172","Conostethus venustus","mature",1,5,30,9

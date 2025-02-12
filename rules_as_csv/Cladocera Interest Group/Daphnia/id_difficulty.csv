@@ -1,2 +1,2 @@
-tvk,code,allow_org_key,rtvk,organism_key,taxon
-NHMSYS0001593474,3,,NHMSYS0001593474,NBNORG0000085643,Daphnia
+"organism_key","taxon","code"
+"NBNORG0000085643","Daphnia",3
