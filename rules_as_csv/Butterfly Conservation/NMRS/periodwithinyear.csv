@@ -12,36 +12,36 @@ NBNORG0000057241,Achlya flavicornis flavicornis,mature,15,2,15,5
 NBNORG0000008833,Achlya flavicornis galbanus,mature,15,2,15,5
 NBNORG0000008834,Achlya flavicornis scotica,mature,15,2,15,5
 NBNORG0000057242,Achroia grisella,mature,21,5,31,10
-NBNORG0000057243,Acleris abietana,mature,1,6,31,8
+NBNORG0000057243,Acleris abietana,mature,31,8,1,6
 NBNORG0000057244,Acleris aspersana,mature,1,7,30,9
 NBNORG0000041024,Acleris bergmanniana,mature,21,5,31,8
 NBNORG0000057245,Acleris caledoniana,mature,1,7,30,9
 NBNORG0000057246,Acleris comariana,mature,1,6,30,11
-NBNORG0000057247,Acleris cristana,mature,1,6,30,6
+NBNORG0000057247,Acleris cristana,mature,30,6,1,6
 NBNORG0000104244,Acleris effractana,mature,1,7,31,10
 NBNORG0000057248,Acleris emargana,mature,1,7,15,11
 NBNORG0000057249,Acleris ferrugana,mature,1,1,31,12
 NBNORG0000086926,Acleris ferrugana/notana,mature,1,1,31,12
 NBNORG0000041025,Acleris forsskaleana,mature,21,5,31,10
-NBNORG0000057250,Acleris hastiana,mature,1,5,31,5
+NBNORG0000057250,Acleris hastiana,mature,31,5,1,5
 NBNORG0000041026,Acleris holmiana,mature,1,7,31,8
-NBNORG0000057251,Acleris hyemana,mature,1,7,31,7
-NBNORG0000057252,Acleris kochiella,mature,1,5,31,5
+NBNORG0000057251,Acleris hyemana,mature,31,7,1,7
+NBNORG0000057252,Acleris kochiella,mature,31,5,1,5
 NBNORG0000057253,Acleris laterana,mature,21,6,31,10
 NBNORG0000086927,Acleris laterana/comariana,mature,1,6,30,11
-NBNORG0000057254,Acleris lipsiana,mature,1,6,31,7
-NBNORG0000057255,Acleris literana,mature,1,6,15,7
+NBNORG0000057254,Acleris lipsiana,mature,31,7,1,6
+NBNORG0000057255,Acleris literana,mature,15,7,1,6
 NBNORG0000057256,Acleris logiana,mature,1,1,31,12
 NBNORG0000057257,Acleris lorquiniana,mature,1,6,31,10
-NBNORG0000057258,Acleris maccana,mature,1,6,31,7
+NBNORG0000057258,Acleris maccana,mature,31,7,1,6
 NBNORG0000057259,Acleris notana,mature,1,1,31,12
 NBNORG0000057260,Acleris permutana,mature,1,8,30,9
 NBNORG0000057261,Acleris rhombana,mature,1,6,30,11
-NBNORG0000057262,Acleris rufana,mature,1,5,31,7
+NBNORG0000057262,Acleris rufana,mature,31,7,1,5
 NBNORG0000057263,Acleris schalleriana,mature,1,1,31,12
 NBNORG0000057264,Acleris shepherdana,mature,21,7,30,9
-NBNORG0000057265,Acleris sparsana,mature,1,4,31,7
-NBNORG0000057266,Acleris umbrana,mature,1,5,30,6
+NBNORG0000057265,Acleris sparsana,mature,31,7,1,4
+NBNORG0000057266,Acleris umbrana,mature,30,6,1,5
 NBNORG0000057267,Acleris variegana,mature,1,5,21,11
 NBNORG0000057268,Acompsia cinerella,mature,21,5,7,9
 NBNORG0000041027,Acompsia schmidtiellus,mature,1,7,31,8
@@ -54,12 +54,12 @@ NBNORG0000043514,Acrobasis marmorea,mature,21,5,31,8
 NBNORG0000059413,Acrobasis repandana,mature,1,6,7,9
 NBNORG0000043515,Acrobasis suavella,mature,21,5,7,9
 NBNORG0000059414,Acrobasis tumidana,mature,21,6,15,9
-NBNORG0000057273,Acrocercops brongniardella,mature,1,6,30,6
+NBNORG0000057273,Acrocercops brongniardella,mature,30,6,1,6
 NBNORG0000057274,Acroclita subsequana,mature,1,4,31,10
 NBNORG0000018479,Acrolepia autumnitella,mature,1,1,31,12
 NBNORG0000057276,Acrolepiopsis assectella,mature,1,1,31,12
-NBNORG0000057277,Acrolepiopsis betulella,mature,1,6,30,6
-NBNORG0000057278,Acrolepiopsis marcidella,mature,1,7,30,9
+NBNORG0000057277,Acrolepiopsis betulella,mature,30,6,1,6
+NBNORG0000057278,Acrolepiopsis marcidella,mature,30,9,1,7
 NBNORG0000009454,Acronicta aceris,mature,1,4,21,8
 NBNORG0000009456,Acronicta alni,mature,15,4,31,7
 NBNORG0000057279,Acronicta auricoma,mature,1,5,31,7
@@ -113,38 +113,38 @@ NBNORG0000057320,Aglossa pinguinalis,mature,1,5,15,10
 NBNORG0000058859,Agnoea flavifrontella,mature,1,5,31,7
 NBNORG0000058860,Agnoea josephinae,mature,1,6,31,8
 NBNORG0000058861,Agnoea subochreella,mature,1,5,31,7
-NBNORG0000057321,Agonopterix alstromeriana,mature,1,6,30,6
+NBNORG0000057321,Agonopterix alstromeriana,mature,30,6,1,6
 NBNORG0000057322,Agonopterix angelicella,mature,1,7,30,9
 NBNORG0000057323,Agonopterix arenella,mature,1,1,31,12
 NBNORG0000057324,Agonopterix assimilella,mature,1,4,30,9
 NBNORG0000057325,Agonopterix astrantiae,mature,1,7,31,8
 NBNORG0000057326,Agonopterix atomella,mature,21,4,7,7
 NBNORG0000057327,Agonopterix bipunctosa,mature,1,7,30,9
-NBNORG0000057328,Agonopterix capreolella,mature,1,6,31,7
-NBNORG0000057329,Agonopterix carduella,mature,1,6,30,6
-NBNORG0000057330,Agonopterix ciliella,mature,1,6,30,6
+NBNORG0000057328,Agonopterix capreolella,mature,31,7,1,6
+NBNORG0000057329,Agonopterix carduella,mature,30,6,1,6
+NBNORG0000057330,Agonopterix ciliella,mature,30,6,1,6
 NBNORG0000057331,Agonopterix cnicella,mature,1,6,30,9
 NBNORG0000057332,Agonopterix conterminella,mature,21,6,30,9
 NBNORG0000057333,Agonopterix curvipunctosa,mature,1,1,31,12
 NBNORG0000057334,Agonopterix heracliana,mature,1,1,31,12
 NBNORG0000041034,Agonopterix kaekeritziana,mature,1,7,30,9
-NBNORG0000057335,Agonopterix kuznetzovi,mature,1,6,21,7
+NBNORG0000057335,Agonopterix kuznetzovi,mature,21,7,1,6
 NBNORG0000057336,Agonopterix liturosa,mature,1,6,7,9
 NBNORG0000057337,Agonopterix nanatella,mature,1,7,31,8
 NBNORG0000057338,Agonopterix nervosa,mature,21,6,31,10
 NBNORG0000057339,Agonopterix ocellana,mature,1,1,31,12
-NBNORG0000057340,Agonopterix pallorella,mature,1,6,31,7
+NBNORG0000057340,Agonopterix pallorella,mature,31,7,1,6
 NBNORG0000057341,Agonopterix propinquella,mature,1,1,31,12
-NBNORG0000057342,Agonopterix purpurea,mature,1,7,31,7
+NBNORG0000057342,Agonopterix purpurea,mature,31,7,1,7
 NBNORG0000057343,Agonopterix putridella,mature,1,7,31,8
-NBNORG0000057344,Agonopterix rotundella,mature,1,6,31,7
-NBNORG0000057345,Agonopterix scopariella,mature,1,6,31,7
-NBNORG0000057346,Agonopterix subpropinquella,mature,1,6,30,6
-NBNORG0000041035,Agonopterix umbellana,mature,1,6,31,7
-NBNORG0000057347,Agonopterix yeatiana,mature,1,7,31,7
+NBNORG0000057344,Agonopterix rotundella,mature,31,7,1,6
+NBNORG0000057345,Agonopterix scopariella,mature,31,7,1,6
+NBNORG0000057346,Agonopterix subpropinquella,mature,30,6,1,6
+NBNORG0000041035,Agonopterix umbellana,mature,31,7,1,6
+NBNORG0000057347,Agonopterix yeatiana,mature,31,7,1,7
 NBNORG0000057348,Agriopis aurantiaria,mature,1,10,31,12
-NBNORG0000057349,Agriopis leucophaearia,mature,7,4,15,12
-NBNORG0000009237,Agriopis marginaria,mature,15,5,21,12
+NBNORG0000057349,Agriopis leucophaearia,mature,15,12,7,4
+NBNORG0000009237,Agriopis marginaria,mature,21,12,15,5
 NBNORG0000057350,Agriphila geniculea,mature,1,7,7,10
 NBNORG0000057351,Agriphila inquinatella,mature,15,6,30,9
 NBNORG0000018495,Agriphila latistria,mature,15,7,30,9
@@ -307,7 +307,7 @@ NBNORG0000059099,Aproaerema albipalpella,mature,1,7,31,7
 NBNORG0000057403,Aproaerema anthyllidella,mature,21,4,31,10
 NBNORG0000059100,Aproaerema cinctella,mature,21,5,31,7
 NBNORG0000059101,Aproaerema larseniella,mature,1,6,7,8
-NBNORG0000059102,Aproaerema polychromella,mature,1,8,30,11
+NBNORG0000059102,Aproaerema polychromella,mature,30,11,1,8
 NBNORG0000059103,Aproaerema sangiella,mature,21,5,7,9
 NBNORG0000059104,Aproaerema suecicella,mature,1,6,31,7
 NBNORG0000059105,Aproaerema taeniolella,mature,15,6,31,8
@@ -441,7 +441,7 @@ NBNORG0000057610,Bucculatrix cidarella,mature,1,5,30,6
 NBNORG0000057611,Bucculatrix cristatella,mature,1,5,31,8
 NBNORG0000057612,Bucculatrix demaryella,mature,1,5,30,6
 NBNORG0000041340,Bucculatrix frangutella,mature,1,6,31,7
-NBNORG0000006844,Bucculatrix humiliella,mature,1,6,21,7
+NBNORG0000006844,Bucculatrix humiliella,mature,21,7,1,6
 NBNORG0000057613,Bucculatrix maritima,mature,1,5,7,9
 NBNORG0000057614,Bucculatrix nigricomella,mature,21,4,31,8
 NBNORG0000057615,Bucculatrix thoracella,mature,21,4,31,8
@@ -471,17 +471,17 @@ NBNORG0000009421,Calophasia platyptera,mature,1,4,31,10
 NBNORG0000057623,Caloptilia alchimiella,mature,1,5,30,9
 NBNORG0000057624,Caloptilia azaleella,mature,1,4,30,11
 NBNORG0000057625,Caloptilia betulicola,mature,1,1,31,12
-NBNORG0000057626,Caloptilia cuculipennella,mature,1,7,31,8
-NBNORG0000057627,Caloptilia elongella,mature,1,5,31,5
+NBNORG0000057626,Caloptilia cuculipennella,mature,31,8,1,7
+NBNORG0000057627,Caloptilia elongella,mature,31,5,1,5
 NBNORG0000057628,Caloptilia falconipennella,mature,1,1,31,12
-NBNORG0000057629,Caloptilia hemidactylella,mature,1,6,30,6
+NBNORG0000057629,Caloptilia hemidactylella,mature,30,6,1,6
 NBNORG0000132272,Caloptilia honoratella,mature,1,4,30,9
 NBNORG0000057631,Caloptilia populetorum,mature,1,1,31,12
 NBNORG0000057632,Caloptilia robustella,mature,1,4,31,10
-NBNORG0000057633,Caloptilia rufipennella,mature,1,6,21,6
-NBNORG0000057634,Caloptilia semifascia,mature,1,6,21,6
+NBNORG0000057633,Caloptilia rufipennella,mature,21,6,1,6
+NBNORG0000057634,Caloptilia semifascia,mature,21,6,1,6
 NBNORG0000057635,Caloptilia stigmatella,mature,1,1,31,12
-NBNORG0000057637,Calybites phasianipennella,mature,1,5,15,7
+NBNORG0000057637,Calybites phasianipennella,mature,15,7,1,5
 NBNORG0000009254,Campaea margaritaria,mature,15,5,21,10
 NBNORG0000059569,Camptogramma bilineata,mature,7,5,30,9
 NBNORG0000057640,Capperia britanniodactylus,mature,7,6,15,8
@@ -492,7 +492,7 @@ NBNORG0000105622,Caradrina kadenii,mature,21,5,7,11
 NBNORG0000009531,Caradrina morpheus,mature,1,5,31,10
 NBNORG0000057643,Carcina quercana,mature,1,5,7,12
 NBNORG0000041375,Carpatolechia alburnella,mature,1,6,31,8
-NBNORG0000041376,Carpatolechia decorella,mature,1,6,21,6
+NBNORG0000041376,Carpatolechia decorella,mature,21,6,1,6
 NBNORG0000041377,Carpatolechia fugitivella,mature,1,6,31,8
 NBNORG0000041378,Carpatolechia notatella,mature,7,5,31,7
 NBNORG0000041379,Carpatolechia proximella,mature,21,4,31,7
@@ -505,7 +505,7 @@ NBNORG0000041381,Caryocolum blandelloides,mature,1,8,7,9
 NBNORG0000057648,Caryocolum blandulella,mature,15,7,31,8
 NBNORG0000057649,Caryocolum fraternella,mature,1,6,31,8
 NBNORG0000057650,Caryocolum huebneri,mature,1,7,31,8
-NBNORG0000057651,Caryocolum junctella,mature,1,6,31,7
+NBNORG0000057651,Caryocolum junctella,mature,31,7,1,6
 NBNORG0000057652,Caryocolum kroesmanniella,mature,15,7,31,8
 NBNORG0000057653,Caryocolum marmorea,mature,21,5,30,9
 NBNORG0000057654,Caryocolum proxima,mature,21,6,31,8
@@ -574,12 +574,12 @@ NBNORG0000057288,Chloantha hyperici,mature,1,5,7,8
 NBNORG0000108233,Chlorissa cloraria,mature,21,5,7,7
 NBNORG0000009067,Chlorissa viridata,mature,15,5,31,7
 NBNORG0000057706,Chlorochlamys chloroleucaria,mature,1,5,30,11
-NBNORG0000009133,Chloroclysta miata,mature,1,7,31,7
-NBNORG0000009132,Chloroclysta siterata,mature,1,7,31,7
+NBNORG0000009133,Chloroclysta miata,mature,31,7,1,7
+NBNORG0000009132,Chloroclysta siterata,mature,31,7,1,7
 NBNORG0000009192,Chloroclystis v-ata,mature,21,3,15,9
 NBNORG0000041514,Choreutis diana,mature,21,7,31,8
 NBNORG0000117211,Choreutis nemorana,mature,1,7,31,8
-NBNORG0000041515,Choreutis pariana,mature,7,5,31,5
+NBNORG0000041515,Choreutis pariana,mature,31,5,7,5
 NBNORG0000057709,Choristoneura diversana,mature,1,6,31,7
 NBNORG0000057710,Choristoneura hebenstreitella,mature,1,5,31,7
 NBNORG0000057711,Choristoneura lafauryana,mature,1,7,31,8
@@ -748,7 +748,7 @@ NBNORG0000057832,Coleophora wockeella,mature,1,6,31,7
 NBNORG0000041598,Coleotechnites piceaella,mature,1,6,31,7
 NBNORG0000057836,Colobochyla salicalis,mature,21,5,15,7
 NBNORG0000009549,Colocasia coryli,mature,21,3,31,8
-NBNORG0000009141,Colostygia multistrigaria,mature,1,6,15,12
+NBNORG0000009141,Colostygia multistrigaria,mature,15,12,1,6
 NBNORG0000057838,Colostygia olivata,mature,7,6,15,9
 NBNORG0000009142,Colostygia pectinataria,mature,15,4,31,10
 NBNORG0000057839,Colotois pennaria,mature,1,9,31,12
@@ -756,18 +756,18 @@ NBNORG0000057840,Comibaena bajularia,mature,1,5,21,7
 NBNORG0000057841,Commophila aeneana,mature,1,5,31,7
 NBNORG0000117410,Conisania andalusica andalusica,mature,7,5,7,8
 NBNORG0000117411,Conisania andalusica barrettii,mature,7,5,7,8
-NBNORG0000057842,Conistra erythrocephala,mature,15,4,15,10
-NBNORG0000009442,Conistra ligula,mature,21,4,15,9
-NBNORG0000057843,Conistra rubiginea,mature,21,5,21,9
-NBNORG0000108466,Conistra rubiginosa,mature,15,4,15,10
-NBNORG0000057844,Conistra vaccinii,mature,31,5,31,8
+NBNORG0000057842,Conistra erythrocephala,mature,15,10,15,4
+NBNORG0000009442,Conistra ligula,mature,15,9,21,4
+NBNORG0000057843,Conistra rubiginea,mature,21,9,21,5
+NBNORG0000108466,Conistra rubiginosa,mature,15,10,15,4
+NBNORG0000057844,Conistra vaccinii,mature,31,8,31,5
 NBNORG0000041890,Coptotriche angusticollella,mature,1,5,30,6
 NBNORG0000041891,Coptotriche gaunacella,mature,1,5,30,6
 NBNORG0000041892,Coptotriche heinemanni,mature,1,8,31,8
 NBNORG0000041893,Coptotriche marginea,mature,15,4,15,9
 NBNORG0000009371,Coranarta cordigera,mature,15,4,7,6
 NBNORG0000057845,Corcyra cephalonica,mature,1,6,31,10
-NBNORG0000117503,Cornifrons ulceratalis,mature,7,3,30,11
+NBNORG0000117503,Cornifrons ulceratalis,mature,30,11,7,3
 NBNORG0000041627,Cornutiplusia circumflexa,mature,1,1,31,12
 NBNORG0000009312,Coscinia cribraria,mature,15,6,31,7
 NBNORG0000008864,Coscinia cribraria arenaria,mature,15,6,31,7
@@ -858,7 +858,7 @@ NBNORG0000057904,Dahlica lichenella,mature,1,4,31,5
 NBNORG0000057905,Dahlica triquetrella,mature,1,3,30,4
 NBNORG0000009269,Daphnis nerii,mature,21,8,21,11
 NBNORG0000058133,Dasycera oliviella,mature,1,6,31,7
-NBNORG0000009424,Dasypolia templi,mature,21,5,21,8
+NBNORG0000009424,Dasypolia templi,mature,21,8,21,5
 NBNORG0000057908,Dasystoma salicella,mature,1,3,30,4
 NBNORG0000009271,Deilephila elpenor,mature,7,5,31,8
 NBNORG0000009272,Deilephila porcellus,mature,1,5,7,8
@@ -874,20 +874,20 @@ NBNORG0000041756,Denisia augustella,mature,15,4,21,6
 NBNORG0000041757,Denisia similella,mature,1,6,31,8
 NBNORG0000041758,Denisia subaquilea,mature,21,5,31,7
 NBNORG0000041522,Denticucullus pygmina,mature,15,6,31,10
-NBNORG0000057909,Depressaria albipunctella,mature,1,6,31,7
+NBNORG0000057909,Depressaria albipunctella,mature,31,7,1,6
 NBNORG0000057910,Depressaria badiella,mature,15,6,21,10
-NBNORG0000057911,Depressaria chaerophylli,mature,1,6,21,7
-NBNORG0000057912,Depressaria daucella,mature,1,6,30,6
-NBNORG0000057913,Depressaria depressana,mature,1,5,31,8
-NBNORG0000057914,Depressaria discipunctella,mature,1,5,31,8
+NBNORG0000057911,Depressaria chaerophylli,mature,21,7,1,6
+NBNORG0000057912,Depressaria daucella,mature,30,6,1,6
+NBNORG0000057913,Depressaria depressana,mature,31,8,1,5
+NBNORG0000057914,Depressaria discipunctella,mature,31,8,1,5
 NBNORG0000057915,Depressaria douglasella,mature,1,7,30,9
-NBNORG0000057917,Depressaria olerella,mature,1,5,31,7
-NBNORG0000057919,Depressaria pimpinellae,mature,1,6,31,8
+NBNORG0000057917,Depressaria olerella,mature,31,7,1,5
+NBNORG0000057919,Depressaria pimpinellae,mature,31,8,1,6
 NBNORG0000041759,Depressaria pulcherrimella,mature,21,6,30,9
-NBNORG0000057918,Depressaria radiella,mature,1,7,21,7
-NBNORG0000057920,Depressaria silesiaca,mature,1,5,31,7
+NBNORG0000057918,Depressaria radiella,mature,21,7,1,7
+NBNORG0000057920,Depressaria silesiaca,mature,31,7,1,5
 NBNORG0000057921,Depressaria sordidatella,mature,1,7,7,9
-NBNORG0000057922,Depressaria ultimella,mature,1,6,31,7
+NBNORG0000057922,Depressaria ultimella,mature,31,7,1,6
 NBNORG0000009554,Diachrysia chrysitis,mature,1,5,31,10
 NBNORG0000009555,Diachrysia chryson,mature,15,6,15,8
 NBNORG0000009317,Diacrisia sannio,mature,15,5,7,9
@@ -949,7 +949,7 @@ NBNORG0000009051,Drepana falcataria,mature,15,4,31,10
 NBNORG0000041845,Dryadaula pactolia,mature,1,3,30,11
 NBNORG0000057965,Drymonia dodonaea,mature,1,4,21,7
 NBNORG0000057966,Drymonia ruficornis,mature,21,3,21,6
-NBNORG0000006878,Dryobota labecula,mature,7,1,21,9
+NBNORG0000006878,Dryobota labecula,mature,21,9,7,1
 NBNORG0000009437,Dryobotodes eremita,mature,1,8,30,11
 NBNORG0000108235,Dryobotodes roboris,mature,1,9,30,11
 NBNORG0000117385,Dryobotodes tenebrosa,mature,15,9,31,10
@@ -1110,7 +1110,7 @@ NBNORG0000058085,Epinotia bilunana,mature,21,5,31,8
 NBNORG0000058086,Epinotia brunnichana,mature,1,7,7,10
 NBNORG0000058087,Epinotia caprana,mature,21,7,31,10
 NBNORG0000117236,Epinotia cinereana,mature,1,7,30,9
-NBNORG0000058088,Epinotia crenana,mature,1,5,31,7
+NBNORG0000058088,Epinotia crenana,mature,31,7,1,5
 NBNORG0000058089,Epinotia cruciana,mature,1,5,31,8
 NBNORG0000058090,Epinotia demarniana,mature,21,5,31,7
 NBNORG0000058091,Epinotia fraternana,mature,1,5,15,8
@@ -1149,7 +1149,7 @@ NBNORG0000058116,Epirrita dilutata,mature,1,9,15,12
 NBNORG0000086951,Epirrita dilutata agg.,mature,21,8,15,12
 NBNORG0000058117,Epirrita filigrammaria,mature,15,8,31,10
 NBNORG0000018504,Epischnia asteris,mature,1,6,30,9
-NBNORG0000009238,Erannis defoliaria,mature,15,4,1,9
+NBNORG0000009238,Erannis defoliaria,mature,1,9,15,4
 NBNORG0000058123,Eremobia ochroleuca,mature,21,6,7,9
 NBNORG0000041928,Eriocrania cicatricella,mature,1,4,30,4
 NBNORG0000058125,Eriocrania salopiella,mature,1,4,31,5
@@ -1285,7 +1285,7 @@ NBNORG0000058220,Eupoecilia angustana angustana,mature,1,6,30,9
 NBNORG0000041990,Eupoecilia angustana thuleana,mature,1,6,30,9
 NBNORG0000009295,Euproctis chrysorrhoea,mature,15,6,31,10
 NBNORG0000009296,Euproctis similis,mature,1,6,31,10
-NBNORG0000009441,Eupsilia transversa,mature,15,5,7,9
+NBNORG0000009441,Eupsilia transversa,mature,7,9,15,5
 NBNORG0000018505,Eurhodope cirrigerella,mature,21,6,15,8
 NBNORG0000009369,Eurois occulta,mature,15,6,15,9
 NBNORG0000041939,Euspilapteryx auroguttella,mature,1,4,7,10
@@ -1306,7 +1306,7 @@ NBNORG0000058233,Evergestis forficalis,mature,21,4,30,9
 NBNORG0000058234,Evergestis limbata,mature,21,5,7,9
 NBNORG0000058235,Evergestis pallidata,mature,21,6,31,8
 NBNORG0000058236,Exaeretia allisella,mature,1,7,31,8
-NBNORG0000058237,Exaeretia ciniflonella,mature,1,5,30,6
+NBNORG0000058237,Exaeretia ciniflonella,mature,30,6,1,5
 NBNORG0000058238,Exapate congelatella,mature,1,10,31,12
 NBNORG0000058239,Exoteleia dodecella,mature,1,6,15,8
 NBNORG0000009509,Fabula zollikoferi,mature,1,9,30,9
@@ -1417,7 +1417,7 @@ NBNORG0000042123,Helcystogramma lutatella,mature,1,7,31,8
 NBNORG0000042124,Helcystogramma rufescens,mature,1,6,7,9
 NBNORG0000116220,Helcystogramma triannulella,mature,1,1,31,12
 NBNORG0000058300,Helicoverpa armigera,mature,7,6,15,11
-NBNORG0000058301,Heliodines roesella,mature,1,6,30,6
+NBNORG0000058301,Heliodines roesella,mature,30,6,1,6
 NBNORG0000009539,Heliothis maritima,mature,7,6,15,7
 NBNORG0000058304,Heliothis maritima bulgarica,mature,7,6,15,7
 NBNORG0000058305,Heliothis maritima maritima,mature,7,6,15,7
@@ -1528,10 +1528,10 @@ NBNORG0000058372,Ischnoscia borreonella,mature,21,7,7,8
 NBNORG0000058373,Isophrictis striatella,mature,1,7,31,8
 NBNORG0000058374,Isotrias rectifasciana,mature,1,5,7,8
 NBNORG0000009215,Isturgia limbaria,mature,1,5,31,8
-NBNORG0000058375,Jodia croceago,mature,15,5,1,10
+NBNORG0000058375,Jodia croceago,mature,1,10,15,5
 NBNORG0000009070,Jodis lactearia,mature,1,5,21,8
 NBNORG0000058376,Jordanita globulariae,mature,21,5,21,7
-NBNORG0000058379,Kessleria fasciapennella,mature,1,6,31,7
+NBNORG0000058379,Kessleria fasciapennella,mature,31,7,1,6
 NBNORG0000058380,Kessleria saxifragae,mature,1,6,31,8
 NBNORG0000101486,Korscheltellus fusconebulosa,mature,15,5,21,8
 NBNORG0000009011,Korscheltellus lupulina,mature,1,5,31,7
@@ -1586,7 +1586,7 @@ NBNORG0000058411,Leucospilapteryx omissella,mature,1,5,30,9
 NBNORG0000006846,Levipalpus hepatariella,mature,1,8,7,9
 NBNORG0000058412,Ligdia adustata,mature,21,3,15,9
 NBNORG0000058414,Limnaecia phragmitella,mature,21,6,7,9
-NBNORG0000086955,Lithophane consocia,mature,31,5,1,9
+NBNORG0000086955,Lithophane consocia,mature,1,9,31,5
 NBNORG0000009430,Lithophane furcifera,mature,31,5,1,9
 NBNORG0000008880,Lithophane furcifera furcifera,mature,31,5,1,9
 NBNORG0000008879,Lithophane furcifera suffusa,mature,31,5,1,9
@@ -1594,11 +1594,11 @@ NBNORG0000009431,Lithophane lamda,mature,1,9,31,10
 NBNORG0000059976,Lithophane leautieri,mature,1,9,30,11
 NBNORG0000009432,Lithophane leautieri hesperica,mature,15,9,30,11
 NBNORG0000058419,Lithophane leautieri leautieri,mature,15,9,30,11
-NBNORG0000059977,Lithophane ornitopus,mature,31,5,15,9
-NBNORG0000009429,Lithophane ornitopus lactipennis,mature,31,5,15,9
-NBNORG0000058420,Lithophane ornitopus ornitopus,mature,31,5,15,9
-NBNORG0000009427,Lithophane semibrunnea,mature,15,6,15,9
-NBNORG0000009428,Lithophane socia,mature,30,6,31,8
+NBNORG0000059977,Lithophane ornitopus,mature,15,9,31,5
+NBNORG0000009429,Lithophane ornitopus lactipennis,mature,15,9,31,5
+NBNORG0000058420,Lithophane ornitopus ornitopus,mature,15,9,31,5
+NBNORG0000009427,Lithophane semibrunnea,mature,15,9,15,6
+NBNORG0000009428,Lithophane socia,mature,31,8,30,6
 NBNORG0000009310,Lithosia quadra,mature,15,6,31,10
 NBNORG0000058422,Lithostege griseata,mature,1,4,31,7
 NBNORG0000009498,Litoligia literosa,mature,1,6,15,9
@@ -1639,7 +1639,7 @@ NBNORG0000009571,Lygephila pastinum,mature,7,6,7,8
 NBNORG0000009299,Lymantria dispar,mature,15,6,15,9
 NBNORG0000009298,Lymantria monacha,mature,21,6,30,9
 NBNORG0000058450,Lyonetia clerkella,mature,1,1,31,12
-NBNORG0000058451,Lyonetia prunifoliella,mature,1,6,31,7
+NBNORG0000058451,Lyonetia prunifoliella,mature,31,7,1,6
 NBNORG0000058453,Macaria alternata,mature,15,4,15,9
 NBNORG0000042225,Macaria brunneata,mature,15,5,31,7
 NBNORG0000042367,Macaria carbonaria,mature,15,4,7,6
@@ -1703,19 +1703,19 @@ NBNORG0000026737,Mniotype adusta,mature,1,5,31,8
 NBNORG0000057581,Mniotype satura,mature,1,7,31,10
 NBNORG0000041253,Mniotype solieri,mature,1,8,30,9
 NBNORG0000009453,Moma alpium,mature,7,5,21,7
-NBNORG0000042547,Mompha bradleyi,mature,1,6,31,8
+NBNORG0000042547,Mompha bradleyi,mature,31,8,1,6
 NBNORG0000058498,Mompha conturbatella,mature,1,6,31,8
-NBNORG0000058499,Mompha divisella,mature,1,7,31,7
+NBNORG0000058499,Mompha divisella,mature,31,7,1,7
 NBNORG0000058500,Mompha epilobiella,mature,1,1,31,12
-NBNORG0000058501,Mompha jurassicella,mature,1,6,31,8
+NBNORG0000058501,Mompha jurassicella,mature,31,8,1,6
 NBNORG0000058502,Mompha lacteella,mature,1,5,31,8
-NBNORG0000058503,Mompha langiella,mature,15,5,15,7
+NBNORG0000058503,Mompha langiella,mature,15,7,15,5
 NBNORG0000058504,Mompha locupletella,mature,1,5,30,9
 NBNORG0000058505,Mompha miscella,mature,1,5,30,9
 NBNORG0000058506,Mompha ochraceella,mature,21,5,31,7
 NBNORG0000058507,Mompha propinquella,mature,1,6,7,9
 NBNORG0000058508,Mompha raschkiella,mature,1,5,30,9
-NBNORG0000042548,Mompha sturnipennella,mature,1,6,30,6
+NBNORG0000042548,Mompha sturnipennella,mature,30,6,1,6
 NBNORG0000058509,Mompha subbistrigella,mature,1,1,31,12
 NBNORG0000058510,Mompha terminella,mature,1,6,7,7
 NBNORG0000058511,Monochroa arundinetella,mature,1,6,7,8
@@ -1823,7 +1823,7 @@ NBNORG0000009302,Nudaria mundana,mature,1,6,21,8
 NBNORG0000058592,Nyctegretis lineana,mature,21,6,15,9
 NBNORG0000086956,Nycteola asiatica,mature,1,9,15,9
 NBNORG0000011643,Nycteola revayana,mature,1,2,30,11
-NBNORG0000132276,Nycteola siculana,mature,1,6,1,7
+NBNORG0000132276,Nycteola siculana,mature,1,7,1,6
 NBNORG0000009104,Nycterosea obstipata,mature,1,4,15,12
 NBNORG0000058595,Nymphula nitidulata,mature,21,5,15,9
 NBNORG0000009058,Ochropacha duplaris,mature,21,4,7,9
@@ -1854,12 +1854,12 @@ NBNORG0000009495,Oligia strigilis,mature,1,5,31,8
 NBNORG0000009496,Oligia versicolor,mature,15,5,21,8
 NBNORG0000058628,Olindia schumacherana,mature,1,6,30,9
 NBNORG0000018502,Oncocera semirubella,mature,15,6,15,10
-NBNORG0000009154,Operophtera brumata,mature,1,3,30,9
-NBNORG0000009155,Operophtera fagata,mature,15,1,30,9
+NBNORG0000009154,Operophtera brumata,mature,30,9,1,3
+NBNORG0000009155,Operophtera fagata,mature,30,9,15,1
 NBNORG0000009220,Opisthograptis luteolata,mature,1,4,31,10
 NBNORG0000097729,Opogona omoscopa,mature,21,8,31,10
 NBNORG0000058632,Opostega salaciella,mature,15,5,31,8
-NBNORG0000058633,Opostega spatulella,mature,1,7,31,7
+NBNORG0000058633,Opostega spatulella,mature,31,7,1,7
 NBNORG0000009292,Orgyia antiqua,mature,1,6,15,11
 NBNORG0000058635,Orgyia recens,mature,15,6,7,7
 NBNORG0000058636,Oria musculosa,mature,21,7,15,8
@@ -2019,7 +2019,7 @@ NBNORG0000058620,Phiaris obsoletana,mature,1,6,31,7
 NBNORG0000058622,Phiaris palustrana,mature,21,5,31,8
 NBNORG0000058623,Phiaris schulziana,mature,1,6,31,8
 NBNORG0000009102,Phibalapteryx virgata,mature,1,4,15,9
-NBNORG0000058744,Phigalia pilosaria,mature,30,4,31,10
+NBNORG0000058744,Phigalia pilosaria,mature,31,10,30,4
 NBNORG0000058745,Philedone gerningana,mature,1,7,30,9
 NBNORG0000058746,Philedonides lunana,mature,1,3,31,5
 NBNORG0000009149,Philereme transversata,mature,15,6,15,8
@@ -2049,18 +2049,18 @@ NBNORG0000058756,Phycita roborella,mature,1,6,30,9
 NBNORG0000058758,Phycitodes binaevella,mature,21,5,15,9
 NBNORG0000058759,Phycitodes maritima,mature,1,5,7,9
 NBNORG0000058760,Phycitodes saxicola,mature,21,5,15,9
-NBNORG0000108227,Phyllocnistis ramulicola,mature,1,7,31,8
-NBNORG0000058762,Phyllocnistis saligna,mature,1,5,31,5
+NBNORG0000108227,Phyllocnistis ramulicola,mature,31,8,1,7
+NBNORG0000058762,Phyllocnistis saligna,mature,31,5,1,5
 NBNORG0000058763,Phyllocnistis unipunctella,mature,1,1,31,12
-NBNORG0000058764,Phyllocnistis xenia,mature,1,6,30,6
+NBNORG0000058764,Phyllocnistis xenia,mature,30,6,1,6
 NBNORG0000009047,Phyllodesma ilicifolia,mature,21,4,31,5
 NBNORG0000042885,Phyllonorycter acerifoliella,mature,1,5,31,8
 NBNORG0000058765,Phyllonorycter anderidae,mature,1,6,30,9
-NBNORG0000122538,Phyllonorycter apparella,mature,1,7,31,7
+NBNORG0000122538,Phyllonorycter apparella,mature,31,7,1,7
 NBNORG0000058766,Phyllonorycter blancardella,mature,1,3,15,10
 NBNORG0000058767,Phyllonorycter cavella,mature,1,5,31,7
 NBNORG0000058768,Phyllonorycter cerasicolella,mature,1,5,31,8
-NBNORG0000058769,Phyllonorycter comparella,mature,1,6,31,7
+NBNORG0000058769,Phyllonorycter comparella,mature,31,7,1,6
 NBNORG0000058770,Phyllonorycter coryli,mature,1,5,30,9
 NBNORG0000058771,Phyllonorycter corylifoliella,mature,1,4,31,10
 NBNORG0000058773,Phyllonorycter distentella,mature,1,6,30,6
@@ -2094,7 +2094,7 @@ NBNORG0000058792,Phyllonorycter quercifoliella,mature,15,3,15,10
 NBNORG0000058794,Phyllonorycter quinqueguttella,mature,1,5,31,8
 NBNORG0000058795,Phyllonorycter rajella,mature,1,4,30,9
 NBNORG0000058796,Phyllonorycter roboris,mature,1,6,30,6
-NBNORG0000058797,Phyllonorycter sagitella,mature,1,7,30,9
+NBNORG0000058797,Phyllonorycter sagitella,mature,30,9,1,7
 NBNORG0000058798,Phyllonorycter salicicolella,mature,15,4,15,9
 NBNORG0000058800,Phyllonorycter scabiosella,mature,1,5,30,9
 NBNORG0000058801,Phyllonorycter schreberella,mature,1,5,31,8
@@ -2138,7 +2138,7 @@ NBNORG0000058836,Plusia putnami putnami,mature,7,6,15,9
 NBNORG0000058838,Plutella haasi,mature,1,7,31,7
 NBNORG0000058839,Plutella porrectella,mature,21,4,31,10
 NBNORG0000058840,Plutella xylostella,mature,1,1,31,12
-NBNORG0000009037,Poecilocampa populi,mature,21,1,1,10
+NBNORG0000009037,Poecilocampa populi,mature,1,10,21,1
 NBNORG0000009375,Polia bombycina,mature,1,6,31,7
 NBNORG0000009376,Polia hepatica,mature,1,6,31,7
 NBNORG0000009377,Polia nebulosa,mature,21,5,15,8
@@ -2231,9 +2231,9 @@ NBNORG0000009145,Rheumaptera hastata,mature,1,5,21,7
 NBNORG0000070479,Rheumaptera hastata hastata,mature,1,5,21,7
 NBNORG0000070480,Rheumaptera hastata nigrescens,mature,1,5,21,7
 NBNORG0000009147,Rheumaptera undulata,mature,1,6,31,8
-NBNORG0000058905,Rhigognostis annulatella,mature,1,4,21,6
-NBNORG0000058906,Rhigognostis incarnatella,mature,15,7,15,8
-NBNORG0000058907,Rhigognostis senilella,mature,1,6,30,6
+NBNORG0000058905,Rhigognostis annulatella,mature,21,6,1,4
+NBNORG0000058906,Rhigognostis incarnatella,mature,15,8,15,7
+NBNORG0000058907,Rhigognostis senilella,mature,30,6,1,6
 NBNORG0000058908,Rhizedra lutosa,mature,15,7,15,11
 NBNORG0000009100,Rhodometra sacraria,mature,1,4,21,11
 NBNORG0000058718,Rhodophaea formosa,mature,21,5,30,9
@@ -2477,7 +2477,7 @@ NBNORG0000009563,Syngrapha interrogationis,mature,15,6,15,9
 NBNORG0000009534,Synthymia fixa,mature,1,4,31,7
 NBNORG0000043404,Tachystola acroxantha,mature,1,4,31,12
 NBNORG0000059109,Taleporia tubulosa,mature,21,5,30,6
-NBNORG0000009464,Tathorhynchus exsiccata,mature,7,5,15,12
+NBNORG0000009464,Tathorhynchus exsiccata,mature,15,12,7,5
 NBNORG0000059111,Tebenna micalis,mature,1,7,31,10
 NBNORG0000059113,Telechrysis tripuncta,mature,21,5,30,6
 NBNORG0000059114,Teleiodes flavimaculella,mature,1,5,31,7
@@ -2508,7 +2508,7 @@ NBNORG0000117276,Thera juniperata orcadensis,mature,15,9,15,11
 NBNORG0000117275,Thera juniperata scotica,mature,15,9,15,11
 NBNORG0000059133,Thera obeliscata,mature,1,4,30,11
 NBNORG0000108161,Thera vetustata,mature,15,6,15,10
-NBNORG0000009253,Theria primaria,mature,21,4,21,12
+NBNORG0000009253,Theria primaria,mature,21,12,21,4
 NBNORG0000059477,Thetidia smaragdaria,mature,15,6,15,7
 NBNORG0000117307,Thetidia smaragdaria maritima,mature,15,6,15,7
 NBNORG0000117306,Thetidia smaragdaria smaragdaria,mature,15,6,15,7
@@ -2539,7 +2539,7 @@ NBNORG0000059161,Tischeria ekebladella,mature,15,4,30,9
 NBNORG0000059164,Tortricodes alternella,mature,1,1,30,4
 NBNORG0000059166,Tortrix viridana,mature,15,5,31,7
 NBNORG0000009472,Trachea atriplicis,mature,21,5,15,10
-NBNORG0000129700,Trachypepla contritella,mature,1,2,31,10
+NBNORG0000129700,Trachypepla contritella,mature,31,10,1,2
 NBNORG0000059167,Triaxomasia caprimulgella,mature,1,6,15,8
 NBNORG0000059168,Triaxomera fulvimitrella,mature,1,5,31,7
 NBNORG0000059169,Triaxomera parasitella,mature,1,5,31,7
@@ -2556,7 +2556,7 @@ NBNORG0000043541,Trifurcula squamatella,mature,1,8,31,8
 NBNORG0000043542,Trifurcula subnitidella,mature,1,5,7,9
 NBNORG0000009438,Trigonophora flammea,mature,21,9,15,11
 NBNORG0000009009,Triodia sylvina,mature,21,6,21,9
-NBNORG0000009148,Triphosa dubitata,mature,15,6,15,7
+NBNORG0000009148,Triphosa dubitata,mature,15,7,15,6
 NBNORG0000059179,Trisateles emortualis,mature,1,6,7,8
 NBNORG0000108229,Tuta absoluta,mature,1,4,31,12
 NBNORG0000009327,Tyria jacobaeae,mature,15,4,15,8
@@ -2613,9 +2613,9 @@ NBNORG0000009366,Xestia sexstrigata,mature,21,6,21,9
 NBNORG0000009365,Xestia stigmatica,mature,21,6,15,9
 NBNORG0000009363,Xestia triangulum,mature,15,5,15,9
 NBNORG0000059207,Xestia xanthographa,mature,1,6,31,10
-NBNORG0000009433,Xylena exsoleta,mature,7,6,1,9
+NBNORG0000009433,Xylena exsoleta,mature,1,9,7,6
 NBNORG0000058417,Xylena solidaginis,mature,1,8,15,10
-NBNORG0000059208,Xylena vetusta,mature,7,6,21,8
+NBNORG0000059208,Xylena vetusta,mature,21,8,7,6
 NBNORG0000009434,Xylocampa areola,mature,15,2,31,5
 NBNORG0000059209,Xystophora pulveratella,mature,1,5,30,6
 NBNORG0000059210,Yponomeuta cagnagella,mature,15,6,15,9
@@ -2627,7 +2627,7 @@ NBNORG0000059215,Yponomeuta plumbella,mature,1,7,30,9
 NBNORG0000059216,Yponomeuta rorrella,mature,1,7,31,8
 NBNORG0000043611,Yponomeuta sedella,mature,1,4,30,9
 NBNORG0000059219,Ypsolopha alpella,mature,1,7,31,10
-NBNORG0000059220,Ypsolopha asperella,mature,1,5,31,7
+NBNORG0000059220,Ypsolopha asperella,mature,31,7,1,5
 NBNORG0000059221,Ypsolopha dentella,mature,1,7,30,9
 NBNORG0000059222,Ypsolopha horridella,mature,1,7,30,9
 NBNORG0000059223,Ypsolopha lucella,mature,1,7,30,9
@@ -2645,7 +2645,7 @@ NBNORG0000043623,Zeiraphera griseana,mature,1,7,30,9
 NBNORG0000059233,Zeiraphera isertana,mature,21,5,15,9
 NBNORG0000043624,Zeiraphera ratzeburgiana,mature,21,6,30,9
 NBNORG0000059234,Zeiraphera rufimitrana,mature,1,7,31,7
-NBNORG0000059235,Zelleria hepariella,mature,1,5,30,6
+NBNORG0000059235,Zelleria hepariella,mature,30,6,1,5
 NBNORG0000117135,Zelleria oleastrella,mature,1,6,31,10
 NBNORG0000057380,Zelotherses paleana,mature,1,5,31,8
 NBNORG0000057381,Zelotherses unitana,mature,1,6,7,8
