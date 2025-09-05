@@ -29,7 +29,7 @@ The zip files cannot be served from Github because the Record Cleaner software
 does not support the https protocol.
 
 ## How to update rule files
-Clone the repository and apply updates to the files in the `rules` folder.
+Clone the repository and apply updates to the files in the `rules_as_csv` folder.
 Major updates are usually achieved by compiling information in a spreadsheet
 and running a script offline to create the rule files. The old files can be
 deleted and replaced by the new ones. When changes are complete they can be
