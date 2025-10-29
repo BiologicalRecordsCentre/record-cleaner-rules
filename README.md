@@ -2,33 +2,28 @@
 
 ## About
 The [NBN RecordCleaner](https://nbn.org.uk/tools-and-resources/nbn-toolbox/nbn-record-cleaner/)
-is a Windows application for checking species observations against rules drawn
+has been available as a Windows application for checking species observations against rules drawn
 up based on past observations and expert knowledge.
 
 The rules contain information such as where and when species can be observed
 so that records falling outside known ranges can be highlighted for additional 
 checking.
 
-The [Indicia Biological Recording System](http://www.indicia.org.uk/) has been
-developed so that it can apply these same rules to records and the
-www[iRecord website](https://www.brc.ac.uk/irecord/), in particular, uses them
-to flag exceptional records to the recorder and verifier.
+[Record Cleaner online](https://www.brc.ac.uk/record_cleaner) is now available, hosted within the UKCEH Biological Records Centre website. It uses the rules specified within this repository, derived from rules originally developed by national recording schemes, and previously available from NBN.
 
 Each rule for each species is stored in a small text file complying with the
-[specification](https://data.nbn.org.uk/recordcleaner/documentation/NBNRecordCleanerRuleGuide.pdf).
+[original specification](https://data.nbn.org.uk/recordcleaner/documentation/NBNRecordCleanerRuleGuide.pdf).
 
-There is a two-tier [index](https://data.nbn.org.uk/recordcleaner/rules/servers.txt)
-listing where rulesets for different recording schemes can be
-downloaded from. In practise they are all hosted by the NBN currently.
+The original ruleset files are available via an [index](https://data.nbn.org.uk/recordcleaner/rules/servers.txt) hosted by NBN.
 
-This repository has been created in retrospect to help manage updates to the
-rules. It contains the rule files themselves and scripts for bundling them in
-to zip files.
+This repository has been created to manage the rules for online use and for future updates. It contains the rule files themselves and scripts for bundling them into zip files.
 
-The zip files cannot be served from Github because the Record Cleaner software
-does not support the https protocol.
+[The zip files cannot be served from Github because the Record Cleaner software
+does not support the https protocol.]
 
 ## How to update rule files
+Rule files updates are normally overseen by the relevant national recording scheme, and BRC can support this process as required.
+
 Clone the repository and apply updates to the files in the `rules_as_csv` folder.
 Major updates are usually achieved by compiling information in a spreadsheet
 and running a script offline to create the rule files. The old files can be
