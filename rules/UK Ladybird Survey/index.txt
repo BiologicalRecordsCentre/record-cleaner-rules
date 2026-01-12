@@ -1,2 +1,0 @@
-<basepath>/UKLS/UKLS_IDifficulty.zip#Ladybird ID Difficulty#<date>
-<basepath>/UKLS/UKLS Ladybird rules.zip#Ladybird range, recording period and additional rules#<date>

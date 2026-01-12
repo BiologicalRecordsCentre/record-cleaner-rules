@@ -1,2 +1,0 @@
-<basepath>/ERS/ERS_IDifficulty.zip#Mayfly Adult ID Difficulty#<date>
-<basepath>/ERS/ERS Mayfly rules.zip#Mayfly range, recording and seasonal periods, and additional rules#<date>
