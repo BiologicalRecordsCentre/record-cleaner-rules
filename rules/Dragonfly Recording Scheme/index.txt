@@ -1,2 +1,0 @@
-<basepath>/DRN/DRN_IDifficulty.zip#Dragonfly ID Difficulty#<date>
-<basepath>/DRN/DRN Odonata Rules.zip#Dragonfly range, recording and flight periods#<date>

@@ -1,2 +1,0 @@
-<basepath>/GBRS/GBRS_IDifficulty.zip#Ground Beetle ID Difficulty#<date>
-<basepath>/GBRS/GBRS Ground Beetle rules.zip#Ground Beetle range, recording and seasonal periods rules#<date>
