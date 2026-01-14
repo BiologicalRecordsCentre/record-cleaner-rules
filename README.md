@@ -1,72 +1,118 @@
 # Record Cleaner Rules
 
 ## About
-The [NBN RecordCleaner](https://nbn.org.uk/tools-and-resources/nbn-toolbox/nbn-record-cleaner/)
-is a Windows application for checking species observations against rules drawn
-up based on past observations and expert knowledge.
+[Record Cleaner online](https://www.brc.ac.uk/record_cleaner) is a web
+application for checking species observations against rules drawn up based on
+past observations and expert knowledge. The app allows users to upload files
+with observation details and download the results of the checks. There is also
+a [Record Cleaner API](https://record-cleaner.brc.ac.uk/) to enable other
+applications to use the service.
 
-The rules contain information such as where and when species can be observed
-so that records falling outside known ranges can be highlighted for additional 
+The rules contain information such as where and when species can be observed so
+that records falling outside known ranges can be highlighted for additional
 checking.
 
-The [Indicia Biological Recording System](http://www.indicia.org.uk/) has been
-developed so that it can apply these same rules to records and the
-www[iRecord website](https://www.brc.ac.uk/irecord/), in particular, uses them
-to flag exceptional records to the recorder and verifier.
+The rules are specified within this repository, derived from rules
+originally developed by national recording schemes, and available from the
+[National Biodiversity
+Network](https://nbn.org.uk/tools-and-resources/tools-for-recording-and-mapping/nbn-toolbox/record-cleaner/).
 
-Each rule for each species is stored in a small text file complying with the
-[specification](https://data.nbn.org.uk/recordcleaner/documentation/NBNRecordCleanerRuleGuide.pdf).
+By editing the rules in this repo, they can be kept up to date with the current
+status of wildlife in the UK to help confirm the accuracy of new records.
 
-There is a two-tier [index](https://data.nbn.org.uk/recordcleaner/rules/servers.txt)
-listing where rulesets for different recording schemes can be
-downloaded from. In practise they are all hosted by the NBN currently.
+## Using Git
+It is not expected that rule editors will have an understanding of Git, the
+program used to manage changes in the repository. It is hoped that tools will
+be built to facilitate the editing or rules.
 
-This repository has been created in retrospect to help manage updates to the
-rules. It contains the rule files themselves and scripts for bundling them in
-to zip files.
-
-The zip files cannot be served from Github because the Record Cleaner software
-does not support the https protocol.
+For the developers of those tools, the envisaged workflow is
+ - A branch is created when a recording scheme plans to make rule updates.
+ - Commits are made within that branch for rule updates with a commit
+   message to justify them.
+ - A pull request is created when updates are complete allowing the scheme 
+   organiser to review changes before merging in to the master branch.
 
 ## How to update rule files
-Clone the repository and apply updates to the files in the `rules` folder.
-Major updates are usually achieved by compiling information in a spreadsheet
-and running a script offline to create the rule files. The old files can be
-deleted and replaced by the new ones. When changes are complete they can be
-committed and pushed.
+Rule file updates are normally overseen by the relevant national recording
+scheme, and BRC can support this process as required.
 
-### Rule generation scripts
-Traditionally, the creation of rules files from CSV has been done by BRC.
-Schemes can now do this for themselves with the scripts in this repository, by
-following [this procedure](scripts/README.md). There is a longer term ambition 
-for this to happen automatically upon committing CSV files.
+Either
+ - Use Git to clone the repository then apply updates to the files in the
+   `rules_as_csv` folder before committing and pushing them back to the repo.
+ - Edit the files via the github website.
+ - Use tools which are under development to assist with editing. Contact BRC for
+ the latest information.
 
-## How to package rule files
-To zip the rule files for a particular recording scheme,
- - execute the `./package.sh` script from the root folder with the scheme
-   abbreviation as an argument. e.g. `./package.sh bmig`
- - the ouput is stored by recording scheme in the `/zip` folder
+## Deploying rule updates
+For rule changes to go live the Record Cleaner API must be used to pull in
+changes. This can be done via the [Swagger UI for
+production](https://record-cleaner.brc.ac.uk/docs)
+(or [staging](https://record-cleaner.staging.ceh.ac.uk/docs)) or by a tool
+calling the UI.
 
- The folder names and structure within the zip file are chosen to maintain the
- organisation which the NBN already have in place to ensure on-going
- compatibility
+For deployment to work, the API needs to be pointed at the correct repo, branch,
+folder and sub-folder which is set in the Kubernetes cluster repositories for
+[staging](https://gitlab.ceh.ac.uk/infrastructure/k8s-clusters/k8s-eds-staging/-/blob/master/workloads/record-cleaner/deploy/client.yaml?ref_type=heads)
+and
+[production](https://gitlab.ceh.ac.uk/infrastructure/k8s-clusters/k8s-eds-prod/-/blob/main/workloads/record-cleaner/deploy/client.yaml?ref_type=heads)
 
-The package script is written for Linux users but variants for other operating
-systems could be easily created.
+Typically this would look like
+```yml
+ - name: RULES_REPO
+   value: "https://github.com/BiologicalRecordsCentre/record-cleaner-rules.git"
+ - name: RULES_BRANCH
+   value: "master"
+ - name: RULES_DIR
+   value: "record-cleaner-rules"
+ - name: RULES_SUBDIR
+   value: "rules_as_csv"
+ ```
+You might want to point staging at a dev branch to test some new rules.
 
-To zip the rule files for all schemes, execute the `./package-all.sh` script
-from the root directory.
+When doing the deployment, put the service in to maintenance mode. This prevents
+anyone from record cleaning while the rules are in an uncertain state and gives
+the update process sole use of the database. E.g.
+```sh
+curl -X 'POST' \
+  'https://record-cleaner.staging.ceh.ac.uk/maintenance' \
+  -H 'accept: application/json' \
+  -H 'Authorization: Bearer <token>' \
+  -H 'Content-Type: application/json' \
+  -d '{
+  "mode": true,
+  "message": "14/1/2026. Scheduled down-time to update rules."
+}'
+```
+The `<token>` is replaced by a value obtained from authenticating via the /token 
+end point.
 
-Zip files are not committed to the repository as it is not necessary to keep
-them under version control. If it is desirable to preserve them, they can be 
-attached to a [Github release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository).
+Initiate the update with the rules/update endpoint.
+```sh
+curl -X 'GET' \
+  'https://record-cleaner.staging.ceh.ac.uk/rules/update?full=false' \
+  -H 'accept: application/json' \
+  -H 'Authorization: Bearer <token>'
+```
 
-## Testing rule files
-You can serve the zip files locally by running `./serve.sh` which builds the 
-rule files and starts a docker container
-The top level index is then accessible at http://localhost:8080/servers.txt
+You can use the rules/update_result endpoint to monitor progress. When this 
+shows the update has finished, remove maintenance mode, e.g.
+```sh
+curl -X 'POST' \
+  'https://record-cleaner.staging.ceh.ac.uk/maintenance' \
+  -H 'accept: application/json' \
+  -H 'Authorization: Bearer <token>' \
+  -H 'Content-Type: application/json' \
+  -d '{
+  "mode": false,
+  "message": "Operating normally."
+}'
+```
 
-You can configure Record Cleaner to use your local rule server by
-editing `C:\Program Files (x86)\NBNRecordCleaner\NBNRecordCleaner.exe.config`
-In that file, replace `http://data.nbn.org.uk/recordcleaner/rules/servers.txt`
-with `http://localhost:8080/servers.txt`
+
+## Version control
+Git tracks every change committed to the rules with a unique reference. Record
+Cleaner reports, through the API, the reference of the version of rules it is
+currently using. If there are multiple instances of the Record Cleaner API then
+they may be operating with different versions of the rules. The BRC version of
+Record Cleaner online has a page for reporting its
+[status](https://www.brc.ac.uk/record_cleaner/status).
