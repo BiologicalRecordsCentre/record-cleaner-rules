@@ -3,9 +3,9 @@ title: ID Difficulty
 permalink: difficulty
 ---
 
-# ID Difficulty
+## ID Difficulty
 
-## difficulty_codes.csv
+### difficulty_codes.csv
 
 As the ID difficulty file contains all of the taxa covered be the rule sets, the
 codes describing recording difficulty should cover all of the species. Codes
@@ -19,7 +19,7 @@ code | text
 4    | Voucher specimen should be retained. Confirmation would be required in the majority of cases, e.g. specimen having been checked by an acknowledged expert. 
 5    | Even the most expert of recorders would seek a second opinion. Specimen may need to be passed on to further experts for comparison with a wider range of material. 
 
-## id_difficulty.csv
+### id_difficulty.csv
 
 Record Cleaner checks records against rules using organism keys. To check for
 the key for a species, visit

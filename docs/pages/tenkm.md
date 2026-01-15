@@ -3,11 +3,11 @@ title: 10km Distribution
 permalink: tenkm
 ---
 
-# 10km Distribution 
+## 10km Distribution 
 
 This file will flag records outside of the 10km squares specified.  
 
-## tenkm.csv 
+### tenkm.csv 
 
 For each taxa, create a row for each 100 km square that it can be recorded in.
 Then list every 10km square that the species could be recorded in the next

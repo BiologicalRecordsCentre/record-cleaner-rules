@@ -3,13 +3,13 @@ title: Additional Checks
 permalink: additional
 ---
 
-# Additional Checks 
+## Additional Checks 
 
 This check is for taxa that you would like to be flagged for additional or more rigorous verification checks, even if they pass all the other checks. One example of this would be a rare species that is easy to identify (so would not be flagged under id_difficulty). 
 
 This check requires 2 files. 
 
-## additional_codes.csv 
+### additional_codes.csv 
 
 The column “code” should contain numbers (starting from 1). Assign each code a
 “text” value. This should be a short description of why the species with that
@@ -26,7 +26,7 @@ code | text
 6 | Visiting species: This species is not established in the UK, but is occasionally seen 
 7 | We do not have enough data to create distribution or flight period rules for this species 
 
-## additional.csv 
+### additional.csv 
 
 This is the spreadsheet that Record Cleaner will check. First, add the organism
 key into the first column of the taxa you would like to add a rule for.  The

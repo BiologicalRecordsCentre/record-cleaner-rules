@@ -3,7 +3,7 @@ title: Overview
 permalink: overview
 ---
 
-# Overview
+## Overview
 
 Thank you for your interest in Record Cleaner and its rules. 
 Writing rules requires considerable knowledge not to mention patience and 

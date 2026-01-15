@@ -3,9 +3,9 @@ title: Period
 permalink: period
 ---
 
-# Period 
+## Period 
 
-## period.csv 
+### period.csv 
 
 Period rules are used for species that are only recorded within one time period (for seasonal rules, see Period within Year). These can be open ended (with only a start date or an end date). This could be used for species that have not been recorded recently, or for flagging records of non-native species from before their known arrival date. 
 

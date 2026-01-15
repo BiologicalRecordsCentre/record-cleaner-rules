@@ -3,13 +3,13 @@ title: Period within year
 permalink: phenology
 ---
 
-# Period within Year 
+## Period within Year 
 
 These rules are used when a species is only recorded at a particular time of
 year (such as the flight period). Records will be flagged if they are outside of
 the specified window.  
 
-## periodwithinyear.csv 
+### periodwithinyear.csv 
 
 It is possible to have a period that runs over the new year (e.g. November to
 June), but the period should be less than a full year (it should not run from
@@ -33,7 +33,7 @@ NBNORG0000011289 | Auplopus carbonarius | mature | 1 | 4 | 31 | 10
 NBNORG0000011290 | Caliadurgus fasciatellus | mature | 1 | 5 | 31 | 10
 NBNORG0000011291 | Pompilus cinereus | mature | 1 | 5 | 31 | 10
 
-## stage_synonyms.csv 
+### stage_synonyms.csv 
 
 To allow for a wider variety of stage terms, you will need to create a file for synonyms. In the stage column, put the stage terms you used in the period_within_year file. In the synonyms column, put all of the stage terms that you would like the rule to be applied to, separated by “, ”. If a record is added that has a stage and does not match one of the synonyms you have listed, the record will not be checked against the period_within_year rules.
 

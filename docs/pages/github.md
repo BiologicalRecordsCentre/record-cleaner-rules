@@ -3,7 +3,7 @@ title: Editing Rules on Github
 permalink: github
 ---
 
-# Editing Rules on Github
+## Editing Rules on Github
 
 The Github website provides one way to add and modify rule files. 
 
@@ -19,7 +19,7 @@ carefully managed.
 The screenshots below are taken from our copy of the rules but you would
 perform these actions in your fork.
 
-## Adding a rule set 
+### Adding a rule set 
 
 Navigate to the rules_as_csv folder. 
 
@@ -41,7 +41,7 @@ and drop the rule set folder.
 To add a new rule type to an existing rule set, click upload from the rule set
 folder, and then drag and drop the files you would like to add. 
 
-## Editing a file
+### Editing a file
 
 The first option for editing a rule set is to download each file you would like
 to change. To download a file, navigate to the file, then type 
