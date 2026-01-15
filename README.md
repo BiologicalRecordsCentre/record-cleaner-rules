@@ -43,6 +43,10 @@ Either
  - Use tools which are under development to assist with editing. Contact BRC for
  the latest information.
 
+ Refer to the [file
+ descriptions](https://biologicalrecordscentre.github.io/record-cleaner-rules)
+ for more information.
+
 ## Deploying rule updates
 For rule changes to go live the Record Cleaner API must be used to pull in
 changes. This can be done via the [Swagger UI for

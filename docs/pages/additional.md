@@ -1,4 +1,10 @@
-# Additional checks 
+---
+layout: page
+title: Additional Checks
+permalink: additional
+---
+
+# Additional Checks 
 
 This check is for taxa that you would like to be flagged for additional or more rigorous verification checks, even if they pass all the other checks. One example of this would be a rare species that is easy to identify (so would not be flagged under id_difficulty). 
 

@@ -1,3 +1,9 @@
+---
+layout: page
+title: ID Difficulty
+permalink: difficulty
+---
+
 # ID Difficulty
 
 ## difficulty_codes.csv

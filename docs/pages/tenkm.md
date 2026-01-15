@@ -1,4 +1,10 @@
-# 10 km distribution 
+---
+layout: page
+title: 10km Distribution
+permalink: tenkm
+---
+
+# 10km Distribution 
 
 This file will flag records outside of the 10km squares specified.  
 

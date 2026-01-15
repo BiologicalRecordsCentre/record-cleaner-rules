@@ -1,10 +1,21 @@
+---
+layout: page
+title: Overview
+permalink: overview
+---
+
 # Overview
 
-This document describes the structure of the rule sets that sit behind Record
+Thank you for your interest in Record Cleaner and its rules. 
+Writing rules requires considerable knowledge not to mention patience and 
+accuracy. Please contact the Biological Records Centre if you are interested
+in contributing to this valuable work
+
+These pages describe the structure of the rule sets that sit behind Record
 Cleaner, allowing you to create and update rules to be used within Record
 Cleaner. It isn’t essential to create files for all of the rule types in order
 to use Record Cleaner, except each rule set must have an id_difficulty file. All
-of the Organism Keys (TVKs) that appear within the rule set must be listed
+of the Organism Keys that appear within the rule set must be listed
 in the ID difficulty file.
 
 To start setting up rules, create a main folder with the name of your recording

@@ -1,3 +1,9 @@
+---
+layout: page
+title: Period within year
+permalink: phenology
+---
+
 # Period within Year 
 
 These rules are used when a species is only recorded at a particular time of
