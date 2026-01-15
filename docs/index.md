@@ -1,5 +1,5 @@
 ---
-title: Record Clenaer Rule File Descriptions
+title: Record Cleaner Rule File Descriptions
 ---
 
 # Record Clenaer Rule File Descriptions
