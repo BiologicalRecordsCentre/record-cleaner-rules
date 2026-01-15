@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Period within year
 permalink: phenology
 ---

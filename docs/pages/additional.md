@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Additional Checks
 permalink: additional
 ---

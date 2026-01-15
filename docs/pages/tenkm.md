@@ -1,5 +1,4 @@
 ---
-layout: page
 title: 10km Distribution
 permalink: tenkm
 ---

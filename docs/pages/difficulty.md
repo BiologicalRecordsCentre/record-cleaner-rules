@@ -1,5 +1,4 @@
 ---
-layout: page
 title: ID Difficulty
 permalink: difficulty
 ---

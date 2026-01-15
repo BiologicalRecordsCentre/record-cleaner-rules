@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Editing Rules on Github
 permalink: github
 ---
