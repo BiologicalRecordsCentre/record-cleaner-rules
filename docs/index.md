@@ -2,7 +2,7 @@
 title: Record Cleaner Rule File Descriptions
 ---
 
-# Record Clenaer Rule File Descriptions
+# Record Cleaner Rule File Descriptions
 
 ## Contents
 
