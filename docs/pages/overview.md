@@ -37,7 +37,7 @@ describe the structure of rules in the csv files. Text highlighted in blue will
 appear in messages to recorders.
 
 We have described the rules using “taxa” instead of species, as you could create
-a rule for a taxon at any level (e.g. a species aggregate, a subspecies or a
-genus). However, rules are not applied to taxa that are higher up in the
-classification (e.g. a rule for _Machimus_ will not be applied to _Machimus
-atricapillus_). 
+a rule for a taxon at any level (e.g. a species aggregate, a subspecies or a 
+genus). However, rules are not applied to taxa that are lower down in the
+classification (e.g. a rule for _Harmonia axyridis_ will not be applied to 
+_Harmonia axyridis form succinea_). 
