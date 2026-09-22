@@ -1,4 +1,4 @@
-organism_key,taxon,code
+organism_key,taxon,stage,code
 NBNORG0000011292,Agenioideus cinctellus,mature,3
 NBNORG0000072027,Agenioideus sericeus,mature,5
 NBNORG0000072030,Ammophila sabulosa,mature,2
